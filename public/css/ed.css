@@ -307,7 +307,8 @@ tbody tr:nth-child(odd) th {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-size: 1rem;
   font-weight: 400;
-  color: #c0c0c0;
+  padding-left: 30%;
+  color: #999;
   letter-spacing: 0;
 }
 
