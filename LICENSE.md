@@ -3,7 +3,7 @@ layout: page
 title: License
 ---
 
-I have take liberties with fair use in this work. If you are sure that the sequences of characters are original to me, consider them free culture. If you are an academic, consider citing me so that you don't get in trouble.
+I have take liberties with fair use in this work. If you are sure that the sequences of characters are original to me, consider them public domain. If you are an academic, consider citing me so that you don't get in trouble.
 
 If you feel I've infringed on your rights, I would be happy to take down the offensive material. Just let me know.
 
