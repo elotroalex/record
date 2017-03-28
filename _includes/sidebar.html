@@ -10,20 +10,8 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+  <a class="sidebar-nav-item" href="https://github.com/elotroalex/project-x" target="_blank">Credits</a>
 
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
 
     <!-- The code below is used for manually entered links  -->
 
@@ -42,7 +30,7 @@
   </a>
 This work was begun in 2017 in <span property="vcard:Country" datatype="dct:ISO3166" content="US" about="http://record.elotroalex.com/">The States of America</span> at a time of great national convulsion. To the extent possible under law, present and future,
   <a rel="dct:publisher"
-     href="http://www.elotroalex.com/" target="_blank">Alex Gil</a> offers this work with a CC0 license. 
+     href="http://www.elotroalex.com/" target="_blank">Alex Gil</a> offers his words to the public with a CC0 license. For the rest of the material, please read <a href="{{ site.baseurl }}/licenses">Licenses</a>.
 </p>
     <p></p>
   </div>
