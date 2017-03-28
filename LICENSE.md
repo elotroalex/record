@@ -7,7 +7,7 @@ I have taken liberties with fair use in this work. If you are sure that the sequ
 
 If you feel I've infringed on your rights, I would be happy to take down the offensive material. Just let me know.
 
-The project was built using Ed, offered with an MIT license. You can read the full license on the Ed Github repo.
+The project was built using Ed, offered with an MIT license. You can read the full license on [the Ed Github repo](https://github.com/elotroalex/ed/blob/master/LICENSE.md).
 
-https://github.com/elotroalex/ed/blob/master/LICENSE.md
+
 
