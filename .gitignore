@@ -2,6 +2,7 @@
 _gh_pages
 _site
 .ruby-version
+RAKEFILE
 
 
 # Numerous always-ignore extensions
