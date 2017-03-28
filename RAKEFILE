@@ -1,0 +1,18 @@
+desc 'Publishing the website via rsync'
+
+require 'colorize'
+
+task :prod do
+  puts 'First, let\'s build your site...'.green
+  sh "jekyll build"
+  puts "\n"
+  puts 'Now let\'s publish it, hold on a sec...'.green
+# personal server setup
+  user = 'elotroalex'
+  server = 'elotroalex.com'
+  path = '/home/elotroalex/record.elotroalex.com' 
+  sh "rsync -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
+  puts "\n"
+  puts 'Bam! Your website is now published!'.green
+  puts "\n"
+end

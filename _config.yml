@@ -4,8 +4,8 @@
 title:               Aimé Césaire and the Broken Record.
 tagline:             'by Alex Gil'
 description:         'Aimé Césaire and the Broken Record'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+url:                 'http://record.elotroalex.com'
+baseurl:             ''
 
 # About/contact
 author:
@@ -39,9 +39,9 @@ kramdown:
   enable_coderay: false
 
 # Custom vars
-version:             0.0.6
+version:             0.0.1
 
 # Exclusions from the final site
-exclude: [optional, vendor]
+exclude: [optional, vendor, 'README', 'RAKEFILE', 'Gemfile.lock', 'Gemfile']
 
 
