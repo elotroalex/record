@@ -109,12 +109,11 @@ a:focus {
 }
 
 /* Headings */
-
+  /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   margin-bottom: .5rem;
-  font-weight: 400; 
-  font-size: 1.5rem;
+  font-weight: 300; 
   color: #404040;
   letter-spacing: -.025rem;
   line-height: 1.25;
@@ -304,18 +303,20 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title small {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: monospace;
   font-size: 1rem;
   font-weight: 400;
-  padding-left: 30%;
-  color: #999;
+  padding-left: 40%;
+  color: #444;
   letter-spacing: 0;
 }
 
 h3.masthead-title {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size: 1.8rem;
+	font-size: 1.4rem;
 	margin-top: 2px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 
@@ -323,8 +324,20 @@ h3.masthead-title {
   .masthead-title {
     text-align: center;
   }
-  .masthead-title small {
+/*  .masthead-title small {
     display: none;
+  }*/
+  h3.masthead-title {
+  margin-left: 15%;
+  margin-right: 15%;
+  }
+}
+
+@media (max-width: 320px) {
+  h3.masthead-title {
+  margin-top: 2em;
+  margin-left: 0%;
+  margin-right: 0%;
   }
 }
 
