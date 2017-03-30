@@ -112,7 +112,7 @@ a:focus {
   /*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans Condensed', sans-serif;
-  margin-bottom: .5rem;
+  margin-bottom: .2rem;
   font-weight: 300; 
   color: #404040;
   letter-spacing: -.025rem;
@@ -121,16 +121,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 1.4rem;
+	font-size: 1.2rem;
 }
 
 h1.post-title {
-	font-size: 1.4rem;
+	font-size: 1.2rem;
 }
 
 h2 {
 	margin-top: 2rem;
-	font-size: 1.2rem;
+	font-size: 1.1rem;
 }
 
 h3, h4, h5 {
@@ -138,7 +138,7 @@ h3, h4, h5 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1.2rem;
 
 }
 
@@ -296,7 +296,7 @@ tbody tr:nth-child(odd) th {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-  line-height: 1.5rem;
+  line-height: 1.4rem;
 }
 .masthead-title a {
 	color: #841212;
@@ -304,12 +304,19 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title small {
   font-family: monospace;
-  font-size: 1rem;
-  font-weight: 400;
-  padding-left: 40%;
+  font-size: .8rem;
+  font-weight: 200;
+  text-align: left;
   color: #444;
   letter-spacing: 0;
 }
+
+#broken {
+  vertical-align: middle;
+/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
+}
+
+@keyframes blinker { to { opacity: 0; } }
 
 h3.masthead-title {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
