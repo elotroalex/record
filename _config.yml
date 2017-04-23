@@ -23,7 +23,7 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  texts:
+  chapters:
     output: true
 
 # Markdown specs
