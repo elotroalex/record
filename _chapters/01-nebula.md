@@ -5,7 +5,27 @@ author: alex gil
 chapter: 1
 ---
 
+The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works. The debate hinged on the choice between a genetic[^a2] or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
+
+"You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century—and I quote from memory, so he probably didn't say that exactly. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros[^b1]. Below are my receipts... and then some.
+
 ### the typescript of *Et les chiens se taisaient*
+
+All origin stories imply another origin: the origin of the tale. In one of those ironic twists in the annals of literature, Aimé Césaire worked on *Et les chiens se taisaient* more than on any other text throughout his writing career only to have it be his most neglected. We can understand why the text was so important to him. In all the different versions that come down to us, published or unpublished, the central figure in the text is a rebel who takes an uncompromising stance against the pretense of power. For Césaire the poet and the anti-colonialist, this antagonism was at the source of his output. He was aware of it too. This is clear from the interview he gave François Beloux in 1969: 
+
+> Mais cette première pièce, je ne la voyais pas "jouée" ; je l'avais d'ailleurs écrite comme un poème. Cependant, ce texte présente pour moi une profonde importance : parce que c'est une pièce très libre et située dans son milieu—le milieu antillais. C'est un peu comme la nébuleuse d'où sont sortis tous ces mondes successifs que constituent mes autres pièces.[^a1] (28)
+
+For many reasons, we should take Césaire at his word—for a few others we should recognize the lie. At the most basic level, the most recognizable themes in his work are already prefigured in this blend of poetry and drama: Anti-colonialism, freedom, revolution, *nègre*, words/weapons, Haiti. Even more important for our purposes is the dichotomy he sets up between freedom and place. His response to Beloux sanctions a reading of the versions of the text where this dichotomy becomes the central question. But, how can a text be both free and situated? Some might rightly build an answer out of Césaire's notion that poetic freedom was a miraculous weapon against the colonization of the mind ("Poésie"). Such a commendable reading already bares the seeds of another answer: freedom, as the virtue of a text, comes from a situation.
+
+The *nébuleuse*, an astronomical soup of clashing dust and gases can be read as a metaphor for atelier, as workshop more than work, but also as a distant and diffuse birthplace in need of navigation. The bewildering shift of *Et les chiens se taisaient* from a very situated historical play about the Haitian Revolution (\~1941-1943) to a highly iconoclastic lyrical oratorio about the figure of the rebel (1946), later re-situated for a larger market for books and stagings (1956), provides an exemplary case for exploring the tension between textual freedom and place, and by extension, the genetic process that will situate the rest of Césaire’s works.
+
+A timeline of events and documents surrounding the working and reworking of "Et les chiens se taisaient" shows two major clusters of events, representing the two periods of intense activity when the major transformations of the text were made. 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1M2Mu4TfZHG2jzf_LStf1v7N4ABbWIfIQib1wPVS_Cog&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+The first period extends from 1941 to 1946. In these years, Césaire created the historical drama based on the Haitian Revolution[^a3] that introduces the title "Et les chiens se taisaient." In 1944 he begins to transform this work into the “*oratorio lyrique*”[^a4] that will represent its first published version as part of the poetry collection *Les Armes miraculeuses* (1946). In the second period, from 1954 to 1956, he develops the two other major versions of the work: the collaborative piece created with Janheinz Jahn, *Und die Hunde schwiegen* (1956), widely distributed and performed in Germany, and the “arrangement théâtral” published in Paris (1956). In a dizzying chain of textual events, these four major versions trace a journey from historical particularity to an oneiric universalism and on to what we may be tempted to call a reconciliation of the two in the attempts to stage it at the height of the anti-colonical movement in the 1950's.
+
+Addressing questions of particularity and universality in their story-lines, the dramas gathered under the rubric "Et les chiens se taisaient" were produced under very "situated" social and historical conditions. While these particulars may complicate our view of the texts, if we retrace them carefully they help to clarify them. Aimé Ferdinand David Césaire —now canonized, pantheonized, just Césaire— had to negotiate many different editorial horizons before his texts opened to a world market for literature and ideas. As expected, the drama of that emergence also bears the scars of these shifting contexts. The freedom of the artist is here as elsewhere tempered by the extent and make-up of the playing field.
 
 We have reason to believe that Césaire started work on "Et les chiens se taisaient"[^1] sometime in 1941, during the height of l'Amiral Robert's repressive regime in Martinique. The major indication comes from the text itself. Defying his captors, Toussaint Louverture, the main character of the early version, asks them to spit on him “*l'épais crachat des siècles/ mûri/ en 306 ans*” (76).[^2] Rewinding from 1941, this odd number gives us 1635, the year Martinique and Guadeloupe were appropriated in the name of the French Crown by Pierre Belain d'Esnambouc. The “thick spit,” aged 306 years, could reasonably refer to the time that Martinique has been under French domination.
 
@@ -303,7 +323,17 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 ---
 
-[^1]: I use quotation marks to indicate the particular versions, and italics to mark the work that encompasses them all. By necessity I also use quotation marks for the 1956 theatrical version published as a stand-alone book. Part of the problem that I am studying is precisely the ambiguity in bibliographical designation that distinguishes Césaire’s writings. The need to bypass the MLA guidelines is a reflection of this ambiguity.
+[^a1]: \[But this first work, I never envisioned it "staged"; I wrote it above all as a poem. However, this text is of the utmost importance to me because it is a work that is both free and well situated in its environment—the Caribbean. It is a bit like the nebula where all the other future worlds that constitute my other works come from.\] My translations unless otherwise indicated.
+
+[^b1]: Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into each other.
+
+[^a2]: ‘Genetic’ here and throughout refers to the study of the production process of a given work—social or authorial. The term is borrowed from the French school of ‘*la critique génétique*.’
+
+[^a3]: For a narrative of how this text was discovered and a plot summary see my article “[Découverte d’un tapuscrit d’*Et les chiens se taisaient*](http://hdl.handle.net/10022/AC:P:14792)." ("découverte").
+
+[^a4]: Césaire describes the work this way in an interview with Claude Stevens, "Pour un théâtre d’inspiration africaine," *La Vie africaine*. 59 (juin 1965): 40-41. This generic definition has since then been accepted by critics.
+
+[^1]: Quotation marks indicate unpublished versions of the text, and italics mark published versions with dates following in parentheses.
 
 [^2]: \[The thick spit of the centuries/aged/after 306 years\] I owe the following observation and many others to the critic and editor Pierre Laforgue, in my opinion one of the keenest reader of Césaire’s early work and my principal collaborator in the genetic edition of *Les Armes miraculeuses,* to be included in the genetic/critical edition of Césaire’s complete works slated for publication by Planète Libre in 2013.
 
