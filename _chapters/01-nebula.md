@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: chapter
 title: nebula
 author: alex gil
 chapter: 1
@@ -19,9 +19,7 @@ For many reasons, we should take Césaire at his word—for a few others we shou
 
 The *nébuleuse*, an astronomical soup of clashing dust and gases can be read as a metaphor for atelier, as workshop more than work, but also as a distant and diffuse birthplace in need of navigation. The bewildering shift of *Et les chiens se taisaient* from a very situated historical play about the Haitian Revolution (\~1941-1943) to a highly iconoclastic lyrical oratorio about the figure of the rebel (1946), later re-situated for a larger market for books and stagings (1956), provides an exemplary case for exploring the tension between textual freedom and place, and by extension, the genetic process that will situate the rest of Césaire’s works.
 
-A timeline of events and documents surrounding the working and reworking of "Et les chiens se taisaient" shows two major clusters of events, representing the two periods of intense activity when the major transformations of the text were made. 
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1M2Mu4TfZHG2jzf_LStf1v7N4ABbWIfIQib1wPVS_Cog&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+A <a href="{{site.baseurl}}/fragiles/timeline">timeline</a> of events and documents surrounding the working and reworking of "Et les chiens se taisaient" shows two major clusters of events, representing the two periods of intense activity when the major transformations of the text were made. 
 
 The first period extends from 1941 to 1946. In these years, Césaire created the historical drama based on the Haitian Revolution[^a3] that introduces the title "Et les chiens se taisaient." In 1944 he begins to transform this work into the “*oratorio lyrique*”[^a4] that will represent its first published version as part of the poetry collection *Les Armes miraculeuses* (1946). In the second period, from 1954 to 1956, he develops the two other major versions of the work: the collaborative piece created with Janheinz Jahn, *Und die Hunde schwiegen* (1956), widely distributed and performed in Germany, and the “arrangement théâtral” published in Paris (1956). In a dizzying chain of textual events, these four major versions trace a journey from historical particularity to an oneiric universalism and on to what we may be tempted to call a reconciliation of the two in the attempts to stage it at the height of the anti-colonical movement in the 1950's.
 

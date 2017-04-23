@@ -25,6 +25,8 @@ encoding: utf-8
 collections:
   chapters:
     output: true
+  fragiles:
+    output: true
 
 # Markdown specs
 markdown: kramdown
