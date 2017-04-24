@@ -242,7 +242,15 @@ table {
   width: 100%;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
+  overflow-x:auto;
 }
+
+th {
+  background-color: #841212;
+  color: white;
+  font-weight: 200;
+}
+
 td,
 th {
   padding: .25rem .5rem;
