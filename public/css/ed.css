@@ -232,8 +232,20 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 1.4rem 0 1rem;
   border-radius: 5px;
+}
+
+span.caption {
+  color: #555;
+  margin-top: -.66rem;
+  font-size: .8rem;
+  text-align: right;
+  padding-left: 20%;
+  float: right;
+  margin-bottom: 1.6rem;
+  line-height: .8rem;
+  width: 100%;
 }
 
 /* Tables */

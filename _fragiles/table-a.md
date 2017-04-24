@@ -1,12 +1,13 @@
 ---
 layout: fragile
-title: "table 1.a: support"
+title: "table a"
 author: alex gil
 ---
 
-### table 1.a: support
-(this table is best viewed on wider screens)
+## table a: support materials
+This table lists the support materials for the Saint-Dié witness of "...et les chiens se taisaient" page by page: paper used, carbon paper used, carbon residue and the tone of the typewriter’s imprint.
 
+(best viewed on wider screens)
 
 
 | Page       | Paper | Carbon | Residue | Tone   | 
