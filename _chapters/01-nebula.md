@@ -9,7 +9,7 @@ chapter: 1
 
 All origin stories imply another origin: the origin of the tale. The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works. The debate hinged on the choice between a genetic[^a2] or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
 
-"You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century—and I quote from memory, so he probably didn't say that exactly. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros[^b1]. Below are my receipts... and then some.
+"You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century—and I quote from memory, so he probably didn't say that exactly. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros[^b1]. Below are my receipts... 
 
 ...
 
@@ -17,19 +17,19 @@ In one of those ironic twists in the annals of literature, Aimé Césaire worked
 
 > Mais cette première pièce, je ne la voyais pas "jouée" ; je l'avais d'ailleurs écrite comme un poème. Cependant, ce texte présente pour moi une profonde importance : parce que c'est une pièce très libre et située dans son milieu—le milieu antillais. C'est un peu comme la nébuleuse d'où sont sortis tous ces mondes successifs que constituent mes autres pièces.[^a1] (28)
 
-*Au bout du petit matin*... we should take Césaire at his word—the fib will become apparent soon enough. At the most basic level, the most recognizable themes in his œuvre are indeed already prefigured in *Et les chiens se taisaient*: anti-colonialism, freedom, revolution, *nègre*, words as weapons, Haiti. Even more a propos is the dichotomy he sets up between freedom and place. His response to Beloux sanctions a reading of his works where this dichotomy becomes the source question. But, how can a text be both free and situated? Some might rightly build an answer out of the notion, found in his early essay "Poésie et connaissance," that poetic freedom is a miraculous weapon reconciling self and world to produce a richer truth than science. Such a commendable reading already bares the seeds of another answer: freedom, as the virtue of a text, comes from a particular situation.
+*Au bout du petit matin*... we should take Césaire at his word—the fib will become apparent soon enough. At the most basic level, the most recognizable themes in his œuvre are indeed already prefigured in *Et les chiens se taisaient*: anti-colonialism, freedom, revolution, *nègritude*, words as weapons, Haiti. Even more a propos is the dichotomy he sets up between freedom and place. Freedom, juxtaposed to place, slips into its opposite without replacing it—an anchored flight from place: *fuga estática de la poesía*. The vehemence of his response to Beloux double sanctions a reading of his works where this paradox becomes the source question: how can a text be both free and situated? Some might rightly build an answer out of the notion, found in his early essay "Poésie et connaissance," that poetic freedom is a miraculous weapon reconciling self and world to produce a richer truth than science. Such a commendable reading already bares the seeds of another answer: freedom, as the fugitive virtue of a text, is sourced from a particular situation.
 
-The *nébuleuse*, an astronomical soup of clashing dust particles and gases can be read as a metaphor for atelier, as workshop more than work, but also as a distant and diffuse birthplace in need of navigation. The bewildering shift of *Et les chiens se taisaient* from a very situated historical play about the Haitian Revolution (~1941-1943) to a highly iconoclastic lyrical oratorio about the figure of the rebel (1946), later re-situated for a larger market for books and stagings (1956), provides an exemplary case for exploring the tension between the freedom of text and the bind of place, and by extension, the genetic process that will situate the rest of Césaire’s work—and my own.
+The *nébuleuse*, an astronomical soup of clashing dust particles and gases can be read as a metaphor for atelier, as workshop more than work, but also as a distant and diffuse birthplace in need of navigation. The bewildering shift of *Et les chiens se taisaient* from a very situated historical play about the Haitian Revolution (~1941-1943) to a highly iconoclastic lyrical oratorio centering an iconic rebel (1946), later re-situated for a larger market for books and stagings (1956), provides an exemplary case for exploring the tension between the freedom of text and the bind of place, and by extension, the genetic process that will situate the rest of Césaire’s work—and my own.
 
 <a href="{{site.baseurl}}/fragiles/timeline">A timeline of events</a> surrounding the working and reworking of "Et les chiens se taisaient" shows two major clusters of intense activity, when the major transformations to the text took place. The first period extends from 1941 to 1946. In these years, Césaire created the historical drama based on the Haitian Revolution[^a3] that introduces the title "...et les chiens se taisaient." In 1944 he begins to transform this work into the “*oratorio lyrique*”[^a4] that will represent its first published version as part of the poetry collection *Les Armes miraculeuses* (1946). In the second period, from 1954 to 1956, he develops the two other major versions of the work: the collaborative piece created with Janheinz Jahn, *Und die Hunde schwiegen* (1956), widely distributed and performed in Germany, and the “arrangement théâtral” published in Paris (1956). In a dizzying chain of textual events, these four major versions trace a journey from historical particularity to an oneiric universalism, and on to what we may be tempted to call a reconciliation of the two in the attempts to stage it at the height of the 1950's anti-colonial movements.
 
-Addressing questions of particularity and universality in their storylines, the dramas gathered under the rubric *Et les chiens se taisaient* were produced—and continue to be reproduced—under very peculiar circumstances. While these material traces may complicate our view of the text—or texts—any worthy attempt to find ourselves there, *Wo Es war*, remains the best chance we have to hear the secret whispers of poetry. Aimé Ferdinand David Césaire—now canonized, pantheonized, just Césaire—had to negotiate many different editorial horizons before his texts opened to a world market for literature and ideas. His words are repeated now in bytes crossing our oceans by submarine cable, in many cases fragmented beyond repair in the password protected boxes of global finance. As expected, the drama of that emergence also bears the scars of these shifting contexts. The freedom of a text is here as elsewhere tempered by the extent and make-up of the playing field. But we get ahead of ourselves...
+Addressing particulars and universal aspirations in their storylines, the dramas gathered under the rubric *Et les chiens se taisaient* were produced—and continue to be reproduced—under very peculiar circumstances. While these material traces may complicate our view of the text—or texts—any worthy attempt to find ourselves there, *Wo Es war*, in the crumbling flesh of archives and flash of circuitry, remains one of our best hermeneutical gambits. Aimé Ferdinand David Césaire—now canonized, pantheonized, just Césaire—had to negotiate many different editorial horizons before his texts opened to a world market for literature and ideas. His words are repeated now in bytes crossing the oceans by submarine cable, in many cases fragmented beyond repair in the password protected boxes of global finance. As expected, the drama of that emergence also bears the scars of these shifting contexts. The freedom of a text is here as elsewhere tempered by the extent and make-up of the playing field. But we get ahead of ourselves...
 
 ### the thick spit of centuries
 
 We have reason to believe that Césaire started work on "...et les chiens se taisaient"[^1] sometime in 1941, during the height of l'Amiral Robert's infamous regime in Martinique. The major indication comes from the typescript itself. Defying his captors, Toussaint Louverture, the main character of the early version, asks them to spit on him “*l'épais crachat des siècles/ mûri/ en 306 ans*” (76).[^2] Rewinding from 1941, this odd number gives us 1635, the year Martinique and Guadeloupe were appropriated in the name of the French Crown by Pierre Belain d'Esnambouc. The “thick spit,” aged 306 years, could reasonably refer to the time that Martinique has been under French domination.
 
-The number 306 could also point to 1492 if we date the years back from 1798, the year that Toussaint signed the treaty with the English, which falls within the fictive timespan covered in the play and which the first act mentions. One reason to prefer this interpretation would be Toussaint’s address to “Colomb” in the early parts of the play. Alas, the number 306 comes from a scene in *Acte III*, when Toussaint is already in prison in the Jura Mountains, or as the historical record would have it, in 1802. The paradoxical anachronism of the first interpretation, on the other hand, plays well with similar anachronisms meant for a Martinique audience found in the text, as we shall see below. Thankfully, we don’t need to decide one way or the other categorically between these two justifications, since both calculations work to some extent.
+The number 306 could also point to 1492, if we date the years back from 1798, the year that Toussaint signed the treaty with the English, which falls within the fictive timespan covered in the play, and which the first act mentions. One reason to prefer this interpretation would be Toussaint’s address to “Colomb” in the early parts of the play. Alas, the number 306 comes from a scene in *Acte III*, when Toussaint is already in prison in the Jura Mountains, or as the historical record would have it, in 1802. The paradoxical anachronism of the first interpretation, on the other hand, plays well with similar anachronisms meant for a Martinique audience found in the text, as we shall see below. Thankfully, we don’t need to decide one way or the other categorically between these two justifications, since both calculations work to some extent.
 
 A couple of years before 1941, Aimé and Suzanne Césaire had returned to Martinique from their student-years in Paris, where his “Cahier d’un retour au pays natal” had just been published in the journal *Volontés*. As soon as they returned, he began to teach secondary school at the recently opened Lycée Schœlcher in Fort-de-France. In April of 1941, almost a year after Petain came to head the *État Français*, through the collaboration of Aimé, Suzanne, René Ménil, and Aristide Maugée, the first issue of the journal *Tropiques* would see the light of day. Soon after the publication of *Tropiques* Nº1, the *Capitaine Paul Lemerle* would anchor in Martinique, bringing with it André Breton, Wifredo Lam, Claude Lévi-Strauss, Victor Serge, and a host of other intellectuals fleeing the war. Césaire would meet Breton and Lam soon after their arrival in Martinique in one of the most famous chapters of twentieth-century literary history.[^3] These new friendships, forged in the matter of a few precarious weeks, would soon become avenues for new collaborations, but even more importantly perhaps, they would allow Césaire to project his artistic ambitions outside the confines of Vichy Martinique.
 
@@ -62,39 +62,88 @@ The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the suppo
 {% include image.html
     img="fig-a.jpg"
     title="paper a"
-    caption="figure a | Paper A" %}
+    caption="figure a | paper a" %}
 
 {% include image.html
     img="fig-b.jpg"
     title="paper b"
-    caption="figure b | Paper B" %}
+    caption="figure b | paper b" %}
 
 {% include image.html
     img="fig-c.jpg"
     title="paper c"
-    caption="figure c | Paper C" %}
+    caption="figure c | paper c" %}
 
 {% include image.html
     img="fig-d.jpg"
     title="paper d"
-    caption="figure d | Paper D" %}
+    caption="figure d | paper d" %}
 
 
-The document seems to be, for the most part, a copy of a missing original, and traces of carbon paper are visible in almost every page. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. None of the patterns align with other patterns we find in the pagination schemes, neither with the type of paper nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of carbon paper. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process.
+The document seems to be, for the most part, a copy of a missing original, and traces of carbon paper are visible in almost every page. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. None of the patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of carbon paper. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process.
+
+{% include image.html
+    img="fig-e.jpg"
+    title="black carbon paper"
+    caption="figure e | black carbon paper" %}
+
+{% include image.html
+    img="fig-f.jpg"
+    title="blue carbon paper"
+    caption="figure f | blue carbon paper" %}
 
 
-Figure e. - Black Carbon Paper
+The text was also revised using a variety of instruments. All of these are catalogued in [table b]({{site.baseurl}}/fragiles/table-b/) according to the pages in which they were used.
+
+{% include image.html
+    img="fig-g.jpg"
+    title="blue ink"
+    caption="figure g | blue ink" %}
+
+{% include image.html
+    img="fig-h.jpg"
+    title="dark ink"
+    caption="figure h | dark ink" %}
+
+{% include image.html
+    img="fig-i.jpg"
+    title="red ink"
+    caption="figure i | red ink" %}
+
+{% include image.html
+    img="fig-j.jpg"
+    title="dark pencil"
+    caption="figure j | dark pencil" %}
+
+{% include image.html
+    img="fig-k.jpg"
+    title="light pencil"
+    caption="figure k | light pencil" %}
+
+{% include image.html
+    img="fig-l.jpg"
+    title="red pencil"
+    caption="figure l | red pencil" %}
 
 
-Figure f. - Blue Carbon Paper
+The witness has interesting features which push the boundaries of traditional codicology, and yet make fine additions to our catalogue of material evidence. These range from the regular, to the highly peculiar. Some of the regular features are listed in [table c]({{site.baseurl}}/fragiles/table-c/). For example, some pages end half-way through, usually marked with a large X drawn across the empty bottom space of the page. I flag these in the table as `Half Pages`. These pages often give us clues about the insertion of a page in a previous sequence, and sometimes help us isolate blocks of texts that work as independent units.
 
-The text was also revised using a variety of instruments. All of these are catalogued in *table a* according to the pages in which they were used. 
+Starting on page 41, and intensifying after page 60 of the current pagination, the typist[^b2] tries to use as much of the blank real state on the paper as possible, sometimes schewing the line towards the end of the page, as the paper begins to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
 
----
+{% include image.html
+    img="fig-m.png"
+    title="slanted text"
+    caption="figure l | oh, well" %}
 
-Finally, some pages end half-way through. I mark these in the codicological table because they often give us clues about the insertion of a page in a previous sequence, and because sometimes they serve to isolate blocks of texts that work as independent units.
+The last of the regular features is the uneven use of underlines under the speakers, marked in the table as `Underline`. This pattern is consistently used on the pages composed using `Paper B`, then dissappears for a while, only to intensify during the composition of the middle pages on `Paper A`. This quirk may indicate two typists, or simply two coherent periods of composition. Further evidence suggests the latter, but we cannot rule out the former. 
 
----
+The Saint-Dié witness also yields many not-so-regular material clues, some helpful, some odd. We still don't know the typewriter that was used, but some clues point in that direction. The type in page 52 and 62, for example, is slanted—as if the paper locating guide was missing, or simply ignored. On many of the pages where carbon paper was used, four evenly-spaced columns of residue are visible to the naked eye. What machine produced such effects? A Remington? A Japy?
+
+Other traces suggest working methods. On page 70, for example, blue ink bleed matching the corrections on page 69 suggests the pages were stacked in order when the revisions were made. The verso of page 71 is a reverse mirror image of the front of the page, suggesting the typist accidentally placed a second, black carbon paper facing the wrong way. This means also that at least 3 copies of that page were attempted using the sandwich method: the missing original, (with blue carbon paper behind it), our first copy, and a missing third. 
+
+Some traces, alas, remain a mystery, like the words "NOTIONS DE BASE" in all caps and underlined, in the back of page 75.
+
+... 
 
 In total, we can count ten different pagination schemes spread throughout the typescript. The schemes are numerated using a variety of writing tools at the top of the pages. Some pages have several sets of numbers on them. Except for the library’s numeration, all numerations seem to come from Césaire’s hand. The last numeration added by Césaire determines the actual order of the pages as we find them today (**MAIN**[^14] in Table A, far-left column). In the following narrative this numeration will provide our canonical reference and will be indicated by a page number in parentheses.[^15] The page sequence established by **MAIN** is reinforced by the added pagination of a Saint-Dié des Vosges librarian, which I assume to be A. Ronsin. I’ve divided the rest of the numbering into two groups, early and late. The late paginations (**Late A**, **Late B** and **Late C**) begin when **Late A** introduces a continuous numeration that encompasses and organizes most of the text as we find it now, going from **Late A** 1 to **Late A** 103. The early ones (**Early A**, **Early B**, **Type**, **Early C** and **Early D**) mark a period of reorientation and experiment, where whole sections will change relative position or be heavily revised. The different pagination numbers also provide us with the principal criteria for re-organizing the text into smaller blocks to help us orient our genetic analysis of the text.
 
@@ -374,13 +423,15 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 [^11]: This dual-language edition was finally published three years later in 1947 by Brentano’s in New York. For the most accurate and up-to-date history of Césaire’s masterpiece, please see my essay “[Bridging the Middle Passage: The Textual (r)evolution Of Césaire’s Cahier D’un Retour au Pays Natal](http://hdl.handle.net/10022/AC:P:14787).” *Canadian Review of Comparative Literature*. 38.1 (March 2011): 40-56. Print.
 
-[^12]: This statement remains true in so far as we have not yet recovered his thesis on Black Southern writers in the United States.
+[^12]: This statement remains true in so far as we have not yet recovered his thesis on Black Southern writers in the United States, and can only speculate how much effort he put into it. Not much would be my guess.
 
-[^13]: You can download the complete CSV.
+[^b2]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. After [Bruce Holsinger](https://twitter.com/bruceholsinger) trended the hashtag [#thanksfortyping](http://www.npr.org/2017/03/30/521931310/-thanksfortyping-spotlights-unnamed-women-in-literary-acknowledgements) on Twitter, though, the lingering suspicion that Suzanne Césaire is our mysterious typist has recently flared up. I put $5 on it.  
+
+[^13]: Here's the source data for the complete set of codicological tables, in case you would like to use you're own software to view it or manipulate it.
 
 [^14]: As we will see shortly, **MAIN** inherits most of **Late A** until page 55. What I am calling **MAIN** is a combination of page numbers from **Late A**, a few pages of **Late B** and **Late C**, and page numbers written at the last stage of pagination. In Table A, in the column named **MAIN**, the page numbers which are inherited are written in gray in order to distinguish them from those written at the time when the text received its final organization.
 
-[^15]: Other numbering systems will be indicated by name + page number. Sometimes the **MAIN** page number will follow in parenthesis. Ex. **Late A** 55 (56) is the same as ‘the page with the number 55 in the number set labeled **Late A**, and the number 56 in **MAIN**.’
+[^15]: Other numbering systems will be indicated by name + page number. Sometimes the `Page` number will follow in parenthesis. Ex. **Late A** 55 (56) is the same as ‘the page with the number 55 in the number set labeled **Late A**, and the number 56 in **MAIN**.’
 
 [^16]: <http://bit.ly/g6Auzu>
 
