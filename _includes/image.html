@@ -1,11 +1,18 @@
 <!-- _includes/image.html -->
+<!-- You must to choose between full or url, you can't have both -->
 
 <div class="image-wrapper" >
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
+    {% if include.full %}
+    <a href="{{ site.baseurl }}/images/{{ include.full }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
         <img src="{{ site.baseurl }}/images/{{ include.img }}" alt="{{ include.title }}" width="100%" />
     {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.full %}
     </a>
     {% endif %}
         {% if include.caption %}
