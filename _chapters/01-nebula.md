@@ -5,7 +5,7 @@ author: alex gil
 chapter: 1
 ---
 
-[Intended audience: textual scholars, caribbeanists, Césaire scholars. If you consider yourself to be a different kind of reader, I recommend waiting for other chapters to come online. I invite willing readers to refine me by fire. To leave your critique, review, commentary please use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line.].
+[Intended audience: textual scholars, genetic critics, caribbeanists, material historians and Césaire scholars. If you consider yourself to be a different kind of reader, I recommend waiting for other chapters to come online. I invite willing readers to refine me by fire. To leave your critique, review, commentary please use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line. This chapter is based on part of the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).].
 
 ## opening gambit
 
