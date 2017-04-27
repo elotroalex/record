@@ -1,12 +1,12 @@
 ---
 layout: chapter
 title: Nebula
-description: "A close encounter with the Saint-Dié witness of Et les chiens se taisaient by Aimé Césaire" 
+description: "A few opening gambits on the Saint-Dié witness of Et les chiens se taisaient by Aimé Césaire" 
 author: alex gil
 chapter: 1
 ---
 
-[Intended audience: textual scholars, genetic critics, caribbeanists, Alex frienditor<sup>TM</sup>, material historians and Césaire scholars. If you consider yourself to be a different kind of reader, I recommend waiting for other chapters to come online. I invite willing readers to refine me by fire. To leave your critique, review, corrections, commentary please use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line. This chapter is based on part of the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).].
+[Intended audience: textual scholars, genetic critics, caribbeanists, Alex frienditors<sup>TM</sup>, material historians and Césaire scholars. If you consider yourself to be a different kind of reader, I recommend waiting for other chapters to come online. I invite willing readers to refine me by fire. To leave your critique, review, corrections, commentary please use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line. This chapter is based on part of the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).].
 
 ## opening gambit
 
