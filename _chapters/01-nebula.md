@@ -1,6 +1,7 @@
 ---
 layout: chapter
 title: Nebula
+description: "A close encounter with the Saint-Dié witness of Et les chiens se taisaient by Aimé Césaire" 
 author: alex gil
 chapter: 1
 ---
