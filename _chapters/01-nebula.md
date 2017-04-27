@@ -9,7 +9,7 @@ chapter: 1
 
 All origin stories imply another origin: the origin of the tale. The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works. The debate hinged on the choice between a genetic[^a2] or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
 
-"You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century—and I quote from memory, so he probably didn't say that. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros[^b1]. Below is my first batch of receipts... 
+"You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century, and unwittingly evoking the history of colonial and anti-colonial archives—and I quote from memory, so he probably didn't say that. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros[^b1]. Below is my first batch of receipts... 
 
 ...
 
@@ -53,7 +53,7 @@ When we consider the size of the text—107 loose leaves + title page—the comp
 
 ## codicology for typescripts
 
-The main set of clues about the composition of the Saint-Dié typescript comes from the different pagination schemes added and deleted throughout its pages. To reach a genesis proper, though, we must supplement our study of the pagination with a close look at the different sorts of paper, carbon paper, writing utensils, page layouts and the text itself—in short, a codicology of the typescript. Done with care and humility, this traditional material analysis of the typescript can yield re-compositions of segments grouping the smaller structural units—its bibliographic code, pace McGann—to help us unlock the secrets of genesis.  
+The main set of clues about the composition of the Saint-Dié typescript comes from the different pagination schemes added and deleted throughout its pages. To reach a genesis proper, though, we must supplement our study of the pagination with a close look at the different sorts of paper, carbon paper, writing utensils, page layouts and the text itself—in short, a codicology of the typescript. Done with care and humility— *comme déterreurs de reliques*—this traditional material analysis of the typescript can yield re-compositions of segments grouping the smaller structural units—its bibliographic code, pace McGann—to help us unlock the secrets of genesis.  
 
 Except for the actual text, all of the material evidence is detailed and organized in a series of codicological tables below.[^13] All of the rows in the tables, except for the headers, represent a page. These are organized from top to bottom in the order in which they are found today in Saint-Dié des Vosges—what we could call for brevity's sake, *the Saint-Dié witness*. This order also corresponds to the pagination scheme labeled `Page`. 
 
@@ -80,7 +80,7 @@ The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the suppo
     caption="figure d | durian" %}
 
 
-The document seems to be, for the most part, a copy of a missing original, and traces of carbon paper are visible in almost every page. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. None of the patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of carbon paper. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process.
+The document seems to be, for the larger part, a copy of a missing original, and traces of carbon paper are visible in a large number of pages. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. None of the patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of carbon paper. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process.
 
 {% include image.html
     img="fig-e.jpg"
@@ -147,6 +147,7 @@ Some traces, alas, remain nothing more than a tease to would-be genetic critics,
 
 We are now ready to retreive the main key: pagination. In total, we can count ten different pagination schemes spread throughout the typescript. The pagination schemes are catalogued in [table d]({{site.baseurl}}/fragiles/table-d/). The schemes are numerated using a variety of writing tools at the top of the pages. Some pages have several sets of numbers on them. Except for the library’s numeration, all numerations seem to come from Césaire’s hand. The last numeration added by Césaire determines the actual order of the pages as we find them today (`Page` in *tables a-d*)[^14]. This numeration will provide our canonical reference and will be indicated by a page number in parentheses.[^15] The page sequence established by `Page` is reinforced by the added pagination of a Saint-Dié des Vosges librarian, which I assume to be Albert Ronsin, who received the witness from Claire Goll, after Yvan's death[^b3]. I’ve divided the rest of the numbering into two groups, early and late. The late paginations (`P6-P8`) begin when `P6` introduces a continuous numeration that encompasses and organizes most of the text as we find it now, going from `P6.1` to `P6.103`. The early ones (`P1-P5`) mark a period of reorientation and experiment, where whole sections will change relative position or be heavily revised. The different pagination numbers also provide us with the principal criteria for re-organizing the text into smaller blocks to help us orient our genetic analysis of the text.
 
+
 {% include image.html
     img="fig-n.jpg"
     title="paginations p1, page and p9"
@@ -157,11 +158,13 @@ In order to best understand the process by which we arrived at the current pagin
 
 (Click on the image for a crisper version).
 
+<div id="figure-p">
 {% include image.html
     img="fig-p.jpg"
     full="fig-p-full.jpg"
     title="slanted text"
     caption="figure p | reconstruction" %}
+</div>
 
 
 The most likely candidate for the title of earliest extant segment in the typescript corresponds to the 18 pages marked `P1` (23-40), all using `coco` paper.[^17] The handwriting used for this pagination is different from Césaire's usual handwriting, and it can be found on the top left of its pages, very close to the corner. The pagination comprises a segment of 18 pages marked from 1 to 20, with pages 3 and 4 missing. To reiterate, the pagination is indicated on the table by the black numbers under the `P1` column. The segment begins without the heading “*Acte*” written at the top of page 1, as all other pages marked 1 do in the other numeration schemes. At this early stage, we have no evidence that Césaire envisioned his work in progress as a three-act drama—but despite his fib to Beloux, the early pages do suggest Césaire was writing a play meant for the stage. `coco`, the thin white paper, is also not present in any other pagination scheme. Only in one other case does a specific kind of paper correspond to a specific pagination scheme: `batata` and `P2`.
@@ -180,22 +183,24 @@ The extant `P3` pages begin at `P3.3`(43), with `P3.1` and `P3.2` for Act 2 miss
 
 Regardless of the placement of the pagination, if `P2` was written after `P3`, (still a possibility) this means that it was not written with a clear sense of where it belonged, even after the overall structure was becoming clear to Césaire. It would also entail that Césaire started using `atemoya` to compose `P3`, then switched to `P2` to compose this strange section without a home, to return to `atemoya` for `P4` and `P5`, leaving pink paper behind. This seems unlikely. Putting aside the lingering suspicion that Suzanne was at the typewriter, if Aimée was indeed using different paper types to divide possible segments/acts, why does Act 2 and 3 use mostly the same paper? The more reasonable conclusion is that the pages of `P2` were written before the composition of Act 2 and Act 3, and therefore before `P3`, `P4` and `P5`.
 
-Thus far, while arguing for the position of `P2` in the sequence, we managed to place `P3`, `P4` and `P5` as well. As we approach `P6`—when Césaire unites all acts under one sequential numeration for the first time—we should note that all three acts follow a different genetic pattern (figure p). Act 1 and Act 3 are different from each other in that the first joined two blocks of text sequentially, like cutting a deck of cards, while the last intercalated text in the crevices of an earlier structure, like shuffling it. Act 2 evidences a much more complex genetic process. While Act 1 and Act 3 attain their stability soon enough, after `P6` the middle act continued to be reworked, prompting changes in what was clearly meant to be a final sequence. Notwithstanding, by the time we arrive at `P6`, the text has clearly achieved a structural landmark.
+Thus far, while arguing for the position of `P2` in the sequence, we managed to place `P3`, `P4` and `P5` as well. As we approach `P6`—when Césaire unites all acts under one sequential numeration for the first time—we should note that all three acts follow a different genetic pattern ([figure p](#figure-p)). Act 1 and Act 3 are different from each other in that the first joined two blocks of text sequentially, like cutting a deck of cards, while the last intercalated text in the crevices of an earlier structure, like shuffling it. Act 2 evidences a much more complex genetic process. While Act 1 and Act 3 attain their stability soon enough, after `P6` the middle act continued to be reworked, prompting changes in what was clearly meant to be a final sequence. Notwithstanding, by the time we arrive at `P6`, the text has clearly achieved a structural landmark.
 
-Although the changes to Act 2 could be considered minor in relation to the whole text, they are substantial relative to Act 2 itself. As you can see from *figure p*, the changes after `P6` comprise about 1/4^th^ of the final text of Act 2. Several of these changes are also attempts at reframing the act. Starting with `P6.68`, and following with `P8.41-41’’’` we see an effort to change the way the act begins and ends.
+Although the changes to Act 2 could be considered minor in relation to the whole text, they are substantial relative to Act 2 itself. As you can see from *[figure p](#figure-p)*, the changes after `P6` comprise about 1/4<sup>th</sup> of the final text of Act 2. Several of these changes are also attempts at reframing the act. Starting with `P6.68`, and following with `P8.41-41’’’` we see an effort to change the way the act begins and ends.
 
 Determining which came first, `P7` or `P8`, has not proved to be an easy task. Each of the segments was revised with a different (and rare) writing instrument, `P7` with red pencil, and `P8` with a dark pen. However, they both use the same kind of paper that comes into play after `P6`, `durian`. Moreover, while both have blocks of pages that relocate before the final organization, the transpositions of the former take place in the middle of the text, while the transpositions of the latter take place around the frame, making it difficult for us to determine their relative order of composition.  
 
-One clue about both of these segments is that they include characters not present in the rest of the drama, and relatively independent scenes, making them uniquely portable. Both `P7` and `P8`, then, may have been written without a clear resting place in mind, except for `P8.41` which has the words "Acte III" written at the top. `P8.41` is now, of course, the first page of Act 2. In the end we don't need to decide either way, and may even be justified in considering `P7` and `P8` as one single stage of composition at a moment when Césaire was ambivalent about framing the acts, and the middle thrust of Act 2.
+Complicating us further, the `P8.41'-41'''` includes characters not present in the rest of the drama (Les bonnes gens, Déterreurs des pierres, ), and `P8.41` and `P7.47` are all too common poetic exchanges between the Reciters and Toussaint, making both sets uniquely portable. All of these, may have been written without a clear resting place in mind, except for `P8.41` which has the words "*Acte III*" typed at the top. `P8.41` is now, of course, the first page of Act 2. The exeption to this mobility are both `P7.48` and `P7.56-57`, which fall under the episode of "*des parlementaires*."   In the end we don't need to decide either way, and may even be justified in considering `P7` and `P8` as one single stage of composition at a moment when Césaire was ambivalent about framing the acts, and the middle thrust of Act 2.
 
-Finally, the `Page` pagination adopts most of the numbering of `P6`, with some from `P7` and `P8`. The process continuously shifts the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41’’’` to the end of Act 2 tilts the sequence up a bit. The final sequence in `Page` is how the witness is ordered in a folder at the Fonds Claire et Yvan Goll near the German border.
+Finally, the `Page` pagination adopts most of the numbering of `P6`, with some from `P7` and `P8`. The process continuously shifts the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41’’’` to the end of Act 2 tilts the sequence up a bit. The final sequence in `Page` is how the witness is ordered in a folder at the Fonds Claire et Yvan Goll near the German border today.
+
+...
+
+Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into each other. If you're still not convinced you should part with your money, please continue to the next chapter.
 
 
 ---
 
 ## Footnotes
-
-[^b1]: Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into each other.
 
 [^b2]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. After [Bruce Holsinger](https://twitter.com/bruceholsinger) trended the hashtag [#thanksfortyping](http://www.npr.org/2017/03/30/521931310/-thanksfortyping-spotlights-unnamed-women-in-literary-acknowledgements) on Twitter, though, the lingering suspicion that Suzanne Césaire is our mysterious typist has recently flared up. I put $5 on it. 
 
@@ -213,7 +218,7 @@ Finally, the `Page` pagination adopts most of the numbering of `P6`, with some f
 
 [^1]: Quotation marks indicate specific unpublished versions of the text, usually clear from context. When followed by parentheses with dates, italics indicate published versions. When not followed by dates, italics indicate the work—that mysterious creature with many bodies and none at all.
 
-[^2]: \[The thick spit of the centuries/aged/after 306 years\] I owe the following observation and many others to the critic and editor Pierre Laforgue, in my opinion one of the keenest reader of Césaire’s early work and my principal collaborator in the genetic edition of *Les Armes miraculeuses,* to be included in the genetic/critical edition of Césaire’s complete works slated for publication by Planète Libre in 2013.
+[^2]: \[The thick spit of the centuries/aged/after 306 years\] I owe the following observation and many others to the critic and editor Pierre Laforgue, in my opinion one of the keenest reader of Césaire’s early work and my principal collaborator in the genetic edition of *Les Armes miraculeuses,* included in Césaire, Aimé. *Poésie, théâtre, essais et discours*. Ed. Albert-James Arnold. Paris: CNRS, 2014. Print. Planète libre.
 
 [^3]: The classic retelling of the story by Breton in "Un grand poète noir" can be found in his *Martinique, charmeuse de serpents*. Paris: Sagittaire, 1946. For some anecdotes about the time spent together in Martinique see Herzberg, Julia P. “Wifredo Lam: The Development of a Style and a World View.” *Wifredo Lam and His Contemporaries*. Ed. Maria R. Balderrama. New York: The Studio Museum in Harlem, 1993. pp.50-51
 
