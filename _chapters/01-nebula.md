@@ -188,13 +188,15 @@ Determining which came first, `P7` or `P8`, has not proved to be an easy task. E
 
 One clue about both of these segments is that they include characters not present in the rest of the drama, and relatively independent scenes, making them uniquely portable. Both `P7` and `P8`, then, may have been written without a clear resting place in mind, except for `P8.41` which has the words "Acte III" written at the top. `P8.41` is now, of course, the first page of Act 2. In the end we don't need to decide either way, and may even be justified in considering `P7` and `P8` as one single stage of composition at a moment when Césaire was ambivalent about framing the acts, and the middle thrust of Act 2.
 
-Finally, the `Page` pagination adopts most of the numbering of `P6`, and some from `P7` and `P8`, while continuously shifting the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41’’’` to the end of Act tilts the sequence up a bit. The sequence in `Page` is how we receive the typescript today.
+Finally, the `Page` pagination adopts most of the numbering of `P6`, with some from `P7` and `P8`. The process continuously shifts the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41’’’` to the end of Act 2 tilts the sequence up a bit. The final sequence in `Page` is how the witness is ordered in a folder at the Fonds Claire et Yvan Goll near the German border.
 
-## On The Practical Uses of Virtual Versions
+## speculative versionism
 
-After all the pieces of the puzzle have been laid out on the table, and a picture of the different blocks of pages emerges, we can start thinking about each of the stages, represented by each of the columns in *figure b*, as virtual versions of the text. We can define a virtual version as a version of the text captured at a given moment in an imaginary genesis, and reconstructed from the current material state of a text. A virtual version can be constructed, for example, by choosing the blocks of pages of `P1` and `P2`, without the corrections in ink, but with the corrections in pencil. Even if computers make it relatively easy for us to generate many virtual versions, the exercise could still be useful to scholars working without the technology.[^20]
+After all the pieces of the puzzle have been laid out on the table, and a picture of the different blocks of pages emerges, we can start thinking about each of the stages, represented by each of the columns in *figure p*, as speculative versions of the text. We can define a speculative version as a version of the text captured at a given moment in an plausible genesis, and reconstructed from the current material state of a text. A virtual version can be constructed, for example, by choosing the blocks of pages of `P1` and `P2`, without the corrections in ink, but with the corrections in pencil. Even if computers make it relatively easy for us to generate all possible virtual versions based on encoded bibliographic and textual evidence, the exercise could still be useful to scholars working without the technology.[^20]
 
-In order to understand the development of the typescript from what I see as its beginnings as a full-blown historical drama to the mixed text we find in Saint-Dié, and as an example of what we can gain from virtual versions, I want to revisit the reconstruction of the genesis, this time focusing on the drama itself.
+In order to understand the development of the typescript from what I see as its beginnings as a full-blown historical drama to the mixed text we find in Saint-Dié, and as an example of what we can gain from virtual versions, I want to revisit the reconstruction of the genesis, this time focusing on the drama itself. An added bonus of this approach is that it can help us refine our arguments for our genetic gambit.
+
+[research: Kari Kraus, Jerome McGann, et al on deformance]
 
 ## Virtual Version A: The Revolution is the Subject
 
@@ -430,7 +432,7 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 [^15]: Other numbering systems will be indicated by `pagination.page`. Sometimes the `Page` number will follow in parenthesis when appropriate. Ex. `P6.55` (56) is the same as ‘the page with the number 55 in the number set labeled `P6`, and the page with the number 56 in the set labeled `Page`.’
 
-[^17]: As I indicated at the beginning of the chapter, the numbers in parentheses represent the `Page` pagination. In this case, these pages were originally numbered 1, 2…20. That would be the `P1` numbers. In the final ordering they became 23, 24…40. This would be the `Page` numbers.
+[^17]: As I indicated before, the numbers in parentheses represent the `Page` pagination. In this case, these pages were originally numbered 1, 2…20. That would be the `P1` numbers. In the final ordering they became 23, 24…40. This would be the `Page` numbers.
 
 [^18]: We assume the existence at some point of `P2.1` and `P2.2`, but these have disappeared without a trace.
 
