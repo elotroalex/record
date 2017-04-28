@@ -170,7 +170,7 @@ var data = {"items":[
 
 var egg = new Egg();
 egg
-  .AddCode("up,left,down,right,a,b", function() {
+  .AddCode("up,left,down,right,o", function() {
   	var header = document.createElement("h2");
   	var headerTitle = document.createTextNode("X. Broken")
   	header.appendChild(headerTitle);
