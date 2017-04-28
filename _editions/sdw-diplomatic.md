@@ -5,9 +5,9 @@ description: "A draft edition of the typescript"
 author: alex gil
 ---
 
-(a diplomatic edition)
+(a minimal diplomatic edition)
 
-<p>Individual pages are separated by a horizontal line. At the top of each page, the page number is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page click on the relevant page number. <span style="color:#288828;">Additions</span> are indicated in green, and <span style="color:#AA3232;">deletions</span> in red.</p>
+<p>A note for readers: Individual pages are separated by a horizontal line. At the top of each page, the [page number] is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page, click on the relevant page number. [?Uncertain] readings are indicated in brackets with a question mark. To reduce the complex material evidence for revisions to <span style="color:#288828;">additions</span> and <span style="color:#AA3232;">deletions</span> is of course nonsense, but I figured it would make the transcription more readable.</p>
 
 
 
