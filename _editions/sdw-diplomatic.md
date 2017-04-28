@@ -7,21 +7,24 @@ author: alex gil
 
 (a diplomatic edition)
 
+<p>Individual pages are separated by a horizontal line. At the top of each page, the page number is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page click on the relevant page number. <span style="color:#288828;">Additions</span> are indicated in green, and <span style="color:#AA3232;">deletions</span> in red.</p>
+
+
+
 ---
+
+<a target="_blank" href="/data/sdw-data/P000.jpg">[Title]</a>
+
 <p class="centered">AIME CESAIRE.</p>           
 <p class="centered">+++++++++++++</p>
 <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
 <p class="centered">( drame en trois actes )</p>
 <p class="centered">++++++++++++++++++</p>
 
-           
-
-           
 
 <!--New page: 1-->
-<hr>            
-[ 1 ]
-
+<hr>
+<a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a>
 
 <p class="centered">ACTE I</p>
 
@@ -64,12 +67,12 @@ clameurs
 - Ce pays mord : bouche ouverte d’une gorge de feu, convergence de crocs
 de
 - feu sur la croupe de l’Amérique mauvaise.
-           
+
 
 <!--New page: 2-->
-<hr>            
-[ 2 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P002.jpg">[ 2 ]</a>
 
 
 <p class="centered"><span class="underlined">Le récitant</span>.
@@ -109,12 +112,12 @@ des tempes libres
 - <span class="delete">leurs remparts; nos batteries de brèche sont
    intallées... Saint-Marc</span>
 - <span class="delete">craque... comme un vaisseau pourri...</span>
-           
+
 
 <!--New page: 3-->
-<hr>            
-[ 3 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P003.jpg">[ 3 ]</a>
 
 
 <p class="centered"><span class="underlined">Le récitant</span>.
@@ -160,12 +163,12 @@ renversé comme une muraille...
 ( A ce moment un cortège magnifique envahit la scène :
 pèlerins, che­vaux, chiens. Senteurs de musc et benjoin.)
 
-           
+
 
 <!--New page: 4-->
-<hr>            
-[ 4 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P004.jpg">[ 4 ]</a>
 
 
 <p class="centered"><span class="add">1ère
@@ -218,12 +221,12 @@ mots Tous­
 - terre? Veux-tu être
 maréchal de camp? Grand d’Espagne<span class="add">?</span><span class="delete"><span class="unclear"> [? comme Piasson?] </span></span>
 - Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
-           
+
 
 <!--New page: 5-->
-<hr>            
-[ 5 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P005.jpg">[ 5 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussaint</span>.
@@ -267,12 +270,12 @@ jadis...
 - Maudit<span class="add">,</span> serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
 - îles<span class="add">,</span>
-           
+
 
 <!--New page: 6-->
-<hr>            
-[ 6 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P006.jpg">[ 6 ]</a>
 
 
 <p class="centered"><span class="delete"><span class="underlined">Toussaint</span>.</span></p>
@@ -308,12 +311,12 @@ jadis...
 - ne peuvent faire sonner d’oubli dormant
 - le coup de feu, le sang gaché, le chant d’acier
 - abîmes fraternels des roses de Jéricho...
-           
+
 
 <!--New page: 7-->
-<hr>            
-[ 7 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P007.jpg">[ 7 ]</a>
 
 
 <p class="centered"><span class="underlined">Le choeur</span>.
@@ -378,12 +381,12 @@ une fleur au coeur de papillon.
 - Je veux un monde nu d’<span class="delete">unions</span><span class="add above">univers</span> non timbré.
 - <span class="add below">&nbsp;|&nbsp;une petite fille du Fouta ronge un os en
    forme de candélabre&nbsp;|&nbsp;</span>
-           
+
 
 <!--New page: 8-->
-<hr>            
-[ 8 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P008.jpg">[ 8 ]</a>
 <span class="delete">Crép </span><span class="delete">(Crépitement de tam-tam. Une petite fille
    du Fouta ronge un os enforme de candélabre.)</span>
 
@@ -437,12 +440,12 @@ Des tireurs
 - {:.indent-3} Approchez donc, flammes effilées, paquet de frissons. Que
 la senteur
 - des feux jette son javelot autour de ma tête.
-           
+
 
 <!--New page: 9-->
-<hr>            
-[ 9 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P009.jpg">[ 9 ]</a>
 
 
 <p class="centered"><span class="underlined">La récitante</span>.
@@ -473,12 +476,12 @@ ma prière
 
 - {:.indent-3} ... J’ai regardé et les ponts sont coupés...
 - Les étoiles ont débridé leurs cicatrices de sable.
-           
+
 
 <!--New page: 10-->
-<hr>            
-[ 10 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P010.jpg">[ 10 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussaint</span>.
@@ -511,12 +514,12 @@ ma prière
 - Je m’allonge. je suis l’heure.
 - J’attends ce que dit le vent
 - la langue de brandon dans ma gorge desséchée
-           
+
 
 <!--New page: 11-->
-<hr>            
-[ 11 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P011.jpg">[ 11 ]</a>
 
 
 <p class="centered"><span class="underlined">Le choeur</span>.
@@ -580,12 +583,12 @@ bleu... Le
 - Congo d’or... Le <span class="delete">Log<span class="add">n</span>e</span><span class="add below">&nbsp;|&nbsp;Logone&nbsp;|&nbsp;</span> sablonneux... un galop de bubales... et les pi­
 - leuses de
 millet dans le soir de cobalt.
-           
+
 
 <!--New page: 12-->
-<hr>            
-[ 12 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P012.jpg">[ 12 ]</a>
 
 
 <p class="centered"><span class="underlined">Le récitant</span>.
@@ -642,12 +645,12 @@ fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée
 - {:.indent-3} Ô roi debout.
 
 
-           
+
 
 <!--New page: 13-->
-<hr>            
-[ 13 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P013.jpg">[ 13 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussaint.</span></p>
@@ -730,12 +733,12 @@ cendre;
 - Ô roi debout.
 
 
-           
+
 
 <!--New page: 14-->
-<hr>            
-[ 14 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P014.jpg">[ 14 ]</a>
 
 
 
@@ -789,12 +792,12 @@ cendre;
 </p>
 
 - Ô roi debout.
-           
+
 
 <!--New page: 15-->
-<hr>            
-[ 15 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P015.jpg">[ 15 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussain</span>t.
@@ -808,12 +811,12 @@ cendre;
 - <span class="add">séd</span>i<span class="add">t</span>ion de longs si<span class="add">è</span>cles
 - <span class="add">dé</span>sir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
-           
+
 
 <!--New page: 16-->
-<hr>            
-[ 16 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P016.jpg">[ 16 ]</a>
 
 
 <p class="centered"><span class="delete"><span class="underlined">Toussaint</span>.</span></p>
@@ -838,12 +841,12 @@ dans le mouvement
 - en anneaux de cris violents
 - Colomb. Colomb.
 A ce moment <span class="delete">la populace nègre envahit </span><span class="add above">les esclaves nègres envahissent </span>la scène<span class="delete">, déchainée et menaçante,brandissant
-   un mannequin</span>.           
+   un mannequin</span>.
 
 <!--New page: 17-->
-<hr>            
-[ 17 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P017.jpg">[ 17 ]</a>
 
 
 <p class="centered"><span class="underlined">Des voix.</span></p>
@@ -902,12 +905,12 @@ Bien
 </p>
 
 - {:.indent-3} Il a raison; il a raison; Mort à Toussaint.
-           
+
 
 <!--New page: 18-->
-<hr>            
-[ 18 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P018.jpg">[ 18 ]</a>
 
 
 <p class="centered"><span class="underlined">La foule.</span></p>
@@ -971,12 +974,12 @@ cauchemar.
 </p>
 
 - raz de marée de ravets, d’accordéons empoisonnés.
-           
+
 
 <!--New page: 19-->
-<hr>            
-[ 19 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P019.jpg">[ 19 ]</a>
 
 
 <p class="centered"><span class="underlined">La foule</span>.
@@ -1045,12 +1048,12 @@ monde sur
 - ... les soleils <span class="delete">arrê tés </span>arrêtés, feront de
 nuit, d’immenses cocotiers
 - catastrophiques...
-           
+
 
 <!--New page: 20-->
-<hr>            
-[ 20 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P020.jpg">[ 20 ]</a>
 
 
 <p class="centered"><span class="underlined">La foule</span>.
@@ -1094,12 +1097,12 @@ imbéciles.
 - {:.indent-3} Mes amis,
 - j’ai rêvé de lumière, d’enseigne d’or, de sommeils pourprés,
 - de réveils d’étincelles et de peaux de lynx.
-           
+
 
 <!--New page: 21-->
-<hr>            
-[ 21 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P021.jpg">[ 21 ]</a>
 
 
 <p class="centered"><span class="underlined">La foule</span>.
@@ -1155,12 +1158,12 @@ Toussaint.
 </p>
 
 - {:.indent-3} Mort aux blancs.
-           
+
 
 <!--New page: 22-->
-<hr>            
-[ 22 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P022.jpg">[ 22 ]</a>
 (La scène s’efface progressivement, lentement.)
 
 
@@ -1179,12 +1182,12 @@ Toussaint.
 - {:.indent-3} ... La Grande Révolution de Saint Domingue <span class="delete">continue</span><span class="delete add"><span class="add below"> a commencé </span></span><span class="add">.vient de commencer</span>
 
 
-           
+
 
 <!--New page: 23-->
-<hr>            
-[ 23 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P023.jpg">[ 23 ]</a>
 A Saint-Domingue devant une riche maison coloniale style
 18esiècle, des jeunes filles blanches en train de jouer. Entrent
 lechoeur, le récitant, la récitante.
@@ -1255,12 +1258,12 @@ respectez les <span class="delete"><span class="unclear"> [?étrangers qui passe
 - ches ornières du crépuscule.
 (Les jeunes filles s’enfuient.)
 
-           
+
 
 <!--New page: 24-->
-<hr>            
-[ 24 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P024.jpg">[ 24 ]</a>
 <span class="add">(</span>Le récitant et la
 récitante feignent de poser par terre une ci<span class="delete">v</span>­vière; le choeur de creuser une fosse. <span class="delete">Le</span><span class="add">Un</span> cadavre imaginaire estdéposé au fond de la fosse. C’est une
 scène de magie imitative.<span class="add">)</span>
@@ -1321,12 +1324,12 @@ coloniales...
 - {:.indent-3} <span class="delete">A tout péché miséricorde... Une amnistie, voilà ce que
    nous <span class="delete">so</span>sommes venus vous offrir. Miséricorde pour tous, et pour <span class="add below">les chefs</span> tous la
    liberté.</span>
-           
+
 
 <!--New page: 25-->
-<hr>            
-[ 25 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P025.jpg">[ 25 ]</a>
 
 
 
@@ -1368,12 +1371,12 @@ sables
 - ensorce<span class="delete">l</span>lent &nbsp;de serpents, de palabres, de
 varechs
 - le phare disjoint de sang d’aiglon.
-           
+
 
 <!--New page: 26-->
-<hr>            
-[ 26 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P026.jpg">[ 26 ]</a>
 <span class="add">(</span>La scène est
 envahie par la foule <span class="add above">des insurgés</span>:
 masse d’hommes et de femmes ar­més de coutelas.<span class="add">)</span>
@@ -1430,12 +1433,12 @@ contradictoires dans la foule.<span class="add">)</span>
 - {:.indent-3} ...à mort.
 - ...
 
-           
+
 
 <!--New page: 27-->
-<hr>            
-[ 27 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P027.jpg">[ 27 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -1497,12 +1500,12 @@ toutes
 - les sphyrènes qui signent les dos des nuits<span class="add">,</span> ont forcé jusqu’à voir
 - leur
 oeil de serrure.
-           
+
 
 <!--New page: 28-->
-<hr>            
-[ 28 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P028.jpg">[ 28 ]</a>
 ( Les guerriers défilent devant les cadavres en
 brandissant des cou­telas.)
 
@@ -1537,12 +1540,12 @@ et pas
 (Les bandes s’ébranlent en poussant des cris
 frénétiques.)
 
-           
+
 
 <!--New page: 29-->
-<hr>            
-[ 29 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P029.jpg">[ 29 ]</a>
 
 
 <p class="centered">Le récitant.</p>
@@ -1618,12 +1621,12 @@ gon­
 - flent de famine et du noir migan de la terre et des larmes et
 de la
 - morve et de l’urine.
-           
+
 
 <!--New page: 30-->
-<hr>            
-[ 30 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P030.jpg">[ 30 ]</a>
 
 
 <p class="centered">Le récitant.</p>
@@ -1656,12 +1659,12 @@ sourire
 - d’herbe déchire en fines alouettes le vin des jours, la
 <span class="delete">presse</span><span class="add below">pierre</span> des
 - nuits...
-           
+
 
 <!--New page: 31-->
-<hr>            
-[ 31 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P031.jpg">[ 31 ]</a>
 <span class="add">(</span>Au Cap. A
 l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span>
 
@@ -1739,12 +1742,12 @@ aux esclaves restés fidèles. On s’en
 <p class="centered"><span class="delete">Une voix.</span></p>
 
 - 
-           
+
 
 <!--New page: 32-->
-<hr>            
-[ 32 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P032.jpg">[ 32 ]</a>
 
 
 <p class="centered">Une voix.</p>
@@ -1803,12 +1806,12 @@ française de Saint-Domingue.
 <span class="add">(</span>Quelques attardés
 discutent encore.<span class="add">)</span>
 
-           
+
 
 <!--New page: 33-->
-<hr>            
-[ 33 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P033.jpg">[ 33 ]</a>
 <span class="add">une rue. la nuit. des groupes passent</span>
 
 
@@ -1877,12 +1880,12 @@ d’emphase et de cruauté.)
 - {:.indent-3} <span class="add">P</span>as de silence
 qui tienne<span class="delete">nt</span>. Nous sommes libres et égaux en droit<span class="add">s.</span>
 - N’oubliez pas cela.
-           
+
 
 <!--New page: 34-->
-<hr>            
-[ 34 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P034.jpg">[ 34 ]</a>
 
 
 <p class="centered">2e énergumène.</p>
@@ -1943,12 +1946,12 @@ l’or­
 
 (Applaudissements. Des rires.)
 
-           
+
 
 <!--New page: 35-->
-<hr>            
-[ 35 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P035.jpg">[ 35 ]</a>
 
 
 <p class="centered">La foule.</p>
@@ -1993,12 +1996,12 @@ le rire charbonneux
 
 - {:.indent-3} En ma main noire et rouge s’époumonne une aurore de sureau
 blanc
-           
+
 
 <!--New page: 36-->
-<hr>            
-[ 36 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P036.jpg">[ 36 ]</a>
 
 
 <p class="centered">Le récitant.</p>
@@ -2053,12 +2056,12 @@ sur se blessures, la pimentade de mon
 pleurs.
 
 
-           
+
 
 <!--New page: 37-->
-<hr>            
-[ 37 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P037.jpg">[ 37 ]</a>
 <span class="add">(</span>Entre un groupe de
 trois femmes; lasses, inquiètes. Ce sont des blan­ches... Elles
 tournent de temps en temps la tête pour regarder si onles suit... A
@@ -2129,12 +2132,12 @@ disparu; même décor. Une houe écorne la scène. Deshoues<span class="add">,</
 - {:.indent-3} La pluie est une fatigue; ma fatigue va la fatiguer.
 
 
-           
+
 
 <!--New page: 38-->
-<hr>            
-[ 38 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P038.jpg">[ 38 ]</a>
 
 
 <p class="centered">Ier esclave.</p>
@@ -2196,12 +2199,12 @@ esclaves...
 - Sonthonax ouvre les portes du Cap à <span class="delete">Pienot</span><span class="add below">Pierrot</span> et à Macaya...
 
 
-           
+
 
 <!--New page: 39-->
-<hr>            
-[ 39 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P039.jpg">[ 39 ]</a>
 
 
 
@@ -2258,12 +2261,12 @@ cris...
 <p class="centered">Le choeur.</p>
 
 - {:.indent-3} Mort aux blancs. Mort aux blancs.
-           
+
 
 <!--New page: 40-->
-<hr>            
-[ 40 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P040.jpg">[ 40 ]</a>
 (Cris discordants... Le silence tombe tout à coup lourd et
 humide,le silence de la Caraïbe. Subitement un navire envahit tout le
 <span class="delete">cham</span>champ de vision, en perdition; et dans la chair de la mer
@@ -2289,12 +2292,12 @@ tatons sur le devant de la scène.)
 - Froid coeur de la mort, la lagune a dégainé son <span class="add above">rire de</span> poignard.
 
 
-           
+
 
 <!--New page: 41-->
-<hr>            
-[ 41 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P041.jpg">[ 41 ]</a>
 
 <p class="centered"><span class="delete">Acte III.</span><span class="add">Acte II</span></p>
 
@@ -2367,12 +2370,12 @@ voyageur coeur tressé belles-eáux-souflées-haut-gelées.
 
 - <span class="delete"><span class="add"><span class="unclear"> [?Ô j'attends
          passionnément : je suis cernée] </span></span></span>
-           
+
 
 <!--New page: 42-->
-<hr>            
-[ 42 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P042.jpg">[ 42 ]</a>
 - <span class="delete">ACTE II</span>
 <span class="add">(</span><span class="delete">A Saint Domingue, </span>une ville <span class="add above">haïtienne</span>, place publique : troupes, foules,
 drapeauxSubitement acclamations et fanfares.entrent Toussaint et
@@ -2431,12 +2434,12 @@ l'industrie.
 <p class="centered">La foule.</p>
 
 - Hurrah ! Hurrah !
-           
+
 
 <!--New page: 43-->
-<hr>            
-[ 43 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P043.jpg">[ 43 ]</a>
 
 
 <p class="centered">Le grand Maitre de l'Université.</p>
@@ -2504,12 +2507,12 @@ images
 - agrippe de ses petits doigts d'enfant
 - mon barissement <span class="delete">d'enfant</span> futur
 - d'épave !
-           
+
 
 <!--New page: 44-->
-<hr>            
-[ 44 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P044.jpg">[ 44 ]</a>
 
 
 
@@ -2569,12 +2572,12 @@ inavouables
 - vent des déserts debout de cactus et de sphynx
 - calamiteusement
 - as-tu entendu quelque chose ?
-           
+
 
 <!--New page: 45-->
-<hr>            
-[ 45 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P045.jpg">[ 45 ]</a>
 
 
 <p class="centered">Récitant.</p>
@@ -2641,12 +2644,12 @@ bénissent frénéti­quementº)
 - est-ce que les oiseaux de proie ne violentent pas le cerne de leurs yeux
 ?
 - <span class="delete">est-ce pour vous voir que les</span>
-           
+
 
 <!--New page: 46-->
-<hr>            
-[ 46 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P046.jpg">[ 46 ]</a>
 - est-ce pour vous voir que les Pyramides
 - se sont
 - cette nuit
@@ -2706,12 +2709,12 @@ nègres : ils ont tort de tant
 - réclamer. Et forcément <span class="add">ç</span>a attire le malheur. De mon
 temps on était plus doux,
 - plus acceptant, plus consentant. <span class="delete">Hou.</span><span class="add">Hon.</span>
-           
+
 
 <!--New page: 47-->
-<hr>            
-[ 47 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P047.jpg">[ 47 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -2764,12 +2767,12 @@ d'adam dans l'éclair des colè­
 <p class="centered"><span class="delete">le choeu.</span></p>
 
 - 
-           
+
 
 <!--New page: 48-49-->
-<hr>            
-[ 48-49 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P048-49.jpg">[ 48-49 ]</a>
 - <span class="delete">ACTE II</span>
 Une rue du Cap.
 
@@ -2831,12 +2834,12 @@ amis?
 un ouistiti, un
 - sapajou, que sais-je?
 - {:.indent-3} Tous les savants vous disent cela.
-           
+
 
 <!--New page: 50-->
-<hr>            
-[ 50 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P050.jpg">[ 50 ]</a>
 
 
 <p class="centered"><span class="underlined">2e passant</span>.
@@ -2900,12 +2903,12 @@ de terre dans
 au creux des
 - mains des feuilles de caïmitiers ne me consoleront
 pas.
-           
+
 
 <!--New page: 51-->
-<hr>            
-[ 51 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P051.jpg">[ 51 ]</a>
 
 
 <p class="centered"><span class="underlined">Le Choeur</span>.
@@ -2973,12 +2976,12 @@ redresser,
 
 - Je sens des astres s' attendrir dans ma chair,des
 laitances, des lunes, des
-           
+
 
 <!--New page: 52-->
-<hr>            
-[ 52 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P052.jpg">[ 52 ]</a>
 - nénuphars.
 - {:.indent-3} <span class="add margin">&nbsp;|&nbsp;<span class="delete">on</span>&nbsp;|&nbsp;</span><span class="delete">J'ai muselé </span><span class="add above">On muselerait </span>la mer en écoutant peiner les maraichers vers la croupe
 - fabuleuse des matins, dans une douceur de scandales et d'écume.
@@ -3026,12 +3029,12 @@ moi-même.
 - Faites tomber les villes. Faites des lois ou violez les.
 - Tuez ou Adorez.
 - Je suis hors Innocent,les mains nettes. Je suis hors.
-           
+
 
 <!--New page: 53-->
-<hr>            
-[ 53 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P053.jpg">[ 53 ]</a>
 - Les hippopotames soufflent leurs mauvais rêves
 - les Rhinocéros chargent dans le vent trop vite grandi
 - rond de pisé mûr mon innocence rit son grand rire
@@ -3068,12 +3071,12 @@ distraire.
 de
 - profondeur;
 - des clameurs au creux se ruent au creux et bouchent le ciel...
-           
+
 
 <!--New page: 54-->
-<hr>            
-[ 54 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P054.jpg">[ 54 ]</a>
 <span class="add">(</span>Vision de panique . Des
 hommes courent en tous sens.<span class="add">)</span>
 
@@ -3132,12 +3135,12 @@ blanc<span class="delete">e</span>.)
 </p>
 
 - Vive la Liberté! Vive la liberté! Vive Toussaint Louverture!
-           
+
 
 <!--New page: 55-->
-<hr>            
-[ 55 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P055.jpg">[ 55 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussaint</span>.
@@ -3187,12 +3190,12 @@ nuit
 - âge de bronze
 - âge de la pierre
 - à ras de terre.
-           
+
 
 <!--New page: 56-->
-<hr>            
-[ 56 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P056.jpg">[ 56 ]</a>
 
 
 <p class="centered">Parlementaire.</p>
@@ -3241,12 +3244,12 @@ piments
 - de vos coups de sifflet<span class="delete">ppquant</span><span class="add above"> piquant</span> le jarret des aubes
 - de votre curare
 - de votre génipa.
-           
+
 
 <!--New page: 57-->
-<hr>            
-[ 57 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P057.jpg">[ 57 ]</a>
 
 
 <p class="centered">Parlementaire.</p>
@@ -3295,12 +3298,12 @@ osez.
 - Nous sommes au moment où 9 scorpions se <span class="delete">frappett </span>frappent-
 formés par la malédic­
 - tion des âmes.
-           
+
 
 <!--New page: 58-->
-<hr>            
-[ 58 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P058.jpg">[ 58 ]</a>
 A ce moment des tams-tams éclatent frénétiques, couvrent
 les voix.
 
@@ -3353,12 +3356,12 @@ République.
 - <span class="delete">Laissons là des considérations économiques et
    policières... </span>Ce que vous
 - <span class="delete">rzproche <span class="add above">reproche</span> le consul...</span>
-           
+
 
 <!--New page: 59-->
-<hr>            
-[ 59 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P059.jpg">[ 59 ]</a>
 
 
 <p class="centered">le choeur.</p>
@@ -3378,12 +3381,12 @@ République.
 - je marche sur les oeufs des instants précieux
 - ô les chemins fragiles têtus et certains
 - de mon royaume qui est et qui n'est pas encore.
-           
+
 
 <!--New page: 60-->
-<hr>            
-[ 60 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P060.jpg">[ 60 ]</a>
 
 
 <p class="centered"><span class="underlined">Récitante</span>.
@@ -3471,12 +3474,12 @@ sauter plutôt que de se rendre...
 </p>
 
 - {:.indent-3} Vive la liberté . Vive Toussaint.
-           
+
 
 <!--New page: 61-->
-<hr>            
-[ 61 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P061.jpg">[ 61 ]</a>
 
 
 <p class="centered"><span class="underlined">Toussaint</span>.
@@ -3561,12 +3564,12 @@ Louverture.
 - j'assassinerai, je dépècerai
 - fièvre,
 - peste
-           
+
 
 <!--New page: 62-->
-<hr>            
-[ 62 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P062.jpg">[ 62 ]</a>
 - toutes mes idées transformées en brûlots
 - toutes mes pensées en feu grégeois
 - hachoirs mes deux cantiques
@@ -3624,12 +3627,12 @@ cavaliers.)
 - les massacres, mes massacres, les fumées, mes fumées font une route
 peu
 - limpide de jets d'eau lancés par les évents de l'incendie
-           
+
 
 <!--New page: 63-->
-<hr>            
-[ 63 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P063.jpg">[ 63 ]</a>
 - mais ils avancent...
 - les yeux crevés ? les mains coupées comme un <span class="delete">maroon?</span><span class="add above">marron?</span>
 - esclave?
@@ -3685,12 +3688,12 @@ secrètes
 - Vers le soir de grandes îles de crachat s'élargirent en annonces
 somptuaires
 - – sur le pavé.
-           
+
 
 <!--New page: 64-->
-<hr>            
-[ 64 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P064.jpg">[ 64 ]</a>
 - et bientôt les jararacas prirent position au haut du
 paysage
 - Alors la route s'étonna d'étranges désastres
@@ -3729,12 +3732,12 @@ escalier à descendre marche par marche
 - qu'un collier de perles désespérées
 - qu'un calendrier désuet
 - que le goût le vertige le luxe du sacrilège capiteux.
-           
+
 
 <!--New page: 65-->
-<hr>            
-[ 65 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P065.jpg">[ 65 ]</a>
 - Rois mages
 - Yeux protégés par 3 rangs de paupières <span class="delete">ganflées</span><span class="add above">gauffrées</span>
 - sol des midis gris
@@ -3781,12 +3784,12 @@ contre nature
 - {:.indent-3} Je cherche les traces de ma puissance comme un dans la
 brousse les traces
 - perdues
-           
+
 
 <!--New page: 66-->
-<hr>            
-[ 66 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P066.jpg">[ 66 ]</a>
 - d'un grand troupeau et j'enfonce à mijambes dans les hautes
 herbes du sang.
 - pauvres dieux faces débonnaires , bras trop
@@ -3843,12 +3846,12 @@ puantes
 - mon âme nage en plein <span class="delete"><span class="unclear"> [?coeur] </span></span><span class="add above">cœur </span>d<span class="add">u </span><span class="add">maelström</span>
 - là où germent d'étranges monogrammes :
 - <span class="delete">unphallus</span><span class="add above">un phallus </span>de noyé, un tibia, un sternum
-           
+
 
 <!--New page: 67-->
-<hr>            
-[ 67 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P067.jpg">[ 67 ]</a>
 - très haut défi
 - de l'oeil fermenté des <span class="delete">nafrages</span><span class="add above">naufrages</span>.
 
@@ -3904,12 +3907,12 @@ feuilles,
 - Inutile de me contredire
 - je n'entends <span class="delete">pas</span> rien
 - rien que les catastrophes qui montent à la relève des villes
-           
+
 
 <!--New page: 68-->
-<hr>            
-[ 68 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P068.jpg">[ 68 ]</a>
 - blocs d'injustice monstrueusement agencés
 - villes radieuses
 - je l<span class="add">â</span>cherai sur vous ma meute de vengeance
@@ -3959,12 +3962,12 @@ pacifiques.
 - j'emporte dans ma gueule délabrée
 - le bourdonnement d'une chair vivante,
 - me voici.....
-           
+
 
 <!--New page: 69-->
-<hr>            
-[ 69 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P069.jpg">[ 69 ]</a>
 ( passent des nègres " enfilés par le cou à une longue chaine de fer,
 comme lesgrains d'un chapelet, et portant tons des menottes aux
 bras")
@@ -4021,12 +4024,12 @@ in­diquer qu'il a perdu la raison.)
 ( les <span class="delete"><span class="unclear"> [?évêques] </span></span><span class="add above">dieux </span>se lèvent, le groupe sort lentement, chacun trainant derrière
 soiun hareng-saur attaché au bout d'un fil.) 
 
-           
+
 
 <!--New page: 70-->
-<hr>            
-[ 70 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P070.jpg">[ 70 ]</a>
 
 
 <p class="centered">Récitante.</p>
@@ -4101,12 +4104,12 @@ pour
 notre vie
 - à planter des pierres.
 - <span class="delete">le voyageur.</span>
-           
+
 
 <!--New page: 71-->
-<hr>            
-[ 71 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P071.jpg">[ 71 ]</a>
 
 
 <p class="centered">le voyageur.</p>
@@ -4186,12 +4189,12 @@ rien..
 - nous plantons des pierres.
 <span class="delete">( Toussaint s'éloigne</span>
 
-           
+
 
 <!--New page: 72-->
-<hr>            
-[ 72 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P072.jpg">[ 72 ]</a>
 ( Toussaint s'éloigne/: les bonnes gens en riant lui lancent
 des pierres)
 
@@ -4268,12 +4271,12 @@ retourne et criede loin)
 Toussaint a disparu)
 
 
-           
+
 
 <!--New page: 73-->
-<hr>            
-[ 73 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P073.jpg">[ 73 ]</a>
 
 <p class="centered">Acte III</p>
 
@@ -4345,12 +4348,12 @@ crime et de l'ab­
 - surdité.
 
 
-           
+
 
 <!--New page: 74-->
-<hr>            
-[ 74 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P074.jpg">[ 74 ]</a>
 - {:.indent-3} Hé bien, je dis qu'il est une justice
 suprème<span class="delete">,</span><span class="add above"> et</span> c'est
 elle qui refait au­
@@ -4421,12 +4424,12 @@ vaincus.
 
 - Misérable.
 - <span class="delete">Toussaint</span>
-           
+
 
 <!--New page: 75-->
-<hr>            
-[ 75 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P075.jpg">[ 75 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -4476,12 +4479,12 @@ fauve
 - vous n'éteindrez pas de fatigue ou de froid
 - mon cri fumant
 - mon cri intact d'animal pris au piège.
-           
+
 
 <!--New page: 76-->
-<hr>            
-[ 76 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P076.jpg">[ 76 ]</a>
 
 
 <p class="centered">Messager.</p>
@@ -4520,22 +4523,22 @@ fauve
 - un troupeau de buffles sauvages
 - un cent d'eunuques des sacrifices des tumultes
 - un vol de couteaux de jet de sagaies de cuivre rouge
-           
+
 
 <!--New page: 77-->
-<hr>            
-[ 77 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P077.jpg">[ 77 ]</a>
 - mon corps&nbsp;&nbsp;mon corps
 - brancard je ne jetterai pas le blessé aux chiens de l'aubépine
 - au cri du vin
 - au roulis des&nbsp;&nbsp;ornières peuplés&nbsp;&nbsp;de veaux marins.
-           
+
 
 <!--New page: 78-->
-<hr>            
-[ 78 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P078.jpg">[ 78 ]</a>
 
 
 <p class="centered">Messager.</p>
@@ -4597,12 +4600,12 @@ du soleil.
 
 - des singes gambadaient autour du Lion à face d'homme.
 - Toussaint, Toussaint, c'est le jour de l'épreuve.
-           
+
 
 <!--New page: 79-->
-<hr>            
-[ 79 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P079.jpg">[ 79 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -4672,12 +4675,12 @@ prévoyance.
 vos promesses<span class="add">?</span> vos
 remords<span class="add">?</span> votre
 lettre?
-           
+
 
 <!--New page: 80-->
-<hr>            
-[ 80 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P080.jpg">[ 80 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -4753,12 +4756,12 @@ imaginations me font sourire de pitié.
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
 - <span class="delete">Toussaint.</span><span class="delete">Le vol ?</span>
-           
+
 
 <!--New page: 81-->
-<hr>            
-[ 81 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P081.jpg">[ 81 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -4836,12 +4839,12 @@ quelqu'un
 - <span class="add">n</span>e te
 rencontre.
 - <span class="delete">n</span>
-           
+
 
 <!--New page: 82-->
-<hr>            
-[ 82 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P082.jpg">[ 82 ]</a>
 
 
 <p class="centered">3ème prêtre</p>
@@ -4897,12 +4900,12 @@ s'éloigner.
 maîtres
 
 
-           
+
 
 <!--New page: 83-->
-<hr>            
-[ 83 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P083.jpg">[ 83 ]</a>
 
 
 <p class="centered"><span class="delete">Toussaint.</span></p>
@@ -4961,12 +4964,12 @@ d'aveugle dans
 - supputer
 - ah! supputer sous leur calme et leur dignité et leur équilibre et leur
 mouvement
-           
+
 
 <!--New page: 84-->
-<hr>            
-[ 84 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P084.jpg">[ 84 ]</a>
 - et leur bruit et leur harmonie et leur mesure
 - ce qu'il a fallu de ma nervosité
 - de ma pani<span class="add">qu</span>e
@@ -5013,12 +5016,12 @@ absurdement respecté de
 
 - Ah! le scélérat n'avait pas menti .... Et ils lancent le fils suborné
 aux trousse<span class="add">s</span>
-           
+
 
 <!--New page: 85-->
-<hr>            
-[ 85 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P085.jpg">[ 85 ]</a>
 - <span class="delete"><span class="unclear"> [?mes] </span></span> du père moribond.
 - Mon fils, à toi mes trésors, à toi mes bandes
 - Haïti t'attend, Venge moi.
@@ -5074,12 +5077,12 @@ et il disait d'autres choses aimables le maitre,
 penser très tôt, que ce n'était pas trop de 20 ans pour faire
 - un bon
 commandeur, oeil <span class="delete"><span class="unclear"> [?ferme] </span></span>vif et le bras ferme
-           
+
 
 <!--New page: 86-->
-<hr>            
-[ 86 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P086.jpg">[ 86 ]</a>
 - – et cet homme <span class="delete">spécualit</span><span class="add above">spéculait</span> sur le berceau de mon fils– un berceau de
 garde-
 - chiourme-
@@ -5133,12 +5136,12 @@ Toussaint, Toussaint Toussaint Louverture et
 deux ravets apeurés les jours de pluie... je frappai,
 - le sang gicla;
 c'est de ce <span class="delete">soul</span><span class="add above">seul</span> baptème que je me souviens aujourd'hui.
-           
+
 
 <!--New page: 87-->
-<hr>            
-[ 87 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P087.jpg">[ 87 ]</a>
 
 
 <p class="centered">Le fils.</p>
@@ -5203,12 +5206,12 @@ les pendus peuplent le ciel d'acéras et il y a des
 - dogues le poil
 sanglant et des oreilles... des <span class="delete">b</span> oreilles ... des
 barques
-           
+
 
 <!--New page: 88-->
-<hr>            
-[ 88 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P088.jpg">[ 88 ]</a>
 - faites d'oreilles coupées qui glissent sur le couchant.
 Va-t-en, fils, je suis
 - seul et la mer est une manille à mon pied de
@@ -5253,12 +5256,12 @@ de
 perturbations
 - Liberté, liberté,
 - j'oserai soutenir seul la lumière de <span class="delete">cette</span><span class="add above">ta</span> tête bléssée.
-           
+
 
 <!--New page: 89-->
-<hr>            
-[ 89 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P089.jpg">[ 89 ]</a>
 <span class="add">(</span> à ce moment,
 vision: dans une campagne tropicale, s'agite et se convulse la
 sil­houette innénarrable du Grand Prohibiteur. Le "héraut", <span class="add">«</span>sa bouche,<span class="add">»</span> est cou­ché sous un arbre? Il ronfle.<span class="add">)</span>
@@ -5307,12 +5310,12 @@ verrou de pri­
 - son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add">e</span>ndue</span><span class="add">pendue</span>, le mois qui est le contraire
 - du plus, l'arrêt qui est le
 contraire vrai du mouvement, non la <span class="delete">satation</span> sta­
-           
+
 
 <!--New page: 90-->
-<hr>            
-[ 90 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P090.jpg">[ 90 ]</a>
 - tion, non la station, le retrait qui est le contraire du
 progrès, l'être <span class="delete">p</span>
 - le plus existant, celui qui se pose en
@@ -5389,12 +5392,12 @@ surtout la <span class="delete">pause reboucrie</span><span class="add above">pa
 <p class="centered">Le héraut</p>
 
 - {:.indent-3} De lois, la pa<span class="add">n</span>se pleine de lois <span class="add">!</span>
-           
+
 
 <!--New page: 91-->
-<hr>            
-[ 91 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P091.jpg">[ 91 ]</a>
 
 
 <p class="centered">Le héraut.</p>
@@ -5467,12 +5470,12 @@ continents d'église et de
 <p class="centered">La récitante.</p>
 
 - 
-           
+
 
 <!--New page: 92-->
-<hr>            
-[ 92 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P092.jpg">[ 92 ]</a>
 
 
 <p class="centered">Récitante.</p>
@@ -5530,12 +5533,12 @@ mort
 - arrétez bourreaux
 - ah vous me <span class="add above">clignez</span> de l'oeil
 - vous me demande<span class="add">z</span> ma complicité
-           
+
 
 <!--New page: 93-->
-<hr>            
-[ 93 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P093.jpg">[ 93 ]</a>
 - &nbsp;&nbsp;au secours! au secours! au meurtre!
 - &nbsp;&nbsp;ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que
 les taureaux
@@ -5574,12 +5577,12 @@ est fini.
 éteinte.
 - voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon
 sauvage.
-           
+
 
 <!--New page: 94-->
-<hr>            
-[ 94 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P094.jpg">[ 94 ]</a>
 - Comme un agouti. Comme une mangouste.
 - Qui a fait cela<span class="add">?</span> Vous me demandez qui a
 fait cela!
@@ -5648,12 +5651,12 @@ vos ini­
 ou Geneviève... c'est ça
 - ..... ou d'un drapeau... ou d'un <span class="add above">petit</span> canon.... ou d'une croix....
 ou d'un<span class="delete">e</span> trèfle . 
-           
+
 
 <!--New page: 95-->
-<hr>            
-[ 95 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P095.jpg">[ 95 ]</a>
 
 
 <p class="centered">Geolier.</p>
@@ -5688,12 +5691,12 @@ absent au
 - Et je m'accuse d'avoir ri de Noé, mon père nu, mon père ivre.
 - Et je m'accuse de m'être vautré d'amour dans la nuit opaque, dans la
 nuit lourde.
-           
+
 
 <!--New page: 96-->
-<hr>            
-[ 96 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P096.jpg">[ 96 ]</a>
 
 
 <p class="centered">Gêôlière.</p>
@@ -5770,12 +5773,12 @@ entends ?
 Toussaint vainquit
 - les Anglais. Le roi Toussaint terrassa les
 Espagnols...
-           
+
 
 <!--New page: 97-->
-<hr>            
-[ 97 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P097.jpg">[ 97 ]</a>
 
 
 <p class="centered">Geôlier.</p>
@@ -5861,12 +5864,12 @@ s'écroulent avec tout le panneau
 - du ciel et la cavalerie des flocons
 se précipite au vol fouetté de ses cent mille
 - burnous.
-           
+
 
 <!--New page: 98-->
-<hr>            
-[ 98 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P098.jpg">[ 98 ]</a>
 
 
 <p class="centered">Le récitant.</p>
@@ -5937,12 +5940,12 @@ brûle. Mère ! Mère!
 <p class="centered">La sainte Vierge.</p>
 
 - {:.indent-3} Ta souffrance mon enfant, m'était indispensable...
-           
+
 
 <!--New page: 99-->
-<hr>            
-[ 99 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P099.jpg">[ 99 ]</a>
 
 
 <p class="centered">Toussaint.</p>
@@ -5997,12 +6000,12 @@ cris d'assassinés...
 - Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et
 du
 - tambour et vainement se gonfle le vent <span class="add above"><span class="delete"><span class="unclear"> [?se gonflé] </span></span></span>de l'odeur tendre du ravin moisi<span class="delete">,</span> d'ar­
-           
+
 
 <!--New page: 100-->
-<hr>            
-[ 100 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P100.jpg">[ 100 ]</a>
 - bres à pain, de sucreries, de bagasse harcelée de
 moucherons....
 - Terre ma mère j'ai compris votre langage de cape et d'épée
@@ -6058,12 +6061,12 @@ j'assume...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( Toussaint s'affaisse, les bras étendus, poitrine contre
 terre).
 
-           
+
 
 <!--New page: 101-->
-<hr>            
-[ 101 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P101.jpg">[ 101 ]</a>
 
 
 <p class="centered">Le récitant.</p>
@@ -6139,12 +6142,12 @@ coups de canon... desfumées... des pans de murs écroulés... Général
 noir à cheval entouré d'un nom­breux état major... des troupes en
 armes prêtes à s'ébranler)
 
-           
+
 
 <!--New page: 102-->
-<hr>            
-[ 102 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P102.jpg">[ 102 ]</a>
 <span class="delete">Au fond les murs de Saint Marc assiégé par l'armée noire
    de Dessalines;</span> sur lerempart apparait une tête. L'homme se
 dresse, c'est le <span class="add">«</span>négrophobe.<span class="add">»</span>
@@ -6229,12 +6232,12 @@ pas.
 - lâchez vos armes homicides
 
 
-           
+
 
 <!--New page: 103-->
-<hr>            
-[ 103 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P103.jpg">[ 103 ]</a>
 - le meilleur est en vous et non hors de vous
 - lâchez ces armes,
 - et à force de patience et de soumission
@@ -6287,12 +6290,12 @@ lamesse
 - avec leursmines de cerisiers sauvages
 - avec leurs politesses de galère sur la<span class="add">&nbsp;</span>route des cygnes
 - avec leurs airs de chateau connu
-           
+
 
 <!--New page: 104-->
-<hr>            
-[ 104 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P104.jpg">[ 104 ]</a>
 - mais aux salles aussi belles que le mensonge qui n'est pas
 autre chose que
 - l'amour du voyage
@@ -6332,12 +6335,12 @@ coupées
 - et la mort n'était pas hargneuse
 - mais douce
 - aux mains de seins de palissandre et de jeune fille nubile
-           
+
 
 <!--New page: 105-->
-<hr>            
-[ 105 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P105.jpg">[ 105 ]</a>
 - aux mains de champs de charpie et de fonio
 - douce
 - nous étions là
@@ -6361,12 +6364,12 @@ du sang neuf
 - rampe grand frai ivre de dogues de matins et de marcassins
 - de bothrops lancéolés et d'incendies
 - à la déroute de l'exemple scrofuleux des cataplasmes.
-           
+
 
 <!--New page: 106-->
-<hr>            
-[ 106 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P106.jpg">[ 106 ]</a>
 
 
 <p class="centered">Général<span class="delete">.</span>&nbsp;<span class="delete"><span class="add">noir</span></span><span class="add">négre</span></p>
@@ -6436,12 +6439,12 @@ veines, jusqu'au <span class="delete">blanchiement</span><span class="add above"
 - os dans le minuit de ma chair.
 <span class="delete">R I D E A U</span>
 
-           
+
 
 <!--New page: 107-->
-<hr>            
-[ 107 ]
 
+<hr>
+<a target="_blank" href="/data/sdw-data/P107.jpg">[ 107 ]</a>
 
 
 <p class="centered">Récitante.</p>
