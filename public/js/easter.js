@@ -143,30 +143,55 @@ Egg.prototype.listen  = Egg.prototype.Listen;
 Egg.prototype.addCode = Egg.prototype.AddCode;
 Egg.prototype.addHook = Egg.prototype.AddHook;
 
-// EGGSAMPLE
+// THE EGG
 
-var data = {
-	"title":"Diplomatic edition: ...Et les chiens se taisaient (1941-1943)"
-	"link":"/editions/sdw-diplomatic/"
-}
+var data = {"items":[
+	{
+		"title":"Diplomatic edition: ...Et les chiens se taisaient (1941-1943)",
+		"link":"/editions/sdw-diplomatic/",
+	},
+	{
+		"title":"Facsimile edition: ...Et les chiens se taisaient (1941-1943)",
+		"link":"#",
+	},
+	{
+		"title":"Translation: ...And The Dogs Were Silent (1941-1943)",
+		"link":"#",
+	},
+	{
+		"title":"Film: And The Dogs Were Silent (dir. Sarah Maldoror)",
+		"link":"#",
+	},
+	{
+		"title":"Radio-play: Und die hunde schwiegen",
+		"link":"#",
+	}
+]};
 
 var egg = new Egg();
 egg
-  .AddCode("up,left,down,right", function() {
+  .AddCode("up,left,down,right,a,b", function() {
   	var header = document.createElement("h2");
   	var headerTitle = document.createTextNode("VI. Broken")
   	header.appendChild(headerTitle);
   	var list = document.createElement("ol");
-    var line = document.createElement("li");
-    var section = document.createElement("h3");
-    var link = document.createElement("a");
-    var linkText = document.createTextNode("Diplomatic edition: ...Et les chiens se taisaient (1941-1943)");
-	link.appendChild(linkText);
-	link.title = "saint-dié witness: diplomatic edition";
-	link.href = "/editions/sdw-diplomatic/";
-	section.appendChild(link)
-	line.appendChild(section);
-	list.appendChild(line);
+  	for (i in data.items){  		
+  		var line = document.createElement("li");
+   		var section = document.createElement("h3");
+    		if ( data.items[i].link == "#") {
+    			var linkText = document.createTextNode(data.items[i].title);
+				section.appendChild(linkText);
+			} else {
+	    		var link = document.createElement("a");
+	    		var linkText = document.createTextNode(data.items[i].title);
+				link.appendChild(linkText);
+				link.title = data.items[i].title;
+				link.href = data.items[i].link;
+				section.appendChild(link);
+			};
+		line.appendChild(section);
+		list.appendChild(line);
+		};
 	var element = document.getElementById("chest");
 	element.appendChild(header)
 	element.appendChild(list);
