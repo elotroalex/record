@@ -27,6 +27,8 @@ collections:
     output: true
   fragiles:
     output: true
+  editions:
+    output: true
 
 # Markdown specs
 markdown: kramdown

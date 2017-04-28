@@ -1,3 +1,19 @@
+/* Additions to Ed */
+
+.add {
+    color:green;
+    font-style:italic;
+}
+
+.delete {
+    text-decoration: line-through;
+    color: red;
+}
+
+.underlined{
+    text-decoration:underline;
+}
+
 /* Ed: the minimal edition theme.
  * ___________________   
  * \_   _____/\______ \  
@@ -16,6 +32,10 @@
  *
  * Update the foundational and global aspects of the page.
  */
+
+
+
+
 
 * {
   -webkit-box-sizing: border-box;
