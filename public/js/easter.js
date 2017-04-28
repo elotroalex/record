@@ -172,7 +172,7 @@ var egg = new Egg();
 egg
   .AddCode("up,left,down,right,a,b", function() {
   	var header = document.createElement("h2");
-  	var headerTitle = document.createTextNode("VI. Broken")
+  	var headerTitle = document.createTextNode("X. Broken")
   	header.appendChild(headerTitle);
   	var list = document.createElement("ol");
   	for (i in data.items){  		
@@ -195,7 +195,7 @@ egg
 	var element = document.getElementById("chest");
 	element.appendChild(header)
 	element.appendChild(list);
-	alert("You have reached Level 6!");
+	alert("You have reached Level X!");
   }, "konami-code").Listen();
 
 
