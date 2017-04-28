@@ -195,7 +195,7 @@ egg
 	var element = document.getElementById("chest");
 	element.appendChild(header)
 	element.appendChild(list);
-	alert("You have reached Level X!");
+	alert("You have unlocked section X. Please proceed judiciously. Do not share the links.");
   }, "konami-code").Listen();
 
 
