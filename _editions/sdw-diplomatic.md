@@ -34,8 +34,7 @@ author: alex gil
 <p class="centered">ACTE I</p>
 
 - <span class="add">(</span>La scène est à
-Saint Domingue<span class="delete">.</span><span class="delete add"><span class="add">)</span></span><span class="add"> à </span><span class="add">l’epoque de la Révolution française)</span>
-
+Saint Domingue<span class="delete">.</span><span class="delete add"><span class="add">)</span></span><span class="add">&nbsp;à&nbsp;</span><span class="add">l’epoque de la Révolution française)</span>
 
 
 - {:.centered} La récitante.
@@ -44,30 +43,26 @@ Saint Domingue<span class="delete">.</span><span class="delete add"><span class=
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - Je dis que cette terre brûle.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - J’avertis : malheur à celui qui frôle de la main la résine de ce
 pays.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - Je dis que ce pays, monstrueusement, dévore.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - Ce pays est maudit.
 - Ce pays b<span class="add">â</span><span class="add">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de
@@ -76,8 +71,7 @@ clameurs
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - Ce pays mord : bouche ouverte d’une gorge de feu, convergence de crocs
 de
@@ -92,9 +86,7 @@ de
 <a target="_blank" href="/data/sdw-data/P002.jpg">[ 2 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} En marge des marées sautillantes, je marche sur l’eau des
 printemps
@@ -106,9 +98,7 @@ des tempes libres
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Je démèle avec mes mains mes pensées qui sont des lianes sans
 - contractures
@@ -126,8 +116,7 @@ des tempes libres
 
 
 
-
-<p class="centered"><span class="delete"><span class="underlined">Le choeur</span>.</span></p>
+- {:.centered} <span class="delete"><span class="underlined">Le choeur</span>.</span>
 
 - {:.indent-3} <span class="delete">Hurrah. Les Anglais sont perdus... Nos batteries
    d’approche balayent</span>
@@ -144,9 +133,7 @@ des tempes libres
 <a target="_blank" href="/data/sdw-data/P003.jpg">[ 3 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} Toussaint est debout dans le grondement du fleuve... de la
 rive d’or
@@ -156,9 +143,7 @@ Toussaint
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Saint-Marc cède... la fière... ses murailles s’écroulent
 ... nos
@@ -166,8 +151,7 @@ Toussaint
 
 
 
-
-<p class="centered"><span class="underlined">La récitante.</span></p>
+- {:.centered} <span class="underlined">La récitante.</span>
 
 - {:.indent-3} Toussaint, Toussaint c’est le jour de l’épreuve... Il
 vient... le
@@ -178,23 +162,21 @@ bout de sa langue...
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Toussaint a pris tout seul le sentier de la guerre. Tout
 s’est tu.
 - Fusils et canons se sont tus. Toussaint est nu... Le
 bouclier de paille
 - tressée est à sa main gauche... Il s’arrête ...
-Il rampe ... Il s’immo­
+Il rampe ... Il s’immo‐
 - bilise un genou en terre ... Le torse est
 renversé comme une muraille...
 - La sagaie est levée...
 
 
 - ( A ce moment un cortège magnifique envahit la scène :
-pèlerins, che­
+pèlerins, che‐
 - vaux, chiens. Senteurs de musc et benjoin.)
 
 
@@ -205,9 +187,8 @@ pèlerins, che­
 <a target="_blank" href="/data/sdw-data/P004.jpg">[ 4 ]</a>
 
 
-
-<p class="centered"><span class="add">1ère
-      </span><span class="delete"><span class="underlined">Une </span></span><span class="underlined">voix tentatrice.</span></p>
+- {:.centered} <span class="add">1ère
+   </span><span class="delete"><span class="underlined">Une </span></span><span class="underlined">voix tentatrice.</span>
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -224,9 +205,7 @@ galets
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Quelle est la cachée qui me traverse d’or et d’argent et
 m’assiège
@@ -234,9 +213,7 @@ m’assiège
 
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} J’ai interrogé les dés sacrés. Je dis qu’il habite en toi
 un être
@@ -244,22 +221,19 @@ un être
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} <span class="add">J</span>e dis que la
-République a cloché un branle nouveau au monde en heur­
+République a cloché un branle nouveau au monde en heur‐
 - tant trois
 mots d’or...
 
 
 
-
-<p class="centered"><span class="add">2e </span><span class="delete"><span class="unclear"> [?<span class="underlined">Ière</span>] </span></span><span class="underlined"> voix tentatrice.</span></p>
+- {:.centered} <span class="add">2e </span><span class="delete"><span class="unclear"> [?<span class="underlined">Ière</span>] </span></span><span class="underlined"> voix tentatrice.</span>
 
 - {:.indent-3} Ha, ha, ha. des mots, rien que des mots: pas trois; mille
-mots Tous­
+mots Tous‐
 - saint... O mon ami, <span class="delete"><span class="unclear"> [?naïf ami,] </span></span> veux-tu de l’argent? des titres? de la
 - terre? Veux-tu être
 maréchal de camp? Grand d’Espagne<span class="add">?</span><span class="delete"><span class="unclear"> [? comme Piasson?] </span></span>
@@ -274,9 +248,7 @@ maréchal de camp? Grand d’Espagne<span class="add">?</span><span class="delet
 <a target="_blank" href="/data/sdw-data/P005.jpg">[ 5 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Je tire un pied
 - Oh. Je tire l’autre &nbsp;pied
@@ -285,26 +257,22 @@ maréchal de camp? Grand d’Espagne<span class="add">?</span><span class="delet
 
 
 
-
-<p class="centered"><span class="add">3ème</span><span class="delete"><span class="underlined">2e</span></span><span class="underlined"> voix tentatrice</span>.
-</p>
+- {:.centered} <span class="add">3ème</span><span class="delete"><span class="underlined">2e</span></span><span class="underlined"> voix tentatrice</span>.
 
 - {:.indent-3} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a
 quelque chose
 - en toi qui n’a jamais pu se soumettre, une colère, un
-désir, une tris­
+désir, une tris‐
 - tesse, une impatience, un mépris enfin, une
 violence... Et voilà tes
 - veines charrient de l’or, non de la boue,
-de l’orgueil, non de la ser­
+de l’orgueil, non de la ser‐
 - vitude. Roi, tu as été roi
 jadis...
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Fête de nuit
 - <span class="add margin">&nbsp;|&nbsp;<span class="unclear"> [?carne] </span>&nbsp;|&nbsp;</span><span class="delete"><span class="unclear"> [?cane] </span></span>, cave
@@ -330,8 +298,7 @@ jadis...
 <a target="_blank" href="/data/sdw-data/P006.jpg">[ 6 ]</a>
 
 
-
-<p class="centered"><span class="delete"><span class="underlined">Toussaint</span>.</span></p>
+- {:.centered} <span class="delete"><span class="underlined">Toussaint</span>.</span>
 
 - J’ai été esclave pendant 50 ans
 - et j’ai coupé des cannes et j’ai ciré des chaussures et
@@ -348,9 +315,7 @@ jadis...
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - Bornou &nbsp;Sokoto, Bénin et Dahomey Sikasso
 - Sikasso
@@ -359,9 +324,7 @@ jadis...
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Martinique, Jamaïque,
 - tous les mirages et tous les <span class="delete">lampomis</span><span class="add"> lampornis</span>
@@ -378,18 +341,14 @@ jadis...
 <a target="_blank" href="/data/sdw-data/P007.jpg">[ 7 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Tu n’échapperas pas à ta loi<span class="delete"> qui est une
    loi de domination</span>.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span><span class="add">,</span> jusqu’au confluent
 - de feu qui me volatilise, qui m’épure et
@@ -398,9 +357,7 @@ m’incendie de <span class="add above">mon </span><span class="delete">prisme <
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} <span class="delete">Goût des ruines;
    baisers; </span><span class="add above">funèbre</span> la lune décroit, le roi se
@@ -408,34 +365,27 @@ cache.
 
 
 
+- {:.centered} <span class="underlined">Toussaint</span>.
 
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
-
-- {:.indent-3} Je ne veux pas être le grain de parfum o<span class="add">ù</span> se résume et se fète l’in­
+- {:.indent-3} Je ne veux pas être le grain de parfum o<span class="add">ù</span> se résume et se fète l’in‐
 - nombrable
 sacrifice des roses désarmées.
 
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} Tu périras.
 
 
 
-
-<p class="centered"><span class="underlined">La récitante.</span></p>
+- {:.centered} <span class="underlined">La récitante.</span>
 
 - {:.indent-3} Hélas. Tu périras.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Hé bien, je périrai. Mais nu. Intact.
 - Ma main dans ma main, mon pied sur le sol,
@@ -466,8 +416,7 @@ une fleur au coeur de papillon.
    du Fouta ronge un os enforme de candélabre.)</span>
 
 
-
-<p class="centered"><span class="delete"><span class="underlined">Toussaint</span>.</span></p>
+- {:.centered} <span class="delete"><span class="underlined">Toussaint</span>.</span>
 
 - {:.indent-3} Et je suis jeune, je suis opulent de jeunesse, d’une
 enfance d’avant
@@ -484,9 +433,7 @@ et
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - {:.indent-3} Patience, je regarde,<span class="delete"> j’ai regardé.</span>
 - Ma tête polaire engloutit les lueurs de cadavres, les casques
@@ -495,9 +442,7 @@ brisés,
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Je ne suis pas un poulpe. Je ne cracherai pas de la nuit
 et de l’encre
@@ -506,9 +451,7 @@ et de l’encre
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - {:.indent-3} Une belle fille terrible brise sa coquille de désastres.
 Des tireurs
@@ -516,9 +459,7 @@ Des tireurs
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Approchez donc, flammes effilées, paquet de frissons. Que
 la senteur
@@ -533,9 +474,7 @@ la senteur
 <a target="_blank" href="/data/sdw-data/P009.jpg">[ 9 ]</a>
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - {:.indent-3} Et il n’y a plus maintenant qu’un homme perdu,
 - tragique comme un moignon de palmier dans l’émeute
@@ -548,9 +487,7 @@ prière qu’il ne
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Merci, ma soeur... une prière qu’il ne vendra pas... ma
 prière de
@@ -560,9 +497,7 @@ ma prière
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - {:.indent-3} ... J’ai regardé et les ponts sont coupés...
 - Les étoiles ont débridé leurs cicatrices de sable.
@@ -576,9 +511,7 @@ ma prière
 <a target="_blank" href="/data/sdw-data/P010.jpg">[ 10 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Ha/ ha/
 - Nous ne voyons plus
@@ -617,9 +550,7 @@ ma prière
 <a target="_blank" href="/data/sdw-data/P011.jpg">[ 11 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Mon oeil se dore de visions souveraines.....
 Toussaint
@@ -628,35 +559,27 @@ Toussaint
 
 
 
-
-<p class="centered"><span class="underlined">Le Récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le Récitant</span>.
 
 - Il pleut.....
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Les désirs de Toussaint sont des ordres... Il commande et
 - légi<span class="delete"><span class="unclear"> [?g] </span></span><span class="add">f</span>ère
 
 
 
-
-<p class="centered"><span class="underlined">Le Récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le Récitant</span>.
 
 - {:.indent-3} Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span><span class="add">f</span>ent leurs
 - larmes rouges
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Toussaint est roi... Il n’en a pas le titre, mais
 - bien
@@ -666,31 +589,25 @@ d’argent s’enflamment au crépuscule
 
 
 
-
-<p class="centered"><span class="underlined">Le Récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le Récitant</span>.
 
 - Le roi a froid... le roi grelotte... Le roi tousse
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - {:.indent-3} Hélas. Hélas. L’Europe arachnéenne bouge ses doigts et ses
-phalan­
+phalan‐
 - ges de navires...Hélas. Hélas.
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Mes souvenirs délirent d''encens et de cloches... Le Niger
 bleu... Le
-- Congo d’or... Le <span class="delete">Log<span class="add">n</span>e</span><span class="add below">&nbsp;|&nbsp;Logone&nbsp;|&nbsp;</span> sablonneux... un galop de bubales... et les pi­
+- Congo d’or... Le <span class="delete">Log<span class="add">n</span>e</span><span class="add below">&nbsp;|&nbsp;Logone&nbsp;|&nbsp;</span> sablonneux... un galop de bubales... et les pi‐
 - leuses de
 millet dans le soir de cobalt.
 
@@ -703,28 +620,23 @@ millet dans le soir de cobalt.
 <a target="_blank" href="/data/sdw-data/P012.jpg">[ 12 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span><span class="add above">piste</span> dans la 
 - forêt... le barracoun... le négrier...
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Hélas. Hélas.
 
 
 
-
-<p class="centered"><span class="underlined">La récitante.</span></p>
+- {:.centered} <span class="underlined">La récitante.</span>
 
 - {:.indent-3} J’ai été réveillé de mon grand rêve de mer violette et de
-terre cho­
+terre cho‐
 - colat et <span class="delete">jé</span> j’ai vu venir du
 côté des girofliers un homme,petit . Il
 - noircissait le
@@ -732,9 +644,7 @@ ciel d’une face de tourbière coupée de libellules...
 
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - {:.indent-3} Vous avez entendu ... Vous avez entendu... Toussaint
 arrive. Toussaint
@@ -748,9 +658,7 @@ fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Vous ne m’empècherez pas de parler à mes amis sans
 éclipse
@@ -759,9 +667,7 @@ fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée
 - et ma voix très sage enfant au bord de votre alcôve.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (lointain)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (lointain)
 
 - {:.indent-3} Ô roi debout.
 
@@ -774,8 +680,7 @@ fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée
 <a target="_blank" href="/data/sdw-data/P013.jpg">[ 13 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussaint.</span></p>
+- {:.centered} <span class="underlined">Toussaint.</span>
 
 - {:.indent-3} Le fleuve sans idiome s’exaspère des manoeuvres de la
 cendre;
@@ -789,68 +694,51 @@ cendre;
 - enjoués de toute la nuit bue.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span> <span class="underlined"> (lointain</span>)
-</p>
+- {:.centered} <span class="underlined">Choeur</span> <span class="underlined"> (lointain</span>)
 
 - Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Je veux peupler la nuit d’adieux méticuleux.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (au loin)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (au loin)
 
 - Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - des violettes, des anémones se lèvent à chaque pas de mon sang.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (plus lointain)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (plus lointain)
 
 - Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint.</span></p>
+- {:.centered} <span class="underlined">Toussaint.</span>
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (plus lointain encore)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (plus lointain encore)
 
 - ... Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - ... des pommes d’ara<span class="delete">n</span><span class="add above">u</span>caria, des bouquets de cerises.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (presque perdu dans la distance)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (presque perdu dans la distance)
 
 - Ô roi debout.
 
@@ -862,23 +750,18 @@ cendre;
 <hr>
 <a target="_blank" href="/data/sdw-data/P014.jpg">[ 14 ]</a>
 
-
-<p class="centered">Toussaint  (d’une voix tonnante)</p>
+- {:.centered} Toussaint  (d’une voix tonnante)
 
 - ... des arcs, des signes, des empreintes, des feux.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>  (gémissant)
-</p>
+- {:.centered} <span class="underlined">Choeur</span>  (gémissant)
 
 - Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} <span class="delete">J’avais amené </span><span class="add"><span class="delete">J'aurai</span></span><span class="add above">j’amenerai</span>ce pays à la connaissance
 - de lui-même,
@@ -889,16 +772,13 @@ cendre;
 
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Choeur</span>.
 
 - Ô roi debout.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint.</span></p>
+- {:.centered} <span class="underlined">Toussaint.</span>
 
 - Et maintenant
 - seul.
@@ -912,9 +792,7 @@ cendre;
 
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Choeur</span>.
 
 - Ô roi debout.
 
@@ -927,9 +805,7 @@ cendre;
 <a target="_blank" href="/data/sdw-data/P015.jpg">[ 15 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussain</span>t.
-</p>
+- {:.centered} <span class="underlined">Toussain</span>t.
 
 - Désir
 - désir
@@ -949,8 +825,7 @@ cendre;
 <a target="_blank" href="/data/sdw-data/P016.jpg">[ 16 ]</a>
 
 
-
-<p class="centered"><span class="delete"><span class="underlined">Toussaint</span>.</span></p>
+- {:.centered} <span class="delete"><span class="underlined">Toussaint</span>.</span>
 
 - Non, non, <span class="delete"><span class="unclear"> [?tu] </span></span><span class="add">je</span> mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
@@ -982,40 +857,31 @@ dans le mouvement
 <a target="_blank" href="/data/sdw-data/P017.jpg">[ 17 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Des voix.</span></p>
+- {:.centered} <span class="underlined">Des voix.</span>
 
 - Mort à Toussaint. Mort à Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Voix de femmes</span>.
-</p>
+- {:.centered} <span class="underlined">Voix de femmes</span>.
 
 - Bourreau, à mort.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - <span class="delete">Il a tué </span><span class="add above">Il tuera </span>nos enfants.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - Il <span class="delete">a attiré </span><span class="add above">attirera </span>sur nous la colère des Blancs.
 
 
 
-
-<p class="centered"><span class="underlined">Des voix</span>.
-</p>
+- {:.centered} <span class="underlined">Des voix</span>.
 
 - Mort à Toussaint. Mort à Toussaint.
 - Au feu, Toussaint, au feu.
@@ -1024,17 +890,13 @@ dans le mouvement
 - (un groupe prépare frénétiquement un brasier.)
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - Au feu Toussaint. Au feu. au feu. Au feu, Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Un orateur</span>.
-</p>
+- {:.centered} <span class="underlined">Un orateur</span>.
 
 - {:.indent-3} Camarades, c’est pour vous dire que Toussaint est un
 ennemi du peuple
@@ -1048,9 +910,7 @@ Bien
 
 
 
-
-<p class="centered"><span class="underlined">Des voix</span>.
-</p>
+- {:.centered} <span class="underlined">Des voix</span>.
 
 - {:.indent-3} Il a raison; il a raison; Mort à Toussaint.
 
@@ -1063,8 +923,7 @@ Bien
 <a target="_blank" href="/data/sdw-data/P018.jpg">[ 18 ]</a>
 
 
-
-<p class="centered"><span class="underlined">La foule.</span></p>
+- {:.centered} <span class="underlined">La foule.</span>
 
 - Au feu.
 - Au feu Toussaint.
@@ -1074,73 +933,56 @@ Bien
    Rondo.Toussaint <span class="delete">parait enchainé, </span><span class="add below">apparait alors</span> entre deux gardes en haut de la citadelle.)</span>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Je suis un spectre; les hommes me chassent de leur
 cauchemar.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - A mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint.</span></p>
+- {:.centered} <span class="underlined">Toussaint.</span>
 
 - Cuve de scorpions.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - A mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Lâches, j’entends dans vos voix le frottement de la bricole.
 
 
 
-
-<p class="centered"><span class="underlined">La foul</span>e._
-</p>
+- {:.centered} <span class="underlined">La foul</span>e._
 
 - Amort, à mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - dans vos voix de chacal<span class="add">,</span><span class="delete"> la nostalgie </span><span class="add above">le bien-être </span>des muselières.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - A mort<span class="add">,</span> Toussaint, à mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - raz de marée de ravets, d’accordéons empoisonnés.
 
@@ -1153,17 +995,13 @@ cauchemar.
 <a target="_blank" href="/data/sdw-data/P019.jpg">[ 19 ]</a>
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - Mort. Mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Ah. Je vous plains âmes gachées. Toute la vieillesse du
 monde sur
@@ -1171,50 +1009,38 @@ monde sur
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Tue, tue. A mort.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Malheur sur vos têtes.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Malédiction ; malédiction.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Adieu mes amis.
 - A moi ô Mort, milicien aux mains froides.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} A bas Toussaint. Vivent les blancs.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Vive la vengeance. <span class="add">Vive la
    liberté.</span>
@@ -1224,16 +1050,13 @@ monde sur
 
 
 
-
-<p class="centered"><span class="underlined">La foule.</span></p>
+- {:.centered} <span class="underlined">La foule.</span>
 
 - {:.indent-3} Ecoutez-le... Ecoutez-le...
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - ... les soleils <span class="delete">arrê tés </span>arrêtés, feront de
 nuit, d’immenses cocotiers
@@ -1248,17 +1071,13 @@ nuit, d’immenses cocotiers
 <a target="_blank" href="/data/sdw-data/P020.jpg">[ 20 ]</a>
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - Malheur. <span class="delete">Malheur.</span>
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Ah<span class="add">!</span> vous ne partirez
 pas, que vous n’ayez senti la morsure de mes
@@ -1281,17 +1100,13 @@ imbéciles.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Vive Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Mes amis,
 - j’ai rêvé de lumière, d’enseigne d’or, de sommeils pourprés,
@@ -1306,33 +1121,26 @@ imbéciles.
 <a target="_blank" href="/data/sdw-data/P021.jpg">[ 21 ]</a>
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Mort aux blancs.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint.</span></p>
+- {:.centered} <span class="underlined">Toussaint.</span>
 
 - {:.indent-3} Mes amis, j’ai hissé mon pavillon de mains coupées,
 - j’ai lancé mes fusées de fièvre jaune...
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Mort aux blancs. Mort aux blancs. Mort aux blancs.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} ...Et en effet, des catacombes essouflées de la Fin et du
 Commencement
@@ -1348,16 +1156,14 @@ comme une ratière,
 - pas à avouer, je le sais,
 je le sens, tu ne te sentis pas envahi de
 - triomphe non, mais
-d’angoisse, mais d’inquiétude <span class="delete">fière</span><span class="add above">fine</span>, toi l’inex­
+d’angoisse, mais d’inquiétude <span class="delete">fière</span><span class="add above">fine</span>, toi l’inex‐
 - pugnable, pris poreux et<span class="delete">ligoté</span> ligoté des grandes lianes silencieuses
 - de la peur,
 des grandes lianes silencieuses du Repentir.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Mort aux blancs. Mort aux blancs. Vive Toussaint. Vive
 Toussaint.
@@ -1365,9 +1171,7 @@ Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Mort aux blancs.
 
@@ -1382,17 +1186,14 @@ Toussaint.
 - (La scène s’efface progressivement, lentement.)
 
 
-
-<p class="centered"><span class="underlined">La récitante.</span></p>
+- {:.centered} <span class="underlined">La récitante.</span>
 
 - {:.indent-3} La cendre... le songe ... eau noire ... affamés, affamés
 ...
 - deux mains brûlantes dans l’assiette du soleil...
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>  (très calme.)
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>  (très calme.)
 
 - {:.indent-3} ... La Grande Révolution de Saint Domingue <span class="delete">continue</span><span class="delete add"><span class="add below"> a commencé </span></span><span class="add">.vient de commencer</span>
 
@@ -1411,8 +1212,7 @@ le
 - choeur, le récitant, la récitante.
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Rentrez chez-vous jeunes filles, il n’est plus temps de
 jouer,
@@ -1421,42 +1221,36 @@ le
 - mica blême.
 
 
-
-<p class="centered">Ière jeune fille (sérieuse)</p>
+- {:.centered} Ière jeune fille (sérieuse)
 
 - {:.indent-3} C’est une devinette?
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} C’est la saison des étoiles br<span class="add">û</span>lântes qui commence.
 
 
-
-<p class="centered">2ème jeune fille  (riant)</p>
+- {:.centered} 2ème jeune fille  (riant)
 
 - {:.indent-3} Ah. C’est un co<span class="add">n</span>te
 
 
-
-<p class="centered">Le choeur  (menaçant)</p>
+- {:.centered} Le choeur  (menaçant)
 
 - {:.indent-3} Saint-Domingue raidit ses pattes d’araignée venimeuse <span class="delete">sous </span> sur
 - la gadoue des <span class="delete"><span class="unclear"> [?banacones.] </span></span><span class="add"> barracouns.</span>
 
 
 
-
-<p class="centered">3ème jeune fille.</p>
+- {:.centered} 3ème jeune fille.
 
 - {:.indent-3} Hou; hou.
 
 
 
-
-<p class="centered">4ème jeune fille.</p>
+- {:.centered} 4ème jeune fille.
 
 - {:.indent-3} Hou. Hou.
 
@@ -1470,13 +1264,12 @@ peur.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Jeunes filles<span class="add">,</span>
 respectez les <span class="delete"><span class="unclear"> [?étrangers qui passent
       ] </span></span><span class="add above">pèlerins qui gaspillent leur pain
-   quotidien </span>sur les ri­
+   quotidien </span>sur les ri‐
 - ches ornières du crépuscule.
 
 
@@ -1490,49 +1283,45 @@ respectez les <span class="delete"><span class="unclear"> [?étrangers qui passe
 <a target="_blank" href="/data/sdw-data/P024.jpg">[ 24 ]</a>
 
 <span class="add">(</span>Le récitant et la
-récitante feignent de poser par terre une ci<span class="delete">v</span>­
+récitante feignent de poser par terre une ci<span class="delete">v</span>‐
 - vière; le choeur de creuser une fosse. <span class="delete">Le</span><span class="add">Un</span> cadavre imaginaire est
 - déposé au fond de la fosse. C’est une
 scène de magie imitative.<span class="add">)</span>
 
-
-<p class="centered">Le récitant (recueilli).</p>
+- {:.centered} Le récitant (recueilli).
 
 - {:.indent-3} Adieu, Saint- Domingue.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
 
 
+- {:.centered} Le choeur  (haineux )
 
-<p class="centered">Le choeur  (haineux )</p>
-
-- {:.indent-3} ...Saint-Domingue la noire, o<span class="add">ù</span> le sadisme du maitre, et le rale<span class="add">­</span>
+- {:.indent-3} ...Saint-Domingue la noire, o<span class="add">ù</span> le sadisme du maitre, et le rale<span class="add">‐</span>
 - ment de l’esclave par force
 coprophage parachèvent en traits de vo<span class="add">­</span>
 - mi le happement du squale
 et le rampement <span class="add">du</span> scolopendre.
 
 
-<span class="add">(</span>A ce moment
+- <span class="add">(</span>A ce moment
 l’obscurité envahit la scène; des coups de feu; des
 - cris discordants;
-puis le tapage s’apaise peu à peu;quand la lumiè<span class="add">­</span>
+puis le tapage s’apaise peu à peu;quand la lumiè<span class="add">‐</span>
 - re revient, le décor a changé: le camp des
 nègres au milieu d’une
 - forêt. Chefs nègres et députés blancs en
 conférence.<span class="add">)</span>
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Notre seule présence ici suffit à montrer combien grand
-est no­
+est no‐
 - tre désir de conciliation. Nous avons fait taire en nos
 coeurs la
 - naturelle indignation qu<span class="delete">i</span><span class="add">'</span> y suscite le souvenir de tant d’actes de
@@ -1540,7 +1329,7 @@ coeurs la
 avonsfait table rase de toutes nos répugnances et
 - répulsions, de
 toutes les habitudes que nos <span class="delete">vieux</span> esprits
-philoso­
+philoso‐
 - phes appellent prévention ou préjugés et qui n’en sont pas
 moins
 - des forces contraignantes dans nos société
@@ -1548,8 +1337,7 @@ coloniales...
 
 
 
-
-<p class="centered"><span class="delete">2e député.</span></p>
+- {:.centered} <span class="delete">2e député.</span>
 
 - {:.indent-3} <span class="delete">A tout péché miséricorde... Une amnistie, voilà ce que
    nous <span class="delete">so</span>sommes venus vous offrir. Miséricorde pour tous, et pour <span class="add below">les chefs</span> tous la
@@ -1563,11 +1351,10 @@ coloniales...
 <hr>
 <a target="_blank" href="/data/sdw-data/P025.jpg">[ 25 ]</a>
 
-
-<p class="centered">Toussaint <span class="delete"><span class="unclear"> [? (l'arrêtant.)] </span></span></p>
+- {:.centered} Toussaint <span class="delete"><span class="unclear"> [? (l'arrêtant.)] </span></span>
 
 - {:.indent-3} <span class="add">C’est bien</span><span class="delete">Arrière Dessalines. Je suis seul chef ici, et ces hommes
-   m’ap­partiennent</span>. Vous, messieurs, vous exposerez à mes troupes les
+   m’ap‐partiennent</span>. Vous, messieurs, vous exposerez à mes troupes les
 
 - propositions que vous nous avez faites.
 
@@ -1576,15 +1363,14 @@ coloniales...
 Bruit de tam-tam.<span class="add">)</span>
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Un écroulement hostile de tour, de montagne, de phare achève
-d’hé­
+d’hé‐
 - siter aux confins du déclic
 - Un collier de perles favorables n’engourdit plus l’inquiétude
 - Des apostrophes tentaculaires s’animent au loin comme des
-cata­
+cata‐
 - clysmes
 - Déja le silence empoisonne chaque fibre
 - Des gestes hiéroglyphes avalés à moitié signalent
@@ -1592,8 +1378,7 @@ cata­
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - Les beaux yeux aveugles de la terres chantent d’eux-mêmes
 - l’école buissonnière, les sourcils joints des hauts labours
@@ -1615,12 +1400,11 @@ varechs
 
 - <span class="add">(</span>La scène est
 envahie par la foule <span class="add above">des insurgés</span>:
-masse d’hommes et de femmes ar­
+masse d’hommes et de femmes ar‐
 - més de coutelas.<span class="add">)</span>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Mes amis, les blancs nous envoient des embassadeurs.
 Voulez-vous
@@ -1628,16 +1412,14 @@ Voulez-vous
 
 
 
-
-<p class="centered">Des voix</p>
+- {:.centered} Des voix
 
 - {:.indent-3} Oui, oui<span class="add">,</span> qu’ils
 parlent.
 
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Mes chers amis... Je sais que vous en avez assez de cette
 guerre,
@@ -1645,30 +1427,26 @@ guerre,
 
 
 
-
-<p class="centered">Des voix.</p>
+- {:.centered} Des voix.
 
 - {:.indent-3} Oui, oui, c’est vrai.
 
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Vos femmes sont lasses
 d’une vie incertaine et vagabonde.
 
 
 
-
-<p class="centered">Des voix féminines.</p>
+- {:.centered} Des voix féminines.
 
 - {:.indent-3} Oui, oui; après?
 
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Revenez sur les habitations. Reprenez le travail. Nous
 sommes <span class="delete">pre</span>
@@ -1694,10 +1472,9 @@ contradictoires dans la foule.<span class="add">)</span>
 <a target="_blank" href="/data/sdw-data/P027.jpg">[ 27 ]</a>
 
 
+- {:.centered} Toussaint.
 
-<p class="centered">Toussaint.</p>
-
-- {:.indent-3} Camarades, vous les avez entendus<span class="add">;</span> de vos propres oreilles, enten­
+- {:.indent-3} Camarades, vous les avez entendus<span class="add">;</span> de vos propres oreilles, enten‐
 - dus.
 Comme ils sont bien gentils et bien conciliants, alors ils
 sont
@@ -1709,15 +1486,13 @@ vous
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - {:.indent-3} Mort aux blancs. Mort aux blancs.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Et les écoutant, vous avez compris, camarades, que <span class="delete">l'homme</span><span class="add above">les</span> blancs
 - n’ont pas encore renoncé<span class="delete">s</span> à
@@ -1728,8 +1503,7 @@ s’engraisser du sang et des larmes de
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - {:.indent-3} A mort. Tue. Tue.
 
@@ -1737,15 +1511,13 @@ s’engraisser du sang et des larmes de
 - (La foule se resserre comme une machoire.)
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Ici commence le baptème du sang.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Ici commence le repas de vengeance. Ici se noue la
 solidarité du
@@ -1753,8 +1525,7 @@ solidarité du
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - Baiser de gemmes, oubliettes du sang, belle comme la mémoire
 - dé<span class="delete">s</span><span class="add above">ss</span>aisie d’oubli frais, la vengeance s’est dressée avec l’oreille
@@ -1776,15 +1547,14 @@ oeil de serrure.
 <a target="_blank" href="/data/sdw-data/P028.jpg">[ 28 ]</a>
 
 - ( Les guerriers défilent devant les cadavres en
-brandissant des cou­
+brandissant des cou‐
 - telas.)
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Tout n’est pas fini Camarades... Qui portera aux blancs
-notre ré­
+notre ré‐
 - ponse flamboyante<span class="add">?</span>.. Oui... Aveugles et sourds, leurs ambassadeurs
 - naviguent
 du côté de l’enfer. Qui ira, et par quelles paroles nouer
@@ -1793,22 +1563,19 @@ d’autres viscères la peur terreuse?
 
 
 
-
-<p class="centered">Des voix.</p>
-
-- {:.indent-3} Nous-mêmes, nous tous.
-
-
-
-
-<p class="centered">La foule.</p>
+- {:.centered} Des voix.
 
 - {:.indent-3} Nous-mêmes, nous tous.
 
 
 
+- {:.centered} La foule.
 
-<p class="centered">Toussaint.</p>
+- {:.indent-3} Nous-mêmes, nous tous.
+
+
+
+- {:.centered} Toussaint.
 
 - {:.indent-3} C’est bien camarades...Tout de suite... Nous tous en avant
 et pas
@@ -1826,19 +1593,17 @@ frénétiques.)
 <a target="_blank" href="/data/sdw-data/P029.jpg">[ 29 ]</a>
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Un coup de sifflet... Les nègres sortent des broussailles
 avec<span class="delete">u</span>
 - une grande clameur. Les coutelas s’abattent et se relèvent et
-s’abat­
+s’abat‐
 - tent dans le moulinet de l’exaspération.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des
 cannes
@@ -1850,8 +1615,7 @@ mouches.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au
 pied
@@ -1859,60 +1623,54 @@ pied
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Le ravin bourgeonne de cadavres
 
 
 
-
-<p class="centered">Demi-choeur.</p>
+- {:.centered} Demi-choeur.
 
 - {:.indent-3} Iles nous<span class="add">&nbsp;</span>coupaient les jarrets.
 
 
 
-
-<p class="centered">Demi-choeur.</p>
+- {:.centered} Demi-choeur.
 
 - {:.indent-3} Iles nous<span class="add">&nbsp;</span>marquaient <span class="delete">de</span><span class="add above">au</span> fer rouge.
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} Et l’on nous vendait comme des bêtes et l’on nous comptait
 les
 - dents... et l’on nous tâtait les bourses et l’on examinait le
 cati
 - ou <span class="delete">le </span>décati de notre peau et l’on nous
-palpait et pesait et soupe­
+palpait et pesait et soupe‐
 - sait et l’on passait à notre cou de bête
 domptée, le collier de la
 - servitude et du sobriquet.
 
 
 
+- {:.centered} Le récitant.
 
-<p class="centered">Le récitant.</p>
-
-- {:.indent-3} Le vent s’est levé, les savanes se fendent <span class="delete">d'</span><span class="add">dans</span> une gloire de pana­
+- {:.indent-3} Le vent s’est levé, les savanes se fendent <span class="delete">d'</span><span class="add">dans</span> une gloire de pana‐
 - ches folles... J’entends des cris
-d’enfants...dans la maison du mai­
+d’enfants...dans la maison du mai‐
 - tre.
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} J’entends des cris d’enfants dans la case noire... et le
 petits
 - ventres pierreux pommés en leur mitan <span class="delete">
    d u </span><span class="add">du</span> nombril énorme se
-gon­
+gon‐
 - flent de famine et du noir migan de la terre et des larmes et
 de la
 - morve et de l’urine.
@@ -1926,16 +1684,14 @@ de la
 <a target="_blank" href="/data/sdw-data/P030.jpg">[ 30 ]</a>
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Au nom de tous les désirs effrités en la mare de vos
 âmes<span class="add">,</span>
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Au nom de tous les rêves paresseux en vos
 coeurs , je chante le
@@ -1944,8 +1700,7 @@ matador.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Je chante le geste salé du harponneur et la baleine a
 soufflé
@@ -1953,8 +1708,7 @@ soufflé
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} Un oiseau et son sourire... un navire et ses racines...
 l’horizon
@@ -1976,22 +1730,19 @@ sourire
 l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span>
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Vous êtes un indépendant, Monsieur.
 
 
 
-
-<p class="centered">2e député.</p>
+- {:.centered} 2e député.
 
 - {:.indent-3} Et vous un pompon blanc.
 
 
 
-
-<p class="centered">Ier député.</p>
+- {:.centered} Ier député.
 
 - {:.indent-3} Permettez-moi Monsieur, de vous rappeler quelle fin attend
 les
@@ -1999,16 +1750,14 @@ les
 
 
 
-
-<p class="centered">2e député.</p>
+- {:.centered} 2e député.
 
 - {:.indent-3} Et moi, Monsieur, celle qui attend les suppôts de la
 tyrannie.
 
 
 
-
-<p class="centered">Le gouverneur.</p>
+- {:.centered} Le gouverneur.
 
 - {:.indent-3} Hé, Messieurs, un peu de bon sens<span class="add">,</span> que diable. Vous savez o<span class="add">ù</span> nous
 - en sommes: en pleine révolte servile; la moitié de
@@ -2025,36 +1774,32 @@ outrag<span class="add">es,</span>
 
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} Mort aux philantropes.
 
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} A bas les négroph<span class="delete">ob</span><span class="add">il</span>es.
 
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} Mort à l’abbé Grégoire.
 
 
 
-
-<p class="centered">Le gouverneur.</p>
+- {:.centered} Le gouverneur.
 
 - {:.indent-3} Silence, messieurs. Ce n’est pas tout malheureusement.
 <span class="add">Pe</span>ndant que
 - la
 révolte <span class="add">e</span>ntoure le <span class="add">C</span>ap <span class="add">prome</span>nant p<span class="add">artout</span> l’<span class="add">incendie et</span> les cris 
 - du Vaudou, ici d<span class="add">ans</span> la ville, la voix de la
-sa<span class="add">ges</span>se a peine à se fai­
+sa<span class="add">ges</span>se a peine à se fai‐
 - re entendre. On s’en prend
 aux esclaves restés fidèles. On s’en
 - prend<span class="delete"></span> aux hommes de couleur. Plusieurs d’entre eux ont été
@@ -2063,8 +1808,7 @@ massa-
 
 
 
-
-<p class="centered"><span class="delete">Une voix.</span></p>
+- {:.centered} <span class="delete">Une voix.</span>
 
 - 
 
@@ -2077,36 +1821,31 @@ massa-
 <a target="_blank" href="/data/sdw-data/P032.jpg">[ 32 ]</a>
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} Pas d’armes pour les complices des nègres.
 
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} Pas de quartier pour les espions.
 
 
 
-
-<p class="centered">Une voix.</p>
+- {:.centered} Une voix.
 
 - {:.indent-3} Laissez parler monsieur le Gouverneur.
 
 
 
-
-<p class="centered">4è voix.</p>
+- {:.centered} 4è voix.
 
 - {:.indent-3} Mettons à prix la tête de Toussaint et de Boukmann.
 
 
 
-
-<p class="centered">I député.</p>
+- {:.centered} I député.
 
 - {:.indent-3} Monsieur le Gouverneur, avant d’aller plus outre, je
 propose de
@@ -2116,18 +1855,16 @@ ses décrets
 
 
 
-
-<p class="centered">I député.</p>
+- {:.centered} I député.
 
 - {:.indent-3} Je propose que sur l’une des places du Cap, on tienne en
-permanen­
+permanen‐
 - ce<span class="add">,</span> cinq
 potences et deux échafauds pour le supplice de la roue.
 
 
 
-
-<p class="centered">Le gouverneur.</p>
+- {:.centered} Le gouverneur.
 
 - {:.indent-3} Je vois, Messieurs, que vous ne m’avez guère compris. Il
 n’est
@@ -2158,12 +1895,10 @@ discutent encore.<span class="add">)</span>
 - <span class="add">une rue. la nuit. des groupes passent</span>
 
 
+- {:.centered} <span class="add">1er groupe :</span> Une
+voix. 
 
-<p class="centered"><span class="add">1er groupe :</span> Une
-   voix. 
-</p>
-
-- {:.indent-3} Vous avez raison, mon ami, vous avez raiso<span class="add">n,</span> C’est avec de la mau­
+- {:.indent-3} Vous avez raison, mon ami, vous avez raiso<span class="add">n,</span> C’est avec de la mau‐
 - vaise
 politique que l’on perd les colonies. Des combats, des plans
 - de
@@ -2172,7 +1907,7 @@ bataille. Trêve de balivernes. Avec les nègres, je ne connais
 moyen: la terreur. Moi qui vous parle, au<span class="delete">be</span>
 premier jour de
 - l’insurrection, j’ai fait planter 50 têtes des deux
-côtés de l’ave­
+côtés de l’ave‐
 - nue de mon habitation en guise de palmiers, et je
 vous garantis que
 - le troupeau n’a pas bougé. Voyez-vous...(la
@@ -2183,10 +1918,8 @@ voix se perd dans la
 
 
 
-
-<p class="centered"><span class="add">2e
-      groupe : </span><span class="delete">2e</span><span class="add above">une</span> voix.
-</p>
+- {:.centered} <span class="add">2e
+   groupe : </span><span class="delete">2e</span><span class="add above">une</span> voix.
 
 - {:.indent-3} Hum<span class="add">!</span> alors tout va
 rentrer dans l’ordre. Moi, j’ai confiance dans
@@ -2195,7 +1928,7 @@ type ce Blanchelande. Et puis, j’ai l’expérience de
 - ces pays là. Les
 Antilles, voyez-vous, un pays très doux, très doux.
 - ... tout doux...
-des îles à doudoux, vous comprenez. Alors, la Révo­
+des îles à doudoux, vous comprenez. Alors, la Révo‐
 - lution,
 bonsoir.
 (La voix fredonne :
@@ -2207,7 +1940,7 @@ Matinique
 
 - (Depuis quelques secondes des cris ont éclaté<span class="delete">s</span>; un chant monotone et
 - sauvage nait, grossit,
-approche. Des huées. Des ricanements. Un pié­
+approche. Des huées. Des ricanements. Un pié‐
 - tinement confus. Une
 troupe frénétique de nègres envahit la salle de
 - délibération, poussant
@@ -2216,23 +1949,20 @@ avec des bourrades et des clameurs quelques
 negre grotesque gesticule à l’estrade officielle.
 - Nous
 l’app<span class="add">e</span>llerons le
-speaker. Les nègres s’asseyent dans une confu­
+speaker. Les nègres s’asseyent dans une confu‐
 - sion
 indescriptible. Alors commence une séance sinistre et bouffonne
 - pleine
 d’emphase et de cruauté.)
 
 
-
-<p class="centered">Le speaker</p>
+- {:.centered} Le speaker
 
 - Silence, Messieurs, silence.
 
 
 
-
-<p class="centered"><span class="add">1</span>er énergumène.
-</p>
+- {:.centered} <span class="add">1</span>er énergumène.
 
 - {:.indent-3} <span class="add">P</span>as de silence
 qui tienne<span class="delete">nt</span>. Nous sommes libres et égaux en droit<span class="add">s.</span>
@@ -2247,8 +1977,7 @@ qui tienne<span class="delete">nt</span>. Nous sommes libres et égaux en droit<
 <a target="_blank" href="/data/sdw-data/P034.jpg">[ 34 ]</a>
 
 
-
-<p class="centered">2e énergumène.</p>
+- {:.centered} 2e énergumène.
 
 - {:.indent-3} Et moi je dis: malheur à ceux qui n'ont pas vu inscrit sur
 le<span class="delete">m</span>
@@ -2258,20 +1987,18 @@ le<span class="delete">m</span>
 
 
 
-
-<p class="centered">Le speaker.</p>
+- {:.centered} Le speaker.
 
 - {:.indent-3} La séance est ouverte , Messieurs.
 
 
 
-
-<p class="centered">3e énergumène.</p>
+- {:.centered} 3e énergumène.
 
 - {:.indent-3} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance
 que
 - personne n'a jamais fermée? <span class="delete add">J'ai
-   l'honneur de repousser toute mo­tion <span class="delete">de</span> en ce sens.</span>
+   l'honneur de repousser toute mo‐tion <span class="delete">de</span> en ce sens.</span>
 
 
 - (Nouveaux cris au dehors. Une nouvelle bande arrive sous
@@ -2281,34 +2008,30 @@ bout une
 - tête coupée; la tête du gouverneur.)
 
 
-
-<p class="centered">Porte-drapeau.</p>
+- {:.centered} Porte-drapeau.
 
 - {:.indent-3} Debout, camarades, voilà le gouverneur.
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - {:.indent-3} Mort aux blancs, mort aux blancs.
 
 
-
-<p class="centered">Le speaker (soufletant la tête coupée)</p>
+- {:.centered} Le speaker (soufletant la tête coupée)
 
 - {:.indent-3} La parole est à Monsieur le Gouverneur.
 
 
-
-<p class="centered">Le porte-drapeau (d'une voix nasillarde)</p>
+- {:.centered} Le porte-drapeau (d'une voix nasillarde)
 
 - {:.indent-3} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs,
 il <span class="delete">n'e</span>
 - n’est plus temps de délibérer. Ma décision est prise. Avec les
-nè­
+nè‐
 - gres, je ne connais qu’un moyen, la terreur. La terreur est à
-l’or­
+l’or‐
 - dre du jour, Messieurs...
 
 
@@ -2322,8 +2045,7 @@ l’or­
 <a target="_blank" href="/data/sdw-data/P035.jpg">[ 35 ]</a>
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - {:.indent-3} A mort; à mort.
 
@@ -2332,8 +2054,7 @@ l’or­
 - Le speaker danse la bamboula sur l’estrade.
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - {:.indent-3} A la Matinique, Matinique, Matinique
 - {:.indent-3} C’est çà qui chic, C’est çà qui chic
@@ -2341,8 +2062,7 @@ l’or­
 
 
 
-
-<p class="centered">Le speaker:</p>
+- {:.centered} Le speaker:
 
 - {:.indent-3} A la Matinique, Matinique, Matinique...
 
@@ -2350,27 +2070,25 @@ l’or­
 - (Le silence tombe raide, funèbre.)
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Il monte...Il monte des profondeurs de la terre... Le flot
 noir
 - monte... des vagues de hurlements... des marais de senteurs
 animales
 - ... l’orage écumant des pieds nus... et il en grouille
-toujours d’au­
+toujours d’au‐
 - tres dévalant les sentiers des mornes, gravissant
 l’escarpement des
 - ravins, torrents obscènes et sauvages grossisseurs
-de fleuves chaoti­
+de fleuves chaoti‐
 - ques, de mers pourries, d’océans convulsifs dans
 le rire charbonneux
 - du coutelas et de l’alcool mauvais...
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} En ma main noire et rouge s’époumonne une aurore de sureau
 blanc
@@ -2384,34 +2102,30 @@ blanc
 <a target="_blank" href="/data/sdw-data/P036.jpg">[ 36 ]</a>
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Au commencement, il n’y avait rien...
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Pardon, camarade, au commencement il y avait la nuit.
 
 
-
-<p class="centered">Le récitant (docile)</p>
+- {:.centered} Le récitant (docile)
 
 - {:.indent-3} Camarade, au commencement il y avait la nuit...
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} La nuit et la misère, Camarade, la misère et l’acceptation
-<span class="delete">uni­</span>
+<span class="delete">uni‐</span>
 - <span class="delete">verselles </span>animales; la nuit bruissante de souffles d’esclaves
-dila­
-- tant sur les pas du christophore, la grande mer de misères<span class="add below"> et de dividendes</span> la gran­
+dila‐
+- tant sur les pas du christophore, la grande mer de misères<span class="add below"> et de dividendes</span> la gran‐
 - de
 mer de sang noir, la grande houle de cannes à sucre <span class="add above"><span class="delete">et de dividendes</span></span><span class="delete">et</span> le grand
 - océan d’horreurs et de
@@ -2422,17 +2136,18 @@ fin...
 
 
 
-
-<p class="centered">Le récitant. (d’une voix cinglante.)</p>
+- {:.centered} Le récitant. (d’une voix cinglante.)
 
 - {:.indent-3} A la fin, je m’en vais vous dire, moi, ce que je
 voisà la fin:
 - à la fin... <span class="delete"><span class="unclear"> [?la culbute de
-      l'Europe] </span></span>,ah oui, à l’extrème fin, la cul­
+      l'Europe] </span></span>,ah oui, à l’extrème fin, la cul‐
 - <span class="delete">bute</span>
+resets the line in the proper place. Light pencil was used
+originally and was then reinforced with the darker pencil.
 - bute de l’Europe, la posée sur cette merde hystérique des
 goules
-- masticatrices, son avachissement visité<span class="delete">e</span> d’épouvantes, son<span class="add"> &nbsp; </span>insolen­
+- masticatrices, son avachissement visité<span class="delete">e</span> d’épouvantes, son<span class="add"> &nbsp; </span>insolen‐
 - ce triturée de prières, et,
 sur se blessures, la pimentade de mon
 - rire et le sel de mes
@@ -2454,15 +2169,13 @@ tournent de temps en temps la tête pour regarder si on
 demi rassurées, elles<span class="delete"></span> déposent leur baluchon.<span class="add">)</span>
 
 
-
-<p class="centered">Iere jeune fille.</p>
+- {:.centered} Iere jeune fille.
 
 - {:.indent-3} Mes dents claquent.
 
 
 
-
-<p class="centered">2e jeune fille.</p>
+- {:.centered} 2e jeune fille.
 
 - {:.indent-3} Ah. quelle fatigue... Nous sommes trempées... Il y a de la
 brume
@@ -2470,8 +2183,7 @@ brume
 
 
 
-
-<p class="centered">La mère.</p>
+- {:.centered} La mère.
 
 - {:.indent-3} Courage mes <span class="delete">pauvres</span> enfants...
 Courage... C’est dur tout de même.
@@ -2483,35 +2195,30 @@ Aîe. mes jambes...
 
 - <span class="add">(</span>Les femmes ont
 disparu; même décor. Une houe écorne la scène. Des
-- houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [?e] </span></span><span class="add">s</span> qui labourent au crépus­
+- houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [?e] </span></span><span class="add">s</span> qui labourent au crépus‐
 - cule.<span class="add">)</span>
 
-
-<p class="centered">Ier esclave (chantant)</p>
-
-- {:.indent-3} Hé, mes amis, ho.
-
-
-
-<p class="centered">2e esclave (chantant)</p>
+- {:.centered} Ier esclave (chantant)
 
 - {:.indent-3} Hé, mes amis, ho.
 
 
+- {:.centered} 2e esclave (chantant)
 
-<p class="centered">Ier esclave (chantant)</p>
+- {:.indent-3} Hé, mes amis, ho.
+
+
+- {:.centered} Ier esclave (chantant)
 
 - {:.indent-3} La terre est une fatigue; ma fatigue va la fatiguer.
 
 
-
-<p class="centered">2e esclave (chantant)</p>
+- {:.centered} 2e esclave (chantant)
 
 - {:.indent-3} Le soleil est une fatigue; ma fatigue va l<span class="delete"><span class="unclear"> [?e] </span></span><span class="add">a</span> fatiguer.
 
 
-
-<p class="centered">3e esclave (chantant)</p>
+- {:.centered} 3e esclave (chantant)
 
 - {:.indent-3} La pluie est une fatigue; ma fatigue va la fatiguer.
 
@@ -2524,31 +2231,27 @@ disparu; même décor. Une houe écorne la scène. Des
 <a target="_blank" href="/data/sdw-data/P038.jpg">[ 38 ]</a>
 
 
-
-<p class="centered">Ier esclave.</p>
+- {:.centered} Ier esclave.
 
 - {:.indent-3}  Hé, mes amis, ho.
 
 
 
-
-<p class="centered">2è esclave.</p>
+- {:.centered} 2è esclave.
 
 - {:.indent-3} Ma fatigue est un gouffre; aucun sommeil ne saurait le
 combler.
 
 
 
-
-<p class="centered">3e esclave.</p>
+- {:.centered} 3e esclave.
 
 - {:.indent-3} Ma fatigue est une soif, ho, aucune boisson ne saurait
 l’apaiser.
 
 
 
-
-<p class="centered">Choeur des esclaves.</p>
+- {:.centered} Choeur des esclaves.
 
 - {:.indent-3} Hé, ho. Ho, mes amis, ho
 - Ma fatigue est un tombereau de sable insonore
@@ -2556,8 +2259,7 @@ l’apaiser.
 pétrifiées.
 
 
-
-<p class="centered">Le récitant  (lugubre.)</p>
+- {:.centered} Le récitant  (lugubre.)
 
 - {:.indent-3} Saint-Domingue fond comme un noyé dans l’acide des gorges
 de la
@@ -2565,16 +2267,14 @@ de la
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} La mort pleure tout doucement dans le cou de la
 nuit...
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} 3000 flamboyants s’effrènent au néant de la nuit, à
 l’oubli de <span class="delete">l</span>
@@ -2584,8 +2284,7 @@ l’oubli de <span class="delete">l</span>
 
 - <span class="add">(</span>Coups de feu...<span class="add">)</span>
 
-
-<p class="centered">Le récitant. (fébrile)</p>
+- {:.centered} Le récitant. (fébrile)
 
 - {:.indent-3} Sonthonax ouvre les prisons... Sonthonax arme les
 esclaves...
@@ -2599,8 +2298,7 @@ esclaves...
 <hr>
 <a target="_blank" href="/data/sdw-data/P039.jpg">[ 39 ]</a>
 
-
-<p class="centered">La récitante  (dolente)</p>
+- {:.centered} La récitante  (dolente)
 
 - {:.indent-3} 300.000 hommes, tribart brisé, se précipitent dans la
 ville et
@@ -2614,39 +2312,34 @@ chaloupes
 
 
 
-
-<p class="centered">Le récitant  (féroce)</p>
+- {:.centered} Le récitant  (féroce)
 
 - {:.indent-3} ... Les têtes roulent comme des cabosses de cacao.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Le tam-tam halète; le tam-tam éructe... le tam-tam <span class="delete">de feu</span> crache
 - des sauterelles <span class="delete">de</span><span class="add above">de feu et de</span> sang.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Le feu défonce la nuit de ses épis canaques...
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} ... le feu accroche ses fanes rapaces aux toits fascinés
-des mai­
+des mai‐
 - sons...
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} ... La ville s’effondre sur ses jarrets... Dans le vertige
 lent
@@ -2655,8 +2348,7 @@ cris...
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} Mort aux blancs. Mort aux blancs.
 
@@ -2673,13 +2365,12 @@ humide,
 - le silence de la Caraïbe. Subitement un navire envahit tout le
 <span class="delete">cham</span>
 - champ de vision, en perdition; et dans la chair de la mer
-phospho­
+phospho‐
 - rescente, une inscription explose, sanglante, reflétée par les
-é­
+é‐
 - cueils.)<span class="add below">: <span class="underlined">République d’Haïti.</span></span>
 
-
-<p class="centered">Le choeur  (enthousiaste)</p>
+- {:.centered} Le choeur  (enthousiaste)
 
 - {:.indent-3} Haiti. Hâïti.
 
@@ -2688,8 +2379,7 @@ phospho­
 - à
 tatons sur le devant de la scène.)
 
-
-<p class="centered">Le récitant  (pleurant)</p>
+- {:.centered} Le récitant  (pleurant)
 
 - Froid coeur de la mort, la lagune a dégainé son <span class="add above">rire de</span> poignard.
 
@@ -2705,8 +2395,7 @@ tatons sur le devant de la scène.)
 <p class="centered"><span class="delete">Acte III.</span><span class="add">Acte II</span></p>
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des
 mondes
@@ -2715,8 +2404,7 @@ scabreuse
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Me voici, l'homme-marchand aux mains vides, oeil nu su<span class="add">s</span>citant le
 spectacle,
@@ -2725,19 +2413,17 @@ spectacle,
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Me voici, moi, moi: la <span class="delete">fmme-pbsédée</span> femme obsédée des grandes
 paroles et je <span class="delete">nag</span>
 - nage parmi les glaieuls et les roses de
-Jéricho vers l'odeur simple des cada­
+Jéricho vers l'odeur simple des cada‐
 - vres?
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de <span class="delete">meutres</span><span class="add above">meurtres</span> n'est‐
 - ce pas? Plus de crimes flamboyants? L'orgue de
@@ -2751,8 +2437,7 @@ de<span class="delete">v</span>
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la
 glace du
@@ -2764,8 +2449,7 @@ le
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Il fait beau une gerbera plus nue qu'une femme <span class="delete">du soleil</span> dans le soleil joue
 - vers le soleil et le soleil crépite
@@ -2775,15 +2459,13 @@ voyageur coeur tressé belles-eáux-souflées-haut-gelées.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - île j'aime ce mot frais guetté de Karibs et de requins. J'attends.
 
 
 
-
-<p class="centered"><span class="delete">Récitante. </span><span class="delete"><span class="add">Récitante</span></span></p>
+- {:.centered} <span class="delete">Récitante. </span><span class="delete"><span class="add">Récitante</span></span>
 
 - <span class="delete"><span class="add"><span class="unclear"> [?Ô j'attends
          passionnément : je suis cernée] </span></span></span>
@@ -2806,9 +2488,7 @@ sa suite. Toussaint s'installe sous un dais : les
 successives.<span class="add">)</span>
 
 
-
-<p class="centered"><span class="add">(</span>1ère délégation,<span class="add">)</span> 1er orateur.
-</p>
+- {:.centered} <span class="add">(</span>1ère délégation,<span class="add">)</span> 1er orateur.
 
 - {:.indent-3} Gloire à Toussaint Louverture : il a purgé la colonie des
 hordes
@@ -2816,16 +2496,13 @@ hordes
 
 
 
-
-<p class="centered">La foule ;</p>
+- {:.centered} La foule ;
 
 - Hurrah !
 
 
 
-
-<p class="centered"><span class="add">(</span>2è délégation<span class="add">)</span> 2è orateur.
-</p>
+- {:.centered} <span class="add">(</span>2è délégation<span class="add">)</span> 2è orateur.
 
 - Gloire à Toussaint Louverture, le Spartacus noir, le nègre prédit
 par
@@ -2833,32 +2510,27 @@ par
 
 
 
-
-<p class="centered">La foule .</p>
+- {:.centered} La foule .
 
 - Hurrah !
 
 
 
-
-<p class="centered"><span class="add">(</span>3è délégation<span class="add">)</span> 3è orateur.
-</p>
+- {:.centered} <span class="add">(</span>3è délégation<span class="add">)</span> 3è orateur.
 
 - Reconnaissance éternelle à Toussaint Louverture, pacificateur,
-restaura­
+restaura‐
 - teur...
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - Hurrah!
 
 
 
-
-<p class="centered">Le Prévot des marchands.</p>
+- {:.centered} Le Prévot des marchands.
 
 - {:.indent-3} Reconnaissance éternelle à Toussaint Louverture,
 restaurateur éclairé
@@ -2867,8 +2539,7 @@ l'industrie.
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - Hurrah ! Hurrah !
 
@@ -2881,8 +2552,7 @@ l'industrie.
 <a target="_blank" href="/data/sdw-data/P043.jpg">[ 43 ]</a>
 
 
-
-<p class="centered">Le grand Maitre de l'Université.</p>
+- {:.centered} Le grand Maitre de l'Université.
 
 - Gloire et reconnaissance à Toussaint Louverture éducateur du peuple
 !
@@ -2892,7 +2562,7 @@ la Martinique
 - {:.indent-3} "L'ignorance est un lien nécessaire pour des hommes
 enchainés par la
 - violence ou flétris par les préjugés ". Ici, dans
-notre libre Haïti, ago­
+notre libre Haïti, ago‐
 - nise, gràce à l'impétueux génie de Toussaint
 Louverture, le système impie
 - qui voulait que l'ignorance fût une
@@ -2900,15 +2570,13 @@ politique, une police, un dogme.
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - Hurrah !
 
 
 
-
-<p class="centered">Le représentant français.</p>
+- {:.centered} Le représentant français.
 
 - {:.indent-3} Au nom de la France, je confirme le général Toussaint
 Louverture dans
@@ -2917,37 +2585,31 @@ Louverture dans
 
 
 
-
-<p class="centered">La foule.</p>
+- {:.centered} La foule.
 
 - Vive Toussaint ! Vive Toussaint !
 
 
 
-
-<p class="centered"><span class="add">(</span>Délégation du clergé.<span class="add">)</span> Les chantres.
-</p>
+- {:.centered} <span class="add">(</span>Délégation du clergé.<span class="add">)</span> Les chantres.
 
 - Salvum fac imperatorem.
 
 
 
-
-<p class="centered">L'archevèque.</p>
+- {:.centered} L'archevèque.
 
 - Dieu nous l'a donné ! Dieu nous le conservera . <span class="stage">(
    Il bénit la foule).</span>
 
 
-
-<p class="centered">Les chantres  braillant.</p>
+- {:.centered} Les chantres  braillant.
 
 - Salvum fac gubernatorem
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Îles heureuses
 - jardins de la reine
@@ -2966,15 +2628,13 @@ images
 <hr>
 <a target="_blank" href="/data/sdw-data/P044.jpg">[ 44 ]</a>
 
-
-<p class="centered">Chantres  braillant.</p>
+- {:.centered} Chantres  braillant.
 
 - Salvum fac civitatis fundatorem.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Une tour
 - il y a des lézard<span class="add">es</span> dans le mur <span class="add">; </span><span class="delete">je vois une comète dessus</span>
@@ -2985,15 +2645,13 @@ images
 goulûment.
 
 
-
-<p class="centered">Chantres  ( braillant plus fort )</p>
+- {:.centered} Chantres  ( braillant plus fort )
 
 - Salvum fac Spartacum!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Allez vous-en
 - allez
@@ -3005,15 +2663,13 @@ goulûment.
 
 
 
-
-<p class="centered">Chantres.</p>
+- {:.centered} Chantres.
 
 - Salvum fac libertatis aedificator<span class="add">e</span>m ! <span class="add">-rem</span>
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Un singe, je <span class="delete">singe </span>suis un singe qui par ses
 grimaces attroupe
@@ -3037,8 +2693,7 @@ inavouables
 <a target="_blank" href="/data/sdw-data/P045.jpg">[ 45 ]</a>
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Toulon, Brest, Lorient, Cadix
 - une flotte!
@@ -3047,8 +2702,7 @@ inavouables
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Oh! la levée des bâtardeaux !
 - une agonie sur les eaux
@@ -3060,24 +2714,21 @@ guépards pluvieux
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Connaissez-vous <span class="delete">Samarra .</span><span class="add above">Samana ?</span> Ici est<span class="add">
    &nbsp;</span>ma querencia:
 - malheur à qui m'y traque.
 
 
-
-<p class="centered">Chantres <span class="add">
-      (</span>braillant.<span class="add">)</span></p>
+- {:.centered} Chantres <span class="add">
+   (</span>braillant.<span class="add">)</span>
 
 - Salvum fac.<span class="add">..</span>
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Sur une branche de vague fleurie un<span class="add">e</span> fil<span class="add">e</span> de hérons
 blancs
@@ -3085,27 +2736,24 @@ blancs
 
 
 
-
-<p class="centered">Récitante<span class="delete">s</span></p>
+- {:.centered} Récitante<span class="delete">s</span>
 
 - .... une houle de marsouins de frégates <span class="delete">de connivances</span>
 - avant-garde de <span class="delete">voratrices</span><span class="add above">voceratrices</span> et de fossoyeurs.
 
 
 - ( La scène est envahie par des prêtres de tous ordres qui
-bénissent frénéti­
+bénissent frénéti‐
 - quementº)
 
 
-
-<p class="centered">Les chantres.</p>
+- {:.centered} Les chantres.
 
 - Te Deum
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Nom de Dieu !
 - mais foutez le camp, espèce de nom de Dieu!
@@ -3134,8 +2782,7 @@ d'invisibles mains s'abat
 désarroi.)
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ha ! ha !
 - ils n'aiment pas ça . C'est curieux.
@@ -3144,9 +2791,7 @@ désarroi.)
 
 - ( sauve qui peut; le clergé sort en bénissant <span class="delete"></span><span class="delete">fébrilement</span><span class="add above">peureusement</span> )
 
-
-<p class="centered">Les chantres ( à rec<span class="delete">o</span>ulons)
-</p>
+- {:.centered} Les chantres ( à rec<span class="delete">o</span>ulons)
 
 - Salvum fac imperatorem
 - salvum fac gubernatorem.
@@ -3158,8 +2803,7 @@ désarroi.)
 de médaillesº)
 
 
-
-<p class="centered"><span class="add">le choeur </span><span class="delete">Nourrice.</span></p>
+- {:.centered} <span class="add">le choeur </span><span class="delete">Nourrice.</span>
 
 - C'est moi la nourrice . Toussaint Louverture, bien sûr qu'il n'avait pas
 de
@@ -3194,8 +2838,7 @@ temps on était plus doux,
 <a target="_blank" href="/data/sdw-data/P047.jpg">[ 47 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - ailes et branches cassées
 - à tour de rôle les victimes se succédent aux chutes
@@ -3211,15 +2854,13 @@ temps on était plus doux,
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - ... l'esclavage.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Masse sans <span class="delete"><span class="unclear"> [?comunauté- ] </span></span>communauté ni communion
 - une église brûle dans l'écrin <span class="add">d</span>e la forêt tordue
@@ -3228,19 +2869,17 @@ temps on était plus doux,
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - il y aura encore des yeux comme des tournesols ou de grands sojas
-amoureux ban­
+amoureux ban‐
 - dés d'oisaux aussi beaux qu'une sonnerie de pomme
-d'adam dans l'éclair des colè­
+d'adam dans l'éclair des colè‐
 - res brèves.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - <span class="delete">Cp </span>Coupeurs de choux-palmistes,
 - charmeurs de <span class="delete">serp<span class="unclear"> [?n] </span>nts</span><span class="add above">serpents</span>
@@ -3251,8 +2890,7 @@ d'adam dans l'éclair des colè­
 
 
 
-
-<p class="centered"><span class="delete">le choeu.</span></p>
+- {:.centered} <span class="delete">le choeu.</span>
 
 - 
 
@@ -3269,32 +2907,25 @@ d'adam dans l'éclair des colè­
 
 - <span class="underlined">Ier groupe de passants.</span>
 
-
-<p class="centered">Ier passant.</p>
+- {:.centered} Ier passant.
 
 - Tu as vu la gueule du pêlerin : une vraie gueule de macaque.
 
 
 
-
-<p class="centered"><span class="underlined">2e passant</span>.
-</p>
+- {:.centered} <span class="underlined">2e passant</span>.
 
 - Une tête de macaque où se caricature un bicorne de général.
 
 
 
-
-<p class="centered"><span class="underlined">3e passant</span>.
-</p>
+- {:.centered} <span class="underlined">3e passant</span>.
 
 - On dit que d'est un rude compère.
 
 
 
-
-<p class="centered"><span class="underlined">2e passant</span>.
-</p>
+- {:.centered} <span class="underlined">2e passant</span>.
 
 - N'empêche que ça m'emmerde de voir un bicorne de général français sur
 une
@@ -3302,9 +2933,7 @@ une
 
 
 
-
-<p class="centered"><span class="underlined">Ier passant</span> .
-</p>
+- {:.centered} <span class="underlined">Ier passant</span> .
 
 - {:.indent-3} M'est avis qu'on se fout de lui. Dame! Les anglais et les
 Espagnols nous
@@ -3312,9 +2941,7 @@ Espagnols nous
 
 
 
-
-<p class="centered"><span class="underlined">2e passant</span>.
-</p>
+- {:.centered} <span class="underlined">2e passant</span>.
 
 - {:.indent-3} Encore comme ça! Les Anglais et les Espagnols mis à la
 raison, on renvoie
@@ -3326,8 +2953,7 @@ devant lui au garde à vous.
 
 - <span class="underlined">2e groupe de passants</span>.
 
-
-<p class="centered"><span class="underlined">Ier passant.</span></p>
+- {:.centered} <span class="underlined">Ier passant.</span>
 
 - {:.indent-3} Un nègre, capitaine général de Saint Domingue! C'est à la
 fois ridicule,
@@ -3347,9 +2973,7 @@ un ouistiti, un
 <a target="_blank" href="/data/sdw-data/P050.jpg">[ 50 ]</a>
 
 
-
-<p class="centered"><span class="underlined">2e passant</span>.
-</p>
+- {:.centered} <span class="underlined">2e passant</span>.
 
 - Vous vous égarez mon cher congénère... Vous vous
 égarez parce que vous
@@ -3361,7 +2985,7 @@ capitaine
 - Mais voyez-vous jeune homme....dangereux par dess<span class="delete">o</span>us tout. et je m'en vais
 - vous dire pourquoi....
 - {:.indent-3} Vous connaissez la version blanche (notre version) de
-l'histoire du né­
+l'histoire du né‐
 - grier : le nègre Cinquez donne le signal de la
 révolte. La révolte triomphe.
 - Mais voilà le nègre Cinquez ne sait
@@ -3389,9 +3013,7 @@ pain....
 <span class="add"><span class="delete"><span class="unclear"> [?(palais de Toussaint une terrasse. )] </span></span></span>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Je ne puis chasser de mes yeux cette image : des mangeuses
 de terre dans
@@ -3399,17 +3021,13 @@ de terre dans
 
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Choeur</span>.
 
 - {:.indent-3} Je ne vois rien qu'un mur de splendeur et de gloire.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Toutes les mordorures et tout l'espoir au dos des mains,
 au creux des
@@ -3425,9 +3043,7 @@ pas.
 <a target="_blank" href="/data/sdw-data/P051.jpg">[ 51 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Le Choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le Choeur</span>.
 
 - {:.indent-3} Tes palais sont magnifiques, ton peuple libre. L'île
 <span class="delete">d'</span><span class="add above">est </span>une embarcation de
@@ -3436,18 +3052,15 @@ aphrodisiaque aux seins de safran.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Mes palais , je les hais. Mon île-limite, est une prison,
-et je suis pri­
+et je suis pri‐
 - sonnier.
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} J'entends de tout un peuple monter vers toi des
 hymnes.
@@ -3455,9 +3068,7 @@ hymnes.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - J'ai capté dans l'espace d'extraordinaires messages....pleins
 - de poignards<span class="add">,</span> de nuits, de
@@ -3473,9 +3084,7 @@ dévorateur....
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - {:.indent-3} Saint Domingue est heureuse : un oiseau sans peur jette
 son cri de flamme
@@ -3483,9 +3092,7 @@ son cri de flamme
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - .... un grand brasier de prunelles rouges et de crabes....,
 - {:.indent-3} un ensemencement pour voir- de mouches, de palabres, de
@@ -3497,9 +3104,7 @@ redresser,
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur</span>.
-</p>
+- {:.centered} <span class="underlined">Le choeur</span>.
 
 - Je sens des astres s' attendrir dans ma chair,des
 laitances, des lunes, des
@@ -3518,9 +3123,7 @@ laitances, des lunes, des
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Assez de bonheur!
 - les étranges mendiants aux
@@ -3540,8 +3143,7 @@ mère
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur.</span></p>
+- {:.centered} <span class="underlined">Le choeur.</span>
 
 - Quel fil tendu par dessus les forêts, les fleuves, les marais, les
 langues
@@ -3554,9 +3156,7 @@ poussières et d'insultes, le puits
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Je ne renoncerai pas... je ne renoncerai pas à
 moi-même.
@@ -3581,9 +3181,7 @@ moi-même.
 
 
 
-
-<p class="centered"><span class="underlined">Le Récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le Récitant</span>.
 
 - Attention!'
 - Je crie attention du haut de ma guette.
@@ -3598,9 +3196,7 @@ inattendue
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - Attention!
 - Je crie attention du haut de ma guette.
@@ -3627,63 +3223,51 @@ de
 hommes courent en tous sens.<span class="add">)</span>
 
 
-
-<p class="centered"><span class="underlined">Des voix</span>.
-</p>
+- {:.centered} <span class="underlined">Des voix</span>.
 
 - Les Blancs débarquent, les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Des voix.</span></p>
+- {:.centered} <span class="underlined">Des voix.</span>
 
 - Les blancs débarquent ... les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - les blancs débarquent.
 
 
 ( La foule grossit devant le palais de Toussaint. Toussaint parait au
-bal­
+bal‐
 - con.)
 
 
-
-<p class="centered"><span class="underlined">Des cri</span>s.
-</p>
+- {:.centered} <span class="underlined">Des cri</span>s.
 
 - Les blancs débarquent, les blancs débarquent.
 
 
 (Coups de canon dans le lointain, puis un silence... Un drapeau blanc
-jail­
+jail‐
 - lit du sol.)
 
 
-
-<p class="centered"><span class="underlined">Une voix</span>.
-</p>
+- {:.centered} <span class="underlined">Une voix</span>.
 
 - Les blancs envoient des <span class="add">p</span>arlementaires.
 
 
 
-
-<p class="centered"><span class="underlined">La foule.</span></p>
+- {:.centered} <span class="underlined">La foule.</span>
 
 - Des parlementaires? ... Les blancs envoient des parlementaires?
 
@@ -3692,9 +3276,7 @@ jail­
 blanc<span class="delete">e</span>.)
 
 
-
-<p class="centered"><span class="underlined">Des cris</span>.
-</p>
+- {:.centered} <span class="underlined">Des cris</span>.
 
 - Vive la Liberté! Vive la liberté! Vive Toussaint Louverture!
 
@@ -3707,9 +3289,7 @@ blanc<span class="delete">e</span>.)
 <a target="_blank" href="/data/sdw-data/P055.jpg">[ 55 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Une aube juste battait sourire
 - une aube juste battait espoirs
@@ -3722,24 +3302,19 @@ charrue...
 
 
 
-
-<p class="centered"><span class="underlined">Soldat</span>.
-</p>
+- {:.centered} <span class="underlined">Soldat</span>.
 
 - {:.indent-3} Mon général, les blancs envoient des parlementaires.
 
 
 
-
-<p class="centered"><span class="underlined">La foule.</span></p>
+- {:.centered} <span class="underlined">La foule.</span>
 
 - Les blancs envoient des parlementaires!
 
 
 
-
-<p class="centered"><span class="underlined">Le récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Le récitant</span>.
 
 - <span class="delete">Eaux surveillées de griffons</span> Au seuil de la<span class="delete">n</span>
 nuit
@@ -3750,9 +3325,7 @@ nuit
 
 
 
-
-<p class="centered"><span class="underlined">La récitante</span>.
-</p>
+- {:.centered} <span class="underlined">La récitante</span>.
 
 - Eaux surveillées de griffons
 - sommeil au chant des incendies
@@ -3773,8 +3346,7 @@ nuit
 <a target="_blank" href="/data/sdw-data/P056.jpg">[ 56 ]</a>
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - Général, il est encore temps: la République vous donne à choisir entre
 la paix
@@ -3782,30 +3354,26 @@ la paix
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Est-ce à moi de choisir? Attaqué, je me défends.
 
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - La <span class="delete">Répblique </span>République espérait trouver en vous un fils
 soumis et dévoué.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Alors, pourquoi cette flotte? ces troupes? ces canons?
 
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - Je serais franc, la République entend faire rentrer,sous<span class="delete">domination </span> sa domination
 - la plus belle de ses colonies:
@@ -3813,15 +3381,13 @@ Saint Domingue.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - J'ignorais que Saint Domingue eut proclamé son indépendance.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - manioc des brûlis
 - feu des campements
@@ -3842,65 +3408,56 @@ piments
 <a target="_blank" href="/data/sdw-data/P057.jpg">[ 57 ]</a>
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - Abrégeons, le temps presse: quelles sont vos intentions, général?
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Je vous l'ai déjà dit; résister à toute agression .
 
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - C'est votre dernier mot..
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Mon dernier mot...
 
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - Eh bien <span class="delete">nous- </span>nous débarquerons. Tirez sur nous si vous
 osez.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Nous oserons. Nous avons pour nous le droit, <span class="delete">l'honeur</span><span class="add above">l'honneur </span>la liberté.
 
 
 
-
-<p class="centered">Parlementaire.</p>
+- {:.centered} Parlementaire.
 
 - C'est la guerre. C'est bien. Adieu général.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - C'est la guerre, adieu.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Nous sommes au moment où 9 scorpions se <span class="delete">frappett </span>frappent-
 formés par la malédic­
@@ -3918,16 +3475,12 @@ A ce moment des tams-tams éclatent frénétiques, couvrent
 les voix.
 
 
-
-<p class="centered"><span class="underlined">Parlementaire</span>.
-</p>
+- {:.centered} <span class="underlined">Parlementaire</span>.
 
 - {:.indent-3} Qu'est ce que c'est?...
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>  (extatique)
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>  (extatique)
 
 - Accoudé à la rampe de feu,
 - les cris des nuages ne me suffisaient <span class="delete">plus</span> pas.
@@ -3945,17 +3498,14 @@ les voix.
 
 
 
-
-<p class="centered"><span class="underlined">Parlementaire.</span></p>
+- {:.centered} <span class="underlined">Parlementaire.</span>
 
 - {:.indent-3} Général, le 1er consul a à se plaindre de votre
 administration.
 
 
 
-
-<p class="centered"><span class="underlined">Toussain</span>t.
-</p>
+- {:.centered} <span class="underlined">Toussain</span>t.
 
 - {:.indent-3} Et moi, j'ai à me plaindre de l'ingratitude de la
 République.
@@ -3963,9 +3513,7 @@ République.
 
 
 
-
-<p class="centered">P<span class="underlined">arlementaire</span>.
-</p>
+- {:.centered} P<span class="underlined">arlementaire</span>.
 
 - <span class="delete">Laissons là des considérations économiques et
    policières... </span>Ce que vous
@@ -3980,8 +3528,7 @@ République.
 <a target="_blank" href="/data/sdw-data/P059.jpg">[ 59 ]</a>
 
 
-
-<p class="centered">le choeur.</p>
+- {:.centered} le choeur.
 
 - Dites au Vaudou d'éteindre le jaune solaire de ses
 <span class="delete">minitsminuig</span> minuits
@@ -3991,8 +3538,7 @@ République.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Arpège de guitares sinistres il se lève sous mes paupières
 - &nbsp;&nbsp;une aube saignée à blanc
@@ -4010,17 +3556,14 @@ République.
 <a target="_blank" href="/data/sdw-data/P060.jpg">[ 60 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Récitante</span>.
-</p>
+- {:.centered} <span class="underlined">Récitante</span>.
 
 - {:.indent-3} Nous sommes au moment où un volcan se saborde dans la
 soute à corail.
 
 
 
-
-<p class="centered"><span class="underlined">Récitant</span></p>
+- {:.centered} <span class="underlined">Récitant</span>
 
 - Nous sommes au moment où l'impératrice décrète dans les grottes de
 l'empire
@@ -4029,25 +3572,19 @@ cuisses d'une pluie
 - de datûras où râle une lance flammée.
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>  (à la foule)
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>  (à la foule)
 
 - {:.indent-3} Mes amis, cries avec moi : Vive la liberté.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Vive la liberté. Vive Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Ils débarquent ... les blancs débarquent... Ils viennent
 nous remettre
@@ -4056,24 +3593,20 @@ dans notre libre Haïti.
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Vive la liberté. Vive la liberté.
 
 
 
-
-<p class="centered">T<span class="underlined">oussaint</span>.
-</p>
+- {:.centered} T<span class="underlined">oussaint</span>.
 
 - {:.indent-3} S'il est encore parmi vous quelques naïfs gonflés
 d'illusion, je leur dis
 - que les blancs ne font plus mystère de leur <span class="delete"><span class="unclear"> [?dessein] </span></span><span class="add above">dessein</span> . Mes amis, écoutez bien
 - Les
 blancs ont rétabli<span class="delete">s</span> l'esclavage à la Martinique, à la
-Guadeloupe. Marti­
+Guadeloupe. Marti‐
 - nique esclavage, Guadeloupe esclavage :
 entendez-vous ? Alors je dis qu'il
 - n'y a plus de doute : ce qu'ils
@@ -4084,17 +3617,13 @@ nous et nos en­
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Aux armes . Aux armes . Mort aux blancs.
 
 
 
-
-<p class="centered">T<span class="underlined">oussaint</span>.
-</p>
+- {:.centered} T<span class="underlined">oussaint</span>.
 
 - {:.indent-3} "Aux armes." Ça á été le cri de vos frères guadeloupéens
 quand ils ont
@@ -4105,9 +3634,7 @@ sauter plutôt que de se rendre...
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Vive la liberté . Vive Toussaint.
 
@@ -4120,32 +3647,26 @@ sauter plutôt que de se rendre...
 <a target="_blank" href="/data/sdw-data/P061.jpg">[ 61 ]</a>
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} L'Europe elle-même nous a appris qu'un peuple qui se bat
-pour sa liber­
+pour sa liber‐
 - té est invincible...
 
 
 
-
-<p class="centered"><span class="underlined">La foule</span>.
-</p>
+- {:.centered} <span class="underlined">La foule</span>.
 
 - {:.indent-3} Mort aux blancs.
 
 
 
-
-<p class="centered">T<span class="underlined">oussaint</span>.
-</p>
+- {:.centered} T<span class="underlined">oussaint</span>.
 
 - {:.indent-3} Mes ordres, je vous les communiquerai plus tard. Mais
-sachez dès mainte­
+sachez dès mainte‐
 - nant que les blancs ne doivent avancer ici que
-parmi des ruines et des dé­
+parmi des ruines et des dé‐
 - combres : trois coups de canon vous
 donneront le signal <span class="delete">de la </span><span class="add above">d'une </span>démolition
 - sytémati<span class="delete">sée</span><span class="add above">que</span><span class="delete"> et</span><span class="add">,</span> implacable . Feu et
@@ -4155,26 +3676,20 @@ mort.
 
 
 
-
-<p class="centered">L<span class="underlined">a foule</span>.
-</p>
+- {:.centered} L<span class="underlined">a foule</span>.
 
 - {:.indent-3} Vive Haïti. Vive Toussaint.
 - La liberté ou la mort. Vive Toussaint. Vive Toussaint.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Aux armes . Aux armes.
 
 
 
-
-<p class="centered">L<span class="underlined">a foul</span>e.
-</p>
+- {:.centered} L<span class="underlined">a foul</span>e.
 
 - {:.indent-3} Aux armes . (La foule se disperse en
 courant.)
@@ -4183,41 +3698,32 @@ courant.)
 
 
 
-
-<p class="centered"><span class="underlined">Des voix</span>.
-</p>
+- {:.centered} <span class="underlined">Des voix</span>.
 
 - {:.indent-3} Les blancs débarquent . Les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - {:.indent-3} Les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Voix</span>.
-</p>
+- {:.centered} <span class="underlined">Voix</span>.
 
 - {:.indent-3} Les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">Des cris frénétiques.</span></p>
+- {:.centered} <span class="underlined">Des cris frénétiques.</span>
 
 - {:.indent-3} Vive Toussaint Louverture . Vive Toussaint
 Louverture.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint </span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint </span>.
 
 - Faites sauter la ville ;
 - j'assassinerai, je dépècerai
@@ -4250,41 +3756,31 @@ courent
 - des explosions... de la fumée... une panique...)
 
 
-
-<p class="centered"><span class="underlined">Des voix</span>.
-</p>
+- {:.centered} <span class="underlined">Des voix</span>.
 
 - {:.indent-3} Les blancs débarquent . Les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">des voix</span>.
-</p>
+- {:.centered} <span class="underlined">des voix</span>.
 
 - {:.indent-3} Les blancs débarquent.
 
 
 
-
-<p class="centered"><span class="underlined">des voix</span>.
-</p>
+- {:.centered} <span class="underlined">des voix</span>.
 
 - {:.indent-3} Vive la Liberté.
 
 
 
-
-<p class="centered"><span class="underlined">des voix</span>.
-</p>
+- {:.centered} <span class="underlined">des voix</span>.
 
 - {:.indent-3} Mort aux blanc . A mort les blancs.
 
 
 
-
-<p class="centered"><span class="underlined">des voi</span>x.
-</p>
+- {:.centered} <span class="underlined">des voi</span>x.
 
 - {:.indent-3} Vive le liberté . Vive Toussaint.
 
@@ -4294,9 +3790,7 @@ courent
 cavaliers.)
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - défaite .
 - ils avancent
@@ -4326,42 +3820,33 @@ secrètes
 
 
 
-
-<p class="centered">1<span class="underlined">er cavalier.</span></p>
+- {:.centered} 1<span class="underlined">er cavalier.</span>
 
 - {:.indent-3} Fougères bègues guidez nous.
 
 
 
-
-<p class="centered"><span class="underlined">2è cavalier</span>.
-</p>
+- {:.centered} <span class="underlined">2è cavalier</span>.
 
 - Paroles séchées de<span class="add">s</span> herbes
 - guidez nous
 
 
 
-
-<p class="centered"><span class="underlined">3è cavalier</span>.
-</p>
+- {:.centered} <span class="underlined">3è cavalier</span>.
 
 - Couleuvres endolories
 - guidez nous.
 
 
 
-
-<p class="centered"><span class="underlined">4è cavalier</span>.
-</p>
+- {:.centered} <span class="underlined">4è cavalier</span>.
 
 - Lucioles, cris du silex, guidez nous.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Guidez nous
 - ô guidez nous
@@ -4372,9 +3857,7 @@ secrètes
 ( la troupe s'ébranle).
 
 
-
-<p class="centered">R<span class="underlined">écitant</span>.
-</p>
+- {:.centered} R<span class="underlined">écitant</span>.
 
 - Vers le soir de grandes îles de crachat s'élargirent en annonces
 somptuaires
@@ -4402,9 +3885,7 @@ paysage
 ( une lande désolée : leurs d'incendie)
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - {:.indent-3} Encore . Encore
 - des labyrinthes du vin et de la mer
@@ -4413,7 +3894,7 @@ paysage
 jour
 - je ne désavoue rien
 - sa vaisselle d'argent <span class="add">:</span> Mon rire
-- ses oriflammes de fruits d'eau de mer de coquillage <span class="add">:</span> Ma tristesse, ma jun­
+- ses oriflammes de fruits d'eau de mer de coquillage <span class="add">:</span> Ma tristesse, ma jun‐
 - gle, mes
 malédictions stimulées...
 - hélas.
@@ -4455,9 +3936,7 @@ noir
 
 
 
-
-<p class="centered"><span class="underlined">Récitante</span>.
-</p>
+- {:.centered} <span class="underlined">Récitante</span>.
 
 - {:.indent-3} des malédictions écrasées sous les pierres palpitent en
 travers du chemin
@@ -4470,8 +3949,7 @@ contre nature
 
 
 
-
-<p class="centered"><span class="underlined">Le choeur.</span></p>
+- {:.centered} <span class="underlined">Le choeur.</span>
 
 - {:.indent-3} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
@@ -4482,9 +3960,7 @@ contre nature
 
 
 
-
-<p class="centered"><span class="underlined">Toussain</span>t.
-</p>
+- {:.centered} <span class="underlined">Toussain</span>t.
 
 - {:.indent-3} Je cherche les traces de ma puissance comme un dans la
 brousse les traces
@@ -4519,9 +3995,7 @@ soleil.
 
 
 
-
-<p class="centered"><span class="underlined">Récitant</span>.
-</p>
+- {:.centered} <span class="underlined">Récitant</span>.
 
 - dépecé éparpillé
 - dans les terrains dans les halliers
@@ -4530,32 +4004,26 @@ soleil.
 
 
 
-
-<p class="centered"><span class="underlined">Récitante</span>.
-</p>
+- {:.centered} <span class="underlined">Récitante</span>.
 
 - Saint Domingue saigne
 
 
 
-
-<p class="centered"><span class="underlined">Récitant</span></p>
+- {:.centered} <span class="underlined">Récitant</span>
 
 - Haïti saigne.
 
 
 
-
-<p class="centered"><span class="underlined">Récitante.</span></p>
+- {:.centered} <span class="underlined">Récitante.</span>
 
 - Cul de sac de misères, de solitude<span class="add">,</span> d'herbes
 puantes
 
 
 
-
-<p class="centered"><span class="underlined">Toussain</span>t.
-</p>
+- {:.centered} <span class="underlined">Toussain</span>t.
 
 - le caïman <span class="add">!</span> les torches <span class="add">!</span> les drapeaux<span class="add">!</span>
 - et l'Amazone <span class="unclear"> [?degout] </span> d'hévéas
@@ -4578,39 +4046,31 @@ puantes
 
 
 
-
-<p class="centered"><span class="underlined">1ère voix suterraine</span></p>
+- {:.centered} <span class="underlined">1ère voix suterraine</span>
 
 - {:.indent-3} Toussaint Louverture.
 
 
 
-
-<p class="centered">2<span class="underlined">è voix souterraine.</span></p>
+- {:.centered} 2<span class="underlined">è voix souterraine.</span>
 
 - {:.indent-3} Touss<span class="add above">a</span>int Louverture.
 
 
 
-
-<p class="centered"><span class="underlined">3er chuchotement</span>.
-</p>
+- {:.centered} <span class="underlined">3er chuchotement</span>.
 
 - {:.indent-3} Toussaint Louverture.
 
 
 
-
-<p class="centered"><span class="underlined">2è chuchochement</span>.
-</p>
+- {:.centered} <span class="underlined">2è chuchochement</span>.
 
 - {:.indent-3} Toussaint Louverture.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint Louverture</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint Louverture</span>.
 
 - est-ce qu'ils croient m'avoir comme la laie et le marcassin?
 - m'extirper comme une racine sans suite?
@@ -4628,16 +4088,13 @@ feuilles,
 
 
 
-
-<p class="centered">3<span class="underlined">è chuchotement</span>.
-</p>
+- {:.centered} 3<span class="underlined">è chuchotement</span>.
 
 - {:.indent-3} Toussaint Louverture.
 
 
 
-
-<p class="centered">T<span class="underlined">oussaint</span></p>
+- {:.centered} T<span class="underlined">oussaint</span>
 
 - Inutile de me contredire
 - je n'entends <span class="delete">pas</span> rien
@@ -4666,9 +4123,7 @@ feuilles,
 
 
 
-
-<p class="centered"><span class="underlined">1ère voix céle</span>s<span class="underlined">te</span>.
-</p>
+- {:.centered} <span class="underlined">1ère voix céle</span>s<span class="underlined">te</span>.
 
 - {:.indent-3} Que l'on me b<span class="add">â</span>tisse sur des
 montagnes de charniers durcis, une prison : je
@@ -4677,17 +4132,14 @@ narines des ombres glissantes et du mauvais temps.
 
 
 
-
-<p class="centered"><span class="underlined">2è voix céleste.</span></p>
+- {:.centered} <span class="underlined">2è voix céleste.</span>
 
 - {:.indent-3} Que l'on m'invente des tortures
 - je vois d'ennuis exploser les roses trémières des longs silences
 pacifiques.
 
 
-
-<p class="centered"><span class="underlined">Choeur</span>.  souterrain.
-</p>
+- {:.centered} <span class="underlined">Choeur</span>.  souterrain.
 
 - {:.indent-3} Voici ma main . voici ma main .
 - Ma main fraiche, ma main de jet d'eau de sang
@@ -4697,8 +4149,7 @@ pacifiques.
 
 
 
-
-<p class="centered">T<span class="underlined">oussaint.</span></p>
+- {:.centered} T<span class="underlined">oussaint.</span>
 
 - Dieux d'en bas, dieux bons
 - j'emporte dans ma gueule délabrée
@@ -4721,8 +4172,7 @@ bras")
 ( entrent les <span class="delete">évêques </span><span class="add above">dieux noirs et rouges </span>paissants sous la houlette de l'archevêque) 
 
 
-
-<p class="centered">1e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span></p>
+- {:.centered} 1e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span>
 
 - quelle époque. Mes enfants vous avez fait là une belle boucherie
 
@@ -4730,8 +4180,7 @@ bras")
 ( il s'assied sur son trône )
 
 
-
-<p class="centered">2e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span></p>
+- {:.centered} 2e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span>
 
 - Une époque étonnante mes frères: la morue terre-neuvienne se jette
 d'elle-même s
@@ -4741,8 +4190,7 @@ d'elle-même s
 ( il s'assied sur son trône )
 
 
-
-<p class="centered">3e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span></p>
+- {:.centered} 3e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span>
 
 - Je dis que c'est une époque étourdissante ou stupéfiante à votre
 gré
@@ -4751,8 +4199,7 @@ gré
 ( il s'assied sur son trône )
 
 
-
-<p class="centered">4e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span></p>
+- {:.centered} 4e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span>
 
 - Une époque phallique et fertile en miracles
 
@@ -4762,20 +4209,18 @@ gré
 - est fou.)
 
 
-
-<p class="centered">l'archevêque</p>
+- {:.centered} l'archevêque
 
 - Allons, j'aime les bêtes de beau pelage: ne tuez pas les chats.
 - ouha. brrouha. ou-ou-ah
 
 
 ( les <span class="delete"><span class="unclear"> [?évêques] </span></span><span class="add above">dieux </span>se touchent le front du doigt et désignent l'archevêque pour
-in­
+in‐
 - diquer qu'il a perdu la raison.) 
 
 
-
-<p class="centered">l'archevêque</p>
+- {:.centered} l'archevêque
 
 - Allons, j'entends la flut<span class="delete">t</span>e perlée des crapauds et le
 <span class="unclear"> [?crécellement] </span> rugueux des
@@ -4794,29 +4239,25 @@ soi
 <a target="_blank" href="/data/sdw-data/P070.jpg">[ 70 ]</a>
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - ô j'attends passionnément: je suis cernée...
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - cerné d'yeux, de cauchemars.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - cernée d'enfants et d'yeux et de ruées de <span class="delete">rres</span> rires.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Cataractes voici les cataractes et le chant meurtrier clair des oiseaux.
 
@@ -4827,36 +4268,31 @@ Entre
 - le voyageur la tête recouverte d'un voile).
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Bonjour bonnes gens, bonjour
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - Hein? C'est drôle? Pourquoi bonjour?;
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Ouf, je viens de loin.
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - De combien loin?
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - De bien loin... Dites, j'ai jadis connu par;ici un homme qui
 <span class="delete">s'apelait</span><span class="add above">s'appelait </span> Tous<span class="delete">sain</span>­
@@ -4867,15 +4303,13 @@ hardies... Toussaint, Toussaint Louverture.
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - Hein, <span class="delete">c'est drôle</span> nous le conaissons pas.
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Et pourtant c'est dans cette lande qu'enfant il joua, saharien, avec
 pour
@@ -4883,8 +4317,7 @@ pour
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - &nbsp;C'est drôle et bien possible nous le connaissons pas. Nous passons
 notre vie
@@ -4900,8 +4333,7 @@ notre vie
 <a target="_blank" href="/data/sdw-data/P071.jpg">[ 71 ]</a>
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Eh bien, salut planteurs de pierres, et moi je suis un planteur de
 paroles.
@@ -4910,65 +4342,57 @@ dirais-je?
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - Un homme en morsures profondes.
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Comment? en morsures profondes? Vous le connaissez?
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - <span class="delete">C'est drôle </span>nous le connaissons pas.
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Oui toutefois.. un homme étonnant... en morsure<span class="add">s</span> profondes..Il parcourut le pays
 - à la vitesse
 rapide de l'éclair et de la liberté, imprimant sur le sol de
-cada­
+cada‐
 - vres<span class="delete">e</span><span class="unclear"> [? détrempés] </span>, ses pas fertiles.
 
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - Excusez-nous, nous ne le connaissons pas.
 
 
 
-
-<p class="centered">le voyageur.</p>
+- {:.centered} le voyageur.
 
 - Peuple <span class="add above">singulier</span>.. et ils ne savent
-pas reconnaitre parmi les jonquilles une face de tem­
+pas reconnaitre parmi les jonquilles une face de tem‐
 - pête.
 
 
 ( Le voyageur enlève son voile)
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Me connaissez-vous maintenant<span class="add">?</span>
 
 
 
-
-<p class="centered">les bones gens.</p>
+- {:.centered} les bones gens.
 
 - <span class="delete">C'est drôle </span><span class="add above">Non</span><span class="add">,</span> nous ne vous connaissons
 pas.
@@ -4977,8 +4401,7 @@ pas.
 ( Toussaint les bat nerveusement. )
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre
 colère, <span class="delete">vot</span>
@@ -4990,8 +4413,7 @@ laineuse, votre paroxysme.
 s'arrêtent<span class="add"> )</span>
 
 
-
-<p class="centered">les bonnes gens.</p>
+- {:.centered} les bonnes gens.
 
 - <span class="delete">C'est drôle, </span>tu nous <span class="delete"><span class="unclear"> [?importunet-] </span></span> importunes éétranger; nous ne croyons à
 rien..
@@ -5011,8 +4433,7 @@ rien..
 des pierres)
 
 
-
-<p class="centered">les bonnes gens</p>
+- {:.centered} les bonnes gens
 
 - Hein, c'est drôle: nous ne le connaissons pas.
 - ( Toussaint
@@ -5024,36 +4445,31 @@ avec
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Mes enfants je suis un roi qui ne possède rien, bonjour
 
 
 
-
-<p class="centered">Les deterreurs de pierres</p>
+- {:.centered} Les deterreurs de pierres
 
 - Un <span class="delete"><span class="unclear"> [?roi ?] </span></span> roi?
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - ... Qui ne possède rien
 
 
 
-
-<p class="centered">Les deterreurs de pierres.</p>
+- {:.centered} Les deterreurs de pierres.
 
 - Pouvons nous vous aider?
 
 
 
-
-<p class="centered">Toussaint .</p>
+- {:.centered} Toussaint .
 
 - Ravaudeurs du désert, baptisez moi.
 - ( Toussaint s'incline
@@ -5066,8 +4482,7 @@ tête et la nuque)
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche,
 demi‐
@@ -5093,8 +4508,7 @@ retourne et crie
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - A la folle enchère, à mes frais, à mes risques et périls...
 - (
@@ -5116,49 +4530,42 @@ Toussaint a disparu)
 En France. Une prison dans le Jura.
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Salut Toussaint.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Salut feuille morte.
 
 
 
-
-<p class="centered">Choeur.</p>
+- {:.centered} Choeur.
 
 - Salut prince de l'exil
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Tén<span class="underlined">è</span>bres du cachot je vous salue.
 
 
 
-
-<p class="centered">1e spectre.</p>
+- {:.centered} 1e spectre.
 
 - Les soirs dégringolent comme un enfant dans l'escalier.
 
 
 
-
-<p class="centered">2e spectre.</p>
+- {:.centered} 2e spectre.
 
 - Je danserai autour de ma victime la danse du scalp.
 
 
-
-<p class="centered">Geolier.  ( s'adressant au public)</p>
+- {:.centered} Geolier.  ( s'adressant au public)
 
 - Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la
 face
@@ -5178,7 +4585,7 @@ fra<span class="delete">te</span>­
 - {:.indent-3} Ah, le résultat ne se fit guère attendre. Il y eut du
 comique. Il y eut
 - du tragique. Il y eut de l'horrible. On vit des
-cannibales entrer gonflés d'or­
+cannibales entrer gonflés d'or‐
 - gueil dans les villes prises; on en
 vit aux Te Deum. On en vit rédiger des
 - constitutions. Voilà ce que
@@ -5187,7 +4594,7 @@ l'on vit , bonnes gens qui m'écoutez. Et ce que
 fumée dans le ciel de midi, le feu dans le ciel de
 minuit
 - d'innombrables aurores boréales jetant au loin le reflet du
-crime et de l'ab­
+crime et de l'ab‐
 - surdité.
 
 
@@ -5200,9 +4607,9 @@ crime et de l'ab­
 
 - {:.indent-3} Hé bien, je dis qu'il est une justice
 suprème<span class="delete">,</span><span class="add above"> et</span> c'est
-elle qui refait au­
+elle qui refait au‐
 - jourd'hui du général Tou<span class="add above">s</span>saint Louverture, le vieux Toussaint, l'esclave
-Tous­
+Tous‐
 - saint, triste chose oubliée aux latrines de l'histoire, un
 nègre pouilleux,
 - un nègre dégringolé...
@@ -5212,8 +4619,7 @@ malédiction des
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - {:.indent-3} Saint Domingue... Saint Domingue aux yeux <span class="delete">d'antinomie</span><span class="add above">d'antimoine</span>, à<span class="delete">,</span> la bouche de
 - Kola fraiche. St Domingue la
@@ -5223,8 +4629,7 @@ mûre.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Saint Domingue salve de <span class="delete">bouse</span><span class="add above">bouse</span> coupée d'or. Mords moi, mords moi, <span class="add above">j'entends</span><span class="delete">j'entend</span>
 - tes chiens dans le tonnerre, j'entends ton amour dans mes
@@ -5233,16 +4638,14 @@ veines. Mords moi.
 
 
 
-
-<p class="centered">Choeur.</p>
+- {:.centered} Choeur.
 
 - {:.indent-3} Je ne sais pas ce qu'elles disent, mais ses paroles me
 font mal
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Attaché comme une enseigne au haut bout de la France, je
 ne sanglotte pas
@@ -5250,39 +4653,34 @@ ne sanglotte pas
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Nous avons miné l'écho : tes paroles brûleront comme des
 excréments.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Marron, ton seul drapeau, le mien : de périls et de révolte sans
 remords.
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Tu te vantes de tes forfaits.
 
 
 
-
-<p class="centered">Toussaint</p>
+- {:.centered} Toussaint
 
 - J'ai acclimaté un arbre de soufre et de laves chez un peuple de
 vaincus.
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Misérable.
 
@@ -5296,8 +4694,7 @@ vaincus.
 <a target="_blank" href="/data/sdw-data/P075.jpg">[ 75 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - La race de terre la race par terre s'est <span class="delete">cousue</span><span class="add above">connu</span> des pieds.
 - Congo et Missi<span class="add">ss</span>ipi coulez de l'or
@@ -5307,15 +4704,13 @@ vaincus.
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Tu expieras prisonnier de la neige, de la solitude, du désespoir.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Tout comme moi, ton maitre saignera un jour :
 - naufragé
@@ -5328,8 +4723,7 @@ vaincus.
    Messager)</span>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ah. Voici le digne messager de cette race <span class="delete">cupide</span><span class="add above">cupide</span>.
 - L'or et l'argent ont tissé leur teint p<span class="add">â</span>le
@@ -5340,15 +4734,13 @@ fauve
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ô mes membre<span class="add">s</span> de mur bousillé
 - vous n'éteindrez pas de fatigue ou de froid
@@ -5364,15 +4756,13 @@ fauve
 <a target="_blank" href="/data/sdw-data/P076.jpg">[ 76 ]</a>
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - les minutes autour de moi processionnent
 - comme une bande de loups efflanqués
@@ -5426,15 +4816,13 @@ fauve
 <a target="_blank" href="/data/sdw-data/P078.jpg">[ 78 ]</a>
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je me souviens des soirs : le crépuscule était un colibri
 <span class="delete">vert-</span>bleu-vert
@@ -5442,15 +4830,13 @@ fauve
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Le crépuscule hésitait frissonnant et fragile parmi les criquets
 rapiéçeurs
@@ -5458,15 +4844,13 @@ rapiéçeurs
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint Louverture.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Qui m'appelle ? J'écoute. Je n'écoute pas.
 - Il y a dans ma tête une riviere de <span class="delete">boue</span><span class="add">boue</span> d'ablettes de choses troubles et
@@ -5480,8 +4864,7 @@ violées
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - {:.indent-3} Toussaint, une trompette guerrière a passé dans les airs:
 elle crachait
@@ -5489,16 +4872,14 @@ elle crachait
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - {:.indent-3} Les chauves-souris vampires volaient autour du cou lisse
 du soleil.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - des singes gambadaient autour du Lion à face d'homme.
 - Toussaint, Toussaint, c'est le jour de l'épreuve.
@@ -5512,8 +4893,7 @@ du soleil.
 <a target="_blank" href="/data/sdw-data/P079.jpg">[ 79 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Je ne crains rien, je ne crains rien mes amis.
 - Aujourd'hui est un jour de connivence.
@@ -5521,25 +4901,23 @@ du soleil.
 lèvres et le mangot qui tombe,tombe lugubrement
 - et les
 fleurs ressemblent à des ensevelis qui répondent de plus en plus
-fai­
+fai‐
 - blement, mais aujourd'hui je suis en paix et le filao que ne
 vois pas, me
-- fait des signes et la mer me <span class="delete"><span class="unclear"> [?sourit] </span></span><span class="add above">sourit</span> de toutes ses fossettes et chaque manceni­
+- fait des signes et la mer me <span class="delete"><span class="unclear"> [?sourit] </span></span><span class="add above">sourit</span> de toutes ses fossettes et chaque manceni‐
 - llier se double
 et se suicide de l'olivier propice.
 - {:.indent-3} Jour de l'épreuve, soyez le bienvenu.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint Louverture.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Hé bien, te voilà digne messager de la race supérieure
 - Pleins de flair, ayant humé l'odeur du trésor proche, nos maitres t'ont
@@ -5551,8 +4929,7 @@ gazelle.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Toussaint, je suis ravi de vous voir revenu à de meilleures
 dispositions.
@@ -5565,30 +4942,26 @@ pas:
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - ...Considérable...le trésor des anciens flibustiers grossi par ma
 prévoyance.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Hé bien Toussaint.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ce trésor, vous ne l'aurez pas.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - <span class="add margin">&nbsp;|&nbsp;Comment!&nbsp;|&nbsp;</span><span class="delete">Et</span>
 vos promesses<span class="add">?</span> vos
@@ -5604,65 +4977,56 @@ lettre?
 <a target="_blank" href="/data/sdw-data/P080.jpg">[ 80 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je dis que <span class="delete">vou sne</span><span class="add above">vous ne</span> l'aurez pas.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - {:.indent-3} Nous l'aurons, car de lui dépend votre vie.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Vous ne l'aurez pas: c'est l'or de la vengeance et de la
 Liberté.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - {:.indent-3} Insolent, tu braves le 1er Consul.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je ne le brave pas, je le hais.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - {:.indent-3} Assez.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je vous hais.
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - {:.indent-3} Insolent. (il le frappe)
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Merci, ah merci... J'avais encore besoin de cette lâcheté
 là. ah, comme
@@ -5670,19 +5034,16 @@ là. ah, comme
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - Voyons Toussaint, vous avez perdu la bataille. Vous êtes vaincu: il n'y
-a pas de désh<span class="add">o</span>­
+a pas de désh<span class="add">o</span>‐
 - <span class="delete">Voyons Toussaint,
    vous avez perdu la bataill</span>nneur à le reconnaitre.
 
 
 
-
-<p class="centered"><span class="underlined">Toussaint</span>.
-</p>
+- {:.centered} <span class="underlined">Toussaint</span>.
 
 - Toussaint est vaincu; l'esprit de Toussaint n'est pas vaincu.
 - Il anime encore des milliers de volontés
@@ -5691,8 +5052,7 @@ a pas de désh<span class="add">o</span>­
 
 
 
-
-<p class="centered">Messager.</p>
+- {:.centered} Messager.
 
 - {:.indent-3} <span class="delete">Toussaint</span>, tes puériles
 imaginations me font sourire de pitié.
@@ -5710,8 +5070,7 @@ imaginations me font sourire de pitié.
 <a target="_blank" href="/data/sdw-data/P081.jpg">[ 81 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Le vol? Moi, le vol, mon fils?
 - Tu mens <span class="delete">dhien</span><span class="add above">chien</span>; hors de ma vue, hors d'ici te dis-je ou je
@@ -5720,9 +5079,7 @@ t<span class="delete">e</span>'étrangle.
 - Non traitre, bourreau ... bourreau.
 
 
-
-<p class="centered">Le<span class="add">-</span>nègre<span class="add">-</span>à<span class="add">-</span>lunettes  ( sententieux)
-</p>
+- {:.centered} Le<span class="add">-</span>nègre<span class="add">-</span>à<span class="add">-</span>lunettes  ( sententieux)
 
 - Je dis : ô que les querelles pourrissent longuement !
 - Je ne suis pas de ceux qui crachent l'huile sur le feu
@@ -5746,15 +5103,12 @@ qu'on-devrait-taire.
 - Je dis : ô , je veux oublier longuement.
 
 
-
-<p class="centered">Toussaint  (debout)</p>
+- {:.centered} Toussaint  (debout)
 
 - .... Et moi je veux crier
 
 
-
-<p class="centered"><span class="delete">Et</span> Le<span class="add">-</span>nègre<span class="add">-</span>à<span class="add">-</span>lunettes  ( s'enfuyant)
-</p>
+- {:.centered} <span class="delete">Et</span> Le<span class="add">-</span>nègre<span class="add">-</span>à<span class="add">-</span>lunettes  ( s'enfuyant)
 
 - Je dis : ô que les querelles pourrissent ! Au secours ! Au secours !
 
@@ -5763,17 +5117,15 @@ qu'on-devrait-taire.
 
 
 
+- {:.centered} 1er Pretre  ( index tendu vers Toussaint)
 
-<p class="centered">1er Pretre  ( index tendu vers Toussaint)</p>
-
-- Ladre, je te défends, si tu vas par les chemins et si <span class="add above">tu</span> rencontres une person­
+- Ladre, je te défends, si tu vas par les chemins et si <span class="add above">tu</span> rencontres une person‐
 - ne qui te parle de te mettre au
 dessus du vent avant de répondre .
 
 
 
-
-<p class="centered">2 ème prètre.</p>
+- {:.centered} 2 ème prètre.
 
 - Ladre, je te défends d'aller dans les ruelles étroites, de peur que
 quelqu'un
@@ -5790,23 +5142,20 @@ rencontre.
 <a target="_blank" href="/data/sdw-data/P082.jpg">[ 82 ]</a>
 
 
-
-<p class="centered">3ème prêtre</p>
+- {:.centered} 3ème prêtre
 
 - Je te défends de manger et boire en compagnie .
 
 
 
-
-<p class="centered">4ème prêtre</p>
+- {:.centered} 4ème prêtre
 
 - Je te défends de sortir sans t'annoncer afin que l'on puisse
 s'éloigner.
 
 
 
-
-<p class="centered">Toussaint</p>
+- {:.centered} Toussaint
 
 - Et moi je veux crier crier et on m'entendra jusqu'au bout du monde
 .
@@ -5814,21 +5163,18 @@ s'éloigner.
 
 
 
-
-<p class="centered">Le Récitant</p>
+- {:.centered} Le Récitant
 
 - Le<span class="delete"></span>fils arrive .
 
 
 
-
-<p class="centered">La Récitante</p>
+- {:.centered} La Récitante
 
 - Le fils arrive ...
 
 
-
-<p class="centered">Toussaint  (extatique)</p>
+- {:.centered} Toussaint  (extatique)
 
 - Trois enfants noirs jouent dans mon oeil
 - Sollicités de chiens
@@ -5860,8 +5206,7 @@ maîtres
 <a target="_blank" href="/data/sdw-data/P083.jpg">[ 83 ]</a>
 
 
-
-<p class="centered"><span class="delete">Toussaint.</span></p>
+- {:.centered} <span class="delete">Toussaint.</span>
 
 - toucan
 - vent du désastre
@@ -5879,49 +5224,43 @@ maîtres
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Le fils arrive.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - &nbsp;Le fils arrive.
 
 
 
-
-<p class="centered">Choeur.</p>
+- {:.centered} Choeur.
 
 - Attention : le fils arrive.
 
 
 
-
-<p class="centered">Toussaint</p>
+- {:.centered} Toussaint
 
 - C'est bien : je dema<span class="add">n</span>de une torche et
 mon fils arrive.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Attention : le fils arrive.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Un trésor ! mais c'est moi qui leur réclame mon trésor volé !
 - Londres ! Paris ! New York ! Amsterdam !
 - Je les vois toutes réunies autour de moi comme des étoiles, comme des
-lunes triom­
+lunes triom‐
 - phales
 - et je veux avec mes mauvais yeux, mon haleine pourrie mes doigts
 d'aveugle dans
@@ -5955,44 +5294,38 @@ absurdement respecté de
 
 
 
-
-<p class="centered">Le fils.</p>
+- {:.centered} Le fils.
 
 - Mon père, aidez moi à vous aider.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Je ne veux pas être aidé, je veux mourir ici.
 
 
 
-
-<p class="centered">Le fils.</p>
+- {:.centered} Le fils.
 
 - Un mot, un seul mot de vous, mon père et votre sort en est changé.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ce mot, je ne le prononcerai pas.
 
 
 
-
-<p class="centered">Le fils.</p>
+- {:.centered} Le fils.
 
 - Je veux te rendre à lagloire, à la liberté, à ton île :
 - et le vesou ne sentait pas mauvais, non, dans le matin fruité.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ah! le scélérat n'avait pas menti .... Et ils lancent le fils suborné
 aux trousse<span class="add">s</span>
@@ -6011,8 +5344,7 @@ aux trousse<span class="add">s</span>
 
 
 
-
-<p class="centered">Fils.</p>
+- {:.centered} Fils.
 
 - Saint Domingue attend la paix,
 - l'oubli,
@@ -6021,8 +5353,7 @@ aux trousse<span class="add">s</span>
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Hélas.
 - comme un papayer tendre
@@ -6036,18 +5367,16 @@ force d'envoyer aux extrémités le sang ferme
 
 
 
-
-<p class="centered">fils.</p>
+- {:.centered} fils.
 
 - Je ne suis pas un lâche . Je ne suis pas un traitre.
 - Ce que je suis, je ne l'ai point choisi: fixé équitablement entre deux
-con­
+con‐
 - tinent, je suis un être de médiation.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je me souviens d'un jour de novembre; tu n'avais pas 6
 mois et le maitre
@@ -6055,7 +5384,7 @@ mois et le maitre
 rousse, et il tatait tes
 - petits membre<span class="add">s</span> musclés, c'était un très bon maitre
 - il promena d'une caresse ses doigts gros sur ton petit visage plein de
-fosset­
+fosset‐
 - tes, ses yeux bleus riaient et sa bouche te taquinait de
 choses sucrées,
 - ce sera une bonne pièce, dit-il, une bonne pièce
@@ -6087,15 +5416,13 @@ coeur.<span class="add">..</span>
 
 
 
-
-<p class="centered">Fils.</p>
+- {:.centered} Fils.
 
 - Père.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Tué... je l'ai tué ... de mes propres mains.
 - C'était une nuit de novembre.
@@ -6109,7 +5436,7 @@ vertes
 - Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes
 aux
 - sabots de patience. Nous courions comme des forcenés. Les coups
-de feu écla­
+de feu écla‐
 - tèrent... Nous frappions... La sueur et le sang nous
 faisaient une fra<span class="add">î</span>cheur.
 - Nous frappions parmi les cris et les cris devinrent plus stridents et
@@ -6121,9 +5448,9 @@ brulaient et la
 - On tirait des fenètres.
 - Nous forçâmes les portes.
 - La chambre du maitre était grande ouverte. La chambre du maitre était
-bril­
+bril‐
 - lamment éclairée, et le maitre était là très calme... et les
-nôtres s'arrétè­
+nôtres s'arrétè‐
 - rent... C'était le maitre...J'entrai. C'est toi,
 Toussaint, me dit-il, très
 - calme... C'était moi, c'était bien moi,
@@ -6144,8 +5471,7 @@ c'est de ce <span class="delete">soul</span><span class="add above">seul</span> 
 <a target="_blank" href="/data/sdw-data/P087.jpg">[ 87 ]</a>
 
 
-
-<p class="centered">Le fils.</p>
+- {:.centered} Le fils.
 
 - Je suis libre
 - et je veux oublier comment
@@ -6154,30 +5480,26 @@ c'est de ce <span class="delete">soul</span><span class="add above">seul</span> 
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ingrat.
 
 
 
-
-<p class="centered">Le fils.</p>
+- {:.centered} Le fils.
 
 - Ingrat, non: libre,
 - libre de toute haine, libre de tout remords.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Non pas libre. Vide. La liberté est une plénitude.
 
 
 
-
-<p class="centered">Fils.</p>
+- {:.centered} Fils.
 
 - Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
 - Lorsque la République t'offrit de m'élever en Europe, les cloches de ton
@@ -6201,8 +5523,7 @@ jurait plus, c'était quelque chose
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi
 je sais
@@ -6233,15 +5554,13 @@ forçat.
 
 
 
-
-<p class="centered">Fils.</p>
+- {:.centered} Fils.
 
 - Grâce, je demande grâce.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Qui a dit pitié ?
 - qui essaie par <span class="delete">de</span><span class="add above">ce</span> mot incongru d'effacer le tableau noir et feu ? Qui
@@ -6251,7 +5570,7 @@ demande
 - est-ce que je ne subis pas mes visions irréparables ?
 - et je n'ai pas besoin de harpon. Et je n'ai pas besoin de merlin.
 - Pas de pardon.
-- J'ai remonté avec mon coeur l'antique silex, le vieil amado<span class="delete">n</span><span class="add above">u</span> déposé par l'Afri­
+- J'ai remonté avec mon coeur l'antique silex, le vieil amado<span class="delete">n</span><span class="add above">u</span> déposé par l'Afri‐
 - que au fond de moi-même.
 - Je te hais. Je vous hais.
 - Et ma haine ne mourra pas.
@@ -6285,16 +5604,14 @@ perturbations
 
 - <span class="add">(</span> à ce moment,
 vision: dans une campagne tropicale, s'agite et se convulse la
-sil­
-- houette innénarrable du Grand Prohibiteur. Le "héraut", <span class="add">«</span>sa bouche,<span class="add">»</span> est cou­
+sil‐
+- houette innénarrable du Grand Prohibiteur. Le "héraut", <span class="add">«</span>sa bouche,<span class="add">»</span> est cou‐
 - ché sous un arbre? Il ronfle.<span class="add">)</span>
 
 
+- {:.centered} <span class="underlined">Le Grand Prohibiteur</span>.
 
-<p class="centered"><span class="underlined">Le Grand Prohibiteur</span>.
-</p>
-
-- Allons. Allons; réveille toi<span class="delete">^et'e</span><span class="add above"> être</span> grossier , stupide et <span class="delete"><span class="unclear"> [?somnonleny] </span></span><span class="add above">somnolent</span> que la des­
+- Allons. Allons; réveille toi<span class="delete">^et'e</span><span class="add above"> être</span> grossier , stupide et <span class="delete"><span class="unclear"> [?somnonleny] </span></span><span class="add above">somnolent</span> que la des‐
 - tinée mauvais m'impose comme bouche.
 - Ma bouche
 - ô ma <span class="delete"><span class="unclear"> [?borche] </span></span><span class="add above">bouche</span> tardigrade
@@ -6321,7 +5638,7 @@ faisait depuis quelque<span class="delete">s</span>
 consommation effroyable absurde, imprévue, insensée de dons,
 largesses
 - libéralités, indulgences et permissions, toute chose
-dérangeant incontestable­
+dérangeant incontestable‐
 - ment l'économie fragile, ô fragile,
 fragile de l'univers borné
 - borné
@@ -6329,7 +5646,7 @@ fragile de l'univers borné
 - je suis le grand prohibiteur, saisissez vous ?
 - Celui qui regne, qui restreint, <span class="delete">quir</span><span class="add above">qui </span>retient et contraint
 - <span class="add margin">&nbsp;|&nbsp;l'ordre&nbsp;|&nbsp;</span><span class="delete">l(ordre</span> négatif, la défense personnifiée, la menotte éloquente, le
-verrou de pri­
+verrou de pri‐
 - son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add">e</span>ndue</span><span class="add">pendue</span>, le mois qui est le contraire
 - du plus, l'arrêt qui est le
 contraire vrai du mouvement, non la <span class="delete">satation</span> sta­
@@ -6359,38 +5676,33 @@ explications
 
 
 
-
-<p class="centered"><span class="delete">Le choeur</span></p>
+- {:.centered} <span class="delete">Le choeur</span>
 
 - 
 
 
 
-
-<p class="centered">Le héraut</p>
+- {:.centered} Le héraut
 
 - Mais c'est que je ne vois personne. Rien que des arbres et de la savane
 
 
 
 
-
-<p class="centered">Le Grand Prohibiteur</p>
+- {:.centered} Le Grand Prohibiteur
 
 - Imbécile, E<span class="add">h</span> bien crie la
 loi aux arbres, à la savane
 
 
-
-<p class="centered">Le héraut  (incrédule)</p>
+- {:.centered} Le héraut  (incrédule)
 
 - {:.indent-3} Aux arbres<span class="add">?</span> à la
 savane<span class="add">?</span>
 
 
 
-
-<p class="centered">Le Grand Prohibiteur.</p>
+- {:.centered} Le Grand Prohibiteur.
 
 - Je dis<span class="add">:</span> aux arbres à la savane, à la
 pluie au soleil...Comme si sur ce continent
@@ -6400,30 +5712,26 @@ n'avait pas été d'abord dans les oreilles stables de <span class="delete">l'</
 savane que s'étaient gravés les accents de la loi.
 
 
-
-<p class="centered">Le <span class="delete">Grand-Prohibiteur</span> héraut  (émerveillé)
-</p>
+- {:.centered} Le <span class="delete">Grand-Prohibiteur</span> héraut  (émerveillé)
 
 - Vraiment<span class="add">!</span> aux arbres<span class="add">!</span> à la savane<span class="add">!</span> des lois<span class="add">!</span>!
 
 
 
-
-<p class="centered">Le Grand Prohibiteur</p>
+- {:.centered} Le Grand Prohibiteur
 
 - Ignorant qui connai<span class="unclear"> [?t] </span> le nom de Don Christobal Colon
 amiral de l'océan et ignore
 - celui de Rodri<span class="add">g</span>o de Escovedo notaire royal. Apprends donc mon ami, que les
-ca­
+ca‐
 - ravelles qui abordaient ici n'étaient pas seulement enceintes
-d'armes, de vi­
+d'armes, de vi‐
 - vres, de chevaux, de cavaliers... Elles avaient et
 surtout la <span class="delete">pause reboucrie</span><span class="add above">panse rebondie</span> de lois sonores et répressives.
 
 
 
-
-<p class="centered">Le héraut</p>
+- {:.centered} Le héraut
 
 - {:.indent-3} De lois, la pa<span class="add">n</span>se pleine de lois <span class="add">!</span>
 
@@ -6436,15 +5744,13 @@ surtout la <span class="delete">pause reboucrie</span><span class="add above">pa
 <a target="_blank" href="/data/sdw-data/P091.jpg">[ 91 ]</a>
 
 
-
-<p class="centered">Le héraut.</p>
+- {:.centered} Le héraut.
 
 - {:.indent-3} De lois, <span class="delete">pleine-de-lois</span> la <span class="delete">pause</span><span class="add">panse</span> pleine de lois; de<span class="delete">s</span> lois répressives.
 
 
 
-
-<p class="centered">Le grand prohibiteur.</p>
+- {:.centered} Le grand prohibiteur.
 
 - Et puis que j'ai commencé à <span class="add">t</span>'instruire, je ne veux pas te laisser ignorer le
 - nom de <span class="add above">mon genial</span> précurseur ici, à Hispaniola. Il s'appelait Alonzo
@@ -6459,8 +5765,7 @@ sacré, c'est à dire une jolie paire de <span class="add">menottes</span>. HI H
 - compris allons, héraut, allons.
 
 
-
-<p class="centered">Le héráut <span class="add">(</span>d'une voix forte<span class="add">)</span></p>
+- {:.centered} Le héráut <span class="add">(</span>d'une voix forte<span class="add">)</span>
 
 - <span class="stage">( après une sonnerie de trompette)</span>
 - au
@@ -6469,8 +5774,7 @@ salut
 - <span class="stage">( sonnerie de trompette)</span>
 
 
-
-<p class="centered">Le grand prohibiteur.  ( jappant)</p>
+- {:.centered} Le grand prohibiteur.  ( jappant)
 
 - veto, veto, veto.
 - ( la vision<span class="delete">e</span>
@@ -6480,8 +5784,7 @@ disparait)
 
 
 
-
-<p class="centered">Le choeur</p>
+- {:.centered} Le choeur
 
 - Hélas, hélas, je crie hélas
 - Le négrier,
@@ -6500,15 +5803,13 @@ continents d'église et de
 
 
 
-
-<p class="centered">Le récitant</p>
+- {:.centered} Le récitant
 
 - Un gouffre. Ma vue ne saurait le mesurer
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - 
 
@@ -6521,8 +5822,7 @@ continents d'église et de
 <a target="_blank" href="/data/sdw-data/P092.jpg">[ 92 ]</a>
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Un gouffre de <span class="add above">sanglots</span>&nbsp;<span class="delete">un ouré gan</span><span class="add">un ouragan</span> de rauquements, de vociférations, une forêt
 - d'erreurs,
@@ -6532,8 +5832,7 @@ séchées.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Un désert de béton<span class="delete">s</span>, de camphre, d'acier, de
 charpies, <span class="add">d</span>e marais
@@ -6541,22 +5840,20 @@ desinfectés
 - un lieu lourd miné d'yeux de <span class="add above">flammes</span> et de champignon, une perversion d'acier
 - de viol<span class="add">,</span> de tortures, de spasmes<span class="add">,</span> d'effondrements<span class="add">,</span> d'égorgements<span class="add">,</span> un lévrier fou<span class="add">,</span>
 - un tonnerre bas<span class="add">,</span> un crachat
-frénétique dans le soleil chimique<span class="add">,</span> un océan aux dé­
+frénétique dans le soleil chimique<span class="add">,</span> un océan aux dé‐
 - tresse de goulet étroit de catéchisme
 d'éternu<span class="add above">e</span>ment.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Des torrents dégorgeant d'innombrables cadavres de dogues, de
 cauchemars, de lémures tourmentés.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - <span class="add margin">&nbsp;|&nbsp;...&nbsp;|&nbsp;</span>toutes les violences du monde
 mort
@@ -6573,15 +5870,13 @@ mort
    saignant)</span>
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - Oh oh le soleil se couche.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Arrière.
 - arrétez bourreaux
@@ -6660,34 +5955,30 @@ ne s'éteint jamais.
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Silence!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Allons! bonnes gens... c'est vrai que je vous importun.... et vous
 voudriez
 - m'empécher de parler... Faites moi peur, faites moi bien
-peur, je suis très lâ­
+peur, je suis très lâ‐
 - che vous savez : j'ai tremblé de toutes
 <span class="delete">le </span><span class="add above">les</span><span class="delete">s</span>peurs depuis la peur première...
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Le gr<span class="add">e</span>din!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Faites moi peur, faites moi très peur je vous dis. Et vous savez les
 bons moyens:
@@ -6697,32 +5988,28 @@ aisselles, chauffez moi
 
 
 
-
-<p class="centered">G eolier</p>
+- {:.centered} G eolier
 
 - Tais toi nom de Dieu!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Percez moi la bouche d'un cadenas rougi au feu
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Il me tente!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de
-vos ini­
+vos ini‐
 - tiales tout simplement Jean ou Pierre ou Jeanne ou Louise
 ou Geneviève... c'est ça
 - ..... ou d'un drapeau... ou d'un <span class="add above">petit</span> canon.... ou d'une croix....
@@ -6737,29 +6024,25 @@ ou d'un<span class="delete">e</span> trèfle .
 <a target="_blank" href="/data/sdw-data/P095.jpg">[ 95 ]</a>
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Tous les diables de l'enfer tisonnent dans sa couenne noire
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - .... ou bien de vos chiffres entrelaçés, ou bien d'une formule latin<span class="add">e</span>.
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - Assez!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Ils font les scrupuleux. Ne vous génez pas je vous assure: j'étais
 absent au
@@ -6767,15 +6050,13 @@ absent au
 
 
 
-
-<p class="centered">Geolier.</p>
+- {:.centered} Geolier.
 
 - ça se <span class="add">voit</span> à l'oeil nu.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Et je m'accuse d'avoir ri de Noé, mon père nu, mon père ivre.
 - Et je m'accuse de m'être vautré d'amour dans la nuit opaque, dans la
@@ -6790,15 +6071,13 @@ nuit lourde.
 <a target="_blank" href="/data/sdw-data/P096.jpg">[ 96 ]</a>
 
 
-
-<p class="centered">Gêôlière.</p>
+- {:.centered} Gêôlière.
 
 - Ligote le
 
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - On y va ma femme, on y va ( il ligote Toussaint)
 
@@ -6806,59 +6085,51 @@ nuit lourde.
 
 
 
-
-<p class="centered">Geôlière.</p>
+- {:.centered} Geôlière.
 
 - Misérable voleur.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Que me voulez vous, méprisables créatures ?
 
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - ... Ce trésor... où l'as tu caché ce trésor... le fruit de tes rapines
 ?
 
 
 
-
-<p class="centered">Geôlière.</p>
+- {:.centered} Geôlière.
 
 - Voleur ! Voleur ! ... Nous <span class="add">s</span>ommes renseignés...
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Quelle est cette femme qui m'insulte ?
 
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - A toi de répondre,gredin noir... il n'est plus temps de
 biaiser.
 
 
 
-
-<p class="centered">Geôlière.</p>
+- {:.centered} Geôlière.
 
 - Frappe le, frappe-le... ça fera du bien à sa vilaine <span class="delete">couronne</span><span class="add above">peau</span>...
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Qui es-tu femme ?
 - J'en ai connu des femmes; des seins surpris au pâturage, des éléphants
@@ -6867,23 +6138,20 @@ enfants
 
 
 
-
-<p class="centered">Geôlière.</p>
+- {:.centered} Geôlière.
 
 - Aïe !'Le goujat ! il m'insulte le salaud, il m'insulte tu
 entends ?
 
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - Insolent, dégoutant, singe libidineux !
 <span class="stage">( il le frappe. La femme le frappe également).</span>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Le roi Toussaint... Répétez : "le roi Toussaint" Le roi
 Toussaint vainquit
@@ -6899,8 +6167,7 @@ Espagnols...
 <a target="_blank" href="/data/sdw-data/P097.jpg">[ 97 ]</a>
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - {:.indent-3} Dis-donc, mais il se fou<span class="add">t</span>
 de nous, le moricaud... Bien sûr qu'il fait le
@@ -6910,8 +6177,7 @@ encore plus fort <span class="stage">(il frappe Toussaint)</span>.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Frappe... frappe commandeur... frappe jusqu'au sang... il est né du
 sillon une
@@ -6919,37 +6185,33 @@ sillon une
 
 
 
-
-<p class="centered">Geôlière.</p>
+- {:.centered} Geôlière.
 
 - Bûche ! Quelle bûche ! C'est une bûche te dis-je... une drôle de race,
-ces nè­
+ces nè‐
 - gres... Crois-tu que nos coups lui fassent mal...en tout
 cas, ça ne marque pas.
 - ... <span class="stage">(elle
    frappe)</span> oh! oh! son sang coule!
 
 
-
-<p class="centered">Geôlier  (riant)</p>
+- {:.centered} Geôlier  (riant)
 
 - c'est bien connu : battre un nègre <span class="delete">d</span> c'est le nourrir...
 
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Isaac, Isaac, pourquoi rester sous la pluie... J'avais un fils...
-j'avais réu­
+j'avais réu‐
 - ssi<span class="delete">n</span> à le préserver des morsures de cette
 race de scorpions...Isaac, Isaac !
 
 
 
-
-<p class="centered">Geôlier.</p>
+- {:.centered} Geôlier.
 
 - Ah ! il déraille sérieusement ... C'est à mourir de rire... Dis, c'est
 marrant
@@ -6957,8 +6219,7 @@ marrant
    délient Toussaint)</span>
 
 
-
-<p class="centered">Toussaint  (sursautant)</p>
+- {:.centered} Toussaint  (sursautant)
 
 - des mains coupées... de la cervelle giclante... de la charogne molle...
 Isaac,
@@ -6979,11 +6240,10 @@ gémissant)
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - Quelle nuit ! quelle neige ! C'est comme si la neige et la nuit
-s'étaient fu­
+s'étaient fu‐
 - rieusement battues : de grosses masses d'ombre
 s'écroulent avec tout le panneau
 - du ciel et la cavalerie des flocons
@@ -6999,8 +6259,7 @@ se précipite au vol fouetté de ses cent mille
 <a target="_blank" href="/data/sdw-data/P098.jpg">[ 98 ]</a>
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - La neige ! il neige ! première nuit de neige ! la neige première creuse
 la nuit
@@ -7010,8 +6269,7 @@ vengeance, creuse le
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - Amen!'la neige mord ; la neige mord de ses crocs brûlants une
 nuit solennelle.
@@ -7025,23 +6283,20 @@ nuit solennelle.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Hum ! qu'y a t-il ? Qui me réveille ?
 - Qui&nbsp; vient me troubler sur le seuil du repos ?
 
 
 
-
-<p class="centered">La sainte vierge.</p>
+- {:.centered} La sainte vierge.
 
 - {:.indent-3} ... Mon fils
 
 
 
-
-<p class="centered">Le choeur chuchotant.</p>
+- {:.centered} Le choeur chuchotant.
 
 - C'est la Sainte Vierge ! C'est la Sainte Vierge!
 - <span class="stage">&nbsp;( le vent apporte du lointain des bribes de
@@ -7049,15 +6304,13 @@ nuit solennelle.
 
 
 
-
-<p class="centered">La sainte Vierge.</p>
+- {:.centered} La sainte Vierge.
 
 - ... Toi aussi tu es mon fils!
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - Et moi aussi je suis ton fils ... regarde... regarde donc... fille de la
 neige,
@@ -7065,15 +6318,13 @@ neige,
 
 
 
-
-<p class="centered">La sainte vierge.</p>
+- {:.centered} La sainte vierge.
 
 - {:.indent-3} Mon fils, mon fils.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Je ne suis pas ton fils, mas le fils de la Terre, mais le
 frère du Soleil,
@@ -7084,8 +6335,7 @@ brûle. Mère ! Mère!
 
 
 
-
-<p class="centered">La sainte Vierge.</p>
+- {:.centered} La sainte Vierge.
 
 - {:.indent-3} Ta souffrance mon enfant, m'était indispensable...
 
@@ -7098,15 +6348,14 @@ brûle. Mère ! Mère!
 <a target="_blank" href="/data/sdw-data/P099.jpg">[ 99 ]</a>
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} Ah! il te fallait un fils nu, un fils trahi et vendu, un
 fils arrosé de
 - crachats... et tu m'as choisi... Merci ! Ainsi donc
-il te fallait de la su­
+il te fallait de la su‐
 - eur d'homme, du sang d'homme, des
-gémissements d'homme... des désespoirs d'hom­
+gémissements d'homme... des désespoirs d'hom‐
 - me et tu <span class="delete">m'</span><span class="add">nous </span>as requis ! Merci....
 - {:.indent-3} Et quand nous étions las, rompus, fourbus, brisés, nous
 n'avions pour julep
@@ -7178,25 +6427,23 @@ moucherons....
 - aux mains d'hivernage et de jamais
 - et de jujubier et de perturbation et de soleil bayonnetté.
 (Toussaint se met à marcher, à ramper, à courir dans d'imaginaires
-brous­
+brous‐
 - sailles , des guerriers nus bondissent, un tam-tam bat
 lointainement ) 
 
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} O la danse des étoiles sans nom... les savanes
-s'animent... les pluies fu­
+s'animent... les pluies fu‐
 - ment... des arbres inconnus tombent
 palmés de foudre.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Qu'est ce qu'elle dit? Qu'est-ce qu'elle dit?
 (à ce moment Toussaint se redresse)
@@ -7204,8 +6451,7 @@ palmés de foudre.
 
 
 
-
-<p class="centered">Toussaint.</p>
+- {:.centered} Toussaint.
 
 - {:.indent-3} les chenilles rampent vers l'auberge des bonnets de
 coton... La cuve de la
@@ -7214,7 +6460,7 @@ ciel mange du bétel... ha ha! le ciel
 - suce des poignards...Roi de
 Malaisie et de la fièvre pleine d'insectes mâche
 - bien ton kriss et
-ton bétel... Isaac, Isaac, une balle pourrit entre tes souri­
+ton bétel... Isaac, Isaac, une balle pourrit entre tes souri‐
 - res
 blancs... Aïe! je marche dans des piquants d'étoiles. Je marche...
 j'assume...
@@ -7232,51 +6478,44 @@ terre).
 <a target="_blank" href="/data/sdw-data/P101.jpg">[ 101 ]</a>
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Mort, il est mort !
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Mort dans un taillis de <span class="add">clérodendres</span> parfumé<span class="add">s</span>.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Mort en pleine poussée de sisal.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - Mort en pleine pulpe de calebassier.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Mort en plein vol de torches, en pleine fécondation de
 vanilliers...
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - {:.indent-3} Saint-Domingue, Saint Domingue.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Saint Domingue les secrets enfermés sous un tour de gorge
 montent dans le
@@ -7289,20 +6528,18 @@ pierre au front.
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - {:.indent-3} Kohol sans langueur l'atmosphère blasée de porte vide
 tient du miracle un
 - ricanement de roucou précieux. Une boussole
-meurt de convulsion dans une lan­
+meurt de convulsion dans une lan‐
 - de, jatte de lait à la fin du
 monde.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} dans la forêt les meurtrières coulent avec des rires de
 fontaine et les
@@ -7314,8 +6551,7 @@ virulents
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - Saint Domingue ! Saint Domingue !
 (La scène a brusquement changé. Nous sommes à Saint Domingue devant
@@ -7323,7 +6559,7 @@ les murs
 - du Cap assiégé par l'armée noire de Dessalines ... des
 coups de canon... des
 - fumées... des pans de murs écroulés... Général
-noir à cheval entouré d'un nom­
+noir à cheval entouré d'un nom‐
 - breux état major... des troupes en
 armes prêtes à s'ébranler)
 
@@ -7342,8 +6578,7 @@ armes prêtes à s'ébranler)
 dresse, c'est le <span class="add">«</span>négrophobe.<span class="add">»</span>
 
 
-
-<p class="centered"><span class="add">« </span>le négrophobe.<span class="add">»</span></p>
+- {:.centered} <span class="add">« </span>le négrophobe.<span class="add">»</span>
 
 - Bande de salauds! Mort aux voleurs! <span class="add">(</span>Des animaux qui n'ont pas d'âme à sauver
 - et à qui le
@@ -7354,15 +6589,14 @@ possession
 - légitime, mes esclaves!
 - (bruit de
 mousqueter<span class="add">i</span>e; les nègres ont
-tiré; le négrophobe tombe, il est aus­
+tiré; le négrophobe tombe, il est aus‐
 - sitôt remplacé par le
 <span class="add">«</span>le négrophile<span class="add">»</span>.)
 
 
 
 
-
-<p class="centered">Le négrophile  (haraguant le vide)</p>
+- {:.centered} Le négrophile  (haraguant le vide)
 
 - Ha! mes <span class="delete">mais</span><span class="add above">amis</span>, mes chers amis! Et l'Evangile a dit que celui qui hait son
 frère
@@ -7376,14 +6610,12 @@ appeler "mes amis"
 
 
 
-
-<p class="centered">L'écho</p>
+- {:.centered} L'écho
 
 - .... mes frères, mes frères.....
 
 
-
-<p class="centered">Le négrophile  (préchant dans le désert).</p>
+- {:.centered} Le négrophile  (préchant dans le désert).
 
 - Mes amis, ô mes amis: je vous accorde que l'esclavage est une grande
 inicuité,
@@ -7395,27 +6627,23 @@ pas.
 
 
 
-
-<p class="centered">L'écho</p>
+- {:.centered} L'écho
 
 - N'oubliez pas, n'oubliez pas.
 
 
-
-<p class="centered">Le négrophile  (donnant des coups d'épée dans l'eau)</p>
+- {:.centered} Le négrophile  (donnant des coups d'épée dans l'eau)
 
 - paix, paix, amour, amour.
 
 
 
-
-<p class="centered">L'écho</p>
+- {:.centered} L'écho
 
 - amour, amour
 
 
-
-<p class="centered">Le négrophile  (désespéré)</p>
+- {:.centered} Le négrophile  (désespéré)
 
 - ô peuple égaré,
 - ô insensés
@@ -7437,15 +6665,13 @@ pas.
 
 
 
-
-<p class="centered">L'écho</p>
+- {:.centered} L'écho
 
 - Vos maitres, vos maitres.
 
 
 
-
-<p class="centered">Le négrophile </p>
+- {:.centered} Le négrophile 
 
 - ( bruit de mousqueter<span class="add">i</span>e)
 
@@ -7456,13 +6682,12 @@ frères ! ( le négrophile tombe)
 
 
 
-
-<p class="centered">Récitante</p>
+- {:.centered} Récitante
 
 - Je bâtirai de ciel, d'oiseaux, de perroquets, de cloches, de foulards,
 de tambour
 - de fumées légères, de tendresses furieuses, de ton de
-cuivre, de nacre, de diman­
+cuivre, de nacre, de diman‐
 - ches, de bastringues, de mot d'enfants,
 de mots d'amour, d'amour<span class="add">,</span> de
 mitaines
@@ -7514,8 +6739,7 @@ sans <span class="delete">D</span><span class="add">d</span>ieu
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - à l'heure rouge des requins
 - à l'heure rouge des étrivières
@@ -7579,8 +6803,7 @@ du sang neuf
 <a target="_blank" href="/data/sdw-data/P106.jpg">[ 106 ]</a>
 
 
-
-<p class="centered">Général<span class="delete">.</span>&nbsp;<span class="delete"><span class="add">noir</span></span><span class="add">négre</span></p>
+- {:.centered} Général<span class="delete">.</span>&nbsp;<span class="delete"><span class="add">noir</span></span><span class="add">négre</span>
 
 - En avant Morne Rouge ( charge de fantassins)
 
@@ -7588,8 +6811,7 @@ du sang neuf
 
 
 
-
-<p class="centered">Général<span class="delete">.</span><span class="add">&nbsp;négre</span></p>
+- {:.centered} Général<span class="delete">.</span><span class="add">&nbsp;négre</span>
 
 - En avant charnier ardent ( nouvelle charge de
 fantassins)
@@ -7598,8 +6820,7 @@ fantassins)
 
 
 
-
-<p class="centered">Général<span class="delete">.</span><span class="delete"><span class="add">gen</span></span><span class="add">&nbsp;négre</span></p>
+- {:.centered} Général<span class="delete">.</span><span class="delete"><span class="add">gen</span></span><span class="add">&nbsp;négre</span>
 
 - En avant <span class="delete">Capoux</span><span class="add above">Capoix</span><span class="add">-</span>la<span class="add">-</span>Mort ! <span class="stage">( charge de
    cavalerie)</span>
@@ -7608,44 +6829,38 @@ fantassins)
 
 
 
-
-<p class="centered">Général<span class="delete">.</span><span class="add">&nbsp;négre</span></p>
+- {:.centered} Général<span class="delete">.</span><span class="add">&nbsp;négre</span>
 
 - C'est bien.
 
 
 
-
-<p class="centered">Le récitant.</p>
+- {:.centered} Le récitant.
 
 - {:.indent-3} Qu'y a-t-il? Qu'est-ce que c'est... Parlez... Je n'y suis
 plus.
 
 
-
-<p class="centered">Le choeur  (allègre)</p>
+- {:.centered} Le choeur  (allègre)
 
 - La grande Révolution de Saint-Domingue continue...
 
 
 
-
-<p class="centered">La récitante.</p>
+- {:.centered} La récitante.
 
 - Quel est cet homme? un nuage de sang auréole sa tête <span class="delete">de sang</span>
 sauvage.
 
 
-
-<p class="centered">Demi choeur allègre.</p>
+- {:.centered} Demi choeur allègre.
 
 - Dessalines... Dessalines le boucher, Dessalines le vengeur.
 - Toussaint Toussaint Louverture!
 
 
 
-
-<p class="centered">Une voix dans les airs.</p>
+- {:.centered} Une voix dans les airs.
 
 - {:.indent-3} Laboure-moi, laboure-moi, cri armé de mon peuple;
 - laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon
@@ -7665,34 +6880,30 @@ veines, jusqu'au <span class="delete">blanchiement</span><span class="add above"
 <a target="_blank" href="/data/sdw-data/P107.jpg">[ 107 ]</a>
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Tour des veilles, écroulez vous.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Tour des <span class="delete">vonyeance</span><span class="add">voyance</span> effondrez vous plus bas que la parole
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Plantes parasites, plantes venéneuses, plantes br<span class="add">û</span>lantes, plantes cannibales,
 - plantes
 incendiaires, vraies plantes, lian<span class="delete">n</span>es-feu,
-lian<span class="delete">n</span>es-sang, filez vos cour­
+lian<span class="delete">n</span>es-sang, filez vos cour‐
 - bes
 imprévues à grosses gouttes.
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - lumière décomposée en chaque splendeur avare
 - cargaison de poissons d'or, <span class="add above">fruits</span> fourbus
@@ -7700,8 +6911,7 @@ imprévues à grosses gouttes.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Orgie! orgie! eau divine! astres de chair luxueuse, vertige
 - îles anneaux frais aux oreilles de sirènes plongées
@@ -7709,8 +6919,7 @@ imprévues à grosses gouttes.
 
 
 
-
-<p class="centered">Le choeur.</p>
+- {:.centered} Le choeur.
 
 - grouillement de larves, talismans sans valeur
 - îles
@@ -7719,15 +6928,13 @@ imprévues à grosses gouttes.
 
 
 
-
-<p class="centered">Récitant.</p>
+- {:.centered} Récitant.
 
 - Je viens à vous
 
 
 
-
-<p class="centered">Récitante.</p>
+- {:.centered} Récitante.
 
 - Je suis une de vous, îles
 (le Récitant et la récitante vacillent sur leurs jambes puis
