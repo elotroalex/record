@@ -7,26 +7,26 @@ author: alex gil
 
 (a minimal diplomatic edition)
 
-<p>A note for readers: Individual pages are separated by a horizontal line. At the top
-   of each page, the [page number] is indicated in brackets, and corresponds to the canonical
-   pagination. To access the facsimile for each page, click on the relevant page number.
-   [?Uncertain] readings are indicated in brackets with a question mark. To reduce the
-   complex material evidence for revisions to <span style="color:#288828;font-style: italic;">additions</span> in green and italics, and <span style="color:#AA3232;">deletions</span> in red is of course nonsense, but I figured it would make the diplomatic more readable.
-</p>
+<p>A note for readers: Individual pages are separated by a horizontal line. At the top of each page, the [page number] is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page, click on the relevant page number. [?Uncertain] readings are indicated in brackets with a question mark. To reduce the complex material evidence for revisions to <span style="color:#288828;font-style: italic;">additions</span> in green and italics, and <span style="color:#AA3232;">deletions</span> in red is of course nonsense, but I figured it would make the diplomatic more readable.</p>
+
 
 
 ---
 
-<a target="_blank" href="/data/sdw-data/P000.jpg">[Title]</a>            
+<a target="_blank" href="/data/sdw-data/P000.jpg">[Title]</a>
 
-<p class="centered">AIME CESAIRE.</p>
+<p class="centered">AIME CESAIRE.</p>           
 <p class="centered">+++++++++++++</p>
 <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
 <p class="centered">( drame en trois actes )</p>
 <p class="centered">++++++++++++++++++</p>
 
-<!--New page: 1-->
+---
 
+
+
+
+<!--New page: 1-->
 <hr>
 <a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a>
 
@@ -38,7 +38,7 @@ Saint Domingue<span class="delete">.</span><span class="delete add"><span class=
 
 
 
-- {:.centered} La récitante.
+<p class="centered">La récitante.</p>
 
 - Je dis que ce pays est un ulcère.
 
