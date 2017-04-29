@@ -733,7 +733,7 @@ a.sidebar-nav-item:focus {
 /* ED SPECIAL LAYOUTS */
 /*                    */
 
-p.centered {
+p.centered, li.centered {
   text-align: center;
 }
 
