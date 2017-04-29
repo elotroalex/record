@@ -418,7 +418,6 @@ une fleur au coeur de papillon.
 - <span class="delete">forme de candélabre.)</span>
 
 
-- 
 - {:.centered} <span class="delete"><span class="underlined">Toussaint</span>.</span>
 
 - {:.indent-3} Et je suis jeune, je suis opulent de jeunesse, d’une
@@ -895,11 +894,9 @@ dans le mouvement
 - Au feu, Toussaint, au feu.
 
 
+- (un groupe prépare frénétiquement un brasier.)
 
-- - (un groupe prépare frénétiquement un brasier.)
 
-
-- 
 - {:.centered} <span class="underlined">La foule</span>.
 
 - Au feu Toussaint. Au feu. au feu. Au feu, Toussaint.
@@ -1198,7 +1195,6 @@ Toussaint.
 - (La scène s’efface progressivement, lentement.)
 
 
-- 
 - {:.centered} <span class="underlined">La récitante.</span>
 
 - {:.indent-3} La cendre... le songe ... eau noire ... affamés, affamés
@@ -1218,16 +1214,13 @@ Toussaint.
 <hr>
 <a target="_blank" href="/data/sdw-data/P023.jpg">[ 23 ]</a>
 
-
-- 
-- - A Saint-Domingue devant une riche maison coloniale style
+- A Saint-Domingue devant une riche maison coloniale style
 18e
 - siècle, des jeunes filles blanches en train de jouer. Entrent
 le
 - choeur, le récitant, la récitante.
 
 
-- 
 - {:.centered} La récitante.
 
 - {:.indent-3} Rentrez chez-vous jeunes filles, il n’est plus temps de
@@ -1304,8 +1297,7 @@ récitante feignent de poser par terre une ci<span class="delete">v</span>‐
 - déposé au fond de la fosse. C’est une
 scène de magie imitative.<span class="add">)</span>
 
-
-- - {:.centered} Le récitant (recueilli).
+- {:.centered} Le récitant (recueilli).
 
 - {:.indent-3} Adieu, Saint- Domingue.
 
@@ -1325,8 +1317,7 @@ coprophage parachèvent en traits de vo<span class="add">­</span>
 et le rampement <span class="add">du</span> scolopendre.
 
 
-
-- - <span class="add">(</span>A ce moment
+- <span class="add">(</span>A ce moment
 l’obscurité envahit la scène; des coups de feu; des
 - cris discordants;
 puis le tapage s’apaise peu à peu;quand la lumiè<span class="add">‐</span>
@@ -1336,7 +1327,6 @@ nègres au milieu d’une
 conférence.<span class="add">)</span>
 
 
-- 
 - {:.centered} Ier député.
 
 - {:.indent-3} Notre seule présence ici suffit à montrer combien grand
@@ -1378,12 +1368,10 @@ coloniales...
 - propositions que vous nous avez faites.
 
 
-
-- - <span class="add">(</span>Rassemblement.
+- <span class="add">(</span>Rassemblement.
 Bruit de tam-tam.<span class="add">)</span>
 
 
-- 
 - {:.centered} Récitant.
 
 - Un écroulement hostile de tour, de montagne, de phare achève
@@ -1425,7 +1413,6 @@ masse d’hommes et de femmes ar‐
 - més de coutelas.<span class="add">)</span>
 
 
-- 
 - {:.centered} Toussaint.
 
 - {:.indent-3} Mes amis, les blancs nous envoient des embassadeurs.
@@ -1530,11 +1517,9 @@ s’engraisser du sang et des larmes de
 - {:.indent-3} A mort. Tue. Tue.
 
 
+- (La foule se resserre comme une machoire.)
 
-- - (La foule se resserre comme une machoire.)
 
-
-- 
 - {:.centered} Le récitant.
 
 - {:.indent-3} Ici commence le baptème du sang.
@@ -1575,7 +1560,6 @@ brandissant des cou‐
 - telas.)
 
 
-- 
 - {:.centered} Toussaint.
 
 - {:.indent-3} Tout n’est pas fini Camarades... Qui portera aux blancs
@@ -1757,7 +1741,6 @@ sourire
 l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span>
 
 
-- 
 - {:.centered} Ier député.
 
 - {:.indent-3} Vous êtes un indépendant, Monsieur.
@@ -1925,7 +1908,6 @@ discutent encore.<span class="add">)</span>
 - <span class="add">une rue. la nuit. des groupes passent</span>
 
 
-- 
 - {:.centered} <span class="add">1er groupe :</span> Une
 voix. 
 
@@ -1965,9 +1947,9 @@ bonsoir.
 
 - (La voix fredonne :
 
-- A la Matinique, Matinique,
+- {:.indent-3} A la Matinique, Matinique,
 Matinique
-- c’est çà qui chic...)
+- {:.indent-3} c’est çà qui chic...)
 
 
 - (Depuis quelques secondes des cris ont éclaté<span class="delete">s</span>; un chant monotone et
@@ -2102,8 +2084,7 @@ l’or‐
 - {:.indent-3} A la Matinique, Matinique, Matinique...
 
 
-
-- - (Le silence tombe raide, funèbre.)
+- (Le silence tombe raide, funèbre.)
 
 
 - {:.centered} Le récitant.
@@ -2206,7 +2187,6 @@ tournent de temps en temps la tête pour regarder si on
 demi rassurées, elles<span class="delete"></span> déposent leur baluchon.<span class="add">)</span>
 
 
-- 
 - {:.centered} Iere jeune fille.
 
 - {:.indent-3} Mes dents claquent.
@@ -2231,14 +2211,12 @@ cacher dans les cannes en flèches... et
 Aîe. mes jambes...
 
 
-
-- - <span class="add">(</span>Les femmes ont
+- <span class="add">(</span>Les femmes ont
 disparu; même décor. Une houe écorne la scène. Des
 - houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [?e] </span></span><span class="add">s</span> qui labourent au crépus‐
 - cule.<span class="add">)</span>
 
-
-- - {:.centered} Ier esclave (chantant)
+- {:.centered} Ier esclave (chantant)
 
 - {:.indent-3} Hé, mes amis, ho.
 
@@ -2413,19 +2391,16 @@ phospho‐
 - cueils.)
 - <span class="add below">: <span class="underlined">République d’Haïti.</span></span>
 
-
-- - {:.centered} Le choeur  (enthousiaste)
+- {:.centered} Le choeur  (enthousiaste)
 
 - {:.indent-3} Haiti. Hâïti.
 
 
-
-- (Le récitant et la récitante se rapprochent
+(Le récitant et la récitante se rapprochent
 - à
 tatons sur le devant de la scène.)
 
-
-- - {:.centered} Le récitant  (pleurant)
+- {:.centered} Le récitant  (pleurant)
 
 - Froid coeur de la mort, la lagune a dégainé son <span class="add above">rire de</span> poignard.
 
@@ -2526,8 +2501,7 @@ voyageur coeur tressé belles-eáux-souflées-haut-gelées.
 <a target="_blank" href="/data/sdw-data/P042.jpg">[ 42 ]</a>
 
 - <span class="delete">ACTE II</span>
-
-- - <span class="add">(</span><span class="delete">A Saint Domingue, </span>une ville <span class="add above">haïtienne</span>, place publique : troupes, foules,
+- <span class="add">(</span><span class="delete">A Saint Domingue, </span>une ville <span class="add above">haïtienne</span>, place publique : troupes, foules,
 drapeaux
 - Subitement acclamations et fanfares.
 - entrent Toussaint et
@@ -2796,7 +2770,6 @@ bénissent frénéti‐
 - quementº)
 
 
-- 
 - {:.centered} Les chantres.
 
 - Te Deum
@@ -3269,9 +3242,7 @@ de
 <hr>
 <a target="_blank" href="/data/sdw-data/P054.jpg">[ 54 ]</a>
 
-
-- 
-- <span class="add">(</span>Vision de panique . Des
+<span class="add">(</span>Vision de panique . Des
 hommes courent en tous sens.<span class="add">)</span>
 
 
@@ -3838,8 +3809,7 @@ courent
 - {:.indent-3} Vive le liberté . Vive Toussaint.
 
 
-
-- ( des troupes défilent ... une <span class="delete">foule</span><span class="add above">forêt </span>la nuit ; lueurs d'incendie au.loin...
+( des troupes défilent ... une <span class="delete">foule</span><span class="add above">forêt </span>la nuit ; lueurs d'incendie au.loin...
 - des
 cavaliers.)
 
@@ -4218,15 +4188,12 @@ pacifiques.
 <hr>
 <a target="_blank" href="/data/sdw-data/P069.jpg">[ 69 ]</a>
 
-
-- 
-- ( passent des nègres " enfilés par le cou à une longue chaine de fer,
+( passent des nègres " enfilés par le cou à une longue chaine de fer,
 comme les
 - grains d'un chapelet, et portant tons des menottes aux
 bras")
 
-
-- ( entrent les <span class="delete">évêques </span><span class="add above">dieux noirs et rouges </span>paissants sous la houlette de l'archevêque) 
+( entrent les <span class="delete">évêques </span><span class="add above">dieux noirs et rouges </span>paissants sous la houlette de l'archevêque) 
 
 
 - {:.centered} 1e <span class="delete"><span class="unclear"> [?évêque] </span></span><span class="add"> dieu</span>
@@ -4486,9 +4453,7 @@ rien..
 <hr>
 <a target="_blank" href="/data/sdw-data/P072.jpg">[ 72 ]</a>
 
-
-- 
-- ( Toussaint s'éloigne/: les bonnes gens en riant lui lancent
+( Toussaint s'éloigne/: les bonnes gens en riant lui lancent
 des pierres)
 
 
@@ -5661,9 +5626,7 @@ perturbations
 <hr>
 <a target="_blank" href="/data/sdw-data/P089.jpg">[ 89 ]</a>
 
-
-- 
-- - <span class="add">(</span> à ce moment,
+- <span class="add">(</span> à ce moment,
 vision: dans une campagne tropicale, s'agite et se convulse la
 sil‐
 - houette innénarrable du Grand Prohibiteur. Le "héraut", <span class="add">«</span>sa bouche,<span class="add">»</span> est cou‐
@@ -6638,9 +6601,7 @@ armes prêtes à s'ébranler)
 <hr>
 <a target="_blank" href="/data/sdw-data/P102.jpg">[ 102 ]</a>
 
-
-- 
-- <span class="delete">Au fond les murs de Saint Marc assiégé par l'armée noire
+<span class="delete">Au fond les murs de Saint Marc assiégé par l'armée noire
    de Dessalines;</span> sur le
 - rempart apparait une tête. L'homme se
 dresse, c'est le <span class="add">«</span>négrophobe.<span class="add">»</span>
