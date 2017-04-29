@@ -763,9 +763,9 @@ cendre;
 
 - {:.centered} <span class="underlined">Toussaint</span>.
 
-- {:.indent-3} <span class="delete">J’avais amené </span><span class="add"><span class="delete">J'aurai</span></span><span class="add above">j’amenerai</span>ce pays à la connaissance
+- {:.indent-3} <span class="delete">J’avais amené </span><span class="add"><span class="delete">J'aurai</span></span><span class="add above">j’amenerai</span>&nbsp;ce pays à la connaissance
 - de lui-même,
-- <span class="add">je </span>familiaris<span class="delete">é</span><span class="add">erai</span> cette terre avec ses démons secrets
+- <span class="add">je&nbsp;</span>familiaris<span class="delete">é</span><span class="add">erai</span>&nbsp;cette terre avec ses démons secrets
 - <span class="delete">allumé </span><span class="add above">j’allumerai </span>aux cratères d’hélodermes et de cymbales
 - les symphonies d’un enfer inconnu, splendide
 - parasité de nostalgies hautaines.<span class="add">..</span>
@@ -1205,7 +1205,7 @@ Toussaint.
 <hr>
 <a target="_blank" href="/data/sdw-data/P023.jpg">[ 23 ]</a>
 
-A Saint-Domingue devant une riche maison coloniale style
+- A Saint-Domingue devant une riche maison coloniale style
 18e
 - siècle, des jeunes filles blanches en train de jouer. Entrent
 le
