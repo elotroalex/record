@@ -4263,7 +4263,7 @@ soi
 
 
 
-( Une campagne désertique, aussi peu tropicale que possible. Des paysans.
+- ( Une campagne désertique, aussi peu tropicale que possible. Des paysans.
 Entre
 - le voyageur la tête recouverte d'un voile).
 
