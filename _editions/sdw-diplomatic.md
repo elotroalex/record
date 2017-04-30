@@ -1642,7 +1642,7 @@ pied
 
 - {:.centered} Demi-choeur.
 
-- {:.indent-3} Iles nous<span class="add">&nbsp;</span>coupaient les jarrets.
+- {:.indent-3} Ils nous<span class="add">&nbsp;</span>coupaient les jarrets.
 
 
 
