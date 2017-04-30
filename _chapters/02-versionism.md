@@ -67,7 +67,7 @@ From Claudel…
 
 …to Césaire:
 
-> La récitante. (dolente) 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent... (A mesure qu’elle parle, tout cela se dessine sur l’écran.)
+> La récitante (dolente): 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent... (A mesure qu’elle parle, tout cela se dessine sur l’écran.)
 
 By a circuitous route, this brings us back to the late stage direction in `P1` where the words “*Republique d’Haïti*” are projected unto a phosphorescent sea and which, as already noted, seems to belong to later developments of the text. Presumably written before the pencil corrections that will excise most of the work’s theatricality, this stage direction elicits the phantasmagorical return of the earlier screen. The projection of letters itself being a famous Piscator technique, the soon-to-be un-mountable stage direction becomes a moment of negotiation between the stage and the poetry that will characterize future stage directions. The transition from the stage to the poetry marks a replacement of the mechanical (i.e. the screen), for the imagination, and as a consequence, from the theatre to the text.
 
