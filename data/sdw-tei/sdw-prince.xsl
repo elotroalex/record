@@ -63,9 +63,10 @@
     <!-- speaker + delivery -->
     
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type='delivery']]]">
-        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates select="tei:speaker"/>
+        <xsl:text>- {:.speaker} **</xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text>** </xsl:text>
         <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
         <xsl:text>
+            
         </xsl:text>
         <xsl:apply-templates select="tei:stage[@type='delivery']/following-sibling::*"/>
     </xsl:template>
@@ -84,7 +85,7 @@
     <xsl:template match="tei:speaker">
         <xsl:text>
        </xsl:text>
-        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates/>        
+        <xsl:text>- {:.speaker} **</xsl:text><xsl:apply-templates/><xsl:text>**</xsl:text>      
         <xsl:text>
            
        </xsl:text>
@@ -98,7 +99,8 @@
                     <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
                 </p>
             </xsl:when>
-            <xsl:when test=".[not(starts-with(., '('))]">
+
+            <xsl:when test=".[not(starts-with(., '(')) and not(descendant::tei:del[@rend='overprint'][1])]">
                 <p>
                     <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
                 </p>
@@ -128,7 +130,9 @@
 
     <!-- text blocks -->
     <xsl:template match="tei:ab[descendant::tei:lb]">
-        <p class="prose"><xsl:apply-templates/></p>
+        <xsl:text>- {:.prose} </xsl:text><xsl:apply-templates/>
+        <xsl:text>
+       </xsl:text>
     </xsl:template>
     
     <xsl:template match="tei:ab[not(descendant::tei:lb)]">
@@ -183,29 +187,36 @@
 
     <!-- del -->
     <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
+    <xsl:template match="tei:del[@rend='overprint']"/>
     
-    <xsl:template name="del" match="tei:del">
+    <xsl:template match="tei:del">
         <xsl:choose>
 
             <!-- double-check -->
             <xsl:when test="self::tei:del[@seq='2']">
-                <span class="delete add">
+                <span>
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
             <!-- -->
 
             <xsl:otherwise>
-                <span class="delete">
+                <span>
                     <xsl:apply-templates/>
                 </span>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    
+    
 
     <!-- unclear -->
     <xsl:template match="tei:unclear">
-        <span class="unclear"> [?<xsl:apply-templates/>] </span>
+        <span class="unclear"> [<xsl:apply-templates/>] </span>
+    </xsl:template>
+    
+    <xsl:template match="tei:unclear[@confidence &gt;= 0.5]">
+        <span class="unclear"><xsl:apply-templates/></span>
     </xsl:template>
 
 

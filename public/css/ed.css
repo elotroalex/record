@@ -1,5 +1,6 @@
 /* Additions to Ed */
 
+
 .add {
     color:#288828;
     font-style:italic;
@@ -37,9 +38,12 @@ li.attribution {
   color: #454545;
 }
 
-p.prose {
-  padding-left: 0;
+li.prose { 
+  list-style-position: inside;
+  margin-left: -1em;
+  text-indent: 0;
 }
+
 
 .didascalia {
   font-style: italic;
@@ -49,6 +53,8 @@ p.prose {
   vertical-align: middle;
 /*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
 }
+
+
 
 /*@keyframes blinker { to { opacity: 0; } }*/
 
