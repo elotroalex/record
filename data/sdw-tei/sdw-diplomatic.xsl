@@ -13,6 +13,8 @@
     <xsl:template match="tei:note"/>
     <xsl:template
         match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type = 'clarification']]"/>
+    <xsl:template match="tei:corr"/>
+    <xsl:template match="tei:reg"/>
 
 
     <!-- HTML wrapper | document element -->
@@ -163,15 +165,6 @@
     
     <!-- line breaks -->
 
-<!--    <xsl:template match="tei:ab/tei:lb">
-        <xsl:text>
-       - </xsl:text>
-    </xsl:template>
-    
-    <xsl:template match="tei:stage/tei:lb">
-        <xsl:text>
-       - </xsl:text>
-    </xsl:template>-->
     
     <xsl:template match="tei:lb">
         <xsl:text>

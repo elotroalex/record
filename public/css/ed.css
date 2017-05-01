@@ -37,9 +37,20 @@ li.attribution {
   color: #454545;
 }
 
+p.prose {
+  padding-left: 0;
+}
+
 .didascalia {
   font-style: italic;
 }
+
+#broken {
+  vertical-align: middle;
+/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
+}
+
+/*@keyframes blinker { to { opacity: 0; } }*/
 
 /* Ed: the minimal edition theme.
  * ___________________   
@@ -379,12 +390,7 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
-#broken {
-  vertical-align: middle;
-/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
-}
 
-@keyframes blinker { to { opacity: 0; } }
 
 h3.masthead-title {
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -795,6 +801,8 @@ div.toc {
 	padding-left: 1rem;
 	text-indent: -1rem;
 }
+
+
 
 
 /* This snippet helps us reset the margin for all spans with the indent- class */

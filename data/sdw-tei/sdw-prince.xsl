@@ -10,9 +10,10 @@
     <!-- IGNORE LIST -->
     <xsl:template match="tei:teiHeader"/>
     <xsl:template match="tei:note"/>
-    <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
     <xsl:template match="tei:front/tei:titlePage"/>
     <xsl:template match="tei:head"/>
+    <xsl:template match="tei:sic"/>
+    <xsl:template match="tei:orig"/>
     
     <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
     <xsl:template match="tei:div[@type='act']/tei:div[@type='page']"/>
@@ -61,17 +62,11 @@
 
     <!-- speaker + delivery -->
     
-    <xsl:template match="tei:sp">
-        <ul>
-            <xsl:apply-templates/>
-        </ul>        
-    </xsl:template>
-    
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type='delivery']]]">
-        <li class='speaker'>
-            <p><xsl:apply-templates select="tei:speaker"/>
-                <xsl:apply-templates select="tei:stage[@type='delivery']"/></p>
-        </li>
+        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates select="tei:speaker"/>
+        <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
+        <xsl:text>
+        </xsl:text>
         <xsl:apply-templates select="tei:stage[@type='delivery']/following-sibling::*"/>
     </xsl:template>
 
@@ -83,11 +78,16 @@
         <xsl:apply-templates/>
     </xsl:template>
 
+    
+
     <!-- speaker -->
     <xsl:template match="tei:speaker">
-        <li class='speaker'>
-            <p><xsl:apply-templates/></p>
-        </li>
+        <xsl:text>
+       </xsl:text>
+        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates/>        
+        <xsl:text>
+           
+       </xsl:text>
     </xsl:template>
 
     <!-- stage -->
@@ -127,21 +127,43 @@
     </xsl:template>
 
     <!-- text blocks -->
-    <xsl:template match="tei:ab">
-        <li><xsl:apply-templates/></li>
+    <xsl:template match="tei:ab[descendant::tei:lb]">
+        <p class="prose"><xsl:apply-templates/></p>
+    </xsl:template>
+    
+    <xsl:template match="tei:ab[not(descendant::tei:lb)]">
+        <xsl:text>- </xsl:text><xsl:apply-templates/>
+        <xsl:text>
+       </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:ab[@rend='indent' and descendant::tei:lb]">
+        <p class="prose" style="text-indent:2rem"><xsl:apply-templates/></p>
+        <xsl:text>
+       </xsl:text>       
+    </xsl:template>
+    
+    <xsl:template match="tei:ab[@rend='indent' and not(descendant::tei:lb)]">
+        <xsl:text>- {:.indent-2} </xsl:text><xsl:apply-templates/>
+        <xsl:text>
+       </xsl:text>       
     </xsl:template>
     
 
-    <xsl:template match="tei:ab[@rend='indent']">
-        <ul>
-            <li class="indent-3">
-            <xsl:apply-templates/></li>
-        </ul>
-    </xsl:template>
 
     <xsl:template match="tei:lb">
-        <br/>
+        <xsl:text> </xsl:text>
     </xsl:template>
+    
+    <xsl:template match="tei:lb[parent::tei:w]">
+        <xsl:text></xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:lb[parent::tei:w and @rend='hyphen']">
+        <xsl:text></xsl:text>
+    </xsl:template>
+    
+    
 
     <!-- ########################################### -->
     <!-- ## Transcription and decorative elements ## -->
@@ -160,6 +182,8 @@
 
 
     <!-- del -->
+    <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
+    
     <xsl:template name="del" match="tei:del">
         <xsl:choose>
 

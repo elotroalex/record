@@ -1,0 +1,5 @@
+find:
+([a-zA-Z\u00C0-\u017F]+)(-<lb\/>)([a-zA-Z\u00C0-\u017F]+)
+
+replace:
+<w>$1<lb rend="hyphen"/>$3</w>
