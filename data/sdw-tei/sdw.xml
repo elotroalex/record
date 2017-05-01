@@ -414,11 +414,16 @@
                     <stage type="setting"><add hand="#l_p" place="inline">(</add>La scène est à
                         Saint Domingue<subst>
                             <del seq="1">.</del>
-                            <del seq="2"><add hand="#l_p" seq="1" place="inline">)</add>
+                            <del seq="2"><add hand="#l_p" seq="1" place="inline"><pc
+                                        type="parentheses">)</pc></add>
                             </del>
-                            <add hand="#b_i" seq="2" place="inline">&#160;à&#160;</add>
+                            <add hand="#b_i" seq="2" place="inline" type="substantial"
+                                >&#160;à&#160;</add>
                         </subst>
-                        <add place="inline">l’epoque de la Révolution française)</add></stage>
+                        <add place="inline" type="substantial">l’epoque de la Révolution
+                                française<pc type="parentheses">)</pc></add><choice>
+                            <reg>.</reg>
+                        </choice></stage>
                     <anchor type="jx"/>
                     <sp>
                         <speaker>La récitante.</speaker>
@@ -1141,9 +1146,9 @@
                             Toussaint franchit la<lb/>première marche. Il en est à la 2e . Toussaint
                             est sur le perron. Pas<lb/>après pas, Toussaint a mis le pied dans la
                             fosse <del hand="#d_p"><del rend="overprint">
-                                <unclear reason="double character" confidence="0.1">x </unclear>
-                            </del></del><note>There' a chance the crossing out is the letter
-                            y</note>camouflée de sourires<lb/>glissants...</ab>
+                                    <unclear reason="double character" confidence="0.1">x </unclear>
+                                </del></del><note>There' a chance the crossing out is the letter
+                                y</note>camouflée de sourires<lb/>glissants...</ab>
                     </sp>
                     <sp>
                         <speaker><hi rend="underlined">Toussaint</hi>.</speaker>
@@ -1397,13 +1402,11 @@
                         <ab>Colomb. Colomb.</ab>
 
                     </sp>
-                    <lb/>
-                    <stage type="delivery">A ce moment <subst hand="#l_p">
+                    <stage type="setting">A ce moment <subst hand="#l_p">
                             <del>la populace nègre envahit </del>
                             <add place="above">les esclaves nègres envahissent </add>
                         </subst>la scène<del hand="#l_p">, déchainée et menaçante,</del><lb/>
                         <del>brandissant un mannequin.</del></stage>
-                    <lb/>
                 </div>
 
                 <div type="page" facs="/P017.jpg" n="17">
@@ -1465,9 +1468,9 @@
                                 <add>h</add>
                             </subst><del hand="#d_p"> maintenant</del>, camarades, est-ce qu’on
                                 <subst hand="#l_p">
-                                <add place="margin">sera</add>
+                                    <add place="margin">sera</add><lb/>
                                 <del>
-                                    <unclear reason="deleted" confidence="0.1"><lb/>est</unclear>
+                                    <unclear reason="deleted" confidence="0.5">est</unclear>
                                 </del>
                             </subst> heureux avec la liberté et la guerre et <del rend="overprint"
                                 >lave</del> la vengeance des Blancs<lb/>sur les bras<subst>
@@ -1750,12 +1753,12 @@
                             <hi rend="underlined">Le récitant</hi>
                         </speaker>
                         <stage type="delivery"> (très calme.)</stage>
-                        <ab rend="indent">... La Grande Révolution de Saint Domingue <subst>
-                                <del hand="#l_p" seq="1">continue</del>
+                        <ab rend="indent">... La Grande Révolution de Saint Domingue<subst>
+                                <del hand="#l_p" seq="1"> continue</del>
                                 <del hand="#d_p" seq="2">
-                                    <add hand="#l_p" place="below" seq="1">a commencé</add>
+                                    <add hand="#l_p" place="below" seq="1"> a commencé</add>
                                 </del>
-                                <add hand="#d_p" place="inline" seq="2">vient de commencer</add>
+                                <add hand="#d_p" place="inline" seq="2"> vient de commencer</add>
                             </subst>.</ab>
                     </sp>
                     <!-- <note>The rest of the page is crossed-out with a large x written in blue

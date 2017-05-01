@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "prince"
+title: "king"
 description: "" 
 author: alex gil
 ---
@@ -9,8 +9,9 @@ author: alex gil
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a></p>
-<p>(La scène est à
-   Saint Domingue<span>.</span><span></span>.)
+<p><span class="add">(</span>La scène est à
+   Saint Domingue<span class="delete">.</span><span class="delete"><span class="add">)</span></span><span class="add">&nbsp;à&nbsp;</span><span class="add">l’epoque de la Révolution
+      française)</span>.
 </p>
 - {:.speaker} **La récitante.**
 
@@ -32,7 +33,7 @@ pays.
 - {:.speaker} **La récitante.**
 
 - Ce pays est maudit.
-- {:.prose} Ce pays bâille, ayant craché l’ankylostome Cuba, une bouche de
+- {:.prose} Ce pays b<span class="add">â</span><span class="add">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de
 clameurs vides.
 
 - {:.speaker} **Le récitant.**
@@ -48,7 +49,7 @@ de feu sur la croupe de l’Amérique mauvaise.
 <p class="prose" style="text-indent:2rem">En marge des marées sautillantes, je marche sur l’eau des
    printemps tournants ; j’aperçois très haut mes yeux de sentinelle.
    L’insomnie à toute épreuve grandit comme une désobéissance le long
-   des tempes libres de la femme à l’emphore, verseau verseau tempête de germes, bouilloire.
+   des tempes libres de la femme à l’emphore, verseau<span class="add">,</span> verseau tempête de germes, bouilloire.
 </p>
 
 - {:.speaker} **Toussaint.**
@@ -57,7 +58,7 @@ de feu sur la croupe de l’Amérique mauvaise.
 - contractures
 - et je salue ma fraternité totale.
 - Saint-Domingue, tes fleuves enfoncent dans ma chair
-- leur museau de sagouin
+- leur museau de sagouin<span class="add">,</span>
 - des forêts poussent aux mangles de mes muscles,
 - les vagues de mon sang chantent aux cayes,
 - je ferme les yeux,
@@ -67,12 +68,12 @@ de feu sur la croupe de l’Amérique mauvaise.
 - mes rivières pendent à mon cou comme
 - des serpents et des chaines précieuses.
 
-- {:.speaker} **<span>Le chœur.</span>**
+- {:.speaker} **<span class="delete">Le chœur.</span>**
 
 
-<p class="prose" style="text-indent:2rem"><span>Hurrah. Les Anglais sont perdus... Nos batteries
-      d’approche balayent</span> <span>leurs remparts; nos batteries de brèche sont
-      intallées... Saint-Marc</span> <span>craque... comme un vaisseau pourri...</span></p>
+<p class="prose" style="text-indent:2rem"><span class="delete">Hurrah. Les Anglais sont perdus... Nos batteries
+      d’approche balayent</span> <span class="delete">leurs remparts; nos batteries de brèche sont
+      intallées... Saint-Marc</span> <span class="delete">craque... comme un vaisseau pourri...</span></p>
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P003.jpg">[ 3 ]</a></p>
@@ -80,7 +81,7 @@ de feu sur la croupe de l’Amérique mauvaise.
 
 
 <p class="prose" style="text-indent:2rem">Toussaint est debout dans le grondement du fleuve... de la
-   rive d’or cent guerriers lui lancent un<span>e</span> cent sagaies... La poitrine de
+   rive d’or cent guerriers lui lancent un<span class="delete">e</span> cent sagaies... La poitrine de
    Toussaint est lunée de cicatrices...
 </p>
 
@@ -88,7 +89,7 @@ de feu sur la croupe de l’Amérique mauvaise.
 
 
 <p class="prose" style="text-indent:2rem">Saint-Marc cède... la fière... ses murailles s’écroulent
-   ... nos chevaux hument l’air mêlé de poudre et de tambour.
+   ... nos chevaux hument l’air m<span class="add">ê</span>lé de poudre et de tambour.
 </p>
 
 - {:.speaker} **La récitante.**
@@ -117,18 +118,19 @@ de feu sur la croupe de l’Amérique mauvaise.
 </p> 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P004.jpg">[ 4 ]</a></p>
-- {:.speaker} **<span>Une </span>voix tentatrice.**
+- {:.speaker} **<span class="add">1ère
+   </span><span class="delete">Une </span>voix tentatrice.**
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
 - ma voix sans saison d’entre les vasques creuse
 - mille songes harmonieux
-- ma voix de cils aiguise juste
+- ma voix de cils aiguise juste<span class="add">s</span>
 mille insectes triomphants
 - ma voix est un bel oiseau flamboyant d’or
-- de mousseline de ciel, de désirs sans parade
+- de mousseline de ciel, de désirs sans parade<span class="add">,</span>
 - mes voix humides roulent des ruisseaux
-- de colombes sans effroi sur de
+- de colombes sans effroi sur de<span class="add">s</span>
 galets
 - de jaspe et d’ecbatane...
 
@@ -149,16 +151,16 @@ galets
 - {:.speaker} **Toussaint.**
 
 
-<p class="prose" style="text-indent:2rem">Je dis que la
+<p class="prose" style="text-indent:2rem"><span class="add">J</span>e dis que la
    République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 </p>
 
-- {:.speaker} **<span><span class="unclear">1re</span></span> voix tentatrice.**
+- {:.speaker} **<span class="add">2e </span><span class="delete"><span class="unclear">1re</span></span> voix tentatrice.**
 
 
 <p class="prose" style="text-indent:2rem">Ha, ha, ha. des mots, rien que des mots: pas trois; mille
-   mots Toussaint... O mon ami, <span><span class="unclear">naïf ami,</span></span> veux-tu de l’argent? des titres? de la terre? Veux-tu être
-   maréchal de camp? Grand d’Espagne<span>&nbsp;</span><span><span class="unclear"> [comme Piasson?] </span></span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+   mots Toussaint... O mon ami, <span class="delete"><span class="unclear">naïf ami,</span></span> veux-tu de l’argent? des titres? de la terre? Veux-tu être
+   maréchal de camp? Grand d’Espagne<span class="add">?</span><span class="delete">&nbsp;</span><span class="delete"><span class="unclear"> [comme Piasson?] </span></span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 </p>
 
 <hr>
@@ -167,10 +169,10 @@ galets
 
 - Je tire un pied
 - Oh. Je tire l’autre &nbsp;pied
-- laissez-moi sans m’insulter de promesses me dégluer
+- laissez-moi sans m’insulter de promesses<span class="add">,</span> me dégluer
 - de la charogne et de la boue.
 
-- {:.speaker} **<span>2e</span> voix tentatrice.**
+- {:.speaker} **<span class="add">3ème</span><span class="delete">2e</span> voix tentatrice.**
 
 
 <p class="prose" style="text-indent:2rem">... Un roi. Quelle aventure. Et c’est vrai qu’il y a
@@ -183,7 +185,7 @@ galets
 - {:.speaker} **Toussaint.**
 
 - Fête de nuit
-- <span><span class="unclear">came</span></span>, cave
+- <span class="add margin">&nbsp;|&nbsp;<span class="unclear">carne</span>&nbsp;|&nbsp;</span><span class="delete"><span class="unclear">came</span></span>, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
@@ -193,13 +195,13 @@ galets
 - cessez la torture croisière des paradis barrés de tentations:
 - au bord de la mer une campagne de rhum et de contrebande
 - dédouble de soleils nichés la fièvre lisse des jours.
-- Maudit serais-je, maudit.
+- Maudit<span class="add">,</span> serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- îles
+- îles<span class="add">,</span>
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P006.jpg">[ 6 ]</a></p>
-- {:.speaker} **<span>Toussaint.</span>**
+- {:.speaker} **<span class="delete">Toussaint.</span>**
 
 - J’ai été esclave pendant 50 ans
 - et j’ai coupé des cannes et j’ai ciré des chaussures et
@@ -224,7 +226,7 @@ galets
 - {:.speaker} **Toussaint.**
 
 - Martinique, Jamaïque,
-- tous les mirages et tous les lampornis
+- tous les mirages et tous les <span class="add">lampornis</span>
 - ne peuvent faire sonner d’oubli dormant
 - le coup de feu, le sang gaché, le chant d’acier
 - abîmes fraternels des roses de Jéricho...
@@ -233,26 +235,27 @@ galets
 <p><a target="_blank" href="/data/sdw-data/P007.jpg">[ 7 ]</a></p>
 - {:.speaker} **Le chœur.**
 
-- {:.indent-2} Tu n’échapperas pas à ta loi<span> qui est une
+- {:.indent-2} Tu n’échapperas pas à ta loi<span class="delete"> qui est une
    loi de domination</span>.
 
 - {:.speaker} **Toussaint.**
 
 
-<p class="prose" style="text-indent:2rem">Ma loi est que je courre d’une chaine sans cassure<span>:</span> jusqu’au confluent de feu qui me volatilise, qui m’épure et
-   m’incendie de <span>prisme </span> <span>d'or</span> amalgamé.
+<p class="prose" style="text-indent:2rem">Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span><span class="add">,</span> jusqu’au confluent de feu qui me volatilise, qui m’épure et
+   m’incendie de <span class="add above">mon </span><span class="delete">prisme </span><span class="add margin">&nbsp;|&nbsp;propre&nbsp;|&nbsp;</span> <span class="add margin">&nbsp;|&nbsp;don&nbsp;|&nbsp;</span><span class="delete">d'or</span> amalgamé.
 </p>
 
 - {:.speaker} **Le chœur.**
 
-- {:.indent-2} <span>Goût des ruines;
-   baisers; </span> la lune décroit, le roi se
+- {:.indent-2} <span class="delete">Goût des ruines;
+   baisers; </span><span class="add above">funèbre</span> la lune décroit, le roi se
 cache.
 
 - {:.speaker} **Toussaint.**
 
 
-<p class="prose" style="text-indent:2rem">Je ne veux pas être le grain de parfum où se résume et se fète l’innombrable sacrifice des roses désarmées.</p>
+<p class="prose" style="text-indent:2rem">Je ne veux pas être le grain de parfum o<span class="add">ù</span> se résume et se fète l’innombrable sacrifice des roses désarmées.
+</p>
 
 - {:.speaker} **Le récitant.**
 
@@ -273,22 +276,23 @@ ses propres parenthèses, coule.
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- où la pensée est sans équivoque,
+- o<span class="add">ù</span> la pensée est sans équivoque,
 une fleur au coeur de papillon.
-- Je veux un monde nu d’<span>unions</span> non timbré.
-- 
+- Je veux un monde nu d’<span class="delete">unions</span><span class="add above">univers</span> non timbré.
+- <span class="add below">une petite fille du Fouta ronge un os en
+   forme de candélabre</span>
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P008.jpg">[ 8 ]</a></p>
-<p><span>(Crépitement de tam-tam. Une petite fille
-      du Fouta ronge un os en</span> <span>forme de candélabre.)</span></p>
-- {:.speaker} **<span>Toussaint.</span>**
+<p><span class="delete">(Crépitement de tam-tam. Une petite fille
+      du Fouta ronge un os en</span> <span class="delete">forme de candélabre.)</span></p>
+- {:.speaker} **<span class="delete">Toussaint.</span>**
 
 
 <p class="prose" style="text-indent:2rem">Et je suis jeune, je suis opulent de jeunesse, d’une
    enfance d’avant les portes et les fenêtres, d’une enfance de
    libation et d’holocaustes au fil des yeux, au fil des heures. Un lac
-   de sécheresse pend sur ma <span>joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus
+   de sécheresse p<span class="add">e</span>nd sur ma <span class="add margin">&nbsp;|&nbsp;joue&nbsp;|&nbsp;</span><span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus
    et
 </p>
 - d’anémones.
@@ -298,7 +302,7 @@ une fleur au coeur de papillon.
 
 - {:.speaker} **La récitante.**
 
-- {:.indent-2} Patience, je regarde<span>,&nbsp;</span><span>j’ai regardé</span>.
+- {:.indent-2} Patience, je regarde<span class="delete">,&nbsp;</span><span class="delete">j’ai regardé</span>.
 - {:.prose} Ma tête polaire engloutit les lueurs de cadavres, les casques
 brisés, les débris inconsolables, les soleils gavés du vent charnel des venaisons
 
@@ -314,7 +318,7 @@ brisés, les débris inconsolables, les soleils gavés du vent charnel des venai
 
 
 <p class="prose" style="text-indent:2rem">Une belle fille terrible brise sa coquille de désastres.
-   Des tireurs de <span>contes</span> se réveillent dans une hutte d’absinthe heureuse.
+   Des tireurs de <span class="delete">contes</span><span class="add above">coyotes</span> se réveillent dans une hutte d’absinthe heureuse.
 </p>
 
 - {:.speaker} **Toussaint.**
@@ -331,7 +335,7 @@ brisés, les débris inconsolables, les soleils gavés du vent charnel des venai
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
 - {:.prose} tragique comme un moignon de palmier dans l’émeute
 banale et le champ de la foudre. Ses yeux poussièreux s’élancent
-dans une steppe sans ombre et sans eau et il mâche, ombre et eau une
+dans une steppe sans ombre et sans eau et il m<span class="add">â</span>che, ombre et eau une
 prière qu’il ne vendra pas.
 
 - {:.speaker} **Toussaint.**
@@ -356,23 +360,23 @@ prière qu’il ne vendra pas.
 - 
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
-- Et tu ne vois rien par<span>-</span>mi l’herbe nouvelle?
+- Et tu ne vois rien par<span class="delete">-</span>mi l’herbe nouvelle?
 - Rien parmi le barrattement de la terre et le
 - Convulsif chahut végétal?
 - Rien dans la mer, n’est-ce pas?
 - Je vois...... j’entends...... je parlerai......
 - O succion nouvelle de mon sang par le soleil
-- Vampire
+- Vampire<span class="add">,</span>
 - O assaut de mon roc par la nuit corsaire
 - et mon aube a pété sous leur gueule
 - ses fracas de midi et de 
 - Ligotez-moi.
 - piétinez-moi. Assassinez-moi. Trop tard.
 - Les heures débusquées sonnent sur les accalmies
-- et les fanaux de mouillage
+- et les fanaux de mouillage<span class="add">;</span>
 - les heures sonnent
 - Renifleuses
-- et s’allongent aux caresses de mes mains
+- et s’allongent aux caresses de mes mains<span class="add">,</span>
 - les flammes s’allongent
 - Moi aussi je suis une flamme.
 - Je m’allonge. je suis l’heure.
@@ -385,7 +389,7 @@ prière qu’il ne vendra pas.
 
 
 <p class="prose" style="text-indent:2rem">Mon  se dore de visions souveraines.....
-   Toussaint fait son entrée solennelle à Santo Domingo.....Le <span>cavido</span> lui remet les clefs de la ville
+   Toussaint fait son entrée solennelle à Santo Domingo.....Le <span class="delete">cavido</span><span class="add margin">&nbsp;|&nbsp;cabido&nbsp;|&nbsp;</span> lui remet les clefs de la ville
 </p>
 
 - {:.speaker} **Le Récitant.**
@@ -395,19 +399,20 @@ prière qu’il ne vendra pas.
 - {:.speaker} **Le chœur.**
 
 
-<p class="prose" style="text-indent:2rem">Les désirs de Toussaint sont des ordres... Il commande et légifère</p>
+<p class="prose" style="text-indent:2rem">Les désirs de Toussaint sont des ordres... Il commande et légi<span class="add">f</span>ère
+</p>
 
 - {:.speaker} **Le Récitant.**
 
 
-<p class="prose" style="text-indent:2rem">Il n’y a pas de roses : seuls les piments agra<span>p</span>ent leurs larmes rouges
+<p class="prose" style="text-indent:2rem">Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span><span class="add">f</span>ent leurs larmes rouges
 </p>
 
 - {:.speaker} **Le chœur.**
 
 
 <p class="prose" style="text-indent:2rem">Toussaint est roi... Il n’en a pas le titre, mais bien
-   ŝur qu’il est roi... un vrai <span>la mi do</span>... voici sa  garde.... les casques
+   ŝur qu’il est roi... un vrai <span class="delete">la mi do</span><span class="add margin">&nbsp;|&nbsp;lamido&nbsp;|&nbsp;</span>... voici sa  garde.... les casques
    d’argent s’enflamment au crépuscule
 </p>
 
@@ -427,7 +432,7 @@ prière qu’il ne vendra pas.
 
 
 <p class="prose" style="text-indent:2rem">Mes souvenirs délirent d''encens et de cloches... Le Niger
-   bleu... Le Congo d’or... Le <span>Logne</span> sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt.
+   bleu... Le Congo d’or... Le <span class="delete">Log<span class="add">n</span>e</span><span class="add below">Logone</span> sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt.
 </p>
 
 <hr>
@@ -435,7 +440,7 @@ prière qu’il ne vendra pas.
 - {:.speaker} **Le récitant.**
 
 
-<p class="prose" style="text-indent:2rem">Mes souvenirs brâment le rapt... le carcan... la <span>peste</span> dans la  forêt... le barracoun... le négrier...
+<p class="prose" style="text-indent:2rem">Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span><span class="add above">piste</span> dans la  forêt... le barracoun... le négrier...
 </p>
 
 - {:.speaker} **Le chœur.**
@@ -457,7 +462,7 @@ prière qu’il ne vendra pas.
    arrive. Toussaint met pied à terre... Toussaint monte l’escalier.
    Toussaint franchit la première marche. Il en est à la 2e . Toussaint
    est sur le perron. Pas après pas, Toussaint a mis le pied dans la
-   fosse <span></span>camouflée de sourires glissants...
+   fosse <span class="delete"></span>camouflée de sourires glissants...
 </p>
 
 - {:.speaker} **Toussaint.**
@@ -512,7 +517,7 @@ cendre;
 
 - {:.speaker} **Toussaint.**
 
-- ... des pommes d’ara<span>n</span>caria, des bouquets de cerises.
+- ... des pommes d’ara<span class="delete">n</span><span class="add above">u</span>caria, des bouquets de cerises.
 - {:.speaker} **Choeur**  (presque perdu dans la distance)
 
 - Ô roi debout.
@@ -527,12 +532,12 @@ cendre;
 
 - {:.speaker} **Toussaint.**
 
-- {:.indent-2} <span>J’avais amené </span>&nbsp;ce pays à la connaissance
+- {:.indent-2} <span class="delete">J’avais amené </span><span class="add"><span class="delete">J'aurai</span></span><span class="add above">j’amenerai</span>&nbsp;ce pays à la connaissance
 - de lui-même,
-- familiaris<span>é</span>&nbsp;cette terre avec ses démons secrets
-- <span>allumé </span>aux cratères d’hélodermes et de cymbales
+- <span class="add">je&nbsp;</span>familiaris<span class="delete">é</span><span class="add">erai</span>&nbsp;cette terre avec ses démons secrets
+- <span class="delete">allumé </span><span class="add above">j’allumerai </span>aux cratères d’hélodermes et de cymbales
 - les symphonies d’un enfer inconnu, splendide
-- parasité de nostalgies hautaines.
+- parasité de nostalgies hautaines.<span class="add">..</span>
 
 - {:.speaker} **Choeur.**
 
@@ -543,9 +548,9 @@ cendre;
 - Et maintenant
 - seul.
 - Tout est seul
-- j’ai beau aiguis<span>e</span> ma voix
-- tou déserte tout
-- ma voix peine
+- j’ai beau aiguis<span class="delete">e</span><span class="add">ér</span> ma voix
+- tou<span class="add">t</span> déserte tout
+- ma voix peine<span class="add">,</span>
 - ma voix tangue dans le cornet des brumes sans carrefour
 - et je n’ai pas de mère
 - et je n’ai pas de fils.
@@ -562,16 +567,16 @@ cendre;
 - désir
 - envol d’in memoriam
 - de vêtements liturgiques
-- premier visage du monde
-- sédition de longs siècles
-- désir
+- premier visage du mon<span class="add">d</span>e
+- <span class="add">séd</span>i<span class="add">t</span>ion de longs si<span class="add">è</span>cles
+- <span class="add">dé</span>sir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P016.jpg">[ 16 ]</a></p>
-- {:.speaker} **<span>Toussaint.</span>**
+- {:.speaker} **<span class="delete">Toussaint.</span>**
 
-- Non, non, <span><span class="unclear">tu</span></span> mens, j’ai peur, je suis seul
+- Non, non, <span class="delete"><span class="unclear">tu</span></span><span class="add">je</span> mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
 - des caravelles inconnues rôdent dans la nuit.
 - Est-ce toi , Colomb ? Capitaine de négrier ? Est-ce toi
@@ -579,7 +584,7 @@ cendre;
 - Rien ne répond. La nuit s’augmente d’éboulis.
 - Colomb. Colomb.
 - Réponds-moi, réponds-moi donc.
-- Beau comme la matrice d’ombre de deux pitons à <span>midi</span>
+- Beau comme la matrice d’ombre de deux pitons à <span class="delete">midi</span><span class="add">midi</span>
 - l’archipel
 - turbulence d’orgues couchées
 - sacrifice de verres de lampes croisées sur la bouche
@@ -591,7 +596,7 @@ dans le mouvement
 - en anneaux de cris violents
 - Colomb. Colomb.
 
-<p>(A ce moment <span>la populace nègre envahit </span>la scène<span>, déchainée et menaçante,</span> <span>brandissant un mannequin.</span>)
+<p>(A ce moment <span class="delete">la populace nègre envahit </span><span class="add above">les esclaves nègres envahissent </span>la scène<span class="delete">, déchainée et menaçante,</span> <span class="delete">brandissant un mannequin.</span>)
 </p>
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P017.jpg">[ 17 ]</a></p>
@@ -605,11 +610,11 @@ dans le mouvement
 
 - {:.speaker} **Voix.**
 
-- <span>Il a tué </span>nos enfants.
+- <span class="delete">Il a tué </span><span class="add above">Il tuera </span>nos enfants.
 
 - {:.speaker} **Voix.**
 
-- Il <span>a attiré </span>sur nous la colère des Blancs.
+- Il <span class="delete">a attiré </span><span class="add above">attirera </span>sur nous la colère des Blancs.
 
 - {:.speaker} **Des voix.**
 
@@ -626,10 +631,10 @@ dans le mouvement
 
 <p class="prose" style="text-indent:2rem">Camarades, c’est pour vous dire que Toussaint est un
    ennemi du peuple et un emmerdeur. Comme si on n’en avait pas
-   asse d’emmerdements.
-   Bien sur qu’on n’<span><span class="unclear">était</span></span> pas heureux? E<span>t</span><span> maintenant</span>, camarades, est-ce qu’on
-    <span><span class="unclear">est</span></span> heureux avec la liberté et la guerre et  la vengeance des Blancs sur les bras? Alors je dis que  nous <span>a
-      </span>trahit. A mort.
+   asse<span class="add">z</span> d’emmerdements.
+   Bien sur qu’on n’<span class="delete"><span class="unclear">était</span></span><span class="add">est</span> pas heureux? E<span class="delete">t</span><span class="add">h</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on
+   <span class="add margin">&nbsp;|&nbsp;sera&nbsp;|&nbsp;</span> <span class="delete"><span class="unclear">est</span></span> heureux avec la liberté et la guerre et  la vengeance des Blancs sur les bras<span class="add">?</span> Alors je dis que  nous <span class="delete">a
+      </span>trahi<span class="add">t</span>. A mort.
 </p>
 
 - {:.speaker} **Des voix.**
@@ -643,8 +648,8 @@ dans le mouvement
 - Au feu.
 - Au feu Toussaint.
 
-<p><span>( Le feu jaillit; le mannequin brûle.
-      Rondo.</span> <span>Toussaint&nbsp;</span><span><span>parait enchainé,&nbsp;</span></span><span>&nbsp;entre deux gardes en haut de la
+<p><span class="delete">( Le feu jaillit; le mannequin brûle.
+      Rondo.</span> <span class="delete">Toussaint&nbsp;</span><span class="delete"><span class="delete">parait enchainé,&nbsp;</span><span class="add below">apparait alors</span></span><span class="delete">&nbsp;entre deux gardes en haut de la
       citadelle.)</span></p>
 - {:.speaker} **Toussaint.**
 
@@ -673,11 +678,11 @@ cauchemar.
 
 - {:.speaker} **Toussaint.**
 
-- dans vos voix de chacal<span> la nostalgie </span>des muselières.
+- dans vos voix de chacal<span class="add">,</span><span class="delete"> la nostalgie </span><span class="add above">le bien-être </span>des muselières.
 
 - {:.speaker} **La foule.**
 
-- A mort Toussaint, à mort.
+- A mort<span class="add">,</span> Toussaint, à mort.
 
 - {:.speaker} **Toussaint.**
 
@@ -719,7 +724,8 @@ cauchemar.
 
 - {:.speaker} **Toussaint.**
 
-- {:.indent-2} Vive la vengeance. 
+- {:.indent-2} Vive la vengeance. <span class="add">Vive la
+   liberté.</span>
 - {:.prose} Les montagnes trembleront comme une dent prise au davier, les
 étoiles écraseront contre terre leur front de femme enceinte...
 
@@ -736,12 +742,12 @@ nuit, d’immenses cocotiers catastrophiques...
 <p><a target="_blank" href="/data/sdw-data/P020.jpg">[ 20 ]</a></p>
 - {:.speaker} **La foule.**
 
-- Malheur. <span>Malheur.</span>
+- Malheur. <span class="delete">Malheur.</span>
 
 - {:.speaker} **Toussaint.**
 
 
-<p class="prose" style="text-indent:2rem">Ah vous ne partirez
+<p class="prose" style="text-indent:2rem">Ah<span class="add">!</span> vous ne partirez
    pas, que vous n’ayez senti la morsure de mes mots sur vos âmes
    imbéciles.
 </p>
@@ -750,12 +756,12 @@ nuit, d’immenses cocotiers catastrophiques...
 - mensonges et de vos lachetés;
 - larbins fiers
 - petits hypocrites filant doux
-- esclaves et fils d’esclaves
-- et vous n’avez plus la force de protester, de vous indigner
-- de gémir 
+- esclaves et fils d’esclaves<span class="add">,</span>
+- et vous n’avez plus la force de protester, de vous indigner<span class="add">,</span>
+- de gémir <span class="add">;</span>
 - condamnés à vivre en tête à tête avec la stupidité empuantie
 - sans autre chose qui vous tienne chaud au sang
-- que de regarder glouter jusqu’à mi-verre votre rhum
+- que de regarder glouter jusqu’à mi-verre<span class="add">,</span> votre rhum
 - antillais...
 - Âmes de morue.
 
@@ -793,12 +799,12 @@ un
 - vol de moustiques...
 - Colomb, Colomb
 - toi si tranquille
-- quand tu fis
-le premier  dans cette île close
+- quand tu f<span class="add">i</span>s
+le premier <span class="add above">pas</span> dans cette île close
 comme une ratière,
-- {:.prose} parmi les signes nouveaux, parmi les <span>D</span>ieux que ta fierté ne consentait pas à avouer, je le sais,
+- {:.prose} parmi les signes nouveaux, parmi les <span class="delete">D</span><span class="add">d</span>ieux que ta fierté ne consentait pas à avouer, je le sais,
 je le sens, tu ne te sentis pas envahi de triomphe non, mais
-d’angoisse, mais d’inquiétude <span>fière</span>, toi l’inexpugnable, pris poreux
+d’angoisse, mais d’inquiétude <span class="delete">fière</span><span class="add above">fine</span>, toi l’inexpugnable, pris poreux
 et ligoté des grandes lianes
 silencieuses de la peur, des grandes lianes silencieuses du
 Repentir.
@@ -825,4 +831,4 @@ Repentir.
 </p>
 - {:.speaker} **Le récitant**  (très calme.)
 
-- {:.indent-2} ... La Grande Révolution de Saint Domingue <span>continue</span><span></span>.
+- {:.indent-2} ... La Grande Révolution de Saint Domingue<span class="delete"> continue</span><span class="delete"><span class="add below"> a commencé</span></span><span class="add"> vient de commencer</span>.
