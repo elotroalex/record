@@ -17,7 +17,8 @@
     
     
     <!-- HTML wrapper | document element -->
-    <xsl:template match="/">---
+    <xsl:template match="/">
+        <xsl:text>---
         layout: poem
         title: "revolution rising"
         description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient" 
@@ -27,29 +28,17 @@
         (a speculative version)[^1]
             
         ---
-        
+        </xsl:text>
         <xsl:apply-templates/>
+        <xsl:text>---
         
-        ---
-        
-        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions.
-    </xsl:template>
-    
+        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions.</xsl:text>
+    </xsl:template>    
     
     
     <!-- #################################### -->
     <!-- ############### TEXT ############### -->
     <!-- #################################### -->
-    
-    <!-- headings: acts -->
-    <xsl:template match="tei:head">
-        <p class="centered">
-            <xsl:apply-templates/>
-        </p>
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
     
     <!-- pages -->
     
@@ -61,18 +50,6 @@
        </xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
-    
-    <!-- page numbers -->
-<!--    <xsl:template match="tei:fw">
-        <xsl:if test="tei:locus/@scheme != '#Page'"/>
-        <xsl:if test="tei:locus/@scheme = '#Page'">
-            <xsl:variable name="pageno" select="tei:locus"/>
-            <a target="_blank"><xsl:attribute name="href" select='concat("/data/sdw-data", ../@facs)'/>[ <xsl:value-of select="tei:locus"/> ]</a>
-            <xsl:text>
-                
-            </xsl:text>
-        </xsl:if>
-    </xsl:template>-->
     
     <xsl:template match="tei:sp">
         <xsl:apply-templates/>
