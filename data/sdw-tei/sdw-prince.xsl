@@ -134,13 +134,13 @@
 
     <xsl:template match="tei:ab[@rend='indent']">
         <ul>
-            <li>
+            <li class="indent-3">
             <xsl:apply-templates/></li>
         </ul>
     </xsl:template>
 
     <xsl:template match="tei:lb">
-        <xsl:text> </xsl:text>
+        <br/>
     </xsl:template>
 
     <!-- ########################################### -->

@@ -44,7 +44,7 @@ author: alex gil
    </li>
    <li>Ce pays est maudit.</li>
    <li>Ce pays bâille, ayant craché l’ankylostome Cuba, une bouche de
-      clameurs vides.
+      clameurs<br>vides.
    </li>
 </ul>
 <ul>
@@ -52,7 +52,7 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <li>Ce pays mord : bouche ouverte d’une gorge de feu, convergence de crocs
-      de feu sur la croupe de l’Amérique mauvaise.
+      de<br>feu sur la croupe de l’Amérique mauvaise.
    </li>
 </ul>
 <hr>
@@ -62,10 +62,10 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>En marge des marées sautillantes, je marche sur l’eau des
-         printemps tournants ; j’aperçois très haut mes yeux de sentinelle.
-         L’insomnie à toute épreuve grandit comme une désobéissance le long
-         des tempes libres de la femme à l’emphore, verseau verseau tempête de germes, bouilloire.
+      <li class="indent-3">En marge des marées sautillantes, je marche sur l’eau des
+         printemps<br>tournants ; j’aperçois très haut mes yeux de sentinelle.
+         L’insomnie à<br>toute épreuve grandit comme une désobéissance le long
+         des tempes libres<br>de la femme à l’emphore, verseau verseau tempête de germes, bouilloire.
       </li>
    </ul>
 </ul>
@@ -92,9 +92,9 @@ author: alex gil
       <p><span class="delete">Le choeur.</span></p>
    </li>
    <ul>
-      <li><span class="delete">Hurrah. Les Anglais sont perdus... Nos batteries
-            d’approche balayent</span> <span class="delete">leurs remparts; nos batteries de brèche sont
-            intallées... Saint-Marc</span> <span class="delete">craque... comme un vaisseau pourri...</span></li>
+      <li class="indent-3"><span class="delete">Hurrah. Les Anglais sont perdus... Nos batteries
+            d’approche balayent</span><br><span class="delete">leurs remparts; nos batteries de brèche sont
+            intallées... Saint-Marc</span><br><span class="delete">craque... comme un vaisseau pourri...</span></li>
    </ul>
 </ul>
 <hr>
@@ -104,9 +104,9 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>Toussaint est debout dans le grondement du fleuve... de la
-         rive d’or cent guerriers lui lancent un<span class="delete">e</span> cent sagaies... La poitrine de
-         Toussaint est lunée de cicatrices...
+      <li class="indent-3">Toussaint est debout dans le grondement du fleuve... de la
+         rive d’or<br>cent guerriers lui lancent un<span class="delete">e</span> cent sagaies... La poitrine de
+         Toussaint<br>est lunée de cicatrices...
       </li>
    </ul>
 </ul>
@@ -115,8 +115,8 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Saint-Marc cède... la fière... ses murailles s’écroulent
-         ... nos chevaux hument l’air mêlé de poudre et de tambour.
+      <li class="indent-3">Saint-Marc cède... la fière... ses murailles s’écroulent
+         ... nos<br>chevaux hument l’air mêlé de poudre et de tambour.
       </li>
    </ul>
 </ul>
@@ -125,9 +125,9 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Toussaint, Toussaint c’est le jour de l’épreuve... Il
-         vient... le messager du roi ... il glisse ... sa bouche pleine de
-         promesses ... le serpent siffle ... siffle ... Il tient Toussaint au
+      <li class="indent-3">Toussaint, Toussaint c’est le jour de l’épreuve... Il
+         vient... le<br>messager du roi ... il glisse ... sa bouche pleine de
+         promesses ... le<br>serpent siffle ... siffle ... Il tient Toussaint au
          bout de sa langue...
       </li>
    </ul>
@@ -137,18 +137,17 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Toussaint a pris tout seul le sentier de la guerre. Tout
-         s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le
-         bouclier de paille tressée est à sa main gauche... Il s’arrête ...
-         Il rampe ... Il s’immo‐ bilise un genou en terre ... Le torse est
-         renversé comme une muraille... La sagaie est levée...
+      <li class="indent-3">Toussaint a pris tout seul le sentier de la guerre. Tout
+         s’est tu.<br>Fusils et canons se sont tus. Toussaint est nu... Le
+         bouclier de paille<br>tressée est à sa main gauche... Il s’arrête ...
+         Il rampe ... Il s’immo‐<br>bilise un genou en terre ... Le torse est
+         renversé comme une muraille...<br>La sagaie est levée...
       </li>
    </ul>
 </ul>
 <p>( A ce moment un cortège magnifique envahit la scène :
-   pèlerins, che‐ vaux, chiens. Senteurs de musc et benjoin.)
-</p> 
-<hr>
+   pèlerins, che‐<br>vaux, chiens. Senteurs de musc et benjoin.)
+</p><br><hr>
 <p><a target="_blank" href="/data/sdw-data/P004.jpg">[ 4 ]</a></p>
 <ul>
    <li class="speaker">
@@ -175,8 +174,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Quelle est la cachée qui me traverse d’or et d’argent et
-         m’assiège de dangers, de caresses inconnues?
+      <li class="indent-3">Quelle est la cachée qui me traverse d’or et d’argent et
+         m’assiège<br>de dangers, de caresses inconnues?
       </li>
    </ul>
 </ul>
@@ -185,8 +184,8 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>J’ai interrogé les dés sacrés. Je dis qu’il habite en toi
-         un être royal sommeillant sur un lit étroit.
+      <li class="indent-3">J’ai interrogé les dés sacrés. Je dis qu’il habite en toi
+         un être<br>royal sommeillant sur un lit étroit.
       </li>
    </ul>
 </ul>
@@ -195,8 +194,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Je dis que la
-         République a cloché un branle nouveau au monde en heur‐ tant trois
+      <li class="indent-3">Je dis que la
+         République a cloché un branle nouveau au monde en heur‐<br>tant trois
          mots d’or...
       </li>
    </ul>
@@ -207,9 +206,9 @@ author: alex gil
       </p>
    </li>
    <ul>
-      <li>Ha, ha, ha. des mots, rien que des mots: pas trois; mille
-         mots Tous‐ saint... O mon ami, <span class="delete"><span class="unclear"> [?naïf ami,] </span></span> veux-tu de l’argent? des titres? de la terre? Veux-tu être
-         maréchal de camp? Grand d’Espagne<span class="delete"><span class="unclear"> [? comme Piasson?] </span></span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+      <li class="indent-3">Ha, ha, ha. des mots, rien que des mots: pas trois; mille
+         mots Tous‐<br>saint... O mon ami, <span class="delete"><span class="unclear"> [?naïf ami,] </span></span> veux-tu de l’argent? des titres? de la<br>terre? Veux-tu être
+         maréchal de camp? Grand d’Espagne<span class="delete"><span class="unclear"> [? comme Piasson?] </span></span><br>Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
       </li>
    </ul>
 </ul>
@@ -230,11 +229,11 @@ author: alex gil
       </p>
    </li>
    <ul>
-      <li>... Un roi. Quelle aventure. Et c’est vrai qu’il y a
-         quelque chose en toi qui n’a jamais pu se soumettre, une colère, un
-         désir, une tris‐ tesse, une impatience, un mépris enfin, une
-         violence... Et voilà tes veines charrient de l’or, non de la boue,
-         de l’orgueil, non de la ser‐ vitude. Roi, tu as été roi
+      <li class="indent-3">... Un roi. Quelle aventure. Et c’est vrai qu’il y a
+         quelque chose<br>en toi qui n’a jamais pu se soumettre, une colère, un
+         désir, une tris‐<br>tesse, une impatience, un mépris enfin, une
+         violence... Et voilà tes<br>veines charrient de l’or, non de la boue,
+         de l’orgueil, non de la ser‐<br>vitude. Roi, tu as été roi
          jadis...
       </li>
    </ul>
@@ -304,7 +303,7 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Tu n’échapperas pas à ta loi<span class="delete"> qui est une
+      <li class="indent-3">Tu n’échapperas pas à ta loi<span class="delete"> qui est une
             loi de domination</span>.
       </li>
    </ul>
@@ -314,8 +313,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span> jusqu’au confluent de feu qui me volatilise, qui m’épure et
-         m’incendie de <span class="delete">prisme </span><span class="delete"><span class="unclear"> [?d'amal ] </span></span> <span class="delete">d'or</span> amalgamé.
+      <li class="indent-3">Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span> jusqu’au confluent<br>de feu qui me volatilise, qui m’épure et
+         m’incendie de <span class="delete">prisme </span><span class="delete"><span class="unclear"> [?d'amal ] </span></span><br><span class="delete">d'or</span> amalgamé.
       </li>
    </ul>
 </ul>
@@ -324,7 +323,7 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li><span class="delete">Goût des ruines;
+      <li class="indent-3"><span class="delete">Goût des ruines;
             baisers; </span> la lune décroit, le roi se
          cache.
       </li>
@@ -335,7 +334,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Je ne veux pas être le grain de parfum où se résume et se fète l’in‐ nombrable
+      <li class="indent-3">Je ne veux pas être le grain de parfum où se résume et se fète l’in‐<br>nombrable
          sacrifice des roses désarmées.
       </li>
    </ul>
@@ -345,7 +344,7 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>Tu périras.</li>
+      <li class="indent-3">Tu périras.</li>
    </ul>
 </ul>
 <ul>
@@ -353,7 +352,7 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Hélas. Tu périras.</li>
+      <li class="indent-3">Hélas. Tu périras.</li>
    </ul>
 </ul>
 <ul>
@@ -361,12 +360,12 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Hé bien, je périrai. Mais nu. Intact.</li>
+      <li class="indent-3">Hé bien, je périrai. Mais nu. Intact.</li>
    </ul>
    <li>Ma main dans ma main, mon pied sur le sol,</li>
    <li>quel est en passe de noyés et de nasses ce sombre écroulement vers
-      le couchant? Le monde assassiné d’ambages, pris dans le filet de
-      ses propres parenthèses, coule.
+      le<br>couchant? Le monde assassiné d’ambages, pris dans le filet de
+      ses<br>propres parenthèses, coule.
    </li>
    <li>Nu comme l’eau,</li>
    <li>nu comme le regard unicorne de midi,</li>
@@ -382,17 +381,17 @@ author: alex gil
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P008.jpg">[ 8 ]</a></p>
 <p>(<span class="delete">Crép </span><span class="delete">(Crépitement de tam-tam. Une petite fille
-      du Fouta ronge un os en</span> <span class="delete">forme de candélabre.)</span>)
+      du Fouta ronge un os en</span><br><span class="delete">forme de candélabre.)</span>)
 </p>
 <ul>
    <li class="speaker">
       <p><span class="delete">Toussaint.</span></p>
    </li>
    <ul>
-      <li>Et je suis jeune, je suis opulent de jeunesse, d’une
-         enfance d’avant les portes et les fenêtres, d’une enfance de
-         libation et d’holocaustes au fil des yeux, au fil des heures. Un lac
-         de sécheresse pend sur ma <span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus
+      <li class="indent-3">Et je suis jeune, je suis opulent de jeunesse, d’une
+         enfance d’avant<br>les portes et les fenêtres, d’une enfance de
+         libation et d’holocaustes<br>au fil des yeux, au fil des heures. Un lac
+         de sécheresse pend sur ma<br><span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus
          et
       </li>
    </ul>
@@ -406,10 +405,10 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Patience, je regarde,<span class="delete"> j’ai regardé.</span></li>
+      <li class="indent-3">Patience, je regarde,<span class="delete"> j’ai regardé.</span></li>
    </ul>
    <li>Ma tête polaire engloutit les lueurs de cadavres, les casques
-      brisés, les débris inconsolables, les soleils gavés du vent charnel des venaisons
+      brisés,<br>les débris inconsolables, les soleils gavés du vent charnel des venaisons
    </li>
 </ul>
 <ul>
@@ -417,8 +416,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Je ne suis pas un poulpe. Je ne cracherai pas de la nuit
-         et de l’encre au visage de la nuit.
+      <li class="indent-3">Je ne suis pas un poulpe. Je ne cracherai pas de la nuit
+         et de l’encre<br>au visage de la nuit.
       </li>
    </ul>
    <li>Tu vois encore ?...</li>
@@ -428,8 +427,8 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Une belle fille terrible brise sa coquille de désastres.
-         Des tireurs de <span class="delete">contes</span> se réveillent dans une hutte d’absinthe heureuse.
+      <li class="indent-3">Une belle fille terrible brise sa coquille de désastres.
+         Des tireurs<br>de <span class="delete">contes</span> se réveillent dans une hutte d’absinthe heureuse.
       </li>
    </ul>
 </ul>
@@ -438,8 +437,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Approchez donc, flammes effilées, paquet de frissons. Que
-         la senteur des feux jette son javelot autour de ma tête.
+      <li class="indent-3">Approchez donc, flammes effilées, paquet de frissons. Que
+         la senteur<br>des feux jette son javelot autour de ma tête.
       </li>
    </ul>
 </ul>
@@ -450,12 +449,12 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Et il n’y a plus maintenant qu’un homme perdu,</li>
+      <li class="indent-3">Et il n’y a plus maintenant qu’un homme perdu,</li>
    </ul>
    <li>tragique comme un moignon de palmier dans l’émeute
-      banale et le champ de la foudre. Ses yeux poussièreux s’élancent
-      dans une steppe sans ombre et sans eau --et il mâche, ombre et eau- une
-      prière qu’il ne vendra pas.
+      banale et le champ<br>de la foudre. Ses yeux poussièreux s’élancent
+      dans une steppe sans<br>ombre et sans eau --et il mâche, ombre et eau- une
+      prière qu’il ne<br>vendra pas.
    </li>
 </ul>
 <ul>
@@ -463,9 +462,9 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Merci, ma soeur... une prière qu’il ne vendra pas... ma
-         prière de cobra... ma prière de murène dans les forêts de la mer...
-         ma prière de lait de cactus dans les halliers du ciel...
+      <li class="indent-3">Merci, ma soeur... une prière qu’il ne vendra pas... ma
+         prière de<br>cobra... ma prière de murène dans les forêts de la mer...
+         ma prière<br>de lait de cactus dans les halliers du ciel...
       </li>
    </ul>
 </ul>
@@ -474,11 +473,10 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>... J’ai regardé et les ponts sont coupés...</li>
+      <li class="indent-3">... J’ai regardé et les ponts sont coupés...</li>
    </ul>
    <li>Les étoiles ont débridé leurs cicatrices de sable.</li>
-</ul> 
-<hr>
+</ul><br><hr>
 <p><a target="_blank" href="/data/sdw-data/P010.jpg">[ 10 ]</a></p>
 <ul>
    <li class="speaker">
@@ -520,8 +518,8 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Mon oeil se dore de visions souveraines.....
-         Toussaint fait son entrée solennelle à Santo Domingo.....Le <span class="delete">cavido</span> lui remet les clefs de la ville
+      <li class="indent-3">Mon oeil se dore de visions souveraines.....
+         Toussaint<br>fait son entrée solennelle à Santo Domingo.....Le <span class="delete">cavido</span><br>lui remet les clefs de la ville
       </li>
    </ul>
 </ul>
@@ -536,7 +534,7 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Les désirs de Toussaint sont des ordres... Il commande et légi<span class="delete"><span class="unclear"> [?g] </span></span>ère
+      <li class="indent-3">Les désirs de Toussaint sont des ordres... Il commande et<br>légi<span class="delete"><span class="unclear"> [?g] </span></span>ère
       </li>
    </ul>
 </ul>
@@ -545,7 +543,7 @@ author: alex gil
       <p>Le Récitant.</p>
    </li>
    <ul>
-      <li>Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span>ent leurs larmes rouges
+      <li class="indent-3">Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span>ent leurs<br>larmes rouges
       </li>
    </ul>
 </ul>
@@ -554,8 +552,8 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Toussaint est roi... Il n’en a pas le titre, mais bien
-         ŝur qu’il est roi... un vrai <span class="delete">la mi do</span>... voici sa  garde.... les casques
+      <li class="indent-3">Toussaint est roi... Il n’en a pas le titre, mais<br>bien
+         ŝur qu’il est roi... un vrai <span class="delete">la mi do</span>... voici sa <br>garde.... les casques
          d’argent s’enflamment au crépuscule
       </li>
    </ul>
@@ -571,8 +569,8 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>Hélas. Hélas. L’Europe arachnéenne bouge ses doigts et ses
-         phalan‐ ges de navires...Hélas. Hélas.
+      <li class="indent-3">Hélas. Hélas. L’Europe arachnéenne bouge ses doigts et ses
+         phalan‐<br>ges de navires...Hélas. Hélas.
       </li>
    </ul>
 </ul>
@@ -581,8 +579,8 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Mes souvenirs délirent d''encens et de cloches... Le Niger
-         bleu... Le Congo d’or... Le <span class="delete">Logne</span> sablonneux... un galop de bubales... et les pi‐ leuses de
+      <li class="indent-3">Mes souvenirs délirent d''encens et de cloches... Le Niger
+         bleu... Le<br>Congo d’or... Le <span class="delete">Logne</span> sablonneux... un galop de bubales... et les pi‐<br>leuses de
          millet dans le soir de cobalt.
       </li>
    </ul>
@@ -594,7 +592,7 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span> dans la  forêt... le barracoun... le négrier...
+      <li class="indent-3">Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span> dans la <br>forêt... le barracoun... le négrier...
       </li>
    </ul>
 </ul>
@@ -603,7 +601,7 @@ author: alex gil
       <p>Le choeur.</p>
    </li>
    <ul>
-      <li>Hélas. Hélas.</li>
+      <li class="indent-3">Hélas. Hélas.</li>
    </ul>
 </ul>
 <ul>
@@ -611,9 +609,9 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>J’ai été réveillé de mon grand rêve de mer violette et de
-         terre cho‐ colat et <span class="delete">jé</span> j’ai vu venir du
-         côté des girofliers un homme,petit . Il noircissait le
+      <li class="indent-3">J’ai été réveillé de mon grand rêve de mer violette et de
+         terre cho‐<br>colat et <span class="delete">jé</span> j’ai vu venir du
+         côté des girofliers un homme,petit . Il<br>noircissait le
          ciel d’une face de tourbière coupée de libellules...
       </li>
    </ul>
@@ -623,11 +621,11 @@ author: alex gil
       <p>Le récitant.</p>
    </li>
    <ul>
-      <li>Vous avez entendu ... Vous avez entendu... Toussaint
-         arrive. Toussaint met pied à terre... Toussaint monte l’escalier.
-         Toussaint franchit la première marche. Il en est à la 2e . Toussaint
-         est sur le perron. Pas après pas, Toussaint a mis le pied dans la
-         fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée de sourires glissants...
+      <li class="indent-3">Vous avez entendu ... Vous avez entendu... Toussaint
+         arrive. Toussaint<br>met pied à terre... Toussaint monte l’escalier.
+         Toussaint franchit la<br>première marche. Il en est à la 2e . Toussaint
+         est sur le perron. Pas<br>après pas, Toussaint a mis le pied dans la
+         fosse <span class="delete"><span class="unclear"> [?x ] </span></span>camouflée de sourires<br>glissants...
       </li>
    </ul>
 </ul>
@@ -636,7 +634,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Vous ne m’empècherez pas de parler à mes amis sans
+      <li class="indent-3">Vous ne m’empècherez pas de parler à mes amis sans
          éclipse
       </li>
    </ul>
@@ -648,7 +646,7 @@ author: alex gil
    <p>Choeur (lointain)</p>
 </li>
 <ul>
-   <li>Ô roi debout.</li>
+   <li class="indent-3">Ô roi debout.</li>
 </ul>
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P013.jpg">[ 13 ]</a></p>
@@ -657,7 +655,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Le fleuve sans idiome s’exaspère des manoeuvres de la
+      <li class="indent-3">Le fleuve sans idiome s’exaspère des manoeuvres de la
          cendre;
       </li>
    </ul>
@@ -673,8 +671,7 @@ author: alex gil
 </ul>
 <li class="speaker">
    <p>Choeur (lointain)</p>
-</li> 
-<li>Ô roi debout.</li>
+</li><br><li>Ô roi debout.</li>
 <ul>
    <li class="speaker">
       <p>Toussaint.</p>
@@ -683,8 +680,7 @@ author: alex gil
 </ul>
 <li class="speaker">
    <p>Choeur (au loin)</p>
-</li> 
-<li>Ô roi debout.</li>
+</li><br><li>Ô roi debout.</li>
 <ul>
    <li class="speaker">
       <p>Toussaint.</p>
@@ -731,7 +727,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li><span class="delete">J’avais amené </span>&nbsp;ce pays à la connaissance
+      <li class="indent-3"><span class="delete">J’avais amené </span>&nbsp;ce pays à la connaissance
       </li>
    </ul>
    <li>de lui-même,</li>
@@ -811,8 +807,7 @@ author: alex gil
    <li>c’est moi ce soir jurant toute la forêt ramassée</li>
    <li>en anneaux de cris violents</li>
    <li>Colomb. Colomb.</li>
-</ul> A ce moment <span class="delete">la populace nègre envahit </span>la scène<span class="delete">, déchainée et menaçante,</span> <span class="delete">brandissant un mannequin.</span> 
-<hr>
+</ul><br>A ce moment <span class="delete">la populace nègre envahit </span>la scène<span class="delete">, déchainée et menaçante,</span><br><span class="delete">brandissant un mannequin.</span><br><hr>
 <p><a target="_blank" href="/data/sdw-data/P017.jpg">[ 17 ]</a></p>
 <ul>
    <li class="speaker">
@@ -859,11 +854,11 @@ author: alex gil
       <p>Un orateur.</p>
    </li>
    <ul>
-      <li>Camarades, c’est pour vous dire que Toussaint est un
-         ennemi du peuple et un emmerdeur. Comme si on n’en avait pas
+      <li class="indent-3">Camarades, c’est pour vous dire que Toussaint est un
+         ennemi du peuple<br>et un emmerdeur. Comme si on n’en avait pas
          asse d’emmerdements.
-         Bien sur qu’on n’<span class="delete"><span class="unclear"> [?était] </span></span> pas heureux? E<span class="delete">t</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on
-         <span class="delete"><span class="unclear"> [? est] </span></span> heureux avec la liberté et la guerre et <span class="delete">lave</span> la vengeance des Blancs sur les bras? Alors je dis que =Toussaint nous <span class="delete">a
+         Bien<br>sur qu’on n’<span class="delete"><span class="unclear"> [?était] </span></span> pas heureux? E<span class="delete">t</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on
+         <span class="delete"><span class="unclear"> [?<br>est] </span></span> heureux avec la liberté et la guerre et <span class="delete">lave</span> la vengeance des Blancs<br>sur les bras? Alors je dis que =Toussaint nous <span class="delete">a
             </span>trahit. A mort.
       </li>
    </ul>
@@ -873,7 +868,7 @@ author: alex gil
       <p>Des voix.</p>
    </li>
    <ul>
-      <li>Il a raison; il a raison; Mort à Toussaint.</li>
+      <li class="indent-3">Il a raison; il a raison; Mort à Toussaint.</li>
    </ul>
 </ul>
 <hr>
@@ -886,13 +881,13 @@ author: alex gil
    <li>Au feu Toussaint.</li>
 </ul>
 <p><span class="delete">( Le feu jaillit; le mannequin brûle.
-      Rondo.</span> <span class="delete">Toussaint&nbsp;</span><span class="delete"><span class="delete">parait enchainé,&nbsp;</span></span><span class="delete">&nbsp;entre deux gardes en haut de la citadelle.)</span></p>
+      Rondo.</span><br><span class="delete">Toussaint&nbsp;</span><span class="delete"><span class="delete">parait enchainé,&nbsp;</span></span><span class="delete">&nbsp;entre deux gardes en haut de la citadelle.)</span></p>
 <ul>
    <li class="speaker">
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Je suis un spectre; les hommes me chassent de leur
+      <li class="indent-3">Je suis un spectre; les hommes me chassent de leur
          cauchemar.
       </li>
    </ul>
@@ -959,8 +954,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Ah. Je vous plains âmes gachées. Toute la vieillesse du
-         monde sur votre jeunesse cannibale, sans espoir ni désespoir...
+      <li class="indent-3">Ah. Je vous plains âmes gachées. Toute la vieillesse du
+         monde sur<br>votre jeunesse cannibale, sans espoir ni désespoir...
       </li>
    </ul>
 </ul>
@@ -969,7 +964,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Tue, tue. A mort.</li>
+      <li class="indent-3">Tue, tue. A mort.</li>
    </ul>
 </ul>
 <ul>
@@ -977,7 +972,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Malheur sur vos têtes.</li>
+      <li class="indent-3">Malheur sur vos têtes.</li>
    </ul>
 </ul>
 <ul>
@@ -985,7 +980,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Malédiction ; malédiction.</li>
+      <li class="indent-3">Malédiction ; malédiction.</li>
    </ul>
 </ul>
 <ul>
@@ -993,7 +988,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Adieu mes amis.</li>
+      <li class="indent-3">Adieu mes amis.</li>
    </ul>
    <li>A moi ô Mort, milicien aux mains froides.</li>
 </ul>
@@ -1002,7 +997,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>A bas Toussaint. Vivent les blancs.</li>
+      <li class="indent-3">A bas Toussaint. Vivent les blancs.</li>
    </ul>
 </ul>
 <ul>
@@ -1010,9 +1005,9 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Vive la vengeance. </li>
+      <li class="indent-3">Vive la vengeance. </li>
    </ul>
-   <li>Les montagnes trembleront comme une dent prise au davier, les
+   <li>Les montagnes trembleront comme une dent prise au davier,<br>les
       étoiles écraseront contre terre leur front de femme enceinte...
    </li>
 </ul>
@@ -1021,7 +1016,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Ecoutez-le... Ecoutez-le...</li>
+      <li class="indent-3">Ecoutez-le... Ecoutez-le...</li>
    </ul>
 </ul>
 <ul>
@@ -1029,7 +1024,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <li>... les soleils <span class="delete">arrê tés </span>arrêtés, feront de
-      nuit, d’immenses cocotiers catastrophiques...
+      nuit, d’immenses cocotiers<br>catastrophiques...
    </li>
 </ul>
 <hr>
@@ -1045,8 +1040,8 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Ah vous ne partirez
-         pas, que vous n’ayez senti la morsure de mes mots sur vos âmes
+      <li class="indent-3">Ah vous ne partirez
+         pas, que vous n’ayez senti la morsure de mes<br>mots sur vos âmes
          imbéciles.
       </li>
    </ul>
@@ -1071,7 +1066,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Vive Toussaint.</li>
+      <li class="indent-3">Vive Toussaint.</li>
    </ul>
 </ul>
 <ul>
@@ -1079,7 +1074,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Mes amis,</li>
+      <li class="indent-3">Mes amis,</li>
    </ul>
    <li>j’ai rêvé de lumière, d’enseigne d’or, de sommeils pourprés,</li>
    <li>de réveils d’étincelles et de peaux de lynx.</li>
@@ -1091,7 +1086,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Mort aux blancs.</li>
+      <li class="indent-3">Mort aux blancs.</li>
    </ul>
 </ul>
 <ul>
@@ -1099,7 +1094,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Mes amis, j’ai hissé mon pavillon de mains coupées,</li>
+      <li class="indent-3">Mes amis, j’ai hissé mon pavillon de mains coupées,</li>
    </ul>
    <li>j’ai lancé mes fusées de fièvre jaune...</li>
 </ul>
@@ -1108,7 +1103,7 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Mort aux blancs. Mort aux blancs. Mort aux blancs.</li>
+      <li class="indent-3">Mort aux blancs. Mort aux blancs. Mort aux blancs.</li>
    </ul>
 </ul>
 <ul>
@@ -1116,7 +1111,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>...Et en effet, des catacombes essouflées de la Fin et du
+      <li class="indent-3">...Et en effet, des catacombes essouflées de la Fin et du
          Commencement
       </li>
    </ul>
@@ -1130,9 +1125,9 @@ author: alex gil
       le premier  dans cette île close
       comme une ratière,
    </li>
-   <li>parmi les signes nouveaux, parmi les <span class="delete">D</span>ieux que ta fierté ne consentait pas à avouer, je le sais,
-      je le sens, tu ne te sentis pas envahi de triomphe non, mais
-      d’angoisse, mais d’inquiétude <span class="delete">fière</span>, toi l’inex‐ pugnable, pris poreux et<span class="delete">ligoté</span> ligoté des grandes lianes silencieuses de la peur,
+   <li>parmi les signes nouveaux, parmi les <span class="delete">D</span>ieux que ta fierté ne consentait<br>pas à avouer, je le sais,
+      je le sens, tu ne te sentis pas envahi de<br>triomphe non, mais
+      d’angoisse, mais d’inquiétude <span class="delete">fière</span>, toi l’inex‐<br>pugnable, pris poreux et<span class="delete">ligoté</span> ligoté des grandes lianes silencieuses<br>de la peur,
       des grandes lianes silencieuses du Repentir.
    </li>
 </ul>
@@ -1141,8 +1136,8 @@ author: alex gil
       <p>La foule.</p>
    </li>
    <ul>
-      <li>Mort aux blancs. Mort aux blancs. Vive Toussaint. Vive
-         Toussaint. Mort aux blancs...
+      <li class="indent-3">Mort aux blancs. Mort aux blancs. Vive Toussaint. Vive
+         Toussaint.<br>Mort aux blancs...
       </li>
    </ul>
 </ul>
@@ -1151,7 +1146,7 @@ author: alex gil
       <p>Toussaint.</p>
    </li>
    <ul>
-      <li>Mort aux blancs.</li>
+      <li class="indent-3">Mort aux blancs.</li>
    </ul>
 </ul>
 <hr>
@@ -1162,8 +1157,8 @@ author: alex gil
       <p>La récitante.</p>
    </li>
    <ul>
-      <li>La cendre... le songe ... eau noire ... affamés, affamés
-         ... deux mains brûlantes dans l’assiette du soleil...
+      <li class="indent-3">La cendre... le songe ... eau noire ... affamés, affamés
+         ...<br>deux mains brûlantes dans l’assiette du soleil...
       </li>
    </ul>
 </ul>
@@ -1171,5 +1166,5 @@ author: alex gil
    <p>Le récitant (très calme.)</p>
 </li>
 <ul>
-   <li>... La Grande Révolution de Saint Domingue <span class="delete">continue</span><span class="delete add"></span></li>
+   <li class="indent-3">... La Grande Révolution de Saint Domingue <span class="delete">continue</span><span class="delete add"></span></li>
 </ul>
