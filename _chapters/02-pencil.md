@@ -5,7 +5,17 @@ author: alex gil
 chapter: 2
 ---
 
-## speculative versionism
+## speculative stages
+
+- Scraps of paper
+- From one text to another
+- History of versioning?
+- Github <-> X <-> No version.
+- Bibliographic code v. textual code
+- Afropasts Afrofutures, past-future
+- Speculative blackness
+- Replacing content on the machine
+- Replacing the machine on the content
 
 After all the pieces of the puzzle have been laid out on the table, and a picture of the different building blocks emerges, we can start thinking about each of the stages, represented by each of the columns in *[figure p]({{site.baseurl}}/chapters/01-nebula/index.html#figure-p)*, as speculative versions of the text. We can define a speculative version as a version of the text captured at a given moment in a plausible genesis, and reconstructed from the reconstructed material state of a text. A speculative version can be constructed, for example, by choosing the blocks of pages formed by `P1` and `P2`, without the corrections in ink, but with the corrections in pencil. Even if computers make it relatively easy for us to generate all possible speculative versions based on encoded bibliographic and textual evidence, the exercise could still be useful to scholars working without the technology and we may not necessarily want all possibilities.[^20]
 
