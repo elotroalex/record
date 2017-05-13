@@ -1,14 +1,15 @@
 ---
 layout: poem
 title: "revolution rising"
-description: "A speculative version based on the Saint-Dié witness of Et les chiens
-se taisaient" 
+description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient" 
 author: alex gil
 ---
 
-*(a speculative version)*[^1]
+The following is a draft edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire. [^1]
 
----
+<br>
+<hr>
+<br>
 
 - *(A Saint-Domingue devant une riche maison coloniale style
 18e siècle, des jeunes filles blanches en train de jouer. Entrent

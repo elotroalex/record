@@ -1,13 +1,16 @@
 ---
 layout: poem
-title: "king"
+title: "toussaint king"
 description: "" 
 author: alex gil
 ---
 
-(draft)
+[This is a draft diplomatic edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.]
 
+<br>
 <hr>
+<br>
+
 <p><a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a></p>
 <p><span class="add">(</span>La scène est à
    Saint Domingue<span class="delete">.</span><span class="delete"><span class="add">)</span></span><span class="add">&nbsp;à&nbsp;</span><span class="add">l’epoque de la Révolution

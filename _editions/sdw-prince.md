@@ -1,11 +1,12 @@
 ---
 layout: poem
-title: "prince"
+title: "revolution rising"
 description: "" 
 author: alex gil
 ---
 
-(draft)
+
+[This is a draft edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.]
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a></p>
