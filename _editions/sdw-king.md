@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "toussaint king"
-description: "" 
+description: "a draft diplomatic edition of a speculative stage in the genesis of the Saint-Dié witness of Et les chiens se taisaient by Aimé Césaire." 
 author: alex gil
 ---
 
