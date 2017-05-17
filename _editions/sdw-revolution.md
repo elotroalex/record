@@ -618,4 +618,4 @@ phosphorescente, une inscription explose, sanglante, reflétée par les cueils.)
 
 [^3]: Césaire later corrects this to Pierrot. I chose to leave the original because it manifests his early lacunae around Haiti's history and geography.
 
-[^4]: He later erases this, perhaps recognizing that this is anachronistic, perhaps in the same vein he erases other historical figures to center Toussaint.
+[^4]: He later erases this, perhaps recognizing that this is anachronistic; perhaps in the same vein he erases other historical figures to center Toussaint; perhaps in the shift from the temporarility of the original `P1` pages to the one established when `P2` shifts to the beginning of the play. 
