@@ -16,11 +16,23 @@ chapter: 2
 
 *[Big Bang Data](http://www.cccb.org/en/exhibitions/file/big-bang-data/45167)* moved from Barcelona to Singapore's ArtScience Museum in 2016. Everything about the exhibit was supposed to make you feel small, and Safdie's brobdingnagean lotus in Marina Bay Sands was just the venue. After the first few hallways insisted on the overwhelming material scope of our online worlds, we arrived at a welcomed bench to relax over a short film on the [Internet Archive](https://archive.org/). A few minutes into the reel, though, Brewster Kahle's dream of "universal access to all knowledge" surfaced again, seaside of ultra-condensed capital, to unsettle any rest we hoped for—all knowledge, all access, all the time. 
 
-Here I was a few words ago worrying about what pages in an obscure manuscript by Aimé Césaire have a few traces of blue carbon paper powder on them, and the Internet Archive wants to version it all. They go about their dreams with a semi-regular periodicity akin to a temperamental farmer's almanac, and they do so with a certain degree of excellence that merits praise and gratitude. They are not alone, of course. Since Google began dreaming in page caches and scanned books, we've only seen the hunger grow. As I write these pages on a plain text editor, every once in a while, when I can name the changes I've made, I switch to the command line and `git add`, `commit` and `push` to Github, where the text becomes accessible to the public, or at least that segment that feels comfortable navigating the platform. Provided that Github, or a forward migration survives, anyone interested in reconstructing my shifts would have a much easier time reconstructing the stages of writing since my first commit.
+Here I was a few words ago worrying about what pages in an obscure manuscript by Aimé Césaire have a few traces of blue carbon paper powder on them, and the Internet Archive wants to version it all. They go about their dreams with a semi-regular periodicity akin to a temperamental farmer's almanac, and they do so with a certain degree of excellence that merits praise and gratitude. They are not alone, of course. Since Google began dreaming in page caches and scanned books, we've only seen the lust for versions grow. 
 
-GitHub passes as a safeguard against collective loss; first as software, next as text.
+GitHub passes today as another prominent safeguard against collective loss—first as software, next as text. Provided that Github, or a forward migration survives, anyone interested in reconstructing my shifts would have a much easier time reconstructing the stages of composition since my first commit than we can ever hope for for Césaire or any number of other writers. As I write these paragraphs on a plain text editor, every once in a while, when I can name the changes I've made, I switch to the command line and `git add`, `commit` and `push` to Github, where the text becomes accessible to the public, or at least that segment that feels comfortable navigating the platform. Let me do so now that I've made some revisions with a name, and I quote:
 
-And yet the ruin of versions haunts the textual scholar, what has been erased or added, all crumbling under eternal sunshine. 
+~~~
+$ git add .
+$ git commit -m "edited paragraphs on version lust"
+$ git push origin master
+~~~
+
+ 
+
+...
+
+The ruin of versions haunts the textual critic, what has been erased or added, all crumbling under eternal sunshine.
+
+
 
 - [add material from *Tracking Changes*]
 - Scraps of paper
