@@ -14,11 +14,11 @@ chapter: 2
 
 ## speculative stages
 
-*[Big Bang Data](http://www.cccb.org/en/exhibitions/file/big-bang-data/45167)* moved from Barcelona to Singapore's ArtScience Museum in 2016. Everything about the exhibit was supposed to make you feel small, and Safdie's brobdingnagean lotus in Marina Bay Sands was just the venue. After the first few hallways insisted on the overwhelming material scope of our online worlds, we arrived at a welcomed bench to relax over a short film on the [Internet Archive](https://archive.org/). A few minutes into the reel, though, Brewster Kahle's dream of "universal access to all knowledge" surfaced again, seaside of ultra-condensed capital, to unsettle any rest we hoped for—all knowledge, all access, all the time. 
+[Big Bang Data](http://www.cccb.org/en/exhibitions/file/big-bang-data/45167) moved from Barcelona to Singapore's ArtScience Museum in 2016. Everything about the exhibit was supposed to make you feel small, and Safdie's brobdingnagean lotus in Marina Bay Sands was just the venue. After the first few hallways insisted on the overwhelming material scope of our online worlds, we arrived at a welcomed bench to relax over a short film on the [Internet Archive](https://archive.org/). A few minutes into the reel, though, Brewster Kahle's dream of "universal access to all knowledge" surfaced again, seaside of ultra-condensed capital, to unsettle any rest we hoped for—all knowledge, all access, all the time. 
 
-Here I was a few words ago worrying about what pages in an obscure manuscript by Aimé Césaire have a few traces of blue carbon paper residue on them, and the Internet Archive wants to version it all. They go about their dreams with a semi-regular periodicity akin to a temperamental farmer's almanac, and they do so with a certain degree of excellence that merits praise and gratitude. They are not alone, of course. Since Google began dreaming in page caches and scanned books, we've only seen the lust for versions grow stronger. 
+Here I was a few words ago worrying about what pages in an obscure manuscript by Aimé Césaire have a few traces of blue carbon paper residue on them, and the Internet Archive wants to version it all. They go about their dreams with a semi-regular periodicity akin to a temperamental farmer's almanac, and they do so with a certain degree of excellence that merits praise and gratitude. They are not alone, of course. Since Google began dreaming in page caches and scanned books, we've only seen the lust for versions grow stronger, even versioning ourselves with FitBits and what nots. 
 
-GitHub passes today as another prominent safeguard against collective loss—first as software, next as text, all distributed. Provided that Github, or a forward migration survives, anyone interested in reconstructing my own deviations would have a much easier time than we can ever hope for Césaire or any number of other writers. As I write these paragraphs on a plain text editor, every now and then, when I can name the changes I've made, I switch to the command line and `git add`, `commit` and `push` to Github, where the new version becomes accessible to the public, or at least that segment of the public that feels comfortable navigating the platform and has moderate bandwidth. Let me do so now that I've made some revisions I can name, and I quote:
+In culture work, we have recently taken to GitHub and git as sanity check and safeguard against collective loss—first as software, next as text, all distributed. Provided that Github, or a forward migration survives, anyone interested in reconstructing my own deviations in stages would have a much easier time than we can ever hope for Césaire or any number of writers. As I write these paragraphs on a plain text editor, every now and then, when I can name the changes I've made, I switch to the command line and `git add`, `commit` and `push` to Github, where the new version becomes accessible to the public, or at least that segment of the public that feels comfortable navigating the platform and has moderate bandwidth. Let me do so now that I've made some revisions I can name, and I quote:
 
 ~~~
 $ git add .
@@ -26,10 +26,44 @@ $ git commit -m "edited paragraphs on version lust"
 $ git push origin master
 ~~~
 
-If you ever want to revisit the work at this stage, you can always visit or revert to commit number <a href="https://github.com/elotroalex/project-x/commit/3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f" style="overflow-wrap: break-word; word-wrap: break-word;">3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f</a>.[^b2] The size of that alphanumerical hash makes me feel no less small than a Big Bang of Data or a concrete lotus flower visible from an airplane, and yet I persist in these granular versions with the same dignity as Marquez' insignificant *coronel* and his rooster. The ruin of versions haunts the textual critic, what has been erased or added, all crumbling under eternal sunshine; and yet we persist, not because we may find meaning in them—we could find meaning on a crushed Skittle on Broadway—but because we may find the rarer cousin, significance. The corollary lie, of course, is that you are seeing all past versions of this work on Github.
+If you ever want to revisit the work at this stage, you can always visit or revert to commit number <a href="https://github.com/elotroalex/project-x/commit/3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f" style="overflow-wrap: break-word; word-wrap: break-word;">3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f</a>.[^b2] The size of that checksum hash—a unique name for a unique state of the text—makes me feel no less insignificant than a big data bang or a concrete lotus flower visible from the sky, and yet I persist in these granular versions with the same dignity as Marquez' *coronel* and his rooster. 
 
-The three git commands above—`add`, `commit` and `push`—can help me ilustrate, and introduce the theme of temporality and significance in the making public of texts—the event of it all. 
+The lie, of course, is that you are seeing all past versions of this work on Github. Not all changes I make to this text make it to Github. Every time I add or delete characters in my text editor `git` recognizes these changes as modifications, but it won't record them at all into its data store unless I first indicate at what point and which files I want to "stage" and subsequently commit to the index. The `add` command is there precisely to stage these files before the index. In the case above, the `.` after the `git add` command tells git to stage all modifications in my working directory. This strange middle ground between a modification and the record of that modification sets apart git from a typescript and other versioning systems, and makes it all the more seductive because it gives an extra layer of control over what versions we make available to the index.
 
+The stage—or staging area—in git marks the opposite pole of our most important performance stages along the lines of a *stare decisis*. While the former marks the timid decision of one writer to present chosen variations to the machine, the latter presents before us a set of certain collective commitments that bless it with significance. This spectrum is echoed in the roots of the word. By the time the Europeans go from the vulgar Latin *staticum*, a place to stand, a sojourn, to Middle French *estage*, the stage comes to have both modern meanings relevant to us: a dwelling in a series and a platform for a performance—la belleza de un *estar*—never shedding the slip between each other. 
+
+The ruin of versions haunts the textual critic, erasures and additions, all crumbling under eternal sunshine; and yet we persist, not because of a desire to build a library for Troglodytes in a City of Immortals; nor solely to preempt our search for meaning—despite our best intentions, we still find meaning on a crushed Skittle on Broadway—but because we seek the halo of significance. The textual critic, the curator, and a few other memorists, fated to seize hold of any of these stages and repeat them in moments of historical need, dwells in a spooky continuum, where the past is always a feature of the future. While we may be excused to dedicate countless pages to technical matters, faustidious to a fault, our calling is to create the conditions for a future staging of the past and its audience, and to do so through a careful oscillation between the mechanisms of the past and those of our time.[^b4]
+
+A revised typescript, like git, serves as a versioning system with a different set of hashes. Jerome McGann's notion that a text is the fusion between a "linguistic" and a "bibliographic code" can help illuminate the way here.[^b3] The former functions as a set of symbolic sequences that drive people insane; the latter can be understood as a set of non-linguistic documentary features (font, layout, paper texture, etc) beholden to infrastructures (libraries, sellers, the internet, law, etc.) and specific historical demands (prestige, freedom, justice, etc). Fused, they guide our sense-making, and we only come to know the meaning of either through the other, as an autopoetic mystery, with or without a numen. And they both matter—<span style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 0.9rem;">could you, for example, imagine the 20th Century if <em>The Communist Manifesto</em> had been originally printed and circulated in Comic Sans, or Comic Sans without its absence from 20th Century editions of <em>The Communist Manifesto</em>?</span>
+
+The intimate bibliographic code of the Sain-Dié witness combined with its pagination schemes allowed us in chapter one to outline a rough, geometric schema for the stages of composition of "...et les chiens se taisaient" ([table p](/chapters/01-nebula/#figure-p)). We could, though, make the geometric abstractions textual, by re-staging our material observations as fragmentary editions, somewhere between a quote and a full edition, hopefully fair in its transformative use. Re-made into text, we will be better able to take into account the shifting terrain of the drama to construct our genetic narrative. We cannot do so without a certain degree of speculation, presenting the past as something that never existed until now, bound to the sample reality of a document that did.
+
+
+
+
+Instead of re-creating here the diplomatic edition of the text published in *Césaire, Aimé. Poésie, théâtre, essais et discours* in 2014.
+
+
+
+Bordalejo, Barbara. “The Texts We See and the Works We Imagine: The Shift of Focus of Textual Scholarship in the Digital Age.” Ecdotica 10 (2013): 64–76. Print.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
 
 
 [explain the three stages]
@@ -45,6 +79,7 @@ The three git commands above—`add`, `commit` and `push`—can help me ilustrat
 Johnston, John. “Discourse as Event: Foucault, Writing, and Literature.” MLN 105.4 (1990): 800–818. JSTOR. Web.
 
 
+The next two git steps above approach the significance of a public performance gradually, never quite reaching it. The `commit` allows us to name the version and confirm to the machine that we want to add the material on the staging area to the index. Provided you have set your permissions on the platform to "public," the last step makes all of our changes public by pushing, i.e. sending, all of our commits to Github servers, where anyone with a decent internet connection can access them. One final step, not listed above, will turn these changes into the text you're probably reading right now, which in our inhereted ontologies of textual being may still not be considered a published text—not yet the most significant performance of the text. Outside of *exhortatio*, friendship and rituals tied to power and its overcoming, the stubborn lust for versioning cannot bring significance to a text.
 
 
 
@@ -273,7 +308,11 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 [^b1]: I was happy to see the familiar face of Stanford's *[Mapping the Republic of Letters](http://republicofletters.stanford.edu/)* in the exhibit, among a few other examples of digital humanities.
 
-[^b2]: The irony of this sentence does not escape me: If you know how git works, you didn't need me to tell you how to do this, and if you don't, this sentence remains completely superfluous.
+[^b2]: The irony of this sentence and the ones that follow does not escape me: If you know how git works, you didn't need me to tell you how to do this, and if you don't, this sentence remains completely superfluous.
+
+[^b3]: McGann worked on these ideas for many years starting in the 1980s, and as far as I know, has not left them behind. A phenomenal place to start is McGann, Jerome J. *The Textual Condition*. Princeton, N.J: Princeton University Press, 1991. (48-68). Print. Any study of McGann's middle period should also be accompanied by a study of D.F. McKenzie, who approached the "sociology of texts" as a materialist and textual critic. A good place to start is McKenzie, D. F. *Bibliography and the Sociology of Texts*. Cambridge, U.K. ; New York: Cambridge University Press, 1999. Print.
+
+[^b4]: Shall we call ours The Digital Antrumpocene?
   
 
 [^20]: [speculative versions coming soon]
