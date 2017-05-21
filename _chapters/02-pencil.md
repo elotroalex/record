@@ -34,93 +34,34 @@ The git stage—or staging area—marks the opposite pole of our most important 
 
 The ruin of versions haunts the textual critic, erasures and additions, all crumbling under eternal sunshine; and yet we persist, not because we desire to build a library for Troglodytes in a City of Immortals; nor to preempt all possible meanings—meaning is cheap in New York, and even a crushed Skittle on Broadway can deliver. We persist because we seek the halo of Significance. The textual critic, the curator, and a few other memorists, fated to seize hold of any of these stages and repeat them in moments of historical need, dwells in a spooky continuum, where the past is always a feature of the future. While we may be excused to dedicate countless pages to technical matters, faustidious to a fault, our calling is to create the conditions for a future staging of the past and its audience, and to do so through a careful oscillation between the mechanisms of the past and those of our time.[^b4]
 
-A revised typescript, like git, serves as a versioning system with a different set of hashes, and like any other versioned set we can find within alternative futures and renewed significance. Jerome McGann's notion that a text is the fusion between a "linguistic" and a "bibliographic code" can help illuminate the way here.[^b3] The former functions as a set of symbolic sequences that drive people insane; the latter can be understood as a set of non-linguistic documentary features (font, layout, paper texture, etc) beholden to infrastructures (libraries, sellers, the internet, law, etc.) and specific historical demands (prestige, freedom, justice, etc). Fused, they guide our sense-making, and we only come to know the meaning of either through the other, as an autopoetic mystery, with or without a numen. And they both matter—could you, for example, imagine the 20th Century if *The Communist Manifesto* had been originally printed and circulated in Comic Sans, or Comic Sans without its absence from 20th Century editions of *The Communist Manifesto*?
+A revised typescript, like git, serves as a versioning system with a different set of hashes, and like any other versioned set we can find within alternative futures and renewed significance. Jerome McGann's recognition of a "linguistic" and a "bibliographic code" as the conditions of all text can help illuminate the way here.[^b3] The linguistic code functions as the set of allographs in a document (letters, words, accidentals, etc.); the bibliographic code can be understood as the set of non-linguistic documentary features (font, layout, paper texture, brightness, etc.). Both are beholden to infrastructures (libraries, sellers, browsers, law, etc.) and specific historical demands (prestige, freedom, justice, etc.). Always fused, they guide our sense-making, and we only come to know the meaning of either through the other, as an autopoetic mystery, with or without a numen. And they both matter—could you, for example, imagine the 20th Century if *The Communist Manifesto* had been originally printed in Comic Sans, or Comic Sans without its absence from 20th Century editions of *The Communist Manifesto*?
 
-The intimate bibliographic code of the Sain-Dié witness combined with its pagination schemes allowed us in chapter one to outline a rough, geometric schema for the stages of composition of "...et les chiens se taisaient" ([figure p]({{site.baseurl}}/images/fig-p-full.png)). We could, though, make the geometric abstractions textual by re-staging our material observations as fragmentary editions, somewhere between a quote and the edition of a work, and hopefully fair in its transformative use. Re-made into speculative stages, we will be better able to take into account the shifting terrain of the drama to refine our genetic gambit. We cannot do so without a certain degree of awe, presenting the past through texts that never existed until now, bound to the sample reality of a text that has existed for several decades—a conjectural and forensic praxis informed by an afro-futurist ethic.
+The pagination schemes of the Sain-Dié witness allowed us in chapter one to outline a rough, geometric schema for the stages of composition of "...et les chiens se taisaient" ([figure p]({{site.baseurl}}/images/fig-p-full.png)). Guided by its intimate bibliographic code, catalogued in chapter one in *tables a-d*, we could take it a step further and make the geometric abstractions textual by re-staging our material observations as fragmentary editions, somewhere between a quote and the edition of a work, and hopefully fair in its transformative use. Re-made into its speculative stages, we will be better able to take into account the shifting terrain of the drama to refine our genetic gambit. We cannot do so without a certain degree of awe, presenting the past through texts that never existed until now, bound to the sample reality of a text that has existed for several decades—a conjectural and forensic praxis informed by an afro-futurist ethic.
 
-The bind between speculative computing and archival history is not free from suspicion, though. In "Notes towards a Deformed Humanities,"[^b10] textual alchemist Mark Sample questions the return to the source in an attempt to substract the *performance* from McGann and Samuel's *deformance*[^b9]:
+The bind between speculative computing and archival history is not free from suspicion, though. In "Notes towards a Deformed Humanities,"[^b10] textual alchemist Mark Sample questions the return in an attempt to substract the *performance* from McGann and Samuel's *deformance*[^b9]:
 
 > I don’t want to put Humpy Dumpty [sic] back together.
 >
 > Let him lie there, a cracked shell oozing yolk. He is broken. And he is beautiful. The smell, the colors, the flow, the texture, the mess. All of it, it is unavailable until we break things. And let’s not soften our critical blow by calling it deformance. Name it what it is, a deformation. <span style="font-style:normal;">(Sample)</span>
 
-Sample's effort to give equal significance to a "deformation" without a post-publication return to the source, pushes back—*avant ma lettre*—against all attempts to remake stages of the past in order to reconstruct a genesis—with or without computation. While I do want the speculative stages of the typescript to stand on their own legs, I also don't want to foreclose your visit to Saint-Dié des Vosges. "The deformed work is the end, not the means to the end," answers Sample. He is right, of course, in the way that we are all right in recommending our own *inventio*, but our sources bring bills with them—beyond copyright law—for a debt we cannot pay nor ignore. Though I am convinced of the latent promise of a remix to achieve escape velocity away from the source—a history of cultural appropriation confirms it—I am not so convinced we should bar our worthy returns... at least not here, not now. Many of us suspect that Humpty Dumpty has always been broken, and the point has always been to change it. In a materialist sense, the past is not mine, or a mine for the extraction of linguistic resources, but the dwelling for our future significance.
+Sample's effort to give equal significance to a "deformation" without a post-publication return to the source, pushes back—*avant ma lettre*—against all attempts to remake stages of the past in order to reconstruct a genesis—with or without computation. While I do want the speculative stages of the typescript to stand on their own legs, though, I also don't want to foreclose your visit to Saint-Dié des Vosges. "The deformed work is the end, not the means to the end," answers Sample. He is right, of course, in the way that we are right in recommending our own *inventio*, but our sources bring bills with them—beyond copyright law—for a debt we cannot pay, nor ignore. Though I am convinced of the latent capacity of a remix to achieve escape velocity—a history of cultural appropriation confirms it—I am not so convinced we should bar our worthy returns... at least not here, not now. Many of us suspect that Humpty Dumpty has always been broken, and the point has always been to repair it. In a materialist sense, the past is not mine, or a mine for the extraction of linguistic resources, but the dwelling for our future significance—less Marinetti's *futurism*, and more Reed's *necromancy* and PaPa LaBas' "jes grew." As Alondra Nelson oscillates in "Future Texts,"[^b11]
+
+> Rather than a "Western" image of the future that is increasingly detached from the past or, equally problematic, a future-primitive perspective that fantasizes an uncomplicated return to ancient culture, LaBas foresees the distillation of African diasporic experience, rooted in the past but not weighed down by it, contiguous yet continually transformed.(6)
 
 The conjectural exercise in this chapter is indebted to Kari Kraus, who is careful to keep past-future together in her work—albeit in the service of different *santos* than mine—and whose efforts to reunite a "family of subjunctive practices" around speculative design amount to a medicine kit for a bevy of modern ills: scientifism and its obverse, the fear of science; subservient fidelity to scholarly protocols; premature dismissal of algorithms; arrested imaginaries, etc.[^b5] In "Conjectural Criticism: Computing Past and Future Texts,"[^b6] Kraus makes a convincing argument that "conjectural criticism (the reconstruction of literary texts) can be profitably understood as a sub-domain of Ramsay's algorithmic criticism (rule-governed manipulation of literary texts),"(3) and provides an incisive definition of conjecture in the service of textual criticism:
 
 > Conjecture is *allographic inference to past or future values of the sign*. Allographic is a semiotic term given currency by the analytic philosopher Nelson Goodman in his seminal <span style="font-style:normal;">Languages of Art</span> and refers to those media that resolve into discrete, abstract units of information—into what might be more loosely called digital units—that can be systematically copied, transmitted, added to, subtracted from, transposed, substituted, and otherwise manipulated. <span style="font-style:normal;">(16)</span>
 
-Kraus leaves me some room to play in her diagnosis of the dearth of conjecture in contemporary textual scholarship and archival practices. For Kraus, the lack comes from the relatively recent "wealth of scholarship promoting the text's bibliographic or iconic codes," generously clarifying that "despite the virtues of such visual approaches to textuality (and there are many), conjectural criticism has been hamstrung by their success." I would diagnose the lack of conjecture instead as a collective clutching of pearls—android barbarians at the door—and leave bibliography as the open back door for good measure. Just like Eureka moments can "open the floodgates" for Kraus—mechanical or otherwise—an autographic textuality that is allowed to, indeed must return unimpeached from allography can only increase the bounty. Not only can an allograph never escape embodiment and be repeated without a new bibliographic code, not if the output of a computation is to be textual, it can do so (must do so if the computer is a machine) with a bibliographic code determined by allographic processes[^b7]—allowing us to remain faithful to Kraus' *exhortatio*, without sacrificing our commitment to bibliographic past-futures.
+Kraus leaves me some room to play in her diagnosis of the dearth of conjecture in contemporary textual scholarship and archival practices. For Kraus, the lack comes from the relatively recent "wealth of scholarship promoting the text's bibliographic or iconic codes," generously clarifying that "despite the virtues of such visual approaches to textuality (and there are many), conjectural criticism has been hamstrung by their success." I would diagnose the lack of conjecture otherwise as a collective clutching of pearls—android barbarians at the door—and leave bibliography as a doorstop for good measure. Just like Eureka moments can "open the floodgates" for Kraus—mechanical or otherwise—an autographic textuality that is allowed to, indeed must return unimpeached from allography can only increase the bounty. Unable to escape embodiment, allographs cannot survive a repetition without a new bibliographic code, and that new code can be (must be if the computer is a machine)  determined by allographic processes[^b7]—allowing us to remain faithful to Kraus' *exhortatio*, without sacrificing our commitment to bibliographic past-futures.
 
-The radical alternative—to reduce allographic transactions to the linguistic code—makes me nervous. I hear in that move the unintended echoes of a literary theory inatentive to the means of production of its own knowledge, the premature deaccession of "copies" from libraries, and the legal alibis of "content" cartels incapable of reading. Quite the conundrum, since I truly appreciate the wonders of our distant readings and oulipean provocations. Wouldn't we, perhaps, be better served by discourses where linguistic manipulation and the scaffold are never long separated from each other on the stage? Faced with an archival past choked by colonial epistemologies and capital flows, wouldn't a move into historical bibliography, *cum* infrastructure critique, help us all the better device repairs that answer to our emancipatory demands?
+The radical alternative—to reduce allographic transactions to the linguistic code—makes me nervous. I hear in that move the unintended echoes of a literary theory inatentive to the means of production of its own knowledge, the premature deaccession of "copies" from libraries, and the legal alibis of "content" cartels incapable of reading. Quite the conundrum, since I truly appreciate the wonders of our distant readings and oulipean provocations. Wouldn't we, perhaps, be better served by practices where linguistic manipulation and the scaffold are never long separated from each other on the stage? Faced with an archival past choked by colonial epistemologies and capital flows, wouldn't a move into historical bibliography, *cum* infrastructure critique, help us all the better device repairs that answer to our emancipatory demands?
 
-The proof is in the pudding, though. In order to understand the development of the typescript from what I see as its beginnings as a full-blown historical drama to the layered text we find in Saint-Dié, and as an example of what we can gain from speculative versions, I want to revisit the reconstruction of the genesis through the algorithmic manipulation of its bibliographic code, and a slow reading of the output, what I call speculative stages.
+The proof is in the pudding, though. In order to understand the development of the typescript from what I see as its beginnings as a full-blown historical drama to the layered text we find in Saint-Dié, and as an example of what we can gain from speculative versions, I want to revisit the reconstruction of the genesis through the algorithmic manipulation of its bibliographic code, and a slow reading of the output—what I call here speculative stages.
 
-To be precise, in our case a speculative stage is the repetition of a given historical document's allographs determined by the computation of one or more discrete codicological or bibliographic feature. This definition is leery of free-form recreations of the text. In theory, we could reconstitute texts in close to infinite ways, à la Borges. Notwithstanding, for the idea of a speculative stage to remain useful for genetic analysis, we must limit our recreations to plausible or instructive states of the existing document. A speculative version made up of only handwritten revisions, for example, would be useful as a genetic data mine, and a reconstruction of all the pages encompassed by `P1` as an edition. A random sampling, on the other hand, is likely to leave us no better than when we started, as much as one might enjoy the serendipity.
+To be precise, *a speculative stage is the repetition of a given historical document's allographs determined by the computation of one or more discrete bibliographic feature for the purpose of understanding its genesis*. This definition is leery of free-form recreations of the text. In theory, we could reconstitute texts in close to infinite ways, à la Borges. Notwithstanding, for the idea of a speculative stage to remain useful for genetic analysis, we must limit our recreations to plausible or instructive states of the existing document. A speculative version made up of only handwritten revisions, for example, would be useful as a genetic data mine, and a reconstruction of all the pages encompassed by `P1` as an edition. A random sampling, on the other hand, is likely to leave us no better than when we started, as much as one might enjoy the serendipity.
 
 All purposeful selections begin with a clear and meaningful set of rules to help us select text. These *algorithms* double as documentation of that purposefulness. Although text in general can be said to be marked by the combination of several codes, always, we reconstitute that mark-up by a set of exhaustive rules or algorithms that in turn define the contours of new markings. Those rules can find their basis in a number of dimensions: codicology, bibliography, hermeneutics, string-comparison, and many more. Besides the rules based extraction, we intervene once more as editors to give meaning to the results. Regardless of the criteria, the imperative remains for us to be purposeful, explicit and rigorous in our method of selection.
 
-
-
-
-
-
-Instead of re-creating here the diplomatic edition of the text published in *Césaire, Aimé. Poésie, théâtre, essais et discours* in 2014.
-
-
-
-Bordalejo, Barbara. “The Texts We See and the Works We Imagine: The Shift of Focus of Textual Scholarship in the Digital Age.” Ecdotica 10 (2013): 64–76. Print.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
- 
-
-
-[explain the three stages]
-...
-[transition to temporality and the private/public/access conundrum]
-...
-[transition to speculative stages and temporality]
-...
-[deformance]
-...
-[speculative stages of chiens]
-
-Johnston, John. “Discourse as Event: Foucault, Writing, and Literature.” MLN 105.4 (1990): 800–818. JSTOR. Web.
-
-
-The next two git steps above approach the significance of a public performance gradually, never quite reaching it. The `commit` allows us to name the version and confirm to the machine that we want to add the material on the staging area to the index. Provided you have set your permissions on the platform to "public," the last step makes all of our changes public by pushing, i.e. sending, all of our commits to Github servers, where anyone with a decent internet connection can access them. One final step, not listed above, will turn these changes into the text you're probably reading right now, which in our inhereted ontologies of textual being may still not be considered a published text—not yet the most significant performance of the text. Outside of *exhortatio*, friendship and rituals tied to power and its overcoming, the stubborn lust for versioning cannot bring significance to a text.
-
-
-
-- [add material from *Tracking Changes*]
-- Scraps of paper
-- From one text to another
-- History of versioning?
-- Github <-> X <-> No version.
-- Bibliographic code v. textual code
-- Afropasts Afrofutures, past-future
-- Speculative blackness
-- Replacing content on the machine
-- Replacing the machine on the content
-
-
-
-[research: Kari Kraus, Jerome McGann, et al on deformance]
 
 ## revolution rising
 
@@ -341,6 +282,8 @@ Through systematic codicological and textual analysis, I have argued that the sh
 [^b9]: An insightful conversation takes place in the comment section, where among other shrewd commentary, deformity itself is questioned through the lens of disability studies.
 
 [^b10]: Sample, Mark. “[Notes towards a Deformed Humanities](http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/).” samplereality. 2 May 2012. Web. 20 May 2017.; Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” New Literary History; Baltimore, etc. 30.1 (1999): 25–56. Print.
+
+[^b11]: Nelson, Alondra. “Introduction: Future Texts.” Social Text 20.2 (2002): 1–15. Print.
 
 
 
