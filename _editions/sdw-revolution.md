@@ -1,8 +1,9 @@
 ---
 layout: poem
 title: "revolution rising"
-description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient" 
-author: alex gil
+description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient"
+author: Aimé Césaire
+editor: alex gil
 ---
 
 The following is a draft edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire. [^1]
@@ -612,7 +613,7 @@ phosphorescente, une inscription explose, sanglante, reflétée par les cueils.)
 
 <br>
 
-[^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions. The approach to the edition is *critical*, in the sense that I made judgments, corrections, normalizations, etc. Most of the changes were done to accidentals (punctuation, spacing, etc.). I respected deletions made immediately on the line with the typewriter. In some cases I use Césaire's later corrections to help me make my editorial choice. For a detailed study of this speculative edition and the rationale behind it, see chapter 2, "[how to erase history with a no.2 pencil]({{site.baseurl}}/chapters/02-versionism/)."
+[^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions using [an XSLT transformation]({{site.baseurl}}/data/sdw-tei/sdw-revolution.xsl) of [a TEI encoding of the typescript]({{site.baseurl}}/data/sdw-tei/sdw.xml). The approach to the edition is *eclectic*, in the sense that I set the transformation to make judgments, corrections, normalizations, etc. Most of the changes were done to accidentals (punctuation, spacing, etc.). I respected deletions made immediately on the line with the typewriter. Intra-textual footnotes were added post-transformation. For a detailed study of this speculative edition and the rationale behind it, see chapter 2, "[how to erase history with a no.2 pencil]({{site.baseurl}}/chapters/02-versionism/)."
 
 [^2]: Starting at this point, we are missing two pages, `P1.3` and `P1.4`.
 

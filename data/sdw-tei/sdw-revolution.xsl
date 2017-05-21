@@ -21,18 +21,19 @@
         <xsl:text>---
         layout: poem
         title: "revolution rising"
-        description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient" 
-        author: alex gil
+        description: "A speculative version based on the Saint-Dié witness of Et les chiens se taisaient"
+        author: Aimé Césaire 
+        editor: alex gil
         ---
         
-        (a speculative version)[^1]
+        The following is a draft edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire. [^1]
             
         ---
         </xsl:text>
         <xsl:apply-templates/>
         <xsl:text>---
         
-        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions.</xsl:text>
+        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions using [an XSLT transformation]({{site.baseurl}}/data/sdw-tei/sdw-revolution.xsl) of [a TEI encoding of the typescript]({{site.baseurl}}/data/sdw-tei/sdw.xml). The approach to the edition is *eclectic*, in the sense that I set the transformation to make judgments, corrections, normalizations, etc. Most of the changes were done to accidentals (punctuation, spacing, etc.). I respected deletions made immediately on the line with the typewriter. Intra-textual footnotes were added post-transformation. For a detailed study of this speculative edition and the rationale behind it, see chapter 2, "[how to erase history with a no.2 pencil]({{site.baseurl}}/chapters/02-versionism/)."<xsl:text>
     </xsl:template>    
     
     
@@ -102,8 +103,7 @@
         <xsl:text>
            
        </xsl:text>
-    </xsl:template>
-    
+    </xsl:template>    
     
     <xsl:template match="tei:stage[@rend = 'inline']">
         <span class="stage">
@@ -117,111 +117,15 @@
         <xsl:apply-templates/>
         <xsl:text>
        </xsl:text>
-    </xsl:template>
-    
-<!--    <xsl:template match="tei:ab[@rend = 'indent']">
-        <xsl:text>- {:.indent-3} </xsl:text>
-        <xsl:apply-templates/>
-        <xsl:text>
-       </xsl:text>
-    </xsl:template>-->
-    
-    <!-- line breaks -->
-    
-    <!--    <xsl:template match="tei:ab/tei:lb">
-        <xsl:text>
-       - </xsl:text>
-    </xsl:template>
-    
-    <xsl:template match="tei:stage/tei:lb">
-        <xsl:text>
-       - </xsl:text>
-    </xsl:template>-->
+    </xsl:template>    
     
     <xsl:template match="tei:lb">
         <xsl:text>
        - </xsl:text>
     </xsl:template>
-    
-    <!-- ########################################### -->
-    <!-- ## Transcription and decorative elements ## -->
-    <!-- ########################################### -->
-    
-    <!-- add -->
- <!--   <xsl:template match="tei:add">
-        <xsl:choose>
-            
-            <xsl:when test="@place = 'above'">
-                <span class="add above">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'below'">
-                <span class="add below">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'bottom'">
-                <span class="add below">
-                    <xsl:text>&#160;|&#160;</xsl:text>
-                    <xsl:apply-templates/>
-                    <xsl:text>&#160;|&#160;</xsl:text>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'margin'">
-                <span class="add margin">
-                    <xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
-                    <xsl:apply-templates/><xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
-                </span>
-            </xsl:when>
-            <xsl:otherwise>
-                <span class="add">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
-    
-    -->
-    <!-- del -->
+
     <xsl:template name="del" match="tei:del">
-<!--        <xsl:choose>
-            
-            <!-\- double-check -\->
-            <xsl:when test="self::tei:del[@seq = '2']">
-                <span class="delete add">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <!-\- -\->
-            
-            <xsl:otherwise>
-                <span class="delete">-->
         <xsl:text> </xsl:text><xsl:apply-templates/><xsl:text> </xsl:text>
-                <!--</span>
-            </xsl:otherwise>
-        </xsl:choose>-->
     </xsl:template>
-    
-    <!-- unclear -->
-<!--    <xsl:template match="tei:unclear">
-        <span class="unclear"> [?<xsl:apply-templates/>] </span>
-    </xsl:template>-->
-    
-    <!-- random underscored elements -->
-<!--    <xsl:template match="tei:hi[@rend = 'underlined']">
-        <span class="underlined">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>-->
-    
-    <!-- normalize space -->
-    <!--    <xsl:template match="*/text()[normalize-space()]">
-        <xsl:value-of select="normalize-space()"/>
-    </xsl:template>-->
-    
-    <!--    <xsl:template match="*/text()[not(normalize-space())]" />-->
-    
-    
-    
+
 </xsl:stylesheet>
