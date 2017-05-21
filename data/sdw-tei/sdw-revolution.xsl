@@ -33,7 +33,8 @@
         <xsl:apply-templates/>
         <xsl:text>---
         
-        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions using [an XSLT transformation]({{site.baseurl}}/data/sdw-tei/sdw-revolution.xsl) of [a TEI encoding of the typescript]({{site.baseurl}}/data/sdw-tei/sdw.xml). The approach to the edition is *eclectic*, in the sense that I set the transformation to make judgments, corrections, normalizations, etc. Most of the changes were done to accidentals (punctuation, spacing, etc.). I respected deletions made immediately on the line with the typewriter. Intra-textual footnotes were added post-transformation. For a detailed study of this speculative edition and the rationale behind it, see chapter 2, "[how to erase history with a no.2 pencil]({{site.baseurl}}/chapters/02-versionism/)."<xsl:text>
+        [^1]: This speculative version was constructed from the pages of `P1`, and the original type, without revisions using [an XSLT transformation]({{site.baseurl}}/data/sdw-tei/sdw-revolution.xsl) of [a TEI encoding of the typescript]({{site.baseurl}}/data/sdw-tei/sdw.xml). The approach to the edition is *eclectic*, in the sense that I set the transformation to make corrections, normalizations, etc. Most of the changes were done to accidentals (punctuation, spacing, etc.). I respected deletions made immediately on the line with the typewriter. Intra-textual footnotes and a few judgement calls were added post-transformation. For a detailed study of this speculative edition and the rationale behind it, see chapter 2, "[how to erase history with a no.2 pencil]({{site.baseurl}}/chapters/02-versionism/)."
+            </xsl:text>
     </xsl:template>    
     
     

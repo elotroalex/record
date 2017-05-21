@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../chUR.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader type="text">
         <fileDesc>
@@ -20,15 +21,15 @@
             </editionStmt>
 
             <publicationStmt>
-                <publisher>Agence Universitaire de la Francophonie</publisher>
-                <pubPlace>Paris, France</pubPlace>
-                <idno type="filePrefix">chSD</idno>
+                <publisher>Alex Gil</publisher>
+                <pubPlace>New York, NY</pubPlace>
+                <idno type="filePrefix">sdw</idno>
                 <availability>
                     <p>The typescript is reproduced with permission from the Bibliothèque Municipale
                         de Saint-Dié des Vosges. Use of the materials contained here is
                         restricted.</p>
                 </availability>
-                <date>July 30, 2009</date>
+                <date>May, 2017</date>
                 <distributor/>
                 <authority/>
             </publicationStmt>
@@ -48,13 +49,13 @@
                     <head xml:lang="fre">Aimé Césaire, ...Et les chiens se taisaient</head>
                     <!-- Add Introduction information here -->
                     <msContents>
-                        <summary> The typescript represents an early version of 'Et les chiens se
+                        <summary>The typescript represents an early version of 'Et les chiens se
                             taisaient.' Unlike the versions which followed, this one dramatizes
                             events in the Haitian Revolution, making it a Historical Drama. The
                             story centers around the life and death of Toussaint Louverture, The
                             Rebel of later versions. The order of the speeches is substantially
                             different than later versions, allowing for the chronological unfolding
-                            of events, more or less matching the historical record. </summary>
+                            of events, more or less matching the historical record.</summary>
                         <textLang>French</textLang>
                     </msContents>
                     <physDesc>
@@ -113,14 +114,14 @@
                                     <p>Present in Acte I only, there is a pencil pagination on the
                                         top-right corner which goes sequentially and uninterrupted
                                         from 3 to 23. This pagination starts on page 2 of the
-                                        current pagination. </p>
+                                        current pagination.</p>
                                 </foliation>
                                 <foliation>
                                     <p>Another pencil pagination in Acte I begins on page 23 of the
                                         current pagination. The handwriting used for this pagination
                                         is different than Césaire's usual handwriting. The
                                         pagination can be found on the top left, very close to the
-                                        corner. </p>
+                                        corner.</p>
                                 </foliation>
                                 <foliation>
                                     <p>Written in light pencil on the top-right, this is perhaps the

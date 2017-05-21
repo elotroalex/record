@@ -94,11 +94,6 @@
     <!-- stage -->
     <xsl:template match="tei:stage">
         <xsl:choose>
-<!--            <xsl:when test="./tei:add[starts-with(., '(')]">
-                <p>
-                    <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
-                </p>
-            </xsl:when>-->
             
             <xsl:when test=".[not(starts-with(., '(')) and not(descendant::tei:del[@rend='overprint'][1])]">
                 <p>
@@ -215,14 +210,6 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-<!--    <xsl:template match="tei:add[@type='accent']">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="tei:add[@type='clarification']">
-        <xsl:apply-templates/>
-    </xsl:template>-->
     
     
     <!-- del -->
