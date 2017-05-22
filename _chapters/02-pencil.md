@@ -143,8 +143,6 @@ delegates ends, CRR takes over the narration of the event:
 
 These two early examples signal an important difference between early and late stages of composition, perhaps the one with the most repercussions. The first example, which we could call proleptic, and the second, which we could call diegetic, both refer to the action on the stage, to an unfolding plot for which they are a doubling of sorts (in the same way that the ‘screen’ was a doubling of the Chorus). This crucial function of the Chorus will soon change in the published versions of the text, as all reference to historical events is eventually ellided and the plot reduced to the point of stasis. At this stage though, the principal theme of the Chorus remains the revolution itself, and most of its diegetic recitations describe the epic events that cannot be represented on a real stage, at least not one without vast resources—words as stage props. 
 
-
-
 <br>
 
 ---
@@ -159,44 +157,41 @@ These two early examples signal an important difference between early and late s
 
 <br>
 
+We can call "[Toussaint King]({{site.baseurl}}/editions/sdw-king/)" a minimal diplomatic edition of the text paginated with the number set labeled `P2`, the first page added during `P6`, and all the revisions made on the combined text. In other words, pages 1-22 in their current order. This also means that we are to take the text without the pagination itself, and considering the shift in the historical setting explored below, assume that the pages were meant to follow `P1` originally. The first page, added in `P6`, was written to replace what was originally `P2.1` and `P2.2` (now missing), and conforms very well with the rest of `P2`. The diplomatic approach will allow us to study more closely the transposition in time and order within the drama, and the allographic transformation of bibliographic codes. In a very real sense, a speculative diplomatic lays bare what a clean reading text hides, that an edition reconciles multiple temporalities, multiple stages, in the act of opening up a new one.
 
+[Add section on algorithmic transference of the bibliographic code]
 
-In the following, I use two pagination schemes and all revisions made to it to construct two speculative stages, which I will then use to further explore the erosion of the historical referent in the genesis of the text and the rise of Toussaint as the central figure of the drama.
+At some point, "Toussaint King" was set during the middle period of the Haitian Revolution, with references to Toussaint’s takeover of the Spanish part of the island, the defeat of the British forces, and an enactment of Toussaint’s capture. From an historical point of view, this is the most confused and confusing segment. In a later revision, all references to the middle-to-late period of the Haitian Revolution will be erased, and with a few masterful strokes, Césaire will bring the action to the early period of the French Revolution.
 
-I call "Toussaint King" the text paginated with the number set labeled `P2`, without revisions. This also means that we are to take the text without the pagination itself, and assume that the pages were meant to follow `P1`.[^48] To construct **Virtual Version C**, I want to take all the pages in `P2` together with the first page added during `P6` and all the revisions made on the combined text. In other words, pages 1-22 of MAIN in their current state. The first page, added by `P6`, was written to replace what was originally `P2` 1 and 2 (now missing), and conforms very well with the rest of `P2`. Together they form a coherent analytical whole.
-
-At some point, "Toussaint King" was set during the middle period of the Haitian Revolution, with references to Toussaint’s takeover of the Spanish part of the island, the defeat of the British forces, and an enactment of Toussaint’s capture. From an historical point of view, this is the most confused and confusing segment. In a later revision, all references to the middle-to-late period of the Haitian Revolution will be erased, and with a few masterful strokes, Césaire will bring the action to the early period of the French Revolution, the temporal setting of **Virtual Version C**.
-
-If we take "Toussaint King" by itself, the action takes place sometime during Toussaint’s campaign in the Eastern part of the  island (1801):
+If we take "Toussaint King" without revisions, the action takes place sometime during Toussaint’s campaign in the Eastern part of the island (1801):
 
 > *Le choeur: Mon oeil se dore de visions souveraines..... Toussaint\\
 > fait son entrée solennelle à Santo Domingo.....Le cavido\\
 > lui remet les clefs de la ville*.[^49] (11)
 
- ven though they are framed as a vision, while the action remains solidly within a coherent temporal framework, these lines can be interpreted as the sort of typical *pragmatographia* found in **Virtual Version A**. The fictional timeline will soon change, and with it the rhetorical and poetic function of similar lines. In the meantime, we can already hear the potential for disassociating the action on the stage from the pseudo-historical narrative built into the diegetic function of the chorus in **Virtual Version A**. Once you remove the mimetic action on the stage that authorizes and gives meaning to them, lines such as these transform into a peculiar form of detached *ecphrasis*; soon enough, when the geographical and historical references disappear as well, these ostensive lines end up being removed completely or disfigured to refer to a vague archetypal history of the African diaspora and colonialism. My next chapter explores this phenomenon in the context of Césaire's international audiences.
+Even though they are framed as a vision, and the action remains solidly within a coherent temporal framework, these lines can be interpreted as the sort of typical *pragmatographia* found in "Revolution rising" above. The fictional timeline will soon change, and with it the rhetorical and poetic function of similar lines. In the meantime, we can already hear the potential for disassociating the action on the stage from the pseudo-historical narrative built into the diegetic function of the chorus in "Revolution rising." Once you remove the mimetic action on the stage that authorizes and gives meaning to them, lines such as these transform into a peculiar form of detached *ecphrasis*; soon enough, when the geographical and historical references disappear as well, these ostensive lines are removed completely or disfigured to refer to a vague archetypal history of the African diaspora and colonialism. My next chapter explores this phenomenon in the context of Césaire's international audiences.
 
-At some undetermined late moment in the genesis of the typescript, the temporal progression of "Toussaint King" undergoes a radical shift. On the first page of `P6`, the type sets the scene geographically, “*La scène est à Saint Domingue*.” Césaire will eventually add “*à l’epoque de la Révolution française*”[^50] by hand next to it. In order to make the rest of the text conform to this new temporal reorientation, Césaire will make use of his pencil. The first such revision comes on `P6` 2 (2),
+At some undetermined late moment in the genesis of the typescript, the temporal progression of "Toussaint King" undergoes a radical shift. On the first page of `P6`, the type sets the scene geographically, “*La scène est à Saint Domingue*.” Césaire will eventually add “*à l’epoque de la Révolution française*”[^50] by hand next to it. In order to make the rest of the text conform to this new temporal reorientation, Césaire will make use of his No. 2 pencil. The first such revision comes on `P2.3` (2),
 
-> *Le Chœur: Hurrah. Les Anglais sont perdus... Nos batteries d’approche\\
-> balayent leurs remparts; nos batteries de brèche sont intallées...\\
-> Saint-Marc craque... comme un vaisseau pourri...*[^51]
+> Le Chœur: Hurrah. Les Anglais sont perdus... Nos batteries d’approche balayent leurs remparts; nos batteries de brèche sont intallées... Saint-Marc craque... comme un vaisseau pourri...[^51]
 
-The rest of the pencil revisions will continue in the same spirit. On `P2` 14 (15), at the end of `P2`, the last line changes two times, making things even more complicated: “... *La Grande Révolution de Saint Domingue ~~continue~~ ~~a commencé .~~vient de commencer*” (22). At one point, the revolution continued, at another it had begun, and finally it had *just* begun.
+The rest of the pencil revisions will continue in the same spirit. On `P2` 14 (15), at the end of `P2`, the last line changes two times: “*... La Grande Révolution de Saint Domingue<span class="delete"> continue</span><span class="delete"><span class="add below"> a commencé</span></span><span class="add"> vient de commencer</span>.*" (22). At one point, the revolution continued, at another it had begun, and finally it had *just* begun.
 
-To accommodate this recasting, many internal changes had to be made, most notably, the grammatical tense, which changes in several places from *passé composé* to *futur simple*: 
+To accommodate this temporal recasting, the grammatical tense goes from *passé composé* to *futur simple* in other relevant passages as well:
 
-> *Toussaint: ~~J’avais amené~~ ^j’amenerai^ ce pays à la connaissancede\\
-> lui-même,\\
-> je familiaris~~é~~ ^erai^ cette terre avec ses démons secrets\\
-> ~~allumé~~ ^j’allumerai^ aux cratères d’hélodermes et de cymbales\\
-> les symphonies d’un enfer inconnu, splendide\\
-> parasité de nostalgies hautaines...*[^52] (14)
+> - {:.indent-2} <span class="delete">J’avais amené </span><span class="add"><span class="delete">J'aurai</span></span><span class="add above">j’amenerai</span>&nbsp;*ce pays à la connaissance*
+> - de lui-même,
+> - <span class="add">je&nbsp;</span>familiaris<span class="delete">é</span><span class="add">erai</span>&nbsp;cette terre avec ses démons secrets
+> - <span class="delete">allumé </span><span class="add above">j’allumerai </span>aux cratères d’hélodermes et de cymbales
+> - les symphonies d’un enfer inconnu, splendide
+> - parasité de nostalgies hautaines.<span class="add">..</span>[^52] <span style="font-style:normal;">(14)</span>
+{:.poetry}
 
-We should note in passing that this can be used as further reason that `P2` was written after `P1`. The tense is adapting to the temporal model established by `P1`. In the first version of `P2`, the action follows `P1`, therefore the past tense is appropriate. As the timeframe moves to the French Revolution, the tense appropriately changes to the future. The passage refers, of course, to Toussaint’s past or future involvement in the Haitian Revolution. Several other changes will confirm this temporal reorientation, with the strange consequence that the narrations of CRR become *proleptic*, or as I have no reservations calling them, prophetic.
+We should note in passing that this can be used as further proof that `P2` was written after `P1`. The tense is adapting to the temporal model established by `P1`. In the first version of `P2`, the action follows `P1`, therefore the past tense is appropriate. As the timeframe moves to the French Revolution, the tense appropriately changes to the future. The passage refers, of course, to Toussaint’s past or future involvement in the Haitian Revolution. Several other changes will confirm this temporal reorientation, with the strange consequence that the narrations of CRR become *proleptic*, or as I have no reservations calling them, *prophetic*.
 
-The most salient aspect of "Toussaint King" is perhaps the introduction of Toussaint Louverture as a central character. This speculative stage unfolds in four distinct episodes. We do not know exactly what the first two pages of `P2` contained. When the action resumes on `P2` 3 (2), the Reciter and Toussaint have the stage.
+The most salient aspect of "Toussaint King" is perhaps the coronation of Toussaint Louverture as the central subject of the drama. This speculative stage unfolds in four distinct episodes. We do not know exactly what the first two pages of `P2` contained, but when the action resumes on `P2.3` (2), the Reciter and Toussaint have the stage.
 
-The Reciter begins with a trope, prevalent throughout the drama, that I would like to call for now —with T.S. Eliot’s permission— *the revolutionary correlative*: a poetic vision of violent/revolutionary phenomena, drawing its vehicles from nature. It is safe to say that these tropes characterize a large part of the poetry of CRR and Toussaint, and we will have more to say about them later on. Here is the example that opens `P2`:
+The Reciter begins with a trope, prevalent throughout the drama, that I would like to call for now—pace T.S. Eliot—*the revolutionary correlative*: a poetic vision of violent/revolutionary phenomena, drawing its vehicles from nature. It is safe to say that these tropes characterize a large part of the poetry of CRR and Toussaint, and we will have more to say about them later on. Here is the example that opens `P2`:
 
 > *En marge des marées sautillantes, je marche sur l’eau des printemps\\
 > tournants ; j’aperçois très haut mes yeux de sentinelle. L’insomnie à\\
@@ -353,7 +348,7 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 [^47]: \[The Reciter: A whistle… The blacks exit from the brushes with a great uproar. The cutlasses clash and they are raised again and they clash in the reel of exasperation.\]
 
-[^48]: Note that this is not marked up on Table B, which in a sense conflates pagination schemes with order of composition. The reality is not so. While the pages were composed early, the `P2` pagination probably came much later. Considering the historical setting in this segment, they were also probably meant to follow `P1`.
+
 
 [^49]: \[The Chorus: My eye is gilded with sovereign visions… Toussaint makes his solemn entry in Santo Domingo. The *cabildo* hands him the keys to the city.\] Césaire misspells the Spanish word *cabildo* (twice). A *cabildo* was a Spanish form of local government best understood as a colonial administrative council. It was indeed a Spanish *cabildo* in Hispaniola which surrendered to Toussaint Louverture in 1801.
 
