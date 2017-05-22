@@ -21,13 +21,13 @@
             </editionStmt>
 
             <publicationStmt>
-                <publisher>Alex Gil</publisher>
-                <pubPlace>New York, NY</pubPlace>
+                <publisher/>
+                <pubPlace/>
                 <idno type="filePrefix">sdw</idno>
                 <availability>
-                    <p>The typescript is reproduced with permission from the Bibliothèque Municipale
-                        de Saint-Dié des Vosges. Use of the materials contained here is
-                        restricted.</p>
+                    <p>This TEI document was produced with permission from the Bibliothèque Municipale
+                        de Saint-Dié des Vosges and the Césaire estate as the foundation for the Planète Libre
+                        diplomatic edition of the text. Use of the materials contained here is restricted.</p>
                 </availability>
                 <date>May, 2017</date>
                 <distributor/>
