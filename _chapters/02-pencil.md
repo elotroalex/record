@@ -124,9 +124,11 @@ From Claudel…
 
 By a circuitous route, this brings us back to the light blue ink addition in `P1`, when the words “*Republique d’Haïti*” become projected on the phosphorescent sea. Presumably written during the temporal shift that would accomodate `P2`, and before the pencil corrections that will excise most of the work’s theatricality, this stage direction elicits the phantasmagorical return of the earlier screen. The Piscatorean projection of letters on the stage wall, in Césaire become a site of mediation, where stagecraft starts to capitulate to the poetic stage.
 
-As I pointed out above, the Chorus and the Reciters intrude between the dramatic episodes, establishing a rhythm of sorts between them and the action. As "Revolution Rising" begins, they engage with the girls on the stage, but besides this brief metalepsis, they remain outside of that action. Their words, nevertheless, are in constant dialogue with the events dramatized on stage. For the most part, these intrusions from CRR consist of narrative or commentary. Though they speak in a highly elliptical poetic idiom, CRR is clearly describing and referring to events which are either already depicted on stage or are related to it. In this sense, the role of CRR combined does not depart substantially from the *χορός* in classical Greek theater. The individuated role of the Reciter and the Recitress, though, cannot be easily reduced to the role of a dual *κορυφαῖος*, nor as a black avant-garde reformulation of the strophe and antistrophe. They function instead in the "jes grew" of afro-diasporic call and response formations.
+As I pointed out above, the Chorus and the Reciters intrude between the dramatic episodes, establishing a rhythm of sorts between them and the action. As "Revolution Rising" begins, they engage with the girls on the stage, but besides this brief metalepsis, they remain outside of that action. Their words, nevertheless, are in constant dialogue with the events dramatized on stage. For the most part, these intrusions from CRR consist of narrative or commentary. Though they speak in a highly elliptical poetic idiom, CRR is clearly describing and referring to events which are either already depicted on stage or are related to it. In this sense, the role of CRR combined does not depart substantially from the *χορός* in classical Greek theater. The individuated role of the Reciter and the Recitress, though, cannot be easily reduced to the role of a dual *κορυφαῖος*, nor as a black avant-garde reformulation of the strophe and antistrophe. They function instead in the "jes grew" of afro-diasporic call and response formations. 
 
-While the obvious reference to *Prometheus Bound* has been widely cited, even by Césaire himself[^b12], our chorus goes beyond the role of the Chorus of Daughters of Oceanus and their relationship to Prometheus—at least at this stage of the composition—before the promethean model subsumes the drama. I would tentatively suggest that the Chorus of "Revolution Rising" is more like the one in Sophocles’ Theban plays since it represents the polis, speaks prophetically, and has a direct relationship to the central character.
+> And so I have tried to reconcile those two worlds, because that was what had to be done. On the other hand, I feel just as relaxed about claiming kinship with the African griot and the African epic as about claiming kinship with Rimbaud and Lautreamont—and through them with Sophocles and Aeschylus! (Melsan) 
+
+While the global reference to *Prometheus Bound* has been widely cited, even by Césaire himself[^b12], our chorus goes beyond the role of the Chorus of Daughters of Oceanus—at least at this stage of the composition—before the promethean model subsumes the drama. As in Sophocles’ Theban plays instead, the Chorus of "Revolution Rising" prophesies the nation, and at this stage of development, the Reciter and the Recitress call and respond to each other beyond classic Greek tragedy.
 
 Once the episode with the delegates begins, after the two missing pages and after Toussaint invites the delegates to address the crowds, the Reciters barge on the scene to foreshadow the response of the crowds and the bloodbath to come:
 
@@ -139,9 +141,13 @@ delegates ends, CRR takes over the narration of the event:
 
 > Le récitant: Un coup de sifflet... Les nègres sortent des broussailles avec une grande clameur. Les coutelas s’abattent et se relèvent et s’abat­tent dans le moulinet de l’exaspération (29).[^47]
 
-These two early examples signal an important difference between early and late stages of composition, perhaps the one with the most repercussions. The first example, which we could call proleptic, and the second, which we could call diegetic, both refer to the action on the stage, to an unfolding plot for which they are a doubling of sorts (in the same way that the ‘screen’ was a doubling of the Chorus). This crucial function of the Chorus will soon change, and as all reference to historical events is eventually lost and the plot reduced almost to the point of stasis, we will end up with a much more poetic choral function. While the Chorus of the print versions can be quite baffling—and has been for readers—seeing the earliest form of the Chorus in action can provide a great point of departure for us to understand its future avatars.
+These two early examples signal an important difference between early and late stages of composition, perhaps the one with the most repercussions. The first example, which we could call proleptic, and the second, which we could call diegetic, both refer to the action on the stage, to an unfolding plot for which they are a doubling of sorts (in the same way that the ‘screen’ was a doubling of the Chorus). This crucial function of the Chorus will soon change in the published versions of the text, as all reference to historical events is eventually ellided and the plot reduced to the point of stasis. At this stage though, the principal theme of the Chorus remains the revolution itself, and most of its diegetic recitations describe the epic events that cannot be represented on a real stage, at least not one without vast resources—words as stage props. 
 
-The principal theme of the Chorus in "Revolution Rising" is the revolution itself, and most of their diegetic recitations describe the epic events that cannot be represented on stage. This reinforces two of the points that we made above: that the revolution is the subject of "Revolution Rising", and that at this stage of composition diegesis and mimesis supplement each other in traditional ways. Finally, and providing a certain level of internal coherence, the Chorus opens and ends this segment, first to bury the old Saint-Domingue, and as the act comes to a close, to welcome Haïti.
+Before its own future revolution, the Chorus also brings this stage to a close in a neat frame, from the opening burial of Saint-Domingue, to the enthusiastic birth of Haïti, but not without the minor note of *La Récitante*:
+
+> Froid cœur de la mort, la lagune a dégainé son poignard.
+
+<br>
 
 ---
 
@@ -285,7 +291,9 @@ Through systematic codicological and textual analysis, I have argued that the sh
 
 [^b11]: Nelson, Alondra. “Introduction: Future Texts.” Social Text 20.2 (2002): 1–15. Print.
 
-[^b12]: See Davis, Gregson. Aimé Césaire. New York: Cambridge UP, 1997. Print. Cambridge Studies in African and Caribbean Literature. (128-129)
+[^b12]: See, Davis, Gregson. Aimé Césaire. New York: Cambridge UP, 1997. Print. Cambridge Studies in African and Caribbean Literature. (128-129); Leiner, Jacqueline. “Entretien avec Aimé Césaire.” Tropiques. Paris: Éditions Jean-Michel Place, 1978. (v–xxiv). Print; Bailey, Marianne Wichmann. The Ritual Theater of Aimé Césaire: Mythic Structures of the Dramatic Imagination. Tübingen: Gunter Narr Verlag, 1992. Print. Études Littéraires Françaises 49. (109); 
+
+[^b13]: Melsan, Annick Thebia. “The Liberating Power of Words: An Interview with Poet Aime Cesaire.” Journal of Pan African Studies 2.4 (2008): 2. Print.
 
 
 

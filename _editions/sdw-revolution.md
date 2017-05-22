@@ -73,7 +73,7 @@ jouer, les orbites de la mort poussent des yeux fulgurants à travers le mica bl
 
 - Notre seule présence ici suffit à montrer combien grand
 est notre désir de conciliation. Nous avons fait taire en nos
-coeurs la naturelle indignation que y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos vieux  esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos société coloniales...
+cœurs la naturelle indignation que y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos vieux  esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos société coloniales...
 
 - {:.speaker} **2e député**
 
@@ -529,7 +529,7 @@ combler.
 
 - Ma fatigue est une soif, ho, aucune boisson ne saurait l’apaiser.
 
-- {:.speaker} **Choeur des esclaves**
+- {:.speaker} **chœur des esclaves**
 
 - Hé, ho. Ho, mes amis, ho
 - Ma fatigue est un tombereau de sable insonore
@@ -605,7 +605,7 @@ phosphorescente, une inscription explose, sanglante, reflétée par les cueils.)
 
 - {:.speaker} **Le récitant** *(pleurant)*
 
-- Froid coeur de la mort, la lagune a dégainé son poignard.
+- Froid cœur de la mort, la lagune a dégainé son poignard.
 
 <br>
 
