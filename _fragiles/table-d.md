@@ -53,7 +53,7 @@ This table lists the 10 different pagination schemes found in the Saint-Dié wit
 | 38    | 18 |    |    |    |    | 38     |    |       | 77  | 
 | 39    | 19 |    |    |    |    | 39     |    |       | 78  | 
 | 40    | 20 |    |    |    |    | 40     |    |       | 79  | 
-| 41    |    |    |    |    |    |        |    | 41    | 80  | 
+| 41    |    |    |    |    |    | 41*    |    |       | 80  | 
 | 42    |    |    |    |    | 1  | 42     |    |       | 81  | 
 | 43    |    |    |    |    | 2  | 43     |    |       | 82  | 
 | 44    |    |    |    |    | 3  | 44     |    |       | 83  | 
@@ -118,4 +118,12 @@ This table lists the 10 different pagination schemes found in the Saint-Dié wit
 | 104   |    |    |    |    |    | 100    |    |       | 142 | 
 | 105   |    |    |    |    |    | 101    |    |       | 143 | 
 | 106   |    |    | 18 |    |    | 102    |    |       | 144 | 
-| 107   |    |    |    |    |    | 103    |    |       | 145 | 
+| 107   |    |    |    |    |    | 103    |    |       | 145 |
+
+<br>
+
+---
+
+\* Ambivalent. This pagination in dark ink seems to belong to two groups, `P6` and `P8`. The page also seems to have been written earlier during the composition of `P3`, the pagination in type, as the beginning of act 3, which would explain the absence of the number 1.
+
+

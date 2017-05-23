@@ -53,7 +53,7 @@ This table lists the traces of handwriting instruments used to revise the Saint-
 | 38         |          |          |         | x           | x            |            | 
 | 39         |          |          |         | x           | x            |            | 
 | 40         | x        |          |         |             | x            |            | 
-| 41         |          | x        |         |             | x            |            | 
+| 41         | x        | x        |         |             | x            |            | 
 | 42         | x        |          |         | x           |              |            | 
 | 43         |          |          |         | x           |              |            | 
 | 44         | x        |          |         | x           |              |            | 
