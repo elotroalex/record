@@ -6,9 +6,7 @@ author: alex gil
 chapter: 1
 ---
 
-[Intended audience: textual scholars, genetic critics, caribbeanists, a bone for visualization buffs, Alex frienditors<sup><small>TM</small></sup>, material historians, and Césaire scholars. If you consider yourself to be a different kind of reader, I recommend waiting for other chapters to come online. I invite willing readers to refine me by fire. To leave your critique, review, corrections, commentary please use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line. This draft is based on part of the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).].
-
-## opening gambit
+## opening gambit[^c1]
 
 All origin stories imply another origin: the origin of the tale. The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works.[^b5] The debate hinged on the choice between a genetic[^a2] or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
 
@@ -288,3 +286,4 @@ Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into
 
 [^18]: We assume the existence at some point of `P2.1` and `P2.2`, but these have disappeared without a trace.
 
+[^c1]: Nebula is based partly on the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).]
