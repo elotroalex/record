@@ -26,7 +26,7 @@
         editor: alex gil
         ---
         
-        The following is a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire. [^1]
+        \[The following is an eclectic edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.\][^1]
             
         ---
         </xsl:text>
@@ -62,7 +62,7 @@
     
     <!-- speaker + delivery -->
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type = 'delivery']]]">
-        <xsl:text>- {:.centered} </xsl:text><xsl:apply-templates select="tei:speaker"/>
+        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates select="tei:speaker"/>
         <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
         <xsl:text>
             
@@ -92,7 +92,7 @@
     <xsl:template match="tei:speaker">
         <xsl:text>
        </xsl:text>
-        <xsl:text>- {:.centered} </xsl:text><xsl:apply-templates/>        
+        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates/>        
         <xsl:text>
            
        </xsl:text>

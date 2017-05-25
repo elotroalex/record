@@ -6,7 +6,7 @@ author: Aimé Césaire
 editor: alex gil
 ---
 
-\[The following is an edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.\][^1]
+A speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.[^1]
 
 <br>
 <hr>
