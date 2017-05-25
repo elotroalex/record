@@ -12,7 +12,7 @@ chapter: 2
 
 <br>
 
-## speculative stages
+## speculative staging
 
 [Big Bang Data](http://www.cccb.org/en/exhibitions/file/big-bang-data/45167) moved from Barcelona to Singapore's ArtScience Museum in 2016. Everything about the exhibit was supposed to make you feel small, and Safdie's brobdingnagean lotus in Marina Bay Sands was just the venue. After the first few hallways insisted on the overwhelming material scope of our online worlds, we arrived at a welcomed bench to relax over a short film on the [Internet Archive](https://archive.org/). A few minutes into the reel, though, Brewster Kahle's dream of "universal access to all knowledge" surfaced again, seaside of ultra-condensed capital, to unsettle any rest we hoped for—all knowledge, all access, all the time. 
 
