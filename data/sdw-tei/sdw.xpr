@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-revolution.xsl</String>
+                                    <String>sdw-king.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sdw-revolution</String>
+                                        <String>sdw-king</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-king.xsl</String>
+                                    <String>sdw-revolution.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sdw-king</String>
+                                        <String>sdw-revolution</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
