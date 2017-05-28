@@ -1,48 +1,804 @@
 ---
 layout: poem
-title: "toussaint king"
-description: "a draft diplomatic edition of a speculative stage in the genesis of the Saint-Dié witness of Et les chiens se taisaient by Aimé Césaire." 
+title: "king"
+description: "" 
 author: alex gil
 ---
 
-[This is a draft diplomatic edition of a speculative stage in the genesis of the Saint-Dié witness of *Et les chiens se taisaient* by Aimé Césaire.]
+(draft)
 
-<br>
 <hr>
-<br>
-
-<p><a target="_blank" href="/data/sdw-data/P001.jpg">[ 1 ]</a></p>
-<p><span class="add">(</span>La scène est à
-   Saint Domingue<span class="delete">.</span><span class="delete"><span class="add">)</span></span><span class="add">&nbsp;à&nbsp;</span><span class="add">l’epoque de la Révolution
-      française)</span>.
+<p><a target="_blank" href="/data/sdw-data/P023.jpg">[ 23 ]</a></p>
+<p>(A Saint-Domingue devant une riche maison
+   coloniale style 18e siècle, des jeunes filles blanches en train de
+   jouer. Entrent le chœur, le récitant, la récitante.)
 </p>
 - {:.speaker} **La récitante.**
 
-- Je dis que ce pays est un ulcère.
+
+<p class="prose" style="text-indent:2rem">Rentrez chez-vous jeunes filles, il n’est plus temps de
+   jouer, les orbites de la mort poussent des yeux fulgurants à travers
+   le mica blême.
+</p>
+- {:.speaker} **1re jeune fille** (sérieuse)
+
+- {:.indent-2} C’est une devinette?
 
 - {:.speaker} **Le récitant.**
 
-- Je dis que cette terre brûle.
+- {:.indent-2} C’est la saison des étoiles  qui commence.
+- {:.speaker} **2ème jeune fille**  (riant)
+
+- {:.indent-2} Ah. C’est un co<span class="add">n</span>te
+- {:.speaker} **Le chœur**  (menaçant)
+
+
+<p class="prose" style="text-indent:2rem">Saint-Domingue raidit ses pattes d’araignée venimeuse  sur la gadoue des <span class="delete"><span class="unclear">banacones.</span></span><span class="add"> barracouns.</span></p>
+
+- {:.speaker} **3ème jeune fille.**
+
+- {:.indent-2} Hou; hou.
+
+- {:.speaker} **4ème jeune fille.**
+
+- {:.indent-2} Hou. Hou.
+
+<p><span class="add">(</span>La
+    sur le pas de la porte<span class="add">,</span> très pâle.<span class="add">)</span></p>
+<p class="prose" style="text-indent:2rem">Mes enfants... rentrez... rentrez vite... j’ai
+   peur.
+</p>
+
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">Jeunes filles<span class="add">,</span>
+   respectez les <span class="delete"><span class="unclear">étrangers qui passent
+         </span></span><span class="add above">pèlerins qui gaspillent leur pain
+      quotidien </span>sur les riches ornières du
+   crépuscule.
+</p>
+
+<p>(Les jeunes filles s’enfuient.)</p>
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P024.jpg">[ 24 ]</a></p>
+<p><span class="add">(</span>Le
+   récitant et la récitante feignent de poser par terre une ci<span class="delete">v</span>‐ vière; le chœur de creuser une fosse. <span class="delete">Le</span><span class="add">Un</span> cadavre imaginaire est déposé au fond de la fosse. C’est une
+   scène de magie imitative.<span class="add">)</span></p>- {:.speaker} **Le récitant** (recueilli).
+
+- {:.indent-2} Adieu, Saint- Domingue.
 
 - {:.speaker} **La récitante.**
 
-- J’avertis : malheur à celui qui frôle de la main la résine de ce
-pays.
+- &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
+- {:.speaker} **Le chœur**  (haineux )
 
-- {:.speaker} **Le récitant.**
 
-- Je dis que ce pays, monstrueusement, dévore.
+<p class="prose" style="text-indent:2rem">...Saint-Domingue la noire, o<span class="add">ù</span> le sadisme du maitre, et le rale<span class="add">‐</span> ment de l’esclave par
+   force coprophage parachèvent en traits de vo<span class="add">­</span> mi le happement du squale et le rampement <span class="add">du</span> scolopendre.
+</p>
+
+<p><span class="add">(</span>A ce
+   moment l’obscurité envahit la scène; des coups de feu; des cris
+   discordants; puis le tapage s’apaise peu à  la lumiè<span class="add">‐</span> re revient, le décor a
+   changé: le camp des nègres au milieu d’une forêt. Chefs nègres et
+   députés blancs en conférence.<span class="add">)</span></p>
+- {:.speaker} **Ier député.**
+
+
+<p class="prose" style="text-indent:2rem">Notre seule présence ici suffit à montrer combien grand
+   est notre désir de conciliation. Nous avons
+   fait taire en nos  la naturelle indignation
+   qu<span class="delete">i</span><span class="add">'</span> y suscite le souvenir de tant d’actes de cruauté. Et nous
+   avonsfait table rase de toutes nos répugnances et répulsions, de
+   toutes les habitudes que nos <span class="delete">vieux</span> esprits
+   philosophes appellent prévention ou
+   préjugés et qui n’en sont pas moins des forces contraignantes dans
+   nos  coloniales...
+</p>
+
+- {:.speaker} **<span class="delete">2e député.</span>**
+
+
+<p class="prose" style="text-indent:2rem"><span class="delete">A tout péché miséricorde... Une amnistie, voilà ce que
+      nous </span> <span class="delete">sommes venus vous offrir. Miséricorde pour tous,
+      et pour <span class="add below">les chefs</span> tous la</span> <span class="delete">liberté.</span></p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P025.jpg">[ 25 ]</a></p>- {:.speaker} **Toussaint** <span class="delete"><span class="unclear"> (l'arrêtant.)</span></span>
+
+
+<p class="prose" style="text-indent:2rem"><span class="add">C’est bien</span><span class="delete">Arrière Dessalines. Je suis seul chef ici, et ces hommes
+      m’ap‐</span> <span class="delete">partiennent</span>. Vous, messieurs, vous exposerez à mes troupes
+   les propositions que vous nous avez faites.
+</p>
+
+<p><span class="add">(</span>Rassemblement.
+   Bruit de tam-tam.<span class="add">)</span></p>
+- {:.speaker} **Récitant.**
+
+- {:.prose} Un écroulement hostile de tour, de montagne, de phare achève d’hésiter aux confins du déclic
+- Un collier de perles favorables n’engourdit plus l’inquiétude
+- {:.prose} Des apostrophes tentaculaires s’animent au loin comme des cataclysmes
+- Déja le silence empoisonne chaque fibre
+- Des gestes hiéroglyphes avalés à moitié signalent
+- Les jachères et les semis de cadavres.
 
 - {:.speaker} **La récitante.**
 
-- Ce pays est maudit.
-- {:.prose} Ce pays b<span class="add">â</span><span class="add">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de
-clameurs vides.
+- Les beaux yeux aveugles de la terres chantent d’eux-mêmes
+- l’école buissonnière, les sourcils joints des hauts labours
+- {:.prose} les ruses savantes des colloques sans rime ni raison aux
+sables mouvants.
+- La vache des naufrageurs, la pluie des calvaires et des vagues
+- ensorcelent &nbsp;de serpents, de palabres, de
+varechs
+- le phare disjoint de sang d’aiglon.
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P026.jpg">[ 26 ]</a></p>
+<p><span class="add">(</span>La scène est
+   envahie par la foule <span class="add above">des insurgés</span>:
+   masse d’hommes et de femmes armés de coutelas.<span class="add">)</span></p>
+- {:.speaker} **Toussaint.**
+
+
+<p class="prose" style="text-indent:2rem">Mes amis, les blancs nous envoient des embassadeurs.
+   Voulez-vous les entendre?
+</p>
+
+- {:.speaker} **Des voix**
+
+- {:.indent-2} Oui, oui<span class="add">,</span> qu’ils
+parlent.
+
+- {:.speaker} **Ier député.**
+
+
+<p class="prose" style="text-indent:2rem">Mes chers amis... Je sais que vous en avez assez de cette
+   guerre, vos enfants ont faim.
+</p>
+
+- {:.speaker} **Des voix.**
+
+- {:.indent-2} Oui, oui, c’est vrai.
+
+- {:.speaker} **Ier député.**
+
+- {:.indent-2} Vos femmes sont lasses
+d’une vie incertaine et vagabonde.
+
+- {:.speaker} **Des voix féminines.**
+
+- {:.indent-2} Oui, oui; après?
+
+- {:.speaker} **Ier député.**
+
+
+<p class="prose" style="text-indent:2rem">Revenez sur les habitations. Reprenez le travail. Nous
+   sommes  prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous
+    vous garantissons à tous notre bienveillance paternelle.
+</p>
+
+<p><span class="add">(</span>Des cris
+   contradictoires dans la foule.<span class="add">)</span></p>- {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort
+
+<p class="prose" style="text-indent:2rem">...à mort. ...
+   
+</p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P027.jpg">[ 27 ]</a></p>
+- {:.speaker} **Toussaint.**
+
+
+<p class="prose" style="text-indent:2rem">Camarades, vous les avez entendus<span class="add">;</span> de vos propres oreilles, entendus. Comme ils sont bien gentils et bien
+   conciliants, alors ils sont venus proposer à vos chefs de vous
+   lâcher; ils sont venus proposer à vos chefs de se vendre... Ils sont
+   venus nous demander de vous trahir.
+</p>
+
+- {:.speaker} **La foule.**
+
+- {:.indent-2} Mort aux blancs. Mort aux blancs.
+
+- {:.speaker} **Toussaint.**
+
+
+<p class="prose" style="text-indent:2rem">Et les écoutant, vous avez compris, camarades, que <span class="add above">les</span> blancs n’ont pas encore renoncé<span class="delete">s</span> à
+   leurs odieux privilèges; que l’homme blanc n’a pas encore renoncé à
+   s’engraisser du sang et des larmes de l’homme noir.
+</p>
+
+- {:.speaker} **La foule.**
+
+- {:.indent-2} A mort. Tue. Tue.
+
+<p>(La foule se resserre comme une machoire.)</p>
+- {:.speaker} **Le récitant.**
+
+- {:.indent-2} Ici commence le baptème du sang.
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">Ici commence le repas de vengeance. Ici se noue la
+   solidarité du sang. Ici s’opère la grande communion guerrière.
+</p>
+
+- {:.speaker} **Le chœur.**
+
+- {:.prose} Baiser de gemmes, oubliettes du sang, belle comme la mémoire dé<span class="delete">s</span><span class="add above">ss</span>aisie d’oubli frais, la vengeance s’est dressée avec l’oreille
+du jour, et toutes les poussières de vanille qui tissent la chair
+des nuits, toutes les guêpes qui salivent la cassave des nuits,
+toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> ont forcé jusqu’à voir leur
+ de serrure.
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P028.jpg">[ 28 ]</a></p>
+<p>( Les guerriers défilent devant les cadavres en
+   brandissant des coutelas.)
+</p>
+- {:.speaker} **Toussaint.**
+
+
+<p class="prose" style="text-indent:2rem">Tout n’est pas fini Camarades... Qui portera aux blancs
+   notre réponse flamboyante<span class="add">?</span>.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent
+   du côté de l’enfer. Qui ira, et par quelles paroles nouer en
+   d’autres viscères la peur terreuse?
+</p>
+
+- {:.speaker} **Des voix.**
+
+- {:.indent-2} Nous-mêmes, nous tous.
+
+- {:.speaker} **La foule.**
+
+- {:.indent-2} Nous-mêmes, nous tous.
+
+- {:.speaker} **Toussaint.**
+
+
+<p class="prose" style="text-indent:2rem">C’est bien camarades...Tout de suite... Nous tous en avant
+   et pas de quartier.
+</p>
+ 
+<p>(Les bandes s’ébranlent en poussant des cris
+   frénétiques.)
+</p>
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P029.jpg">[ 29 ]</a></p>
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">Un coup de sifflet... Les nègres sortent des broussailles
+   avec<span class="delete">u</span> une grande clameur. Les coutelas s’abattent et se relèvent et
+   s’abattent dans le moulinet de
+   l’exaspération.
+</p>
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">Le coutelas s’abat. Quelle moisson. Ce ne sont pas des
+   cannes qui tombent. Ce ne sont pas des troncs de bananiers. <span class="delete">Le sang a fait</span> <span class="delete">sauter sa bonde. </span>Le sang
+   ruisselle; des crânes b<span class="add">â</span>illent, tels
+   des noix de coco. Voici le soleil. Voici le sang. Voici les
+   mouches.
+</p>
 
 - {:.speaker} **Le récitant.**
 
-- {:.prose} Ce pays mord : bouche ouverte d’une gorge de feu, convergence de crocs
-de feu sur la croupe de l’Amérique mauvaise.
+
+<p class="prose" style="text-indent:2rem">Le morne bourgeonne de cris. Des cadavres roulent jusqu’au
+   pied des arbres à pain .
+</p>
+
+- {:.speaker} **La récitante.**
+
+- {:.indent-2} Le ravin bourgeonne de cadavres
+
+- {:.speaker} **Demi-chœur.**
+
+- {:.indent-2} Ils nous<span class="add">&nbsp;</span>coupaient les jarrets.
+
+- {:.speaker} **Demi-chœur.**
+
+- {:.indent-2} Iles nous<span class="add">&nbsp;</span>marquaient <span class="delete">de</span><span class="add above">au</span> fer rouge.
+
+- {:.speaker} **Le chœur.**
+
+
+<p class="prose" style="text-indent:2rem">Et l’on nous vendait comme des bêtes et l’on nous comptait
+   les dents... et l’on nous tâtait les bourses et l’on examinait le
+   cati ou <span class="delete">le </span>décati de notre peau et l’on nous
+   palpait et pesait et soupesait et l’on passait
+   à notre cou de bête domptée, le collier de la servitude et du
+   sobriquet.
+</p>
+
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">Le vent s’est levé, les savanes se fendent <span class="delete">d'</span><span class="add">dans</span> une gloire de panaches folles...
+   J’entends des cris d’enfants...dans la maison du maitre.
+</p>
+
+- {:.speaker} **Le chœur.**
+
+
+<p class="prose" style="text-indent:2rem">J’entends des cris d’enfants dans la case noire... et le
+   petits ventres pierreux pommés en leur mitan <span class="delete">
+      d u </span><span class="add">du</span> nombril énorme se gonflent de famine et du noir migan de la terre
+   et des larmes et de la morve et de l’urine.
+</p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P030.jpg">[ 30 ]</a></p>
+- {:.speaker} **Le récitant.**
+
+- {:.indent-2} Au nom de tous les désirs effrités en la mare de vos
+âmes<span class="add">,</span>
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">Au nom de tous les rêves paresseux en vos
+    chante le geste d’acier du
+   matador.
+</p>
+
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">Je chante le geste salé du harponneur et la baleine a
+   soufflé pour la dernière fois.<span class="add">..</span></p>
+
+- {:.speaker} **Le chœur.**
+
+
+<p class="prose" style="text-indent:2rem">Un oiseau et son sourire... un navire et ses racines...
+   l’horizon et ses cheveux de pierres précieuses... une jeune fille au
+   sourire d’herbe déchire en fines alouettes le vin des jours, la
+   <span class="delete">presse</span><span class="add below">pierre</span> des nuits...
+</p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P031.jpg">[ 31 ]</a></p>
+<p><span class="add">(</span>Au Cap. A
+   l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span></p>
+- {:.speaker} **Ier député.**
+
+- {:.indent-2} Vous êtes un indépendant, Monsieur.
+
+- {:.speaker} **2e député.**
+
+- {:.indent-2} Et vous un pompon blanc.
+
+- {:.speaker} **Ier député.**
+
+
+<p class="prose" style="text-indent:2rem">Permettez-moi Monsieur, de vous rappeler quelle fin attend
+   les traitres.
+</p>
+
+- {:.speaker} **2e député.**
+
+- {:.indent-2} Et moi, Monsieur, celle qui attend les suppôts de la
+tyrannie.
+
+- {:.speaker} **Le gouverneur.**
+
+
+<p class="prose" style="text-indent:2rem">Hé, Messieurs, un peu de bon sens<span class="add">,</span> que diable. Vous savez o<span class="add">ù</span> nous en sommes: en pleine révolte servile; la moitié de
+   la province du Nord est en feu. Avec les nègres des habitations
+   Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé,
+   Toussaint <span class="delete">et Boukmann </span><span class="delete">ont</span><span class="add">a</span> constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers
+   outrag<span class="add">es,</span> les enfants sont empalés; les planteurs sont sciés vivants entre
+    deux planches.
+</p>
+
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} Mort aux philantropes.
+
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} A bas les négroph<span class="delete">ob</span><span class="add">il</span>es.
+
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} Mort à l’abbé Grégoire.
+
+- {:.speaker} **Le gouverneur.**
+
+
+<p class="prose" style="text-indent:2rem">Silence, messieurs. Ce n’est pas tout malheureusement.
+   <span class="add">Pe</span>ndant que la
+   révolte <span class="add">e</span>ntoure le <span class="add">C</span>ap <span class="add">prome</span>nant p<span class="add">artout</span> l’<span class="add">incendie et</span> les cris  du Vaudou, ici d<span class="add">ans</span> la ville, la voix de la
+   sa<span class="add">ges</span>se a peine à se faire
+   entendre. On s’en prend aux esclaves restés fidèles. On
+   s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
+</p>
+
+- {:.speaker} **<span class="delete">Une voix.</span>**
+
+- 
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P032.jpg">[ 32 ]</a></p>
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} Pas d’armes pour les complices des nègres.
+
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} Pas de quartier pour les espions.
+
+- {:.speaker} **Une voix.**
+
+- {:.indent-2} Laissez parler monsieur le Gouverneur.
+
+- {:.speaker} **4è voix.**
+
+- {:.indent-2} Mettons à prix la tête de Toussaint et de Boukmann.
+
+- {:.speaker} **I député.**
+
+
+<p class="prose" style="text-indent:2rem">Monsieur le Gouverneur, avant d’aller plus outre, je
+   propose de flétrir solennellement l’assemblée Constituante qui, par
+   ses décrets insensés, nous a menés o<span class="add">ù</span> nous en sommes: à la ruine.
+</p>
+
+- {:.speaker} **I député.**
+
+
+<p class="prose" style="text-indent:2rem">Je propose que sur l’une des places du Cap, on tienne en
+   permanence<span class="add">,</span> cinq potences et deux échafauds pour le
+   supplice de la roue.
+</p>
+
+- {:.speaker} **Le gouverneur.**
+
+
+<p class="prose" style="text-indent:2rem">Je vois, Messieurs, que vous ne m’avez guère compris. Il
+   n’est plus temps de délibérer. Ma décision est prise. L’essentiel
+   étant d’empêcher les nègres de la province de l’ouest de communiquer
+   avec les insurgés du Nord, je fais établir des camps au Trou, à
+   Vallières<span class="add">,</span> au Morne, à Dondon, à la Ma<span class="add">rmel</span>ade et à . Quant à vous, Messieurs,
+   aux armes<span class="add">,</span> et vive la colonie
+   française de Saint-Domingue.
+</p>
+ 
+<p>( Vivats prolongés. Les députés sortent.)</p>
+<p><span class="add">(</span>Quelques attardés
+   discutent encore.<span class="add">)</span></p> 
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P033.jpg">[ 33 ]</a></p>
+<p>(<span class="add">une rue. la nuit. des groupes passent</span>)
+</p>
+- {:.speaker} **<span class="add">1er groupe :</span> Une
+voix. **
+
+
+<p class="prose" style="text-indent:2rem">Vous avez raison, mon ami, vous avez raiso<span class="add">n,</span> C’est avec de la mauvaise politique que l’on perd les colonies.
+   Des combats, des plans de bataille. Trêve de balivernes. Avec les
+   nègres, je ne connais qu’un moyen: la terreur. Moi qui vous parle,
+   au premier jour de l’insurrection,
+   j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous
+   garantis que le troupeau n’a pas bougé. Voyez-vous...
+   <p>(la voix
+      se perd dans la nuit.)
+   </p>
+</p>
+
+- {:.speaker} **<span class="add">2e
+   groupe : </span><span class="delete">2e</span><span class="add above">une</span> voix.**
+
+
+<p class="prose" style="text-indent:2rem">Hum<span class="add">!</span> alors tout va
+   rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur; un
+   type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les
+   Antilles, voyez-vous, un pays très doux, très doux. ... tout doux...
+   des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
+</p>
+ 
+<p>(La voix fredonne :</p>- {:.indent-2} A la Matinique, Matinique, Matinique
+- {:.indent-2} c’est çà qui chic...)
+
+<p>(Depuis quelques secondes des cris ont éclaté<span class="delete">s</span>; un chant monotone et sauvage nait, grossit,
+   approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle
+   de délibération, poussant avec des bourrades et des clameurs
+   quelques députés blancs. Un  grotesque gesticule à
+   l’estrade officielle. Nous l’app<span class="add">e</span>llerons. Les nègres s’asseyent dans une
+   confusion indescriptible. Alors commence
+   une séance sinistre et bouffonne pleine d’emphase et de
+   cruauté.)
+</p>
+- {:.speaker} **Le speaker**
+
+- Silence, Messieurs, silence.
+
+- {:.speaker} **<span class="add">1</span>er énergumène.**
+
+
+<p class="prose" style="text-indent:2rem"><span class="add">P</span>as de silence
+   qui tienne<span class="delete">nt</span>. Nous sommes libres et égaux en droit<span class="add">s.</span> N’oubliez pas cela.
+</p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P034.jpg">[ 34 ]</a></p>
+- {:.speaker} **2e énergumène.**
+
+
+<p class="prose" style="text-indent:2rem">Et moi je dis: malheur à ceux qui n'ont pas vu inscrit sur
+   le mur de nos honorables faces<span class="delete"> délicotées</span><span class="add">,</span> le Mane
+   Thecel Pharès de la tyrannie.
+</p>
+
+- {:.speaker} **Le speaker.**
+
+- {:.indent-2} La séance est ouverte , Messieurs.
+
+- {:.speaker} **3e énergumène.**
+
+
+<p class="prose" style="text-indent:2rem">De quel droit, dites-moi, Monsieur, ouvrez-vous une séance
+   que personne n'a jamais fermée? <span class="delete">J'ai
+      l'honneur de repousser toute mo‐</span> <span class="delete">tion  en ce
+      sens.</span></p>
+
+<p>(Nouveaux cris au dehors. Une nouvelle bande arrive sous
+   la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au
+   bout une tête coupée; la tête du gouverneur.)
+</p>
+- {:.speaker} **Porte-drapeau.**
+
+- {:.indent-2} Debout, camarades, voilà le gouverneur.
+
+- {:.speaker} **La foule.**
+
+- {:.indent-2} Mort aux blancs, mort aux blancs.
+- {:.speaker} **Le speaker** (soufletant la tête coupée)
+
+- {:.indent-2} La parole est à Monsieur le Gouverneur.
+- {:.speaker} **Le porte-drapeau** (d'une voix nasillarde)
+
+
+<p class="prose" style="text-indent:2rem">Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs,
+   il  n’est plus temps de délibérer. Ma décision est prise. Avec les
+   nègres, je ne connais qu’un moyen, la
+   terreur. La terreur est à l’ordre du jour,
+   Messieurs...
+</p>
+ 
+<p>(Applaudissements. Des rires.)</p> 
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P035.jpg">[ 35 ]</a></p>
+- {:.speaker} **La foule.**
+
+- {:.indent-2} A mort; à mort.
+
+<p>(Une hystérie collective. Une odeur de sang monte. Le speaker
+   danse la bamboula sur l’estrade.)
+</p>
+- {:.speaker} **La foule.**
+
+- {:.indent-2} A la Matinique, Matinique, Matinique
+- {:.indent-2} C’est çà qui chic, C’est çà qui chic
+- {:.indent-2} A la Matinique, Matinique, Matinique
+
+- {:.speaker} **Le speaker:**
+
+- {:.indent-2} A la Matinique, Matinique, Matinique...
+
+<p>(Le silence tombe raide, funèbre.)</p>
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">Il monte...Il monte des profondeurs de la terre... Le flot
+   noir monte... des vagues de hurlements... des marais de senteurs
+   animales ... l’orage écumant des pieds nus... et il en grouille
+   toujours d’autres dévalant les sentiers des
+   mornes, gravissant l’escarpement des ravins, torrents obscènes et
+   sauvages grossisseurs de fleuves chaotiques,
+   de mers pourries, d’océans convulsifs dans le rire charbonneux du
+   coutelas et de l’alcool mauvais...
+</p>
+
+- {:.speaker} **Le chœur.**
+
+- {:.indent-2} En ma main noire et rouge s’époumonne une aurore de sureau
+blanc
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P036.jpg">[ 36 ]</a></p>
+- {:.speaker} **Le récitant.**
+
+- {:.indent-2} Au commencement, il n’y avait rien...
+
+- {:.speaker} **La récitante.**
+
+- {:.indent-2} Pardon, camarade, au commencement il y avait la nuit.
+- {:.speaker} **Le récitant** (docile)
+
+- {:.indent-2} Camarade, au commencement il y avait la nuit...
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">La nuit et la misère, Camarade, la misère et l’acceptation
+   <span class="delete">uni‐</span> animales; la nuit bruissante de souffles d’esclaves
+   dilatant sur les pas du christophore,
+   la grande mer de misères<span class="add below"> et de
+      dividendes</span> la grande mer de sang
+   noir, la grande houle de cannes à sucre <span class="add above"><span class="delete">et de dividendes</span></span><span class="delete">et</span> le grand océan d’horreurs et de
+   désolations.
+</p>
+- {:.indent-2} A la fin, il y a, à la
+fin...
+ 
+<p>(Elle se bouche les yeux.)</p>- {:.speaker} **Le récitant.** (d’une voix cinglante.)
+
+
+<p class="prose" style="text-indent:2rem">A la fin, je m’en vais vous dire, moi, ce que je
+    la fin: à la fin...  à l’extrème fin, la cul‐ <span class="delete">bute</span>
+   resets the line in the proper place. Light pencil was used originally
+   and was then reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde hystérique des
+   goules masticatrices, son avachissement visité<span class="delete">e</span> d’épouvantes, son<span class="add"> &nbsp; </span>insolence
+   triturée de prières, et, sur se blessures, la pimentade de mon rire
+   et le sel de mes pleurs.
+</p>
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P037.jpg">[ 37 ]</a></p>
+<p><span class="add">(</span>Entre un groupe de
+   trois femmes; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si
+   on les suit... A demi rassurées, elles<span class="delete"></span> déposent leur baluchon.<span class="add">)</span></p>
+- {:.speaker} **1ère jeune fille.**
+
+- {:.indent-2} Mes dents claquent.
+
+- {:.speaker} **2e jeune fille.**
+
+
+<p class="prose" style="text-indent:2rem">Ah. quelle fatigue... Nous sommes trempées... Il y a de la
+   brume sur la montagne... Mes os suintent de froid et de peur.
+</p>
+
+- {:.speaker} **La mère.**
+
+
+<p class="prose" style="text-indent:2rem">Courage mes <span class="delete">pauvres</span> enfants...
+   Courage... C’est dur tout de même. ... Courir...courir... et se
+   cacher dans les cannes en flèches... et puis courir encore...
+   . mes jambes...
+</p>
+
+<p><span class="add">(</span>Les femmes ont
+   disparu; même décor. Une houe écorne la scène. Des houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [e] </span></span><span class="add">s</span> qui labourent au crépuscule.<span class="add">)</span></p>- {:.speaker} **Ier esclave** (chantant)
+
+- {:.indent-2} Hé, mes amis, ho.
+- {:.speaker} **2e esclave** (chantant)
+
+- {:.indent-2} Hé, mes amis, ho.
+- {:.speaker} **Ier esclave** (chantant)
+
+- {:.indent-2} La terre est une fatigue; ma fatigue va la fatiguer.
+- {:.speaker} **2e esclave** (chantant)
+
+- {:.indent-2} Le soleil est une fatigue; ma fatigue va l<span class="delete"><span class="unclear"> [e] </span></span><span class="add">a</span> fatiguer.
+- {:.speaker} **3e esclave** (chantant)
+
+- {:.indent-2} La pluie est une fatigue; ma fatigue va la fatiguer.
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P038.jpg">[ 38 ]</a></p>
+- {:.speaker} **Ier esclave.**
+
+- {:.indent-2}  Hé, mes amis, ho.
+
+- {:.speaker} ** esclave.**
+
+- {:.indent-2} Ma fatigue est un gouffre; aucun sommeil ne saurait le
+combler.
+
+- {:.speaker} **3e esclave.**
+
+- {:.indent-2} Ma fatigue est une soif, ho, aucune boisson ne saurait
+l’apaiser.
+
+- {:.speaker} **Choeur des esclaves.**
+
+- {:.indent-2} Hé, ho. Ho, mes amis, ho
+- Ma fatigue est un tombereau de sable insonore
+- aux quatre coins de<span class="add">s</span> moissons
+pétrifiées.
+- {:.speaker} **Le récitant**  (lugubre.)
+
+
+<p class="prose" style="text-indent:2rem">Saint-Domingue fond comme un noyé dans l’acide des gorges
+   de la Révolution.
+</p>
+
+- {:.speaker} **La récitante.**
+
+- {:.indent-2} La mort pleure tout doucement dans le cou de la
+nuit...
+
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">3000 flamboyants s’effrènent au néant de la nuit, à
+   l’oubli de  <span class="delete">la nuit.</span> la nuit.
+</p>
+
+<p><span class="add">(</span>Coups de feu...<span class="add">)</span></p>- {:.speaker} **Le récitant.** (fébrile)
+
+- {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les
+esclaves...
+- Sonthonax ouvre les portes du Cap à <span class="delete">Pienot</span><span class="add below">Pierrot</span> et à Macaya...
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P039.jpg">[ 39 ]</a></p>- {:.speaker} **La récitante**  (dolente)
+
+
+<p class="prose" style="text-indent:2rem">300.000 hommes, tribart brisé, se précipitent dans la
+   ville et poussent des hurlements clabauds... Le port est couvert de
+   blancs qui cherchent à gagner les bâtiments en râde... Ah, les
+   chaloupes chavirent...
+</p>
+ 
+<p><span class="delete">( A mesure qu’elle parle,
+      tout cela se dessine sur l’écran.)</span></p> - {:.speaker} **Le récitant**  (féroce)
+
+- {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">Le tam-tam halète; le tam-tam éructe... le tam-tam <span class="delete">de feu</span> crache des sauterelles <span class="delete">de</span><span class="add above">de feu et de</span> sang.
+</p>
+
+- {:.speaker} **Le récitant.**
+
+- {:.indent-2} Le feu défonce la nuit de ses épis canaques...
+
+- {:.speaker} **La récitante.**
+
+
+<p class="prose" style="text-indent:2rem">... le feu accroche ses fanes rapaces aux toits fascinés
+   des maisons...
+</p>
+
+- {:.speaker} **Le récitant.**
+
+
+<p class="prose" style="text-indent:2rem">... La ville s’effondre sur ses jarrets... Dans le vertige
+   lent du viol...parmi les chatouilles d’un lit de fumées et de
+   cris...
+</p>
+
+- {:.speaker} **Le chœur.**
+
+- {:.indent-2} Mort aux blancs. Mort aux blancs.
+
+<hr>
+<p><a target="_blank" href="/data/sdw-data/P040.jpg">[ 40 ]</a></p>
+<p>(Cris discordants... Le silence tombe tout à coup lourd et
+   humide, le silence de la Caraïbe. Subitement un navire envahit tout le
+    champ de vision, en perdition; et dans la chair de la mer phosphorescente, une inscription explose, sanglante,
+   reflétée par les écueils.) <span class="add below">: République
+      d’Haïti.</span></p>- {:.speaker} **Le chœur**  (enthousiaste)
+
+- {:.indent-2} 
+
+<p>(Le récitant et la récitante se rapprochent à
+   tatons sur le devant de la scène.)
+</p>- {:.speaker} **Le récitant**  (pleurant)
+
+- Froid coeur de la mort, la lagune a dégainé son <span class="add above">rire de</span> poignard.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P002.jpg">[ 2 ]</a></p>
@@ -727,8 +1483,7 @@ cauchemar.
 
 - {:.speaker} **Toussaint.**
 
-- {:.indent-2} Vive la vengeance. <span class="add">Vive la
-   liberté.</span>
+- {:.indent-2} Vive la vengeance. <span class="add">Vive la liberté.</span>
 - {:.prose} Les montagnes trembleront comme une dent prise au davier, les
 étoiles écraseront contre terre leur front de femme enceinte...
 

@@ -16,7 +16,6 @@
     <xsl:template match="tei:orig"/>
     
     <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
-    <xsl:template match="tei:div[@type='act']/tei:div[@type='page']"/>
     
     
     <!-- HTML wrapper | document element -->
@@ -31,21 +30,26 @@
         (draft)
 
         </xsl:text>
-        <xsl:apply-templates/>        
+        <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt; 22 and position() &lt;= 40]"/>
+        <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt; 1 and position() &lt;= 22]"/>
     </xsl:template>
     
     <!-- #################################### -->
     <!-- ############### TEXT ############### -->
     <!-- #################################### -->
+
     
     <!-- pages -->
+    <xsl:template match="tei:div[@type='page' and position() = 1]"/>
+    <xsl:template match="tei:div[@type='page' and position() &gt;= 1]"/>
     
-    <xsl:template match="tei:div[@type='act' and position() = 1]/tei:div[@type='page' and position() &lt;= 22]">
+    <xsl:template match="tei:div[@type='page']">
         
         <hr/>
         <xsl:apply-templates/>
         
     </xsl:template>
+
     
     <!-- page numbers -->
     <xsl:template match="tei:fw">
