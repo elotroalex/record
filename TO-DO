@@ -11,3 +11,20 @@ _x_ Fix Nebula to align with new figure p
 [The chapter is ready for review. I invite willing readers to refine me by fire. To leave your critique, review, corrections, commentary you can use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line by email at colibri dot alex &#9671; gmail.]
 
 In classical textual scholarship they are quilting points that bridge conjecture to emendation, in the digital avatar, they are sites of. 
+
+and the exception in turn proves that the transformation rules of a textual scholar find their bases in the *κατʼ αἴσθησιν* of Posidonius (via Quintillius).
+
+In most of these cases, the rules take on the role of an editor in search of patterns to normalize and render, but in one case the rule addresses a unique occurrence, an exception. On `P2.9` (8), at the top, the characters "Crép" are overtyped with the letter x to make way for a parentheses. The whole didascalia is eventually erase. Because I'm reducing additions and deletions and normalizing some features, a monstruous decision in some quarters, I wanted to remove the double deletion. Instead of quickly editing the text at the tail end of the algorithmic transformation, I created a rule to deal with just this one case. Staying true to form, rather than simply finding and replacing the sequence "Crép", I made the rule in such a way that imagines the exception from a bibliographic point of view:
+
+~~~         
+<xsl:template match="tei:del[@rend='overprint']">
+  <xsl:choose>
+    <xsl:when test="@seq='1'"><span class="delete"><xsl:value-of select="normalize-space(text())"/></span>&#160;</xsl:when>
+    <xsl:otherwise/>
+  </xsl:choose>
+</xsl:template>
+~~~
+
+This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose[^b16] from the empirical exception, *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustand*, human-machine labor relations, the role of the humanities, etc... but I digress. The immediate point of the exercise is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce the speculative stage.
+
+[^b16]: I point here, not without a grin, to Peter Suber's game [Nomic](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set), where the game includes rules for changing rules in medias res.

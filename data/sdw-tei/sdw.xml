@@ -872,8 +872,8 @@
                     </fw>
 
                     <stage type="setting">
-                        <del rend="overprint">Crép </del>
-                        <del hand="#l_p" status="partial">(Crépitement de tam-tam. Une petite fille
+                        <del rend="overprint" seq="1">Crép </del>
+                        <del hand="#l_p" seq="2" status="partial">(Crépitement de tam-tam. Une petite fille
                             du Fouta ronge un os en</del><lb/><del>forme de candélabre.)</del>
                     </stage>
                     <!-- <note>Two shades of lead pencil can be identified here. The darker shade erases

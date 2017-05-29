@@ -216,8 +216,16 @@
     <!-- deletions -->
     
     <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
-    <xsl:template match="tei:del[@rend='overprint']"/>
-    
+    <xsl:template match="tei:del[@rend='overprint']">
+        <xsl:choose>
+            <xsl:when test="substring(text(),1,3) = substring(following-sibling::*[1]/text(),2,3) and text()[not(starts-with(., '('))] and following-sibling::*[1][starts-with(., '(')]">
+                <span class="delete"><xsl:apply-templates/></span>
+            </xsl:when>
+            <xsl:otherwise/>
+            
+        </xsl:choose>
+    </xsl:template>
+   
     <xsl:template match="tei:del">
         <xsl:choose>
             

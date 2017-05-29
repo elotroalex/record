@@ -1178,7 +1178,7 @@ une fleur au coeur de papillon.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P008.jpg">[ 8 ]</a></p>
-<p><span class="delete">(Crépitement de tam-tam. Une petite fille
+<p><span class="delete">Crép </span><span class="delete">(Crépitement de tam-tam. Une petite fille
       du Fouta ronge un os en</span> <span class="delete">forme de candélabre.)</span></p>
 
 - {:.speaker} <span class="delete"><span class="underlined">Toussaint</span>.</span>
