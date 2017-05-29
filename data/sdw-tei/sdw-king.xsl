@@ -40,8 +40,7 @@
 
     
     <!-- pages -->
-    <xsl:template match="tei:div[@type='page' and position() = 1]"/>
-    <xsl:template match="tei:div[@type='page' and position() &gt;= 1]"/>
+
     
     <xsl:template match="tei:div[@type='page']">
         
@@ -68,7 +67,7 @@
     
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type='delivery']]]">
         <xsl:text>
-            - {:.speaker} **</xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text>** </xsl:text>
+            - {:.speaker} </xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text> </xsl:text>
         <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
         <xsl:text>
             
@@ -91,7 +90,7 @@
         <xsl:text>
             
        </xsl:text>
-        <xsl:text>- {:.speaker} **</xsl:text><xsl:apply-templates/><xsl:text>**</xsl:text>      
+        <xsl:text>- {:.speaker} </xsl:text><xsl:apply-templates/><xsl:text></xsl:text>      
         <xsl:text>
            
        </xsl:text>
@@ -152,9 +151,7 @@
         <xsl:text>- {:.indent-2} </xsl:text><xsl:apply-templates/>
         <xsl:text>
        </xsl:text>       
-    </xsl:template>
-    
-    
+    </xsl:template>   
     
     <xsl:template match="tei:lb">
         <xsl:text> </xsl:text>
@@ -174,9 +171,8 @@
     <!-- ## Transcription and decorative elements ## -->
     <!-- ########################################### -->
     
-    <!-- add -->
+    <!-- additions -->
     
-<!--    <xsl:template match="tei:add[@seq='1']"/> -->   
     <xsl:template match="tei:add[@type='substantial']">
         <span class="add">
             <xsl:apply-templates/>
@@ -215,23 +211,23 @@
                 </span>
             </xsl:otherwise>
         </xsl:choose>
-    </xsl:template>
+    </xsl:template>    
     
+    <!-- deletions -->
     
-    <!-- del -->
     <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
     <xsl:template match="tei:del[@rend='overprint']"/>
     
     <xsl:template match="tei:del">
         <xsl:choose>
             
-            <!-- double-check -->
+        <!-- double-check -->
             <xsl:when test="self::tei:del[@seq='2']">
                 <span class="delete">
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
-            <!-- -->
+         <!-- end double-check -->
             
             <xsl:otherwise>
                 <span class="delete">
@@ -241,13 +237,18 @@
         </xsl:choose>
     </xsl:template>
     
+    <!-- random underscored elements -->
+    <xsl:template match="tei:hi[@rend = 'underlined']">
+        <span class="underlined">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>  
     
     
     <!-- unclear -->
-    <xsl:template match="tei:unclear">
-        <span class="unclear"> [<xsl:apply-templates/>] </span>
+    <xsl:template match="tei:unclear[@confidence &lt; 0.5]">
+        <span class="unclear"> [?<xsl:apply-templates/>] </span>
     </xsl:template>
-    
     <xsl:template match="tei:unclear[@confidence &gt;= 0.5]">
         <span class="unclear"><xsl:apply-templates/></span>
     </xsl:template>
