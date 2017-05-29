@@ -67,7 +67,8 @@
     <!-- speaker + delivery -->
     
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type='delivery']]]">
-        <xsl:text>- {:.speaker} **</xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text>** </xsl:text>
+        <xsl:text>
+            - {:.speaker} **</xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text>** </xsl:text>
         <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
         <xsl:text>
             
@@ -88,6 +89,7 @@
     <!-- speaker -->
     <xsl:template match="tei:speaker">
         <xsl:text>
+            
        </xsl:text>
         <xsl:text>- {:.speaker} **</xsl:text><xsl:apply-templates/><xsl:text>**</xsl:text>      
         <xsl:text>

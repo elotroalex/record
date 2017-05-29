@@ -13,6 +13,7 @@ author: alex gil
    coloniale style 18e siècle, des jeunes filles blanches en train de
    jouer. Entrent le chœur, le récitant, la récitante.)
 </p>
+
 - {:.speaker} **La récitante.**
 
 
@@ -20,24 +21,30 @@ author: alex gil
    jouer, les orbites de la mort poussent des yeux fulgurants à travers
    le mica blême.
 </p>
+
 - {:.speaker} **1re jeune fille** (sérieuse)
 
 - {:.indent-2} C’est une devinette?
 
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} C’est la saison des étoiles  qui commence.
+
 - {:.speaker} **2ème jeune fille**  (riant)
 
 - {:.indent-2} Ah. C’est un co<span class="add">n</span>te
+
 - {:.speaker} **Le chœur**  (menaçant)
 
 
 <p class="prose" style="text-indent:2rem">Saint-Domingue raidit ses pattes d’araignée venimeuse  sur la gadoue des <span class="delete"><span class="unclear">banacones.</span></span><span class="add"> barracouns.</span></p>
 
+
 - {:.speaker} **3ème jeune fille.**
 
 - {:.indent-2} Hou; hou.
+
 
 - {:.speaker} **4ème jeune fille.**
 
@@ -48,6 +55,7 @@ author: alex gil
 <p class="prose" style="text-indent:2rem">Mes enfants... rentrez... rentrez vite... j’ai
    peur.
 </p>
+
 
 - {:.speaker} **Le récitant.**
 
@@ -64,13 +72,16 @@ author: alex gil
 <p><a target="_blank" href="/data/sdw-data/P024.jpg">[ 24 ]</a></p>
 <p><span class="add">(</span>Le
    récitant et la récitante feignent de poser par terre une ci<span class="delete">v</span>‐ vière; le chœur de creuser une fosse. <span class="delete">Le</span><span class="add">Un</span> cadavre imaginaire est déposé au fond de la fosse. C’est une
-   scène de magie imitative.<span class="add">)</span></p>- {:.speaker} **Le récitant** (recueilli).
+   scène de magie imitative.<span class="add">)</span></p>
+- {:.speaker} **Le récitant** (recueilli).
 
 - {:.indent-2} Adieu, Saint- Domingue.
+
 
 - {:.speaker} **La récitante.**
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
+
 - {:.speaker} **Le chœur**  (haineux )
 
 
@@ -83,6 +94,7 @@ author: alex gil
    discordants; puis le tapage s’apaise peu à  la lumiè<span class="add">‐</span> re revient, le décor a
    changé: le camp des nègres au milieu d’une forêt. Chefs nègres et
    députés blancs en conférence.<span class="add">)</span></p>
+
 - {:.speaker} **Ier député.**
 
 
@@ -97,6 +109,7 @@ author: alex gil
    nos  coloniales...
 </p>
 
+
 - {:.speaker} **<span class="delete">2e député.</span>**
 
 
@@ -105,7 +118,8 @@ author: alex gil
       et pour <span class="add below">les chefs</span> tous la</span> <span class="delete">liberté.</span></p>
 
 <hr>
-<p><a target="_blank" href="/data/sdw-data/P025.jpg">[ 25 ]</a></p>- {:.speaker} **Toussaint** <span class="delete"><span class="unclear"> (l'arrêtant.)</span></span>
+<p><a target="_blank" href="/data/sdw-data/P025.jpg">[ 25 ]</a></p>
+- {:.speaker} **Toussaint** <span class="delete"><span class="unclear"> (l'arrêtant.)</span></span>
 
 
 <p class="prose" style="text-indent:2rem"><span class="add">C’est bien</span><span class="delete">Arrière Dessalines. Je suis seul chef ici, et ces hommes
@@ -115,6 +129,7 @@ author: alex gil
 
 <p><span class="add">(</span>Rassemblement.
    Bruit de tam-tam.<span class="add">)</span></p>
+
 - {:.speaker} **Récitant.**
 
 - {:.prose} Un écroulement hostile de tour, de montagne, de phare achève d’hésiter aux confins du déclic
@@ -123,6 +138,7 @@ author: alex gil
 - Déja le silence empoisonne chaque fibre
 - Des gestes hiéroglyphes avalés à moitié signalent
 - Les jachères et les semis de cadavres.
+
 
 - {:.speaker} **La récitante.**
 
@@ -140,6 +156,7 @@ varechs
 <p><span class="add">(</span>La scène est
    envahie par la foule <span class="add above">des insurgés</span>:
    masse d’hommes et de femmes armés de coutelas.<span class="add">)</span></p>
+
 - {:.speaker} **Toussaint.**
 
 
@@ -147,10 +164,12 @@ varechs
    Voulez-vous les entendre?
 </p>
 
+
 - {:.speaker} **Des voix**
 
 - {:.indent-2} Oui, oui<span class="add">,</span> qu’ils
 parlent.
+
 
 - {:.speaker} **Ier député.**
 
@@ -159,18 +178,22 @@ parlent.
    guerre, vos enfants ont faim.
 </p>
 
+
 - {:.speaker} **Des voix.**
 
 - {:.indent-2} Oui, oui, c’est vrai.
+
 
 - {:.speaker} **Ier député.**
 
 - {:.indent-2} Vos femmes sont lasses
 d’une vie incertaine et vagabonde.
 
+
 - {:.speaker} **Des voix féminines.**
 
 - {:.indent-2} Oui, oui; après?
+
 
 - {:.speaker} **Ier député.**
 
@@ -189,6 +212,7 @@ d’une vie incertaine et vagabonde.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P027.jpg">[ 27 ]</a></p>
+
 - {:.speaker} **Toussaint.**
 
 
@@ -198,9 +222,11 @@ d’une vie incertaine et vagabonde.
    venus nous demander de vous trahir.
 </p>
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Mort aux blancs. Mort aux blancs.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -210,14 +236,17 @@ d’une vie incertaine et vagabonde.
    s’engraisser du sang et des larmes de l’homme noir.
 </p>
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} A mort. Tue. Tue.
 
 <p>(La foule se resserre comme une machoire.)</p>
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} Ici commence le baptème du sang.
+
 
 - {:.speaker} **La récitante.**
 
@@ -225,6 +254,7 @@ d’une vie incertaine et vagabonde.
 <p class="prose" style="text-indent:2rem">Ici commence le repas de vengeance. Ici se noue la
    solidarité du sang. Ici s’opère la grande communion guerrière.
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -239,6 +269,7 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
 <p>( Les guerriers défilent devant les cadavres en
    brandissant des coutelas.)
 </p>
+
 - {:.speaker} **Toussaint.**
 
 
@@ -248,13 +279,16 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    d’autres viscères la peur terreuse?
 </p>
 
+
 - {:.speaker} **Des voix.**
 
 - {:.indent-2} Nous-mêmes, nous tous.
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Nous-mêmes, nous tous.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -268,6 +302,7 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
 </p>
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P029.jpg">[ 29 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 
@@ -276,6 +311,7 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    s’abattent dans le moulinet de
    l’exaspération.
 </p>
+
 
 - {:.speaker} **La récitante.**
 
@@ -287,6 +323,7 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    mouches.
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 
@@ -294,17 +331,21 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    pied des arbres à pain .
 </p>
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} Le ravin bourgeonne de cadavres
+
 
 - {:.speaker} **Demi-chœur.**
 
 - {:.indent-2} Ils nous<span class="add">&nbsp;</span>coupaient les jarrets.
 
+
 - {:.speaker} **Demi-chœur.**
 
 - {:.indent-2} Iles nous<span class="add">&nbsp;</span>marquaient <span class="delete">de</span><span class="add above">au</span> fer rouge.
+
 
 - {:.speaker} **Le chœur.**
 
@@ -317,12 +358,14 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    sobriquet.
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 
 <p class="prose" style="text-indent:2rem">Le vent s’est levé, les savanes se fendent <span class="delete">d'</span><span class="add">dans</span> une gloire de panaches folles...
    J’entends des cris d’enfants...dans la maison du maitre.
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -335,10 +378,12 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P030.jpg">[ 30 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} Au nom de tous les désirs effrités en la mare de vos
 âmes<span class="add">,</span>
+
 
 - {:.speaker} **La récitante.**
 
@@ -348,11 +393,13 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    matador.
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 
 <p class="prose" style="text-indent:2rem">Je chante le geste salé du harponneur et la baleine a
    soufflé pour la dernière fois.<span class="add">..</span></p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -367,13 +414,16 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
 <p><a target="_blank" href="/data/sdw-data/P031.jpg">[ 31 ]</a></p>
 <p><span class="add">(</span>Au Cap. A
    l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span></p>
+
 - {:.speaker} **Ier député.**
 
 - {:.indent-2} Vous êtes un indépendant, Monsieur.
 
+
 - {:.speaker} **2e député.**
 
 - {:.indent-2} Et vous un pompon blanc.
+
 
 - {:.speaker} **Ier député.**
 
@@ -382,10 +432,12 @@ toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> on
    les traitres.
 </p>
 
+
 - {:.speaker} **2e député.**
 
 - {:.indent-2} Et moi, Monsieur, celle qui attend les suppôts de la
 tyrannie.
+
 
 - {:.speaker} **Le gouverneur.**
 
@@ -398,17 +450,21 @@ tyrannie.
     deux planches.
 </p>
 
+
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} Mort aux philantropes.
+
 
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} A bas les négroph<span class="delete">ob</span><span class="add">il</span>es.
 
+
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} Mort à l’abbé Grégoire.
+
 
 - {:.speaker} **Le gouverneur.**
 
@@ -421,27 +477,33 @@ tyrannie.
    s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
 </p>
 
+
 - {:.speaker} **<span class="delete">Une voix.</span>**
 
 - 
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P032.jpg">[ 32 ]</a></p>
+
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} Pas d’armes pour les complices des nègres.
+
 
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} Pas de quartier pour les espions.
 
+
 - {:.speaker} **Une voix.**
 
 - {:.indent-2} Laissez parler monsieur le Gouverneur.
 
+
 - {:.speaker} **4è voix.**
 
 - {:.indent-2} Mettons à prix la tête de Toussaint et de Boukmann.
+
 
 - {:.speaker} **I député.**
 
@@ -451,6 +513,7 @@ tyrannie.
    ses décrets insensés, nous a menés o<span class="add">ù</span> nous en sommes: à la ruine.
 </p>
 
+
 - {:.speaker} **I député.**
 
 
@@ -458,6 +521,7 @@ tyrannie.
    permanence<span class="add">,</span> cinq potences et deux échafauds pour le
    supplice de la roue.
 </p>
+
 
 - {:.speaker} **Le gouverneur.**
 
@@ -478,8 +542,9 @@ tyrannie.
 <p><a target="_blank" href="/data/sdw-data/P033.jpg">[ 33 ]</a></p>
 <p>(<span class="add">une rue. la nuit. des groupes passent</span>)
 </p>
+
 - {:.speaker} **<span class="add">1er groupe :</span> Une
-voix. **
+voix.**
 
 
 <p class="prose" style="text-indent:2rem">Vous avez raison, mon ami, vous avez raiso<span class="add">n,</span> C’est avec de la mauvaise politique que l’on perd les colonies.
@@ -492,6 +557,7 @@ voix. **
       se perd dans la nuit.)
    </p>
 </p>
+
 
 - {:.speaker} **<span class="add">2e
    groupe : </span><span class="delete">2e</span><span class="add above">une</span> voix.**
@@ -516,9 +582,11 @@ voix. **
    une séance sinistre et bouffonne pleine d’emphase et de
    cruauté.)
 </p>
+
 - {:.speaker} **Le speaker**
 
 - Silence, Messieurs, silence.
+
 
 - {:.speaker} **<span class="add">1</span>er énergumène.**
 
@@ -529,6 +597,7 @@ voix. **
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P034.jpg">[ 34 ]</a></p>
+
 - {:.speaker} **2e énergumène.**
 
 
@@ -537,9 +606,11 @@ voix. **
    Thecel Pharès de la tyrannie.
 </p>
 
+
 - {:.speaker} **Le speaker.**
 
 - {:.indent-2} La séance est ouverte , Messieurs.
+
 
 - {:.speaker} **3e énergumène.**
 
@@ -553,16 +624,20 @@ voix. **
    la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au
    bout une tête coupée; la tête du gouverneur.)
 </p>
+
 - {:.speaker} **Porte-drapeau.**
 
 - {:.indent-2} Debout, camarades, voilà le gouverneur.
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Mort aux blancs, mort aux blancs.
+
 - {:.speaker} **Le speaker** (soufletant la tête coupée)
 
 - {:.indent-2} La parole est à Monsieur le Gouverneur.
+
 - {:.speaker} **Le porte-drapeau** (d'une voix nasillarde)
 
 
@@ -576,6 +651,7 @@ voix. **
 <p>(Applaudissements. Des rires.)</p> 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P035.jpg">[ 35 ]</a></p>
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} A mort; à mort.
@@ -583,17 +659,20 @@ voix. **
 <p>(Une hystérie collective. Une odeur de sang monte. Le speaker
    danse la bamboula sur l’estrade.)
 </p>
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} A la Matinique, Matinique, Matinique
 - {:.indent-2} C’est çà qui chic, C’est çà qui chic
 - {:.indent-2} A la Matinique, Matinique, Matinique
 
+
 - {:.speaker} **Le speaker:**
 
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 
 <p>(Le silence tombe raide, funèbre.)</p>
+
 - {:.speaker} **Le récitant.**
 
 
@@ -607,6 +686,7 @@ voix. **
    coutelas et de l’alcool mauvais...
 </p>
 
+
 - {:.speaker} **Le chœur.**
 
 - {:.indent-2} En ma main noire et rouge s’époumonne une aurore de sureau
@@ -614,16 +694,20 @@ blanc
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P036.jpg">[ 36 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} Au commencement, il n’y avait rien...
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} Pardon, camarade, au commencement il y avait la nuit.
+
 - {:.speaker} **Le récitant** (docile)
 
 - {:.indent-2} Camarade, au commencement il y avait la nuit...
+
 
 - {:.speaker} **La récitante.**
 
@@ -639,7 +723,8 @@ blanc
 - {:.indent-2} A la fin, il y a, à la
 fin...
  
-<p>(Elle se bouche les yeux.)</p>- {:.speaker} **Le récitant.** (d’une voix cinglante.)
+<p>(Elle se bouche les yeux.)</p>
+- {:.speaker} **Le récitant.** (d’une voix cinglante.)
 
 
 <p class="prose" style="text-indent:2rem">A la fin, je m’en vais vous dire, moi, ce que je
@@ -656,9 +741,11 @@ fin...
 <p><span class="add">(</span>Entre un groupe de
    trois femmes; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si
    on les suit... A demi rassurées, elles<span class="delete"></span> déposent leur baluchon.<span class="add">)</span></p>
+
 - {:.speaker} **1ère jeune fille.**
 
 - {:.indent-2} Mes dents claquent.
+
 
 - {:.speaker} **2e jeune fille.**
 
@@ -666,6 +753,7 @@ fin...
 <p class="prose" style="text-indent:2rem">Ah. quelle fatigue... Nous sommes trempées... Il y a de la
    brume sur la montagne... Mes os suintent de froid et de peur.
 </p>
+
 
 - {:.speaker} **La mère.**
 
@@ -677,37 +765,46 @@ fin...
 </p>
 
 <p><span class="add">(</span>Les femmes ont
-   disparu; même décor. Une houe écorne la scène. Des houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [e] </span></span><span class="add">s</span> qui labourent au crépuscule.<span class="add">)</span></p>- {:.speaker} **Ier esclave** (chantant)
+   disparu; même décor. Une houe écorne la scène. Des houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [e] </span></span><span class="add">s</span> qui labourent au crépuscule.<span class="add">)</span></p>
+- {:.speaker} **Ier esclave** (chantant)
 
 - {:.indent-2} Hé, mes amis, ho.
-- {:.speaker} **2e esclave** (chantant)
+
+- {:.speaker} **2è esclave** (chantant)
 
 - {:.indent-2} Hé, mes amis, ho.
+
 - {:.speaker} **Ier esclave** (chantant)
 
 - {:.indent-2} La terre est une fatigue; ma fatigue va la fatiguer.
+
 - {:.speaker} **2e esclave** (chantant)
 
 - {:.indent-2} Le soleil est une fatigue; ma fatigue va l<span class="delete"><span class="unclear"> [e] </span></span><span class="add">a</span> fatiguer.
+
 - {:.speaker} **3e esclave** (chantant)
 
 - {:.indent-2} La pluie est une fatigue; ma fatigue va la fatiguer.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P038.jpg">[ 38 ]</a></p>
+
 - {:.speaker} **Ier esclave.**
 
 - {:.indent-2}  Hé, mes amis, ho.
 
-- {:.speaker} ** esclave.**
+
+- {:.speaker} **2e esclave.**
 
 - {:.indent-2} Ma fatigue est un gouffre; aucun sommeil ne saurait le
 combler.
+
 
 - {:.speaker} **3e esclave.**
 
 - {:.indent-2} Ma fatigue est une soif, ho, aucune boisson ne saurait
 l’apaiser.
+
 
 - {:.speaker} **Choeur des esclaves.**
 
@@ -715,6 +812,7 @@ l’apaiser.
 - Ma fatigue est un tombereau de sable insonore
 - aux quatre coins de<span class="add">s</span> moissons
 pétrifiées.
+
 - {:.speaker} **Le récitant**  (lugubre.)
 
 
@@ -722,10 +820,12 @@ pétrifiées.
    de la Révolution.
 </p>
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} La mort pleure tout doucement dans le cou de la
 nuit...
+
 
 - {:.speaker} **Le récitant.**
 
@@ -734,14 +834,16 @@ nuit...
    l’oubli de  <span class="delete">la nuit.</span> la nuit.
 </p>
 
-<p><span class="add">(</span>Coups de feu...<span class="add">)</span></p>- {:.speaker} **Le récitant.** (fébrile)
+<p><span class="add">(</span>Coups de feu...<span class="add">)</span></p>
+- {:.speaker} **Le récitant.** (fébrile)
 
 - {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les
 esclaves...
 - Sonthonax ouvre les portes du Cap à <span class="delete">Pienot</span><span class="add below">Pierrot</span> et à Macaya...
 
 <hr>
-<p><a target="_blank" href="/data/sdw-data/P039.jpg">[ 39 ]</a></p>- {:.speaker} **La récitante**  (dolente)
+<p><a target="_blank" href="/data/sdw-data/P039.jpg">[ 39 ]</a></p>
+- {:.speaker} **La récitante**  (dolente)
 
 
 <p class="prose" style="text-indent:2rem">300.000 hommes, tribart brisé, se précipitent dans la
@@ -751,9 +853,11 @@ esclaves...
 </p>
  
 <p><span class="delete">( A mesure qu’elle parle,
-      tout cela se dessine sur l’écran.)</span></p> - {:.speaker} **Le récitant**  (féroce)
+      tout cela se dessine sur l’écran.)</span></p> 
+- {:.speaker} **Le récitant**  (féroce)
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
+
 
 - {:.speaker} **La récitante.**
 
@@ -761,9 +865,11 @@ esclaves...
 <p class="prose" style="text-indent:2rem">Le tam-tam halète; le tam-tam éructe... le tam-tam <span class="delete">de feu</span> crache des sauterelles <span class="delete">de</span><span class="add above">de feu et de</span> sang.
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} Le feu défonce la nuit de ses épis canaques...
+
 
 - {:.speaker} **La récitante.**
 
@@ -772,6 +878,7 @@ esclaves...
    des maisons...
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 
@@ -779,6 +886,7 @@ esclaves...
    lent du viol...parmi les chatouilles d’un lit de fumées et de
    cris...
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -790,18 +898,21 @@ esclaves...
    humide, le silence de la Caraïbe. Subitement un navire envahit tout le
     champ de vision, en perdition; et dans la chair de la mer phosphorescente, une inscription explose, sanglante,
    reflétée par les écueils.) <span class="add below">: République
-      d’Haïti.</span></p>- {:.speaker} **Le chœur**  (enthousiaste)
+      d’Haïti.</span></p>
+- {:.speaker} **Le chœur**  (enthousiaste)
 
 - {:.indent-2} 
 
 <p>(Le récitant et la récitante se rapprochent à
    tatons sur le devant de la scène.)
-</p>- {:.speaker} **Le récitant**  (pleurant)
+</p>
+- {:.speaker} **Le récitant**  (pleurant)
 
 - Froid coeur de la mort, la lagune a dégainé son <span class="add above">rire de</span> poignard.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P002.jpg">[ 2 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 
@@ -810,6 +921,7 @@ esclaves...
    L’insomnie à toute épreuve grandit comme une désobéissance le long
    des tempes libres de la femme à l’emphore, verseau<span class="add">,</span> verseau tempête de germes, bouilloire.
 </p>
+
 
 - {:.speaker} **Toussaint.**
 
@@ -827,6 +939,7 @@ esclaves...
 - mes rivières pendent à mon cou comme
 - des serpents et des chaines précieuses.
 
+
 - {:.speaker} **<span class="delete">Le chœur.</span>**
 
 
@@ -836,6 +949,7 @@ esclaves...
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P003.jpg">[ 3 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 
@@ -844,12 +958,14 @@ esclaves...
    Toussaint est lunée de cicatrices...
 </p>
 
+
 - {:.speaker} **Le chœur.**
 
 
 <p class="prose" style="text-indent:2rem">Saint-Marc cède... la fière... ses murailles s’écroulent
    ... nos chevaux hument l’air m<span class="add">ê</span>lé de poudre et de tambour.
 </p>
+
 
 - {:.speaker} **La récitante.**
 
@@ -859,6 +975,7 @@ esclaves...
    promesses ... le serpent siffle ... siffle ... Il tient Toussaint au
    bout de sa langue...
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -877,6 +994,7 @@ esclaves...
 </p> 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P004.jpg">[ 4 ]</a></p>
+
 - {:.speaker} **<span class="add">1ère
    </span><span class="delete">Une </span>voix tentatrice.**
 
@@ -893,12 +1011,14 @@ mille insectes triomphants
 galets
 - de jaspe et d’ecbatane...
 
+
 - {:.speaker} **Toussaint.**
 
 
 <p class="prose" style="text-indent:2rem">Quelle est la cachée qui me traverse d’or et d’argent et
    m’assiège de dangers, de caresses inconnues?
 </p>
+
 
 - {:.speaker} **Le récitant.**
 
@@ -907,12 +1027,14 @@ galets
    un être royal sommeillant sur un lit étroit.
 </p>
 
+
 - {:.speaker} **Toussaint.**
 
 
 <p class="prose" style="text-indent:2rem"><span class="add">J</span>e dis que la
    République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 </p>
+
 
 - {:.speaker} **<span class="add">2e </span><span class="delete"><span class="unclear">1re</span></span> voix tentatrice.**
 
@@ -924,12 +1046,14 @@ galets
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P005.jpg">[ 5 ]</a></p>
+
 - {:.speaker} **Toussaint.**
 
 - Je tire un pied
 - Oh. Je tire l’autre &nbsp;pied
 - laissez-moi sans m’insulter de promesses<span class="add">,</span> me dégluer
 - de la charogne et de la boue.
+
 
 - {:.speaker} **<span class="add">3ème</span><span class="delete">2e</span> voix tentatrice.**
 
@@ -940,6 +1064,7 @@ galets
    mépris enfin, une violence... Et voilà tes veines charrient de l’or,
    non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 </p>
+
 
 - {:.speaker} **Toussaint.**
 
@@ -960,6 +1085,7 @@ galets
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P006.jpg">[ 6 ]</a></p>
+
 - {:.speaker} **<span class="delete">Toussaint.</span>**
 
 - J’ai été esclave pendant 50 ans
@@ -975,12 +1101,14 @@ galets
 - plus violente qu’un coeur, plus brutale qu’un pur sang
 - ô Liberté.
 
+
 - {:.speaker} **Le chœur.**
 
 - Bornou &nbsp;Sokoto, Bénin et Dahomey Sikasso
 - Sikasso
 - je sonne le rassemblement: ciels et seins, bruines
 - et perles, semailles, clefs d’or.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -992,10 +1120,12 @@ galets
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P007.jpg">[ 7 ]</a></p>
+
 - {:.speaker} **Le chœur.**
 
 - {:.indent-2} Tu n’échapperas pas à ta loi<span class="delete"> qui est une
    loi de domination</span>.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1004,11 +1134,13 @@ galets
    m’incendie de <span class="add above">mon </span><span class="delete">prisme </span><span class="add margin">&nbsp;|&nbsp;propre&nbsp;|&nbsp;</span> <span class="add margin">&nbsp;|&nbsp;don&nbsp;|&nbsp;</span><span class="delete">d'or</span> amalgamé.
 </p>
 
+
 - {:.speaker} **Le chœur.**
 
 - {:.indent-2} <span class="delete">Goût des ruines;
    baisers; </span><span class="add above">funèbre</span> la lune décroit, le roi se
 cache.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1016,13 +1148,16 @@ cache.
 <p class="prose" style="text-indent:2rem">Je ne veux pas être le grain de parfum o<span class="add">ù</span> se résume et se fète l’innombrable sacrifice des roses désarmées.
 </p>
 
+
 - {:.speaker} **Le récitant.**
 
 - {:.indent-2} Tu périras.
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} Hélas. Tu périras.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1045,6 +1180,7 @@ une fleur au coeur de papillon.
 <p><a target="_blank" href="/data/sdw-data/P008.jpg">[ 8 ]</a></p>
 <p><span class="delete">(Crépitement de tam-tam. Une petite fille
       du Fouta ronge un os en</span> <span class="delete">forme de candélabre.)</span></p>
+
 - {:.speaker} **<span class="delete">Toussaint.</span>**
 
 
@@ -1059,11 +1195,13 @@ une fleur au coeur de papillon.
 - Je suis nu dans les pierres.
 - Je veux mourir.
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} Patience, je regarde<span class="delete">,&nbsp;</span><span class="delete">j’ai regardé</span>.
 - {:.prose} Ma tête polaire engloutit les lueurs de cadavres, les casques
 brisés, les débris inconsolables, les soleils gavés du vent charnel des venaisons
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1073,12 +1211,14 @@ brisés, les débris inconsolables, les soleils gavés du vent charnel des venai
 </p>
 - Tu vois encore ?...
 
+
 - {:.speaker} **La récitante.**
 
 
 <p class="prose" style="text-indent:2rem">Une belle fille terrible brise sa coquille de désastres.
    Des tireurs de <span class="delete">contes</span><span class="add above">coyotes</span> se réveillent dans une hutte d’absinthe heureuse.
 </p>
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1089,6 +1229,7 @@ brisés, les débris inconsolables, les soleils gavés du vent charnel des venai
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P009.jpg">[ 9 ]</a></p>
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
@@ -1096,6 +1237,7 @@ brisés, les débris inconsolables, les soleils gavés du vent charnel des venai
 banale et le champ de la foudre. Ses yeux poussièreux s’élancent
 dans une steppe sans ombre et sans eau et il m<span class="add">â</span>che, ombre et eau une
 prière qu’il ne vendra pas.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1105,6 +1247,7 @@ prière qu’il ne vendra pas.
    de cactus dans les halliers du ciel...
 </p>
 
+
 - {:.speaker} **La récitante.**
 
 - {:.indent-2} ... J’ai regardé et les ponts sont coupés...
@@ -1112,6 +1255,7 @@ prière qu’il ne vendra pas.
  
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P010.jpg">[ 10 ]</a></p>
+
 - {:.speaker} **Toussaint.**
 
 - 
@@ -1144,6 +1288,7 @@ prière qu’il ne vendra pas.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P011.jpg">[ 11 ]</a></p>
+
 - {:.speaker} **Le chœur.**
 
 
@@ -1151,9 +1296,11 @@ prière qu’il ne vendra pas.
    Toussaint fait son entrée solennelle à Santo Domingo.....Le <span class="delete">cavido</span><span class="add margin">&nbsp;|&nbsp;cabido&nbsp;|&nbsp;</span> lui remet les clefs de la ville
 </p>
 
+
 - {:.speaker} **Le Récitant.**
 
 - Il pleut.....
+
 
 - {:.speaker} **Le chœur.**
 
@@ -1161,11 +1308,13 @@ prière qu’il ne vendra pas.
 <p class="prose" style="text-indent:2rem">Les désirs de Toussaint sont des ordres... Il commande et légi<span class="add">f</span>ère
 </p>
 
+
 - {:.speaker} **Le Récitant.**
 
 
 <p class="prose" style="text-indent:2rem">Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span><span class="add">f</span>ent leurs larmes rouges
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -1175,9 +1324,11 @@ prière qu’il ne vendra pas.
    d’argent s’enflamment au crépuscule
 </p>
 
+
 - {:.speaker} **Le Récitant.**
 
 - Le roi a froid... le roi grelotte... Le roi tousse
+
 
 - {:.speaker} **La récitante.**
 
@@ -1186,6 +1337,7 @@ prière qu’il ne vendra pas.
    phalanges de navires...Hélas.
    Hélas.
 </p>
+
 
 - {:.speaker} **Le chœur.**
 
@@ -1196,15 +1348,18 @@ prière qu’il ne vendra pas.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P012.jpg">[ 12 ]</a></p>
+
 - {:.speaker} **Le récitant.**
 
 
 <p class="prose" style="text-indent:2rem">Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span><span class="add above">piste</span> dans la  forêt... le barracoun... le négrier...
 </p>
 
+
 - {:.speaker} **Le chœur.**
 
 - {:.indent-2} Hélas. Hélas.
+
 
 - {:.speaker} **La récitante.**
 
@@ -1213,6 +1368,7 @@ prière qu’il ne vendra pas.
    terre chocolat et  j’ai vu venir du côté des girofliers un  Il noircissait le ciel d’une face de tourbière coupée de
    libellules...
 </p>
+
 
 - {:.speaker} **Le récitant.**
 
@@ -1224,6 +1380,7 @@ prière qu’il ne vendra pas.
    fosse <span class="delete"></span>camouflée de sourires glissants...
 </p>
 
+
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Vous ne m’empècherez pas de parler à mes amis sans
@@ -1231,12 +1388,14 @@ prière qu’il ne vendra pas.
 - lune grasse, mauvaise herbe, sycomore, sycomore...
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve.
+
 - {:.speaker} **Choeur**  (lointain)
 
 - {:.indent-2} Ô roi debout.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P013.jpg">[ 13 ]</a></p>
+
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Le fleuve sans idiome s’exaspère des manoeuvres de la
@@ -1249,45 +1408,57 @@ cendre;
 - ont remisé
 - leurs yeux
 - enjoués de toute la nuit bue.
+
 - {:.speaker} **Choeur**  (lointain)
 
  - Ô roi debout.
 
+
 - {:.speaker} **Toussaint.**
 
 - Je veux peupler la nuit d’adieux méticuleux.
+
 - {:.speaker} **Choeur**  (au loin)
 
  - Ô roi debout.
 
+
 - {:.speaker} **Toussaint.**
 
 - des violettes, des anémones se lèvent à chaque pas de mon sang.
+
 - {:.speaker} **Choeur**  (plus lointain)
 
 - Ô roi debout.
 
+
 - {:.speaker} **Toussaint.**
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
+
 - {:.speaker} **Choeur**  (plus lointain encore)
 
 - ... Ô roi debout.
 
+
 - {:.speaker} **Toussaint.**
 
 - ... des pommes d’ara<span class="delete">n</span><span class="add above">u</span>caria, des bouquets de cerises.
+
 - {:.speaker} **Choeur**  (presque perdu dans la distance)
 
 - Ô roi debout.
 
 <hr>
-<p><a target="_blank" href="/data/sdw-data/P014.jpg">[ 14 ]</a></p>- {:.speaker} **Toussaint**  (d’une voix tonnante)
+<p><a target="_blank" href="/data/sdw-data/P014.jpg">[ 14 ]</a></p>
+- {:.speaker} **Toussaint**  (d’une voix tonnante)
 
 - ... des arcs, des signes, des empreintes, des feux.
+
 - {:.speaker} **Choeur**  (gémissant)
 
 - Ô roi debout.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1298,9 +1469,11 @@ cendre;
 - les symphonies d’un enfer inconnu, splendide
 - parasité de nostalgies hautaines.<span class="add">..</span>
 
+
 - {:.speaker} **Choeur.**
 
 - Ô roi debout.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1314,12 +1487,14 @@ cendre;
 - et je n’ai pas de mère
 - et je n’ai pas de fils.
 
+
 - {:.speaker} **Choeur.**
 
 - Ô roi debout.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P015.jpg">[ 15 ]</a></p>
+
 - {:.speaker} **Toussaint.**
 
 - Désir
@@ -1333,6 +1508,7 @@ cendre;
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P016.jpg">[ 16 ]</a></p>
+
 - {:.speaker} **<span class="delete">Toussaint.</span>**
 
 - Non, non, <span class="delete"><span class="unclear">tu</span></span><span class="add">je</span> mens, j’ai peur, je suis seul
@@ -1359,21 +1535,26 @@ dans le mouvement
 </p>
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P017.jpg">[ 17 ]</a></p>
+
 - {:.speaker} **Des voix.**
 
 - Mort à Toussaint. Mort à Toussaint.
+
 
 - {:.speaker} **Voix de femmes.**
 
 - Bourreau, à mort.
 
+
 - {:.speaker} **Voix.**
 
 - <span class="delete">Il a tué </span><span class="add above">Il tuera </span>nos enfants.
 
+
 - {:.speaker} **Voix.**
 
 - Il <span class="delete">a attiré </span><span class="add above">attirera </span>sur nous la colère des Blancs.
+
 
 - {:.speaker} **Des voix.**
 
@@ -1381,9 +1562,11 @@ dans le mouvement
 - Au feu, Toussaint, au feu.
 
 <p>(un groupe prépare frénétiquement un brasier.)</p>
+
 - {:.speaker} **La foule.**
 
 - Au feu Toussaint. Au feu.  feu. Au feu, Toussaint.
+
 
 - {:.speaker} **Un orateur.**
 
@@ -1396,12 +1579,14 @@ dans le mouvement
       </span>trahi<span class="add">t</span>. A mort.
 </p>
 
+
 - {:.speaker} **Des voix.**
 
 - {:.indent-2} Il a raison; il a raison; Mort à Toussaint.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P018.jpg">[ 18 ]</a></p>
+
 - {:.speaker} **La foule.**
 
 - Au feu.
@@ -1410,38 +1595,47 @@ dans le mouvement
 <p><span class="delete">( Le feu jaillit; le mannequin brûle.
       Rondo.</span> <span class="delete">Toussaint&nbsp;</span><span class="delete"><span class="delete">parait enchainé,&nbsp;</span><span class="add below">apparait alors</span></span><span class="delete">&nbsp;entre deux gardes en haut de la
       citadelle.)</span></p>
+
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Je suis un spectre; les hommes me chassent de leur
 cauchemar.
 
+
 - {:.speaker} **La foule.**
 
 - A mort.
+
 
 - {:.speaker} **Toussaint.**
 
 - Cuve de scorpions.
 
+
 - {:.speaker} **La foule.**
 
 - A mort.
+
 
 - {:.speaker} **Toussaint.**
 
 - Lâches, j’entends dans vos voix le frottement de la bricole.
 
+
 - {:.speaker} **La foule.**
 
 - A mort, à mort.
+
 
 - {:.speaker} **Toussaint.**
 
 - dans vos voix de chacal<span class="add">,</span><span class="delete"> la nostalgie </span><span class="add above">le bien-être </span>des muselières.
 
+
 - {:.speaker} **La foule.**
 
 - A mort<span class="add">,</span> Toussaint, à mort.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1449,9 +1643,11 @@ cauchemar.
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P019.jpg">[ 19 ]</a></p>
+
 - {:.speaker} **La foule.**
 
 - Mort. Mort.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1460,26 +1656,32 @@ cauchemar.
    monde sur votre jeunesse cannibale, sans espoir ni désespoir...
 </p>
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Tue, tue. A mort.
+
 
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Malheur sur vos têtes.
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Malédiction ; malédiction.
+
 
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Adieu mes amis.
 - A moi ô Mort, milicien aux mains froides.
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} A bas Toussaint. Vivent les blancs.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1487,9 +1689,11 @@ cauchemar.
 - {:.prose} Les montagnes trembleront comme une dent prise au davier, les
 étoiles écraseront contre terre leur front de femme enceinte...
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Ecoutez-le... Ecoutez-le...
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1498,9 +1702,11 @@ nuit, d’immenses cocotiers catastrophiques...
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P020.jpg">[ 20 ]</a></p>
+
 - {:.speaker} **La foule.**
 
 - Malheur. <span class="delete">Malheur.</span>
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1523,9 +1729,11 @@ nuit, d’immenses cocotiers catastrophiques...
 - antillais...
 - Âmes de morue.
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Vive Toussaint.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1535,18 +1743,22 @@ nuit, d’immenses cocotiers catastrophiques...
 
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P021.jpg">[ 21 ]</a></p>
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Mort aux blancs.
+
 
 - {:.speaker} **Toussaint.**
 
 - {:.indent-2} Mes amis, j’ai hissé mon pavillon de mains coupées,
 - j’ai lancé mes fusées de fièvre jaune...
 
+
 - {:.speaker} **La foule.**
 
 - {:.indent-2} Mort aux blancs. Mort aux blancs. Mort aux blancs.
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1567,12 +1779,14 @@ et ligoté des grandes lianes
 silencieuses de la peur, des grandes lianes silencieuses du
 Repentir.
 
+
 - {:.speaker} **La foule.**
 
 
 <p class="prose" style="text-indent:2rem">Mort aux blancs. Mort aux blancs. Vive Toussaint. Vive
    Toussaint. Mort aux blancs...
 </p>
+
 
 - {:.speaker} **Toussaint.**
 
@@ -1581,12 +1795,14 @@ Repentir.
 <hr>
 <p><a target="_blank" href="/data/sdw-data/P022.jpg">[ 22 ]</a></p>
 <p>(La scène s’efface progressivement, lentement.)</p>
+
 - {:.speaker} **La récitante.**
 
 
 <p class="prose" style="text-indent:2rem">La cendre... le songe ... eau noire ... affamés, affamés
    ... deux mains brûlantes dans l’assiette du soleil...
 </p>
+
 - {:.speaker} **Le récitant**  (très calme.)
 
 - {:.indent-2} ... La Grande Révolution de Saint Domingue<span class="delete"> continue</span><span class="delete"><span class="add below"> a commencé</span></span><span class="add"> vient de commencer</span>.

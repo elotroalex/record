@@ -2470,7 +2470,7 @@
                             <!-- triple underline -->
                             <add hand="#l_p" place="inline">1<hi
                                     rend="superscript double-underlined">er</hi> groupe :</add> Une
-                            voix. </speaker>
+                            voix.</speaker>
                         <ab rend="indent">Vous avez raison, mon ami, vous avez raiso<add hand="#d_p"
                                 type="clarification">n,</add> C’est avec de la <w>mau<lb
                                     rend="hyphen"/>vaise</w> politique que l’on perd les colonies.
@@ -2764,7 +2764,7 @@
                     </sp>
                     <!-- Note to self: What kind of line group is a call and response song? -->
                     <sp>
-                        <speaker>2e esclave</speaker>
+                        <speaker>2è esclave</speaker>
                         <stage type="delivery">(chantant)</stage>
                         <ab rend="indent">Hé, mes amis, ho.</ab>
                     </sp>
@@ -2803,7 +2803,7 @@
                         <ab rend="indent"> Hé, mes amis, ho.</ab>
                     </sp>
                     <sp>
-                        <speaker><sic>2è</sic> esclave.</speaker>
+                        <speaker><sic>2è</sic><reg>2e</reg> esclave.</speaker>
                         <ab rend="indent">Ma fatigue est un gouffre; aucun sommeil ne saurait le
                             combler.</ab>
                     </sp>
