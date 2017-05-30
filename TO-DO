@@ -28,3 +28,5 @@ In most of these cases, the rules take on the role of an editor in search of pat
 This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose[^b16] from the empirical exception, *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustand*, human-machine labor relations, the role of the humanities, etc... but I digress. The immediate point of the exercise is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce the speculative stage.
 
 [^b16]: I point here, not without a grin, to Peter Suber's game [Nomic](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set), where the game includes rules for changing rules in medias res.
+
+and following-sibling::*[1][starts-with(., '(')]

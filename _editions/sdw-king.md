@@ -1292,7 +1292,7 @@ prière qu’il ne vendra pas.
 - {:.speaker} <span class="underlined">Le chœur</span>.
 
 
-<p class="prose" style="text-indent:2rem">Mon  se dore de visions souveraines.....
+<p class="prose" style="text-indent:2rem">Mon œuil se dore de visions souveraines.....
    Toussaint fait son entrée solennelle à Santo Domingo.....Le <span class="delete">cavido</span><span class="add margin">&nbsp;|&nbsp;cabido&nbsp;|&nbsp;</span> lui remet les clefs de la ville
 </p>
 
