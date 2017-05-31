@@ -44,6 +44,10 @@ li.prose {
   text-indent: 0;
 }
 
+li.prose-indent {
+  text-indent: 2rem;
+}
+
 
 .didascalia {
   font-style: italic;
