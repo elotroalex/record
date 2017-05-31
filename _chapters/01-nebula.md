@@ -141,7 +141,7 @@ Pencil markings come in three varieties, ranging from most common to most rare: 
 
 The witness has interesting features which push the boundaries of traditional codicology, and yet make fine additions to our catalogue. These range from the regular, to the highly peculiar. Some of the regular features are listed in [table c]({{site.baseurl}}/fragiles/table-c/). For example, some pages end half-way through, usually marked with a large X drawn across the empty bottom space of the page. I flag these in the table as `Half Pages`. These pages can sometimes give us clues about the insertion of a page in a previous sequence, and other times help us isolate blocks of innominate and itinerant text.
 
-Starting on page 41, and intensifying after page 60 of the current pagination, the typist[^b2] tries to use as much of the real state on the page as possible, sometimes schewing the line towards the end of the page, as the paper began to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition due to the American blockade? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
+Starting on page 41, and intensifying after page 60 of the current pagination, the typist[^b2] tries to use as much of the real estate on the page as possible, sometimes schewing the line towards the end of the page, as the paper began to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition due to the American blockade? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
 
 {% include image.html
     img="fig-m.png"

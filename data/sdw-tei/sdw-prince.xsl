@@ -67,6 +67,9 @@
             </xsl:text>
         </xsl:if>
     </xsl:template>
+
+    
+    
     
     <!-- speaker + delivery -->
     
@@ -208,6 +211,8 @@
     <xsl:template match="tei:unclear[@confidence &gt;= 0.5]">
         <span class="unclear"><xsl:apply-templates/></span>
     </xsl:template>
+    
+
     
     
 </xsl:stylesheet>
