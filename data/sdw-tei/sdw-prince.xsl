@@ -76,7 +76,7 @@
     <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type='delivery']]]">
         <xsl:text>
             - {:.speaker} </xsl:text><xsl:apply-templates select="tei:speaker"/><xsl:text> </xsl:text>
-        <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
+        <em><xsl:apply-templates select="tei:stage[@type = 'delivery']"/></em>        
         <xsl:text>
             
         </xsl:text>
@@ -112,7 +112,7 @@
                 <xsl:text>
             
                 </xsl:text>
-                    <xsl:text>*(</xsl:text><xsl:apply-templates/><xsl:text>)*</xsl:text>
+                <em><xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text></em>
                 <xsl:text>
             
                 </xsl:text>
@@ -121,7 +121,7 @@
                 <xsl:text>
             
                 </xsl:text>
-                <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*</xsl:text>
+                    <em><xsl:apply-templates/></em>
                 <xsl:text>
             
                 </xsl:text>
@@ -132,12 +132,14 @@
     <xsl:template match="tei:stage[@rend='inline']">
         <xsl:choose>
             <xsl:when test="./tei:add[starts-with(., '(')]">
-                <span>
-                    <xsl:text>*(</xsl:text><xsl:apply-templates/><xsl:text>)*</xsl:text>
-                </span>
+                <em>
+                    <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
+                </em>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*</xsl:text>
+                <em>
+                    <xsl:apply-templates/>
+                </em>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
@@ -196,7 +198,9 @@
     
     <xsl:template match="tei:add">
         <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*{:.add}</xsl:text>             
-    </xsl:template>    
+    </xsl:template>
+    
+    <xsl:template match="tei:add[text()='&#8208;']"/>
     
     <!-- deletions -->
    

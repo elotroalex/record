@@ -3,7 +3,7 @@
 
 .add {
     color:#288828;
-    font-style:normal;
+    font-style: inherit;
 }
 
 .delete {

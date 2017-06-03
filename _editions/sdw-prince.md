@@ -12,7 +12,7 @@ author: alex gil
 [ 1 ](/data/sdw-data/P001.jpg){: target='_blank'}            
 
 
-**(*{:.add}La scène est à Saint Domingue*&nbsp;à l’epoque de la Révolution française.)*{:.add}*
+<em>*(*{:.add}La scène est à Saint Domingue*&nbsp;à l’epoque de la Révolution française.)*{:.add}</em>
 
 
 
@@ -94,15 +94,15 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Toussaint, Toussaint c’est le jour de l’épreuve... Il vient... le messager du roi... il glisse... sa bouche pleine de promesses... le serpent siffle... siffle... Il tient Toussaint au bout de sa langue...
+- {:.prose .prose-indent} Toussaint, Toussaint,&nbsp;c’est le jour de l’épreuve... Il vient... le messager du roi... il glisse... sa bouche pleine de promesses... le serpent siffle... siffle... Il tient Toussaint au bout de sa langue...
 
 
 - {:.speaker} Le&nbsp;chœur.
 
-- {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille tressée est à sa main gauche... Il s’arrête ... Il rampe ... Il s’immobilise&nbsp;un genou en terre ... Le torse est renversé comme une muraille... La sagaie est levée...
+- {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille tressée est à sa main gauche... Il s’arrête... Il rampe... Il s’immobilise&nbsp;un genou en terre... Le torse est renversé comme une muraille... La sagaie est levée...
 
 
-*(A ce moment un cortège magnifique envahit la scène : pèlerins, &nbsp;chevaux, chiens. Senteurs de musc et benjoin.)*
+<em>(A ce moment un cortège magnifique envahit la scène : pèlerins,&nbsp;chevaux, chiens. Senteurs de musc et benjoin.)</em>
 
  
 <hr>
@@ -139,7 +139,7 @@ author: alex gil
 - {:.prose .prose-indent} *J*{:.add}e dis que la République a cloché un branle nouveau au monde en&nbsp;heurtant&nbsp;trois mots d’or...
 
 
-- {:.speaker} *2e&nbsp;&nbsp;*{:.add}voix tentatrice.
+- {:.speaker} *2e&nbsp;*{:.add}voix tentatrice.
 
 - {:.prose .prose-indent} Ha, ha, ha.&nbsp;Des&nbsp;mots, rien que des mots: pas trois&nbsp;; mille mots&nbsp;Toussaint... O mon ami,&nbsp;veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne*&nbsp;?*{:.add} Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
@@ -164,14 +164,14 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Fête de nuit
-- *<span class="unclear">carne</span>&nbsp;*{:.add}, cave
+- *<span class="unclear">carne</span>*{:.add}, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
 - l’Artibonite grossie fait le paon&nbsp;;
 - sur la digue rompue
 - les fenêtres s’ouvrent sur toujours
-- cessez la torture croisière des paradis barrés de tentations:
+- cessez la torture croisière des paradis barrés de tentations&nbsp;:
 - au bord de la mer une campagne de rhum et de contrebande
 - dédouble de soleils nichés la fièvre lisse des jours.
 - Maudit*,*{:.add}&nbsp;serais-je, maudit.
@@ -268,7 +268,7 @@ author: alex gil
 [ 8 ](/data/sdw-data/P008.jpg){: target='_blank'}            
 
 
-* *
+<em> </em>
 
 
 
@@ -434,7 +434,7 @@ author: alex gil
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve.
 
-- {:.speaker} Chœur (lointain)
+- {:.speaker} Chœur <em>(lointain.)</em>
 
 - {:.indent-2} Ô roi debout.
 
@@ -455,7 +455,7 @@ author: alex gil
 - leurs yeux
 - enjoués de toute la nuit bue.
 
-- {:.speaker} Chœur (lointain)
+- {:.speaker} Chœur <em>(lointain.)</em>
 
  - Ô roi debout.
 
@@ -464,7 +464,7 @@ author: alex gil
 
 - Je veux peupler la nuit d’adieux méticuleux.
 
-- {:.speaker} Chœur (au loin)
+- {:.speaker} Chœur <em>(au loin.)</em>
 
  - Ô roi debout.
 
@@ -473,7 +473,7 @@ author: alex gil
 
 - Des violettes, des anémones se lèvent à chaque pas de mon sang.
 
-- {:.speaker} Chœur (plus lointain)
+- {:.speaker} Chœur <em>(plus lointain.)</em>
 
 - Ô roi debout.
 
@@ -482,7 +482,7 @@ author: alex gil
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
 
-- {:.speaker} Chœur (plus lointain encore)
+- {:.speaker} Chœur <em>(plus lointain encore.)</em>
 
 - ... Ô roi debout.
 
@@ -491,7 +491,7 @@ author: alex gil
 
 - ... des pommes d’ara*u*{:.add}caria, des bouquets de cerises.
 
-- {:.speaker} Chœur (presque perdu dans la distance)
+- {:.speaker} Chœur <em>(presque perdu dans la distance.)</em>
 
 - Ô roi debout.
 
@@ -499,11 +499,11 @@ author: alex gil
 
 [ 14 ](/data/sdw-data/P014.jpg){: target='_blank'}            
 
-- {:.speaker} Toussaint (d’une voix tonnante)
+- {:.speaker} Toussaint <em>&nbsp;(d’une voix tonnante.)</em>
 
 - ... des arcs, des signes, des empreintes, des feux.
 
-- {:.speaker} Chœur (gémissant)
+- {:.speaker} Chœur <em>&nbsp;(gémissant.)</em>
 
 - Ô roi debout.
 
@@ -566,7 +566,7 @@ author: alex gil
 - Non, non,&nbsp;*je*{:.add}&nbsp;mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
 - des caravelles inconnues rôdent dans la nuit.
-- Est-ce toi , Colomb ? Capitaine de négrier ? Est-ce toi
+- Est-ce toi, Colomb ? Capitaine de négrier ? Est-ce toi
 - vieux pirate, vieux corsaire ?
 - Rien ne répond. La nuit s’augmente d’éboulis.
 - Colomb. Colomb.
@@ -583,7 +583,7 @@ author: alex gil
 - Colomb. Colomb.
 
 
-*(A ce moment&nbsp;*les esclaves nègres envahissent&nbsp;*{:.add}la scène )*
+<em>(A ce moment&nbsp;*les esclaves nègres envahissent&nbsp;*{:.add}la scène.)</em>
 
 
 <hr>
@@ -617,7 +617,7 @@ author: alex gil
 - Au feu, Toussaint, au feu.
 
 
-*(un groupe prépare frénétiquement un brasier.)*
+<em>(Un groupe prépare frénétiquement un brasier.)</em>
 
 
 
@@ -646,7 +646,7 @@ author: alex gil
 - Au feu,&nbsp;Toussaint.
 
 
-* *
+<em> </em>
 
 
 
@@ -812,7 +812,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} ...Et en effet, des catacombes essouflées de la Fin et du Commencement
+- {:.indent-2} ...&nbsp;Et en effet, des catacombes essouflées de la Fin et du Commencement
 - la Mort s’élance vers eux, comme un torrent de chevaux fous, comme un
 - vol de moustiques...
 - Colomb, Colomb
@@ -835,15 +835,15 @@ author: alex gil
 [ 22 ](/data/sdw-data/P022.jpg){: target='_blank'}            
 
 
-*(La scène s’efface progressivement, lentement.)*
+<em>(La scène s’efface progressivement, lentement.)</em>
 
 
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La cendre... le songe ... eau noire ... affamés, affamés ... deux mains brûlantes dans l’assiette du soleil...
+- {:.prose .prose-indent} La cendre... le songe... eau noire... affamés, affamés... deux mains brûlantes dans l’assiette du soleil...
 
-- {:.speaker} Le récitant (très calme.)
+- {:.speaker} Le récitant <em>(très calme.)</em>
 
 - {:.indent-2} ... La Grande Révolution de Saint Domingue*&nbsp;vient de commencer*{:.add}.
 
@@ -852,7 +852,7 @@ author: alex gil
 [ 23 ](/data/sdw-data/P023.jpg){: target='_blank'}            
 
 
-*(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent le chœur, le récitant, la récitante.)*
+<em>(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent le chœur, le récitant, la récitante.)</em>
 
 
 
@@ -860,7 +860,7 @@ author: alex gil
 
 - {:.prose .prose-indent} Rentrez chez-vous jeunes filles, il n’est plus temps de jouer, les orbites de la mort poussent des yeux fulgurants à travers le mica blême.
 
-- {:.speaker} 1rejeune fille (sérieuse)
+- {:.speaker} 1re&nbsp;jeune fille <em>(sérieuse.)</em>
 
 - {:.indent-2} C’est une devinette&nbsp;?
 
@@ -869,36 +869,36 @@ author: alex gil
 
 - {:.indent-2} C’est la saison des étoiles br*û*{:.add}lantes qui commence.
 
-- {:.speaker} 2ème jeune fille (riant)
+- {:.speaker} 2e&nbsp;jeune fille <em>(riant.)</em>
 
-- {:.indent-2} Ah. C’est un co*n*{:.add}te
+- {:.indent-2} Ah. C’est un co*n*{:.add}te.
 
-- {:.speaker} Le&nbsp;chœur (menaçant)
+- {:.speaker} Le&nbsp;chœur <em>(menaçant.)</em>
 
-- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse&nbsp;&nbsp;sur la gadoue des&nbsp;*barracouns.*{:.add}
+- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse&nbsp;sur la gadoue des&nbsp;*barracouns.*{:.add}
 
 
-- {:.speaker} 3ème jeune fille.
+- {:.speaker} 3e&nbsp;jeune fille.
 
 - {:.indent-2} Hou&nbsp;; hou.
 
 
-- {:.speaker} 4ème jeune fille.
+- {:.speaker} 4e&nbsp;jeune fille.
 
 - {:.indent-2} Hou. Hou.
 
 
-**(*{:.add}Lasur le pas de la porte*,*{:.add}&nbsp;très pâle.*)*{:.add}*
+<em>*(*{:.add}La&nbsp;mère parait&nbsp;sur le pas de la porte*,*{:.add}&nbsp;très pâle.*)*{:.add}</em>
 
 - {:.prose .prose-indent} Mes enfants... rentrez... rentrez vite... j’ai peur.
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Jeunes filles*,*{:.add}respectez les&nbsp;*pèlerins qui gaspillent leur pain quotidien&nbsp;*{:.add}sur les&nbsp;riches&nbsp;ornières du crépuscule.
+- {:.prose .prose-indent} Jeunes filles*,*{:.add}&nbsp;respectez les&nbsp;*pèlerins qui gaspillent leur pain quotidien&nbsp;*{:.add}sur les&nbsp;riches&nbsp;ornières du crépuscule.
 
 
-*(Les jeunes filles s’enfuient.)*
+<em>(Les jeunes filles s’enfuient.)</em>
 
 
 <hr>
@@ -906,10 +906,10 @@ author: alex gil
 [ 24 ](/data/sdw-data/P024.jpg){: target='_blank'}            
 
 
-**(*{:.add}Le récitant et la récitante feignent de poser par terre une ci‐ vière&nbsp;; le&nbsp;chœurde creuser une fosse.&nbsp;*Un*{:.add}&nbsp;cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.*)*{:.add}*
+<em>*(*{:.add}Le récitant et la récitante feignent de poser par terre une&nbsp;civière&nbsp;; le&nbsp;chœur&nbsp;de creuser une fosse.&nbsp;*Un*{:.add}&nbsp;cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.*)*{:.add}</em>
 
 
-- {:.speaker} Le récitant (recueilli).
+- {:.speaker} Le récitant <em>(recueilli.)</em>
 
 - {:.indent-2} Adieu, Saint- Domingue.
 
@@ -918,18 +918,18 @@ author: alex gil
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
 
-- {:.speaker} Le&nbsp;chœur (haineux )
+- {:.speaker} Le&nbsp;chœur <em>(haineux.)</em>
 
-- {:.prose .prose-indent} ...Saint-Domingue la noire, o*ù*{:.add}&nbsp;le sadisme du maitre, et le rale*‐*{:.add} ment de l’esclave par force coprophage parachèvent en traits de vo*­*{:.add} mi le happement dusqualeet le rampement&nbsp;*du*{:.add}&nbsp;scolopendre.
-
-
-**(*{:.add}A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu àla lumiè*‐*{:.add} re revient, le décor a changé&nbsp;: le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.*)*{:.add}*
+- {:.prose .prose-indent} ...Saint-Domingue la noire, o*ù*{:.add}&nbsp;le sadisme du maitre, et le&nbsp;ralement&nbsp;de l’esclave par force coprophage parachèvent en traits de&nbsp;vo*­*{:.add}mi&nbsp;le happement du&nbsp;squale&nbsp;et le rampement&nbsp;*du*{:.add}&nbsp;scolopendre.
 
 
+<em>*(*{:.add}A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à&nbsp;peu ; quand&nbsp;la&nbsp;lumière&nbsp;revient, le décor a changé&nbsp;: le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.*)*{:.add}</em>
 
-- {:.speaker} Ier député.
 
-- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est&nbsp;notre&nbsp;désir de conciliation. Nous avons fait taire en noscœursla naturelle indignation qu*'*{:.add}&nbsp;y suscite le souvenir de tant d’actes de cruauté. Et nous avonsfait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos&nbsp;&nbsp;esprits &nbsp;philosophes&nbsp;appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans noscoloniales...
+
+- {:.speaker} 1er&nbsp;député.
+
+- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est&nbsp;notre&nbsp;désir de conciliation. Nous avons fait taire en nos&nbsp;cœurs&nbsp;la naturelle indignation qu*'*{:.add}&nbsp;y suscite le souvenir de tant d’actes de cruauté. Et nous&nbsp;avons fait&nbsp;table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes&nbsp;appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos&nbsp;societés&nbsp;coloniales...
 
 
 - {:.speaker} 
@@ -940,12 +940,12 @@ author: alex gil
 
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}            
 
-- {:.speaker} Toussaint 
+- {:.speaker} Toussaint <em></em>
 
 - {:.prose .prose-indent} *C’est bien*{:.add} . Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
 
 
-**(*{:.add}Rassemblement. Bruit de tam-tam.*)*{:.add}*
+<em>*(*{:.add}Rassemblement. Bruit de tam-tam.*)*{:.add}</em>
 
 
 
@@ -973,7 +973,7 @@ author: alex gil
 [ 26 ](/data/sdw-data/P026.jpg){: target='_blank'}            
 
 
-**(*{:.add}La scène est envahie par la foule&nbsp;*des insurgés*{:.add}: masse d’hommes et de femmes&nbsp;armés&nbsp;de coutelas.*)*{:.add}*
+<em>*(*{:.add}La scène est envahie par la foule&nbsp;*des insurgés*{:.add}: masse d’hommes et de femmes&nbsp;armés&nbsp;de coutelas.*)*{:.add}</em>
 
 
 
@@ -1012,7 +1012,7 @@ author: alex gil
 - {:.prose .prose-indent} Revenez sur les habitations. Reprenez le travail. Nous sommes prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous&nbsp; vous garantissons à tous notre bienveillance paternelle.
 
 
-**(*{:.add}Des cris contradictoires dans la foule.*)*{:.add}*
+<em>*(*{:.add}Des cris contradictoires dans la foule.*)*{:.add}</em>
 
 - {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A&nbsp;mort
 - {:.prose .prose-indent} ...à mort. ...
@@ -1042,7 +1042,7 @@ author: alex gil
 - {:.indent-2} A mort. Tue. Tue.
 
 
-*(La foule se resserre comme une machoire.)*
+<em>(La foule se resserre comme une machoire.)</em>
 
 
 
@@ -1065,7 +1065,7 @@ author: alex gil
 [ 28 ](/data/sdw-data/P028.jpg){: target='_blank'}            
 
 
-*( Les guerriers défilent devant les cadavres en brandissant des&nbsp;coutelas.)*
+<em>( Les guerriers défilent devant les cadavres en brandissant des&nbsp;coutelas.)</em>
 
 
 
@@ -1089,7 +1089,7 @@ author: alex gil
 - {:.prose .prose-indent} C’est bien camarades...Tout de suite... Nous tous en avant et pas de quartier.
  
 
-*(Les bandes s’ébranlent en poussant des cris frénétiques.)*
+<em>(Les bandes s’ébranlent en poussant des cris frénétiques.)</em>
 
 
 <hr>
@@ -1170,7 +1170,7 @@ author: alex gil
 [ 31 ](/data/sdw-data/P031.jpg){: target='_blank'}            
 
 
-**(*{:.add}Au Cap. A l’assemblée des planteurs présidée par le gouverneur.*)*{:.add}*
+<em>*(*{:.add}Au Cap. A l’assemblée des planteurs présidée par le gouverneur.*)*{:.add}</em>
 
 
 
@@ -1263,11 +1263,11 @@ author: alex gil
 - {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières*,*{:.add} au Morne, à Dondon, à la Ma*rmel*{:.add}ade et à. Quant à vous, Messieurs, aux armes*,*{:.add}&nbsp;et vive la colonie française de Saint-Domingue.
  
 
-*( Vivats prolongés. Les députés sortent.)*
+<em>( Vivats prolongés. Les députés sortent.)</em>
 
 
 
-**(*{:.add}Quelques attardés discutent encore.*)*{:.add}*
+<em>*(*{:.add}Quelques attardés discutent encore.*)*{:.add}</em>
 
  
 <hr>
@@ -1275,7 +1275,7 @@ author: alex gil
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}            
 
 
-*(*une rue. la nuit. des groupes passent*{:.add})*
+<em>(*une rue. la nuit. des groupes passent*{:.add})</em>
 
 
 
@@ -1283,7 +1283,7 @@ author: alex gil
 
 - {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso*n,*{:.add}&nbsp;C’est avec de la&nbsp;mauvaise&nbsp;politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen&nbsp;: la terreur. Moi qui vous parle, au&nbsp;premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue&nbsp;de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
-*(la voix se perd dans la nuit.)*
+<em>(la voix se perd dans la nuit.)</em>
 
 
 
@@ -1293,13 +1293,13 @@ author: alex gil
 - {:.prose .prose-indent} Hum*&nbsp;!*{:.add}&nbsp;alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur&nbsp;; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux. ... tout doux... des îles à doudoux, vous comprenez. Alors, la&nbsp;Révolution, bonsoir.
  
 
-*(La voix fredonne :*
+<em>(La voix fredonne :</em>
 
 - {:.indent-2} A la Matinique, Matinique, Matinique
 - {:.indent-2} c’est çà qui chic...)
 
 
-*(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un&nbsp;piétinement&nbsp;confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Ungrotesque gesticule à l’estrade officielle. Nous l’app*e*{:.add}llerons. Les nègres s’asseyent dans une &nbsp;confusion&nbsp;indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)*
+<em>(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un&nbsp;piétinement&nbsp;confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Ungrotesque gesticule à l’estrade officielle. Nous l’app*e*{:.add}llerons. Les nègres s’asseyent dans une &nbsp;confusion&nbsp;indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
 
 
 
@@ -1332,7 +1332,7 @@ author: alex gil
 - {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? 
 
 
-*(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)*
+<em>(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)</em>
 
 
 
@@ -1345,16 +1345,16 @@ author: alex gil
 
 - {:.indent-2} Mort aux blancs, mort aux blancs.
 
-- {:.speaker} Le speaker (soufletant la tête coupée)
+- {:.speaker} Le speaker <em>(soufletant la tête coupée.)</em>
 
 - {:.indent-2} La parole est à Monsieur le Gouverneur.
 
-- {:.speaker} Le porte-drapeau (d'une voix nasillarde)
+- {:.speaker} Le porte-drapeau <em>(d'une voix nasillarde.)</em>
 
 - {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il n’est plus temps de délibérer. Ma décision est prise. Avec les &nbsp;nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre&nbsp;du jour, Messieurs...
  
 
-*(Applaudissements. Des rires.)*
+<em>(Applaudissements. Des rires.)</em>
 
  
 <hr>
@@ -1367,8 +1367,8 @@ author: alex gil
 - {:.indent-2} A mort&nbsp;; à mort.
 
 
-*(Une hystérie collective. Une odeur de sang monte. Le speaker danse la bamboula sur
-l’estrade.)*
+<em>(Une hystérie collective. Une odeur de sang monte. Le speaker danse la bamboula sur
+   l’estrade.)</em>
 
 
 
@@ -1384,7 +1384,7 @@ l’estrade.)*
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 
 
-*(Le silence tombe raide, funèbre.)*
+<em>(Le silence tombe raide, funèbre.)</em>
 
 
 
@@ -1411,7 +1411,7 @@ l’estrade.)*
 
 - {:.indent-2} Pardon, camarade, au commencement il y avait la nuit.
 
-- {:.speaker} Le récitant (docile)
+- {:.speaker} Le récitant <em>(docile.)</em>
 
 - {:.indent-2} Camarade, au commencement il y avait la nuit...
 
@@ -1422,10 +1422,10 @@ l’estrade.)*
 - {:.indent-2} A la fin, il y a, à la fin...
  
 
-*(Elle se bouche les yeux.)*
+<em>(Elle se bouche les yeux.)</em>
 
 
-- {:.speaker} Le récitant. (d’une voix cinglante.)
+- {:.speaker} Le récitant. <em>(d’une voix cinglante.)</em>
 
 - {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que jela fin: à la fin...à l’extrème fin, la cul‐ resets the line in the proper place. Light pencil was used originally and was then
 reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité&nbsp;d’épouvantes, son*&nbsp;&nbsp;*{:.add}insolencetriturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
@@ -1435,11 +1435,11 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 [ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}            
 
 
-**(*{:.add}Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des&nbsp;blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles&nbsp;déposent leur baluchon.*)*{:.add}*
+<em>*(*{:.add}Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des&nbsp;blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles&nbsp;déposent leur baluchon.*)*{:.add}</em>
 
 
 
-- {:.speaker} 1èrejeune fille.
+- {:.speaker} 1re&nbsp;jeune fille.
 
 - {:.indent-2} Mes dents claquent.
 
@@ -1454,26 +1454,26 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 - {:.prose .prose-indent} Courage mes&nbsp;enfants... Courage... C’est dur tout de même. ... Courir...courir... et se cacher dans les cannes en flèches... et puis courir encore.... mes jambes...
 
 
-**(*{:.add}Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes*,*{:.add}&nbsp;puis des mains... Ce sont des esclave*s*{:.add}&nbsp;qui labourent au&nbsp;crépuscule.*)*{:.add}*
+<em>*(*{:.add}Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes*,*{:.add}&nbsp;puis des mains... Ce sont des esclave*s*{:.add}&nbsp;qui labourent au&nbsp;crépuscule.*)*{:.add}</em>
 
 
-- {:.speaker} Ier esclave (chantant)
-
-- {:.indent-2} Hé, mes amis, ho.
-
-- {:.speaker} 2è esclave (chantant)
+- {:.speaker} Ier esclave <em>(chantant.)</em>
 
 - {:.indent-2} Hé, mes amis, ho.
 
-- {:.speaker} Ier esclave (chantant)
+- {:.speaker} 2è esclave <em>(chantant.)</em>
+
+- {:.indent-2} Hé, mes amis, ho.
+
+- {:.speaker} Ier esclave <em>(chantant.)</em>
 
 - {:.indent-2} La terre est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
-- {:.speaker} 2e esclave (chantant)
+- {:.speaker} 2e esclave <em>(chantant.)</em>
 
 - {:.indent-2} Le soleil est une fatigue&nbsp;; ma fatigue va l*a*{:.add}&nbsp;fatiguer.
 
-- {:.speaker} 3e esclave (chantant)
+- {:.speaker} 3e esclave <em>(chantant.)</em>
 
 - {:.indent-2} La pluie est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
@@ -1503,7 +1503,7 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 - Ma fatigue est un tombereau de sable insonore
 - aux quatre coins de*s*{:.add}&nbsp;moissons pétrifiées.
 
-- {:.speaker} Le récitant (lugubre.)
+- {:.speaker} Le récitant <em>(lugubre.)</em>
 
 - {:.prose .prose-indent} Saint-Domingue fond comme un noyé dans l’acide des gorges de la Révolution.
 
@@ -1518,10 +1518,10 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 - {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de  la nuit.
 
 
-**(*{:.add}Coups de feu...*)*{:.add}*
+<em>*(*{:.add}Coups de feu...*)*{:.add}</em>
 
 
-- {:.speaker} Le récitant. (fébrile)
+- {:.speaker} Le récitant. <em>(fébrile.)</em>
 
 - {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les esclaves...
 - Sonthonax ouvre les portes du Cap à&nbsp;*Pierrot*{:.add}&nbsp;et à Macaya...
@@ -1530,15 +1530,15 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 
 [ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}            
 
-- {:.speaker} La récitante (dolente)
+- {:.speaker} La récitante <em>(dolente.)</em>
 
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent...
  
 
-**
+<em></em>
 
  
-- {:.speaker} Le récitant (féroce)
+- {:.speaker} Le récitant <em>(féroce.)</em>
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
 
@@ -1572,17 +1572,17 @@ reinforced with the darker pencil. bute de l’Europe, la posée sur cette merde
 [ 40 ](/data/sdw-data/P040.jpg){: target='_blank'}            
 
 
-*(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le champ de vision, en perdition&nbsp;; et dans la chair de la mer&nbsp;phosphorescente, une inscription explose, sanglante, reflétée par les&nbsp;écueils.) *&nbsp;:République d’Haïti.*{:.add}*
+<em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le champ de vision, en perdition&nbsp;; et dans la chair de la mer&nbsp;phosphorescente, une inscription explose, sanglante, reflétée par les&nbsp;écueils.) *&nbsp;:République d’Haïti.*{:.add}</em>
 
 
-- {:.speaker} Le&nbsp;chœur (enthousiaste)
+- {:.speaker} Le&nbsp;chœur <em>(enthousiaste.)</em>
 
 - {:.indent-2} 
 
 
-*(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)*
+<em>(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
 
 
-- {:.speaker} Le récitant (pleurant)
+- {:.speaker} Le récitant <em>(pleurant.)</em>
 
 - Froid&nbsp;cœur&nbsp;de la mort, la lagune a dégainé son&nbsp;*rire de*{:.add}&nbsp;poignard.
