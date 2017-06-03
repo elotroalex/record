@@ -112,7 +112,7 @@
                 <xsl:text>
             
                 </xsl:text>
-                    <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
+                    <xsl:text>*(</xsl:text><xsl:apply-templates/><xsl:text>)*</xsl:text>
                 <xsl:text>
             
                 </xsl:text>
@@ -121,7 +121,7 @@
                 <xsl:text>
             
                 </xsl:text>
-                    <xsl:apply-templates/>
+                <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*</xsl:text>
                 <xsl:text>
             
                 </xsl:text>
@@ -133,13 +133,11 @@
         <xsl:choose>
             <xsl:when test="./tei:add[starts-with(., '(')]">
                 <span>
-                    <xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text>
+                    <xsl:text>*(</xsl:text><xsl:apply-templates/><xsl:text>)*</xsl:text>
                 </span>
             </xsl:when>
             <xsl:otherwise>
-                <span>
-                    <xsl:apply-templates/>
-                </span>
+                <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*</xsl:text>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
