@@ -6,11 +6,9 @@
     <!-- global settings -->
     <xsl:output method="html"/>
     <xsl:strip-space elements="*"/>
-    <xsl:template match="*/text()[normalize-space()]">
-        <xsl:value-of select="normalize-space()"/>
+    <xsl:template match="text()">
+        <xsl:value-of select="normalize-space(.)" />  
     </xsl:template>
-    
-    <xsl:template match="*/text()[not(normalize-space())]" />
     
     <!-- IGNORE LIST -->
     <xsl:template match="tei:teiHeader"/>
@@ -214,6 +212,10 @@
         <span class="unclear"><xsl:apply-templates/></span>
     </xsl:template>
     
+    <!-- special spaces -->
+    <xsl:template match="tei:space">
+        <xsl:text>&#32;</xsl:text>
+    </xsl:template>
 
     
     

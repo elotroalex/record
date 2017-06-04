@@ -183,17 +183,6 @@ As opposed to the generation of the first speculative stage, "Toussaint King" wa
 
 The editorial approach to this speculative stage could be called eclectic diplomatic. My choices include limited normalization and a reduced representation of erasures and additions. For the former, I instructed the machine to ignore sequences marked as 'sic' or 'orig' in the original TEI, and privilege my corrections and normalizations, also documented in the TEI file. In cases of unclear characters or words in the original, I instructed the machine to leave unmarked those conjectures that were assigned a 50% or larger level of certainty in the TEI—the house odds.
 
-In most of these cases, the rules take on the role of an editor in search of patterns to normalize and render, but in one case the rule addresses a unique occurrence, an exception. On `P2.9` (8), at the top, the characters "Crép" are overtyped with the letter x to make way for a parentheses. The whole didascalia is eventually erased. As a general rule, I've omitted all minor overtypes, but I wanted to keep this one because it calls attention to the vascillation in this stage direction: from none, to one, to none again on the previous page. Instead of quickly editing the text at the tail end of the algorithmic transformation, as a sane person would, I created a rule to make the edit. And staying true to form, rather than a simple find and replace for the sequence "Crép", I chose a rule that understands the exception from a bibliographic point of view:
-
-~~~         
-<xsl:template match="tei:del[@rend='overprint']">
-  <xsl:choose>
-    <xsl:when test="substring(text(),1,3) = substring(following-sibling::*[1]/text(),2,3) and text()[not(starts-with(., '('))] and following-sibling::*[1][starts-with(., '(')]">
-...
-~~~
-
-The rule basically says: find all the cases that have been overtyped, then for each one check to see if the following segment begins with the same three letters, except with a parentheses; if so, include and style this segment as a deletion. In short, my own rationale for making the choice. This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose from the empirical exception[^b16], *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustanden*, human-machine labor relations, etc. The immediate point of the exercise, though, is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce a purposeful speculative stage.
-
 The result of all transformation rules, general or specific, should be a reading text that highlights certain significant features relevant to our genetic tale, while leaving more detailed readings for the corresponding image files. Individual pages are separated by a horizontal line. At the top of each page, the [page number] is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page, click on the relevant page number. To reduce the complex material evidence for revisions to <span class="add">additions</span> in italic green, and <span class="delete">deletions</span> in crossed-out red is of course nonsense, but I figured it would make the diplomatic more readable. Hanging indentation indicates the line continues from above, specially useful for mobile phones.
 
 ...
@@ -328,9 +317,6 @@ Through systematic codicological and textual analysis, I have argued that the sh
 [^b14]: In both cases, I owe an enormous debt of gratitude to ITEM and l'Agence Universitaire de la Francophonie. 
 
 [^b15]: In this stemma I only focus on the branch that leads to the speculative stages studied in this chapter. Many other transformations from the original TEI have already been produced in other branches, including the branch belonging to my diplomatic edition of the text published in *Césaire, Aimé. Poésie, théâtre, essais et discours.* Ed. Albert-James Arnold. Paris: CNRS, 2014. Print. Planète libre.
-
-[^b16]: I point here, not without a grin, to Peter Suber's game [Nomic](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set), where the game includes rules for changing rules in medias res.
-
 
 
 

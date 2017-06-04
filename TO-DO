@@ -36,3 +36,14 @@ This exceptional rule is a strange being with only one job—useless to a servic
 and following-sibling::*[1][starts-with(., '(')]
 
 if you go there and stand in the place where it was, it will happen again
+
+In most of these cases, the rules take on the role of an editor in search of patterns to normalize and render, but in one case the rule addresses a unique occurrence, an exception. On `P2.9` (8), at the top, the characters "Crép" are overtyped with the letter x to make way for a parentheses. The whole didascalia is eventually erased. As a general rule, I've omitted all minor overtypes, but I wanted to keep this one because it calls attention to the vascillation in this stage direction: from none, to one, to none again on the previous page. Instead of quickly editing the text at the tail end of the algorithmic transformation, as a sane person would, I created a rule to make the edit. And staying true to form, rather than a simple find and replace for the sequence "Crép", I chose a rule that understands the exception from a bibliographic point of view:
+
+~~~         
+<xsl:template match="tei:del[@rend='overprint']">
+  <xsl:choose>
+    <xsl:when test="substring(text(),1,3) = substring(following-sibling::*[1]/text(),2,3) and text()[not(starts-with(., '('))] and following-sibling::*[1][starts-with(., '(')]">
+...
+~~~
+
+The rule basically says: find all the cases that have been overtyped, then for each one check to see if the following segment begins with the same three letters, except with a parentheses; if so, include and style this segment as a deletion. In short, my own rationale for making the choice. This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose from the empirical exception[^b16], *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustanden*, human-machine labor relations, etc. The immediate point of the exercise, though, is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce a purposeful speculative stage.
