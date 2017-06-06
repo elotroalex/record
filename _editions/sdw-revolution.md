@@ -82,6 +82,10 @@ nous sommes venus vous offrir. Miséricorde pour tous, et pour tous la liberté.
 
 ---
 
+[missing pages]
+
+---
+
 - {:.speaker} **Toussaint** *(l'arrêtant.)* 
 
 - Arrière Dessalines. Je suis seul chef ici, et ces hommes m’appartiennent. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
