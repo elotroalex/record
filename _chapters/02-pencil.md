@@ -192,7 +192,31 @@ Together with the markup choices in the TEI file, the set of rules encoded in th
 ...
 
 
-Without revisions, "Toussaint King" is set during the middle to late period of the Haitian Revolution, with references to Toussaint’s takeover of the Spanish part of the island, the defeat of the British forces, and an enactment of Toussaint’s capture. In "Toussaint Prince," with a few masterful strokes, Césaire will bring the action to the early period of the French Revolution, erasing most references to the middle to late period of the Haitian Revolution, and casting the surviving ones as prophecy.
+Without revisions, "Toussaint King" is set during the middle to late period of the Haitian Revolution, with references to Toussaint’s takeover of the Spanish part of the island, the defeat of the British forces, and an enactment of Toussaint’s capture. In "Toussaint Prince," with a few masterful strokes, Césaire will bring the action to the early period of the French Revolution, erasing most references to the middle to late period of the Haitian Revolution, and casting the surviving ones as prophecy. Both "Toussaint King" and "Toussaint Prince," though, crown Toussaint Louverture as the central subject of the drama, through several distinct episodes following or preceding the bulk of "Revolution Rising" focused on the tragic figure. 
+
+In "Toussaint King" the new action begins soon after the explosion of "Haïti, Haïti" on the phosphorescent sea at the end of "Revolution Rising," which is incorporated as its first twenty pages. We do not know exactly what the first two pages of `P2` contained, but when the action resumes on `P2.3` (2), the Reciter and Toussaint have the stage.
+
+The Reciter begins with a trope, prevalent throughout the drama, that I would like to call for now—pace T.S. Eliot—*the revolutionary correlative*: a poetic vision of violent/revolutionary phenomena, drawing its vehicles from nature. It is safe to say that these tropes characterize a large part of the poetry of CRR and Toussaint. Here is the example that opens `P2`:
+
+> En marge des marées sautillantes, je marche sur l’eau des printemps tournants ; j’aperçois très haut mes yeux de sentinelle. L’insomnie à toute épreuve grandit comme une désobéissance le long des tempes libres de la femme à l’emphore, verseau, verseau tempête de germes, bouilloire.[^53]\(2)
+
+Toussaint Louverture trails these lines, making himself the locus of the violence by becoming intertwined with the landscape around him. This subtle poetic mechanism marks the passage between the revolution to Toussaint, as he begins to embody the former. In a similar vein, the temptations of the revolutionary crowd we saw in "Revolution Rising" will become the temptations of Toussaint.
+
+On the next page, the scene is grounded roughly at the moment when the city of Saint-Marc surrenders, and the Reciter announces the imminent arrival of the messenger of the king[^54], approaching serpent-like, full of promises. Instead of the messenger, but certainly prefiguring him, Toussaint encounters two “*voix tentatrices*”[^55] who offer him riches and titles, in a scene reminiscent of the temptation of Christ, yet more to the point, the temptations of Job. At this moment, the Chorus divines that Toussaint could be King after all:
+
+> J’ai interrogé les dés sacrés. Je dis qu’il habite en toi un être royal sommeillant sur un lit étroit.[^b19]
+
+The theme of temptation will become the dominant structuring feature of all published versions of the text, with other lures confronting the Rebel. Already in the typescript we have several such encounters, the delegates of `P1` being the first. We could say much about this particular episode in `P2` where the would-be devils comment on the seductiveness of (their) language. In terms of the genesis of the text, the scene stands out because it reframes the scene with the delegates of `P1`, as a scene of seduction. The seduction, in turn, sets up the ‘beautiful’ words of deceit against the avowedly ‘truthful’ poetry of Toussaint—and as a result, the drama as a battle for the power of words. But we digress...
+
+Following the temptation, Toussaint and CRR will engage in a series of long exchanges over freedom, truth, revolution, sight, and a series of other central themes. As a result of this long exchange, we start moving away from any purported historical action to a poetic recasting of the hero as the center of the revolution. CRR declares Toussaint a king, and in the same breath, CRR predicts his death. Toussaint accepts his fate and vows to die “naked.” Just as he laments that his message might fall on deaf ears, he meditates on the reverberation of radical action. This is also the episode where Toussaint names his enemy as “Colomb” and addresses him in lines of exquisite anguish.
+
+In the final episode of "Toussaint King" Toussaint confronts the crowds. They arrive on the stage ready to burn him. Rabble-rousers attempt to convince them that Toussaint is putting their lives in danger (yet another temptation), but Toussaint is able to sway them to the fight at hand by harshly scolding them for their cowardice. At the end of the episode the revolution continues, or is about to begin, or has just begun, but it is no longer the central focus of the play. The internal struggle of Toussaint the hero has taken over, and with this twist, historicity (and chronology) begins to erode in earnest.
+
+---
+
+In "Toussaint Prince" all that was the continuation of "Revolution rising" becomes its prophecy and prelude. Several of the episodes decidedly change their thrust with a few flicks of the pen and pencil. In "Toussaint King" the rebels confronting Toussaint, for example, could well have coincided with his lack of support in 1801, when Leclerc landed 20,000 troops.
+
+---
 
 Here's a typical example from `P2.11` placing the action in 1801:
 
@@ -220,25 +244,6 @@ To accommodate this temporal recasting, the grammatical tense goes from *passé 
 
 The tense is adapting to the temporal model established by "Revolution Rising". In the first version of `P2`, the action follows `P1`, therefore the past tense is appropriate. As the timeframe moves to the French Revolution, the tense appropriately changes to the future. The passage refers, of course, to Toussaint’s past or future involvement in the Haitian Revolution. Several other changes will confirm this temporal reorientation, with the strange consequence that the narrations of CRR become *proleptic*, as we saw above, or as I have no reservations calling them, *prophetic*.
 
-The most consequential event of "Toussaint King" is the coronation of Toussaint Louverture as the central subject of the drama. This speculative stage unfolds in several distinct episodes following the bulk of "Revolution Rising." We do not know exactly what the first two pages of `P2` contained, but when the action resumes on `P2.3` (2), the Reciter and Toussaint have the stage.
-
-The Reciter begins with a trope, prevalent throughout the drama, that I would like to call for now—pace T.S. Eliot—*the revolutionary correlative*: a poetic vision of violent/revolutionary phenomena, drawing its vehicles from nature. It is safe to say that these tropes characterize a large part of the poetry of CRR and Toussaint. Here is the example that opens `P2`:
-
-> En marge des marées sautillantes, je marche sur l’eau des printemps tournants ; j’aperçois très haut mes yeux de sentinelle. L’insomnie à toute épreuve grandit comme une désobéissance le long des tempes libres de la femme à l’emphore, verseau, verseau tempête de germes, bouilloire.[^53]\(2)
-
-Toussaint Louverture trails these lines, making himself the locus of the violence by becoming intertwined with the landscape around him. This subtle poetic mechanism marks the passage between the revolution to Toussaint, as he begins to embody the former. In a similar vein, the temptations of the revolutionary crowd we saw in "Revolution Rising" will become the temptations of Toussaint.
-
-On the next page, the scene is grounded roughly at the moment when the city of Saint-Marc surrenders, and the Reciter announces the imminent arrival of the messenger of the king[^54], approaching serpent-like, full of promises. Instead of the messenger, but certainly prefiguring him, Toussaint encounters two “*voix tentatrices*”[^55] who offer him riches and titles, in a scene reminiscent of the temptation of Christ, yet more to the point, the temptations of Job. At this moment, the Chorus divines that Toussaint could be King after all:
-
-> J’ai interrogé les dés sacrés. Je dis qu’il habite en toi un être royal sommeillant sur un lit étroit.[^b19]
-
-The theme of temptation will become the dominant structuring feature of all published versions of the text, with other lures confronting the Rebel. Already in the typescript we have several such encounters, the delegates of `P1` being the first. There is much to be said about this particular episode in `P2` where the would-be devils comment on the seductiveness of (their) language. In terms of the genesis of the text, the scene stands out because it reframes the scene with the delegates of `P1`, as a scene of seduction. The seduction, in turn, sets up the ‘beautiful’ words of deceit against the avowedly ‘truthful’ poetry of Toussaint—and as a result, the drama as a battle for the power of words.
-
-Following the temptation, Toussaint and CRR will engage in a series of long exchanges over freedom, truth, revolution, sight, and a series of other central themes. As a result of this long exchange, we start moving away from any purported historical action to a poetic recasting of the hero as the center of the revolution. CRR declares Toussaint a king, and in the same breath, CRR predicts his death. Toussaint accepts his fate and vows to die “naked.” Just as he laments that his message might fall on deaf ears, he meditates on the reverberation of radical action. This is also the episode where Toussaint names his enemy as “Colomb” and addresses him in lines of exquisite anguish.
-
-In the final episode of "Toussaint King" Toussaint confronts the crowds. They arrive on the stage ready to burn him. Rabble-rousers attempt to convince them that Toussaint is putting their lives in danger (yet another temptation), but Toussaint is able to sway them to the fight at hand by harshly scolding them for their cowardice. At the end of the episode the revolution continues, or is about to begin, or has just begun, but it is no longer the central focus of the play. The internal struggle of Toussaint the hero has taken over, and with this twist, historicity (and chronology) begins to erode in earnest.
-
-In "Toussaint Prince" all that was the continuation of "Revolution rising" becomes its prophecy and prelude. Several of the episodes decidedly change their thrust with a few flicks of the pen and pencil. In "Toussaint King" the rebels confronting Toussaint 
 
 ## the scaffold
 
