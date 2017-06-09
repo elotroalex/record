@@ -97,7 +97,7 @@ author: alex gil
 - {:.prose .prose-indent} <span class="delete">A tout péché miséricorde... Une amnistie, voilà ce que nous </span> <span class="delete">sommes venus vous offrir. Miséricorde pour tous, et pour  tous la</span> <span class="delete">liberté.</span>
 
 <hr>
-<p>[missing pages]</p>
+<p style="color:gray">[missing pages]</p>
 <hr>
 
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}            
@@ -611,7 +611,7 @@ author: alex gil
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes <span class="delete">pauvres</span> enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore.... mes jambes...
+- {:.prose .prose-indent} Courage mes <span class="delete">pauvres</span> enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore...Aïe. mes jambes...
 
 
 <em>Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.</em>
@@ -737,7 +737,7 @@ author: alex gil
 
 - {:.speaker} Le chœur <em>(enthousiaste.)</em>
 
-- {:.indent-2} 
+- {:.indent-2} Haïti. Haïti.
 
 
 <em>(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
@@ -747,6 +747,8 @@ author: alex gil
 
 - Froid cœur de la mort, la lagune a dégainé son  poignard.
 
+<hr>
+<p style="color:gray">[missing pages]</p>
 <hr>
 
 [ 2 ](/data/sdw-data/P002.jpg){: target='_blank'}            
@@ -933,12 +935,12 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} <span class="delete">Goût des ruines; baisers ; </span> la lune décroit, le roi se cache.
+- {:.indent-2} <span class="delete">Goût des ruines ; baisers ; </span> la lune décroit, le roi se cache.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne veux pas être le grain de parfum o se résume et se fète l’innombrable sacrifice des roses désarmées.
+- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fète l’innombrable sacrifice des roses désarmées.
 
 
 - {:.speaker} Le récitant.

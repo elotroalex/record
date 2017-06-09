@@ -822,8 +822,9 @@
                                     <orig>choeur</orig>
                                     <reg>chœur</reg>
                                 </choice></hi>.</speaker>
-                        <ab rend="indent"><del hand="#l_p" status="partial">Goût des ruines;
-                                    baisers<reg><space/></reg>;<space/></del>
+                        <ab rend="indent"><del hand="#l_p" status="partial">Goût des
+                                    ruines<reg><space/></reg>;
+                                baisers<reg><space/></reg>;<space/></del>
                             <!-- there might be an 's' after funèbre -->
                             <add hand="#l_p" place="above"
                             ><sic>f</sic><reg>F</reg>unèbre</add><space/>la lune décroit, le roi se
@@ -831,10 +832,10 @@
                     </sp>
                     <sp>
                         <speaker><hi rend="underlined">Toussaint</hi>.</speaker>
-                        <ab rend="indent">Je ne veux pas être le grain de parfum o<add hand="#b_i"
-                                type="accent">ù</add><space/>se résume et se fète l’<w>in<lb
-                                    rend="hyphen"/>nombrable</w><space/>sacrifice des roses
-                            désarmées.</ab>
+                        <ab rend="indent">Je ne veux pas être le grain de parfum o<del
+                                type="correction">u</del><add hand="#b_i" type="clarification"
+                                >ù</add><space/>se résume et se fète l’<w>in<lb rend="hyphen"
+                                />nombrable</w><space/>sacrifice des roses désarmées.</ab>
                     </sp>
                     <sp>
                         <speaker><hi rend="underlined">Le récitant</hi>.</speaker>
@@ -2204,7 +2205,7 @@
                             des<lb/>nuits, toutes les guêpes qui salivent la cassave des nuits,
                             toutes<lb/>les sphyrènes qui signent les dos des nuits<add hand="#l_p"
                                 place="inline">,</add><space/>ont forcé jusqu’à
-                                voir<lb/>leur<space/><sic>oeil</sic><reg>œil</reg><space/>de
+                                voir<lb/>leur<space/><orig>oeil</orig><reg>œil</reg><space/>de
                             serrure.</ab>
                     </sp>
                 </div>
@@ -2858,7 +2859,7 @@
                             >pauvres</del><space/>enfants... Courage... C’est dur tout
                                     de<space/><w>même<orig>.</orig><lb/>...</w><space/>Courir...<reg xml:space="preserve"><space/></reg>courir...
                             et se cacher dans les cannes en flèches... et<lb/>puis courir encore...
-                                <sic>Aîe</sic>. mes jambes...</ab>
+                                <sic>Aîe</sic><corr>Aïe</corr>. mes jambes...</ab>
                     </sp>
 
                     <stage type="setting"><add hand="#l_p" place="inline">(</add>Les femmes ont
@@ -3070,7 +3071,7 @@
                             </choice></speaker>
                         <stage type="delivery"> (enthousiaste<reg>.</reg>)</stage>
                         <ab rend="indent">
-                            <sic>Haiti. Hâïti.</sic>
+                            <sic>Haiti. Hâïti.</sic><reg>Haïti. Haïti.</reg>
                         </ab>
                     </sp>
 
@@ -3113,10 +3114,10 @@
                     </sp>
                     <sp>
                         <speaker>Récitant.</speaker>
-                        <ab>Me voici, l'homme-marchand aux mains vides, <sic>oeil</sic> nu su<add
-                                hand="#b_i" type="clarification">s</add>citant le
-                            spectacle,<lb/>gorge brassant vivants les mots éclos contre mes dents.
-                        </ab>
+                        <ab>Me voici, l'homme-marchand aux mains vides,
+                                <sic>oeil</sic><reg>œil</reg> nu su<add hand="#b_i"
+                                type="clarification">s</add>citant le spectacle,<lb/>gorge brassant
+                            vivants les mots éclos contre mes dents. </ab>
                     </sp>
                     <sp>
                         <speaker>Récitante.</speaker>
@@ -3141,9 +3142,9 @@
                         <speaker>Récitante.</speaker>
                         <ab>Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la
                             glace du<lb/>soleil. Il n'y a qu'à découvrir dans la boite à poudre du
-                            soleil la houppe <sic>rou<lb/>ge</sic> des fourmis venimeuses<sic>
-                                éclatés</sic> à tous vents. Ha ha on ne maquille pas
-                            le<lb/>Destin.</ab>
+                            soleil la houppe <w>rou<lb/>ge</w> des fourmis
+                                venimeuses<sic><space/></sic><space/>éclatés à tous vents. Ha ha on
+                            ne maquille pas le<lb/>Destin.</ab>
                     </sp>
                     <sp>
                         <speaker>Récitant.</speaker>
@@ -3153,7 +3154,7 @@
                                 striken out in ink.</note><lb/>vers le soleil et le soleil crépite
                             dans les <del>ceveaux</del><space/>cerveaux fermés diadème<lb/>miné
                             arbre du voyageur<space/><orig>coeur</orig><reg>cœur</reg><space/>tressé
-                                <sic>belles-eáux-souflées-haut-gelées.</sic></ab>
+                                <sic>belles-eáux-souflées-haut-gelées.</sic><reg>belles eaux souflées haut gelées.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Récitant.</speaker>

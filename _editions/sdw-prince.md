@@ -1449,7 +1449,7 @@ author: alex gil
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore.... mes jambes...
+- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore...Aïe. mes jambes...
 
 
 <em>*(*{:.add}Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes*,*{:.add} puis des mains... Ce sont des esclave*s*{:.add} qui labourent au crépuscule.*)*{:.add}</em>
@@ -1575,7 +1575,7 @@ author: alex gil
 
 - {:.speaker} Le chœur <em>(enthousiaste.)</em>
 
-- {:.indent-2} 
+- {:.indent-2} Haïti. Haïti.
 
 
 <em>(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
