@@ -3154,7 +3154,8 @@
                                 striken out in ink.</note><lb/>vers le soleil et le soleil crépite
                             dans les <del>ceveaux</del><space/>cerveaux fermés diadème<lb/>miné
                             arbre du voyageur<space/><orig>coeur</orig><reg>cœur</reg><space/>tressé
-                                <sic>belles-eáux-souflées-haut-gelées.</sic><reg>belles eaux souflées haut gelées.</reg></ab>
+                                <sic>belles-eáux-souflées-haut-gelées.</sic><reg>belles eaux
+                                souflées haut gelées.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Récitant.</speaker>
@@ -3348,7 +3349,7 @@
                         <ab>une forêt pleine de loups</ab>
                         <ab>et ils se promènent la-dedans mitre en tête</ab>
                         <ab>un plat de champignons venéneux</ab>
-                        <ab>et <sic><hi rend="underlined">i</hi>ls</sic> se jettent dessus
+                        <ab>et<space/><sic><hi rend="underlined">i</hi>ls</sic><reg>ils</reg><space/>se jettent dessus
                             goulûment.</ab>
 
                     </sp>
@@ -3384,7 +3385,7 @@
 
                         <ab>Un singe, je <del rend="overprint">singe<space/></del>suis un singe qui
                             par ses grimaces attroupe</ab>
-                        <ab>les escales de flaques d'eau de <sic>poudrières,de</sic> desespérance,
+                        <ab>les escales de flaques d'eau de <sic>poudrières,de</sic><corr>poudrières, de</corr> desespérance,
                             de famine</ab>
                         <ab>de vengeances rentrées, de détresses nucléaires, de dévotions
                             inavouables</ab>
@@ -3460,8 +3461,7 @@
                             </subst><space/>et de fossoyeurs.</ab>
                     </sp>
                     <stage type="setting">( La scène est envahie par des prêtres de tous ordres qui
-                        bénissent frénéti&#8208;<lb/>
-                        <sic>quementº)</sic>
+                        bénissent <w>frénéti<orig>&#8208;</orig><lb/>quement</w><sic>º</sic>)
                     </stage>
 
                     <sp>
@@ -3498,7 +3498,7 @@
                     </sp>
                     <stage type="setting">( à ce moment une pluie de caillo<add hand="#l_p"
                             type="clarification" place="inline">u</add>s lancés par
-                            d'invisibles<sic> mains</sic> s'abat<lb/>sur les délégations;
+                            d'invisibles<space/><sic>mains</sic><space/>s'abat<lb/>sur les délégations;
                         désarroi.)</stage>
                     <sp>
                         <speaker>Toussaint.</speaker>
@@ -3685,8 +3685,7 @@
                     <sp>
                         <speaker><hi rend="underlined">2e passant</hi>.</speaker>
                         <ab rend="indent">Encore comme ça<reg>&#160;</reg>! Les Anglais et les
-                            Espagnols mis à la raison, on renvoie<lb/>Maitre Gilles. N'empêche<sic>
-                                que</sic> ça m'emmerde qu'on dise "mon général" à un<lb/>vieux cul
+                            Espagnols mis à la raison, on renvoie<lb/>Maitre Gilles. N'empêche<sic>que</sic><space/>ça m'emmerde qu'on dise "mon général" à un<lb/>vieux cul
                             et qu'on se mette devant lui au garde à vous.</ab>
                     </sp>
                     <ab rend="centered"><hi rend="underlined">2e groupe de passants</hi>.</ab>
