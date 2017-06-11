@@ -176,6 +176,8 @@ These two early examples signal an important difference between early and late s
 
 - {:.attribution} (attributed to the historical Toussaint Louverture).
 
+<br>
+
 > Toussaint did not make the revolt. It was the revolt that made Toussaint.
 
 - {:.attribution} Scene 2, *Toussaint Louverture* by C.L.R. James (1936).
@@ -195,6 +197,8 @@ Together with the markup choices in the TEI file, the set of rules encoded in th
 ...
 
 Without revisions, the new action of "Toussaint King" begins soon after the words "Haïti, Haïti" break the "Caribbean silence" towards the end of "Revolution Rising." The new historical frame now reaches to the middle and late period of the Haitian Revolution, with references to the defeat of the British forces ("*Hurrah. Les Anglais sont perdus*"), Toussaint’s takeover of the Spanish part of the island ("*Toussaint fait son entrée solennelle à Santo Domingo*"), and an ambigous enactment of Toussaint’s capture ("*Toussaint parait enchainé, entre deux gardes en haut de la citadelle*"). In "Toussaint Prince," with a few masterful strokes, Césaire will bring the action farther back than "Revolution rising," to the early period of the French Revolution, erasing most references to the middle to late period of the Haitian Revolution, and casting the surviving ones as prophecy. One thing remains the same despite this temporal shift: both "Toussaint King" and "Toussaint Prince" crown Toussaint Louverture as the central subject of the drama.
+
+...
 
 We do not know exactly what the first two pages of `P2` consisted of, but in "Toussaint King," when the action resumes on `P2.3` (2), the Reciter and Toussaint have the stage. The Reciter begins with a trope, prevalent throughout the drama, that we could call for now—pace T.S. Eliot—*the revolutionary correlative*: a poetic vision of violent/revolutionary phenomena, drawing its vehicles from nature. It is safe to say that these tropes characterize a large part of the poetry of CRR and Toussaint. Here is the example that opens `P2`:
 
