@@ -315,7 +315,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Au nom de tous les rêves paresseux en voscœurschante le geste d’acier du matador.
+- {:.prose .prose-indent} Au nom de tous les rêves paresseux en vos cœurs, je chante le geste d’acier du matador.
 
 
 - {:.speaker} Le récitant.
@@ -588,7 +588,7 @@ author: alex gil
 
 - {:.speaker} Le récitant <em>(d’une voix cinglante.)</em>
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... , ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
 <hr>
 
@@ -617,7 +617,7 @@ author: alex gil
 <em>Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.</em>
 
 
-- {:.speaker} Ier esclave <em>(chantant.)</em>
+- {:.speaker} 1er esclave <em>(chantant.)</em>
 
 - {:.indent-2} Hé, mes amis, ho.
 

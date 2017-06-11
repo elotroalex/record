@@ -25,9 +25,13 @@ li.centered {
     text-align: center;
 }
 
-li.speaker {
+li.speaker, li.speakerGroup {
     text-align: center;
     padding-top: 1.2em;
+}
+
+li.speakerGroup {
+  margin-bottom: -1em;
 }
 
 li.attribution {
