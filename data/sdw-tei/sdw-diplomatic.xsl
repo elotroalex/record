@@ -18,14 +18,11 @@
  <xsl:template match="tei:corr"/>
 
 
- <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
-
-
  <!-- HTML wrapper | document element -->
  <xsl:template match="/">
   <xsl:text>---
         layout: poem
-        title: "diplomatic new"
+        title: "diplomatic"
         description: "" 
         author: alex gil
         ---
@@ -33,19 +30,21 @@
         (draft)
         
         </xsl:text>
-  <!--  <hr/>
+    <hr/>
   <xsl:text>
    
-  </xsl:text>-->
-  <!--  <a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>
+  <!-- Front matter -->
+  </xsl:text>
+    <a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>
   <xsl:text>            
         </xsl:text>
   <p class="centered">AIME CESAIRE.</p>
   <p class="centered">+++++++++++++</p>
   <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
   <p class="centered">( drame en trois actes )</p>
-  <p class="centered">++++++++++++++++++</p>-->
-  <!-- Select pages -->
+  <p class="centered">++++++++++++++++++</p>
+  
+  <!-- All pages -->
   <xsl:apply-templates/>
  </xsl:template>
 
@@ -260,22 +259,6 @@
 
  <!-- deletions -->
 
- <!-- <xsl:template
-  match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type = 'clarification']]"/>-->
-
-
- <!-- <xsl:template match="tei:del[@type = 'correction']"/>-->
-
- <!-- <xsl:template match="tei:sic">
-  <xsl:choose>
-   <xsl:when test="following-sibling::tei:add[1][@type = 'accent']">
-    <span class="write-over">
-     <xsl:apply-templates/>
-    </span>
-   </xsl:when>
-  </xsl:choose>
- </xsl:template>-->
-
  <xsl:template match="tei:del">
   <xsl:choose>
 
@@ -304,8 +287,5 @@
    <xsl:apply-templates/>
   </span>
  </xsl:template>
-
-
-
 
 </xsl:stylesheet>

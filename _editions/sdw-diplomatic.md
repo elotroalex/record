@@ -1,12 +1,22 @@
 ---
 layout: poem
-title: "diplomatic new"
+title: "diplomatic"
 description: "" 
 author: alex gil
 ---
 
 (draft)
 
+<hr>
+
+
+<a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>            
+
+<p class="centered">AIME CESAIRE.</p>
+<p class="centered">+++++++++++++</p>
+<p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
+<p class="centered">( drame en trois actes )</p>
+<p class="centered">++++++++++++++++++</p>
 <hr>
 
 
