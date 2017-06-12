@@ -1,14 +1,63 @@
+
+
 /* Additions to Ed */
 
+p {
+  display: inline-flex !important;
+}
 
 .add {
     color:#288828;
-    font-style: inherit;
+    font-style: italic;
+}
+
+.above {
+  bottom: 1em;
+  position: relative;
+  right: 1em;
+}
+
+.blue-ink {
+  color: #288828;
+}
+
+.light-pencil {
+  color: #AA6832;
+}
+
+.accent {
+  font-size: 1em; 
+  position: relative;
+  right: .1em;  
+}
+
+.superimposed {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+}
+
+.above-partial {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+    bottom: .3em;
+}
+
+.write-over {
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
 }
 
 .delete {
     text-decoration: line-through;
     color: #AA3232;
+}
+
+.delete-diplomatic {
+    text-decoration: line-through;
+    text-decoration-color: #AA6832;
 }
 
 .underlined{

@@ -35,13 +35,15 @@
        
         
         <!-- Select first 40 pages -->
+        <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() = 1]"/>
+        <hr/>
+        <p style="color:gray">[missing page]</p>        
+        <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt;= 2 and position() &lt;= 22]"/>
         <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt;= 23 and position() &lt;= 24]"/>
         <hr/>
         <p style="color:gray">[missing pages]</p>
         <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt;= 25 and position() &lt;= 40]"/>
-        <hr/>
-        <p style="color:gray">[missing pages]</p>        
-        <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() &gt;= 2 and position() &lt;= 22]"/>
+
         <xsl:apply-templates select="tei:TEI/tei:text/tei:body/tei:div[2]/tei:div[position() &gt;= 8 and position() &lt;= 14]"/>
         <hr/>
         <p style="color:gray">[missing page]</p>
@@ -246,7 +248,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:del[@rend='overprint']"/>
+    <xsl:template match="tei:del[contains(@rend, 'overprint')]"/>
     
     
     <xsl:template match="tei:del">

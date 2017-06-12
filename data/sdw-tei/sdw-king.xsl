@@ -204,7 +204,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:del[@rend='overprint']"/>
+    <xsl:template match="tei:del[contains(@rend, 'overprint')]"/>
     
    
     <xsl:template match="tei:del">

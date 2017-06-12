@@ -106,7 +106,7 @@
     <xsl:template match="tei:stage">
         <xsl:choose>
             
-            <xsl:when test=".[not(starts-with(., '(')) and not(descendant::tei:del[@rend='overprint'][1])]">
+            <xsl:when test=".[not(starts-with(., '(')) and not(descendant::tei:del[contains(@rend, 'overprint')][1])]">
                 <xsl:text>
             
                 </xsl:text>
