@@ -1,254 +1,310 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei" version="1.0">
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
+ exclude-result-prefixes="xs tei" version="1.0">
 
-    <!-- global settings -->
-    <xsl:output method="html"/>
-    <xsl:strip-space elements="*"/>
+ <!-- global settings -->
+ <xsl:output method="html"/>
+ <xsl:strip-space elements="*"/>
+ <xsl:template match="text()">
+  <xsl:value-of select="normalize-space(.)"/>
+ </xsl:template>
 
-    <!-- IGNORE LIST -->
-    <xsl:template match="tei:teiHeader"/>
-    <xsl:template match="tei:front/tei:titlePage"/>
-    <xsl:template match="tei:note"/>
-    <xsl:template
-        match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type = 'clarification']]"/>
-    <xsl:template match="tei:corr"/>
-    <xsl:template match="tei:reg"/>
+ <!-- IGNORE LIST -->
+ <xsl:template match="tei:teiHeader"/>
+ <xsl:template match="tei:note"/>
+ <xsl:template match="tei:front/tei:titlePage"/>
+ <xsl:template match="tei:reg"/>
+ <xsl:template match="tei:corr"/>
 
 
-    <!-- HTML wrapper | document element -->
-    <xsl:template match="/">---
+ <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
+
+
+ <!-- HTML wrapper | document element -->
+ <xsl:template match="/">
+  <xsl:text>---
         layout: poem
-        title: "the saint-dié witness"
-        description: "A draft edition of the typescript" 
+        title: "diplomatic new"
+        description: "" 
         author: alex gil
         ---
         
-        (a minimal diplomatic edition)
+        (draft)
         
-        <p>A note for readers: Individual pages are separated by a horizontal line. At the top of each page, the [page number] is indicated in brackets, and corresponds to the canonical pagination. To access the facsimile for each page, click on the relevant page number. [?Uncertain] readings are indicated in brackets with a question mark. To reduce the complex material evidence for revisions to <span style="color:#288828;font-style: italic;">additions</span> in green and italics, and <span style="color:#AA3232;">deletions</span> in red is of course nonsense, but I figured it would make the diplomatic more readable. Hanging indentation indicates the line continues from above. </p>
-           
-        
-        ---
-        
-        <a target="_blank" href="/data/sdw-data/P000.jpg">[Title]</a>
-        <xsl:text>            
         </xsl:text>
-        <p class="centered">AIME CESAIRE.</p>           
-        <p class="centered">+++++++++++++</p>
-        <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
-        <p class="centered">( drame en trois actes )</p>
-        <p class="centered">++++++++++++++++++</p>
+  <!--  <hr/>
+  <xsl:text>
+   
+  </xsl:text>-->
+  <!--  <a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>
+  <xsl:text>            
+        </xsl:text>
+  <p class="centered">AIME CESAIRE.</p>
+  <p class="centered">+++++++++++++</p>
+  <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
+  <p class="centered">( drame en trois actes )</p>
+  <p class="centered">++++++++++++++++++</p>-->
+  <!-- Select pages -->
+  <xsl:apply-templates/>
+ </xsl:template>
 
-        <xsl:apply-templates/>
-    </xsl:template>
+ <!-- #################################### -->
+ <!-- ############### TEXT ############### -->
+ <!-- #################################### -->
 
-
-
-    <!-- #################################### -->
-    <!-- ############### TEXT ############### -->
-    <!-- #################################### -->
-
-    <!-- headings: acts -->
-    <xsl:template match="tei:head">
-        <p class="centered">
-            <xsl:apply-templates/>
-        </p>
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
-
-    <!-- pages -->
-
-    <xsl:template match="tei:div[@type = 'page']">
-        <xsl:text>
-       </xsl:text>
-        <xsl:comment>New page: <xsl:value-of select="@n"/></xsl:comment>
-        <xsl:text>
-       </xsl:text>
-        <hr/>
-        <xsl:text>
-       </xsl:text>
-        <xsl:apply-templates/>
-    </xsl:template>
-
-    <!-- page numbers -->
-    <xsl:template match="tei:fw">
-        <xsl:if test="tei:locus/@scheme != '#Page'"/>
-        <xsl:if test="tei:locus/@scheme = '#Page'">
-            <xsl:variable name="pageno" select="tei:locus"/>
-            <a target="_blank"><xsl:attribute name="href"
-                    select='concat("/data/sdw-data", ../@facs)'/>[ <xsl:value-of select="tei:locus"
-                /> ]</a>
-            <xsl:text>
-                
+ <!-- headers -->
+ <xsl:template match="tei:head">
+  <xsl:choose>
+   <xsl:when test="@type = 'speakers'">
+    <xsl:text>
             </xsl:text>
-        </xsl:if>
-    </xsl:template>
+    <xsl:text>- {:.speakerGroup} </xsl:text>
+    <xsl:apply-templates/>
+   </xsl:when>
+   <xsl:otherwise>
+    <xsl:text>
+            </xsl:text>
+    <xsl:text>- {:.centered} </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>
+            </xsl:text>
+   </xsl:otherwise>
+  </xsl:choose>
+ </xsl:template>
 
-    <xsl:template match="tei:sp">
-        <xsl:apply-templates/>
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
+ <!-- pages -->
 
-    <!-- speaker + delivery -->
-    <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type = 'delivery']]]">
-        <xsl:text>- {:.centered} </xsl:text><xsl:apply-templates select="tei:speaker"/>
-            <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>        
-        <xsl:text>
+ <xsl:template match="tei:div[@type = 'page']">
+  <hr/>
+  <xsl:text>
+  </xsl:text>
+
+  <xsl:apply-templates/>
+
+ </xsl:template>
+
+
+ <!-- page numbers -->
+ <xsl:template match="tei:fw">
+  <xsl:if test="tei:locus/@scheme != '#Page'"/>
+
+  <xsl:if test="tei:locus/@scheme = '#Page'">
+   <xsl:text>
+            
+            </xsl:text>
+   <xsl:text>[ </xsl:text>
+   <xsl:value-of select="tei:locus"/>
+   <xsl:text> ]</xsl:text>
+   <xsl:text>(/data/sdw-data</xsl:text>
+   <xsl:value-of select="../@facs"/>
+   <xsl:text>){: target='_blank'}</xsl:text>
+   <xsl:text>
+    
+  </xsl:text>
+  </xsl:if>
+ </xsl:template>
+
+
+
+
+ <!-- speaker + delivery -->
+
+ <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type = 'delivery']]]">
+  <xsl:text>
+            - {:.speaker} </xsl:text>
+  <xsl:apply-templates select="tei:speaker"/>
+  <xsl:text> </xsl:text>
+
+  <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>
+
+  <xsl:text>
             
         </xsl:text>
-        <xsl:apply-templates select="tei:stage[@type = 'delivery']/following-sibling::*"/>
-        <xsl:text>
+  <xsl:apply-templates select="tei:stage[@type = 'delivery']/following-sibling::*"/>
+ </xsl:template>
+
+ <xsl:template match="tei:speaker[following-sibling::tei:stage[@type = 'delivery']]">
+  <xsl:apply-templates/>
+ </xsl:template>
+
+ <xsl:template match="tei:stage[@type = 'delivery']">
+  <xsl:apply-templates/>
+ </xsl:template>
+
+
+
+ <!-- speaker -->
+ <xsl:template match="tei:speaker">
+  <xsl:text>
+            
+       </xsl:text>
+  <xsl:text>- {:.speaker} </xsl:text>
+  <xsl:apply-templates/>
+  <xsl:text/>
+  <xsl:text>
            
        </xsl:text>
-    </xsl:template>
+ </xsl:template>
 
-    <xsl:template match="tei:speaker[following-sibling::tei:stage[@type = 'delivery']]">
-        <xsl:apply-templates/>
-    </xsl:template>
+ <!-- stage -->
+ <xsl:template match="tei:stage">
+  <xsl:text>
+            
+                </xsl:text>
 
-    <xsl:template match="tei:stage[@type = 'delivery']">
-        <xsl:text> </xsl:text><xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="tei:stage[@type = 'setting']">
-        <xsl:text>- </xsl:text><xsl:apply-templates/>
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
+  <xsl:apply-templates/>
 
-    <!-- speaker -->
-    <xsl:template match="tei:speaker">
-        <xsl:text>
-       </xsl:text>
-        <xsl:text>- {:.centered} </xsl:text><xsl:apply-templates/>        
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
+  <xsl:text>
+            
+                </xsl:text>
+ </xsl:template>
 
-    <!-- stage -->
-    <xsl:template match="tei:stage">
-        <xsl:apply-templates/>
-        <xsl:text>
-           
-       </xsl:text>
-    </xsl:template>
+  <xsl:template match="tei:stage[@rend = 'inline']">
+  <xsl:apply-templates/>
+ </xsl:template>
 
+ <!-- text blocks -->
+ <xsl:template match="tei:ab">
+  <xsl:choose>
+   <xsl:when test="descendant::tei:lb and not(@rend = 'indent')">
+    <xsl:text>- {:.prose} </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>
+                </xsl:text>
+   </xsl:when>
+   <xsl:when test="descendant::tei:lb and @rend = 'indent'">
+    <xsl:text>- {:.prose .prose-indent} </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>
+                </xsl:text>
+   </xsl:when>
+   <xsl:when test="not(descendant::tei:lb) and @rend = 'indent'">
+    <xsl:text>- {:.indent-2} </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>
+                </xsl:text>
+   </xsl:when>
+   <xsl:otherwise>
+    <xsl:text>- </xsl:text>
+    <xsl:apply-templates/>
+    <xsl:text>
+                </xsl:text>
+   </xsl:otherwise>
+  </xsl:choose>
 
-    <xsl:template match="tei:stage[@rend = 'inline']">
-        <span class="stage">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
-
-    <!-- text blocks -->
-    <xsl:template match="tei:ab">
-        <xsl:text>- </xsl:text>
-        <xsl:apply-templates/>
-        <xsl:text>
-       </xsl:text>
-    </xsl:template>
-
-    <xsl:template match="tei:ab[@rend = 'indent']">
-        <xsl:text>- {:.indent-3} </xsl:text>
-        <xsl:apply-templates/>
-        <xsl:text>
-       </xsl:text>
-    </xsl:template>
-    
-    <!-- line breaks -->
-
-    
-    <xsl:template match="tei:lb">
-        <xsl:text>
-       - </xsl:text>
-    </xsl:template>
-
-    <!-- ########################################### -->
-    <!-- ## Transcription and decorative elements ## -->
-    <!-- ########################################### -->
-
-    <!-- add -->
-    <xsl:template match="tei:add">
-        <xsl:choose>
-
-            <xsl:when test="@place = 'above'">
-                <span class="add above">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'below'">
-                <span class="add below">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'bottom'">
-                <span class="add below">
-                    <xsl:text>&#160;|&#160;</xsl:text>
-                    <xsl:apply-templates/>
-                    <xsl:text>&#160;|&#160;</xsl:text>
-                </span>
-            </xsl:when>
-            <xsl:when test="@place = 'margin'">
-                <span class="add margin">
-                    <xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
-                    <xsl:apply-templates/><xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
-                </span>
-            </xsl:when>
-            <xsl:otherwise>
-                <span class="add">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
+ </xsl:template>
 
 
-    <!-- del -->
-    <xsl:template name="del" match="tei:del">
-        <xsl:choose>
 
-            <!-- double-check -->
-            <xsl:when test="self::tei:del[@seq = '2']">
-                <span class="delete add">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:when>
-            <!-- -->
+ <xsl:template match="tei:lb">
+  <br/>
+ </xsl:template>
 
-            <xsl:otherwise>
-                <span class="delete">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
 
-    <!-- unclear -->
-    <xsl:template match="tei:unclear">
-        <span class="unclear"> [?<xsl:apply-templates/>] </span>
-    </xsl:template>
 
-    <!-- random underscored elements -->
-    <xsl:template match="tei:hi[@rend = 'underlined']">
-        <span class="underlined">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
 
-    <!-- normalize space -->
-<!--    <xsl:template match="*/text()[normalize-space()]">
-        <xsl:value-of select="normalize-space()"/>
-    </xsl:template>-->
-    
-<!--    <xsl:template match="*/text()[not(normalize-space())]" />-->
+ <!-- ########################################### -->
+ <!-- ## Transcription and decorative elements ## -->
+ <!-- ########################################### -->
+
+ <!-- add -->
+
+
+ <xsl:template match="tei:add">
+  <xsl:choose>
+   <xsl:when test="@place = 'bottom'">
+    <span class="add below">
+     <xsl:text>&#160;|&#160;</xsl:text>
+     <xsl:apply-templates/>
+     <xsl:text>&#160;|&#160;</xsl:text>
+    </span>
+   </xsl:when>
+   <xsl:when test="@place = 'margin'">
+    <span class="add margin">
+     <xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
+     <xsl:apply-templates/><xsl:text>&#160;</xsl:text>|<xsl:text>&#160;</xsl:text>
+    </span>
+   </xsl:when>
+   <xsl:otherwise>
+    <span>
+     <xsl:attribute name="class">
+      <xsl:text>add </xsl:text>
+      <xsl:value-of select="@rend"/>
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="@place"/>
+     </xsl:attribute>
+     <xsl:apply-templates/>
+    </span>
+   </xsl:otherwise>
+  </xsl:choose>
+ </xsl:template>
+
+ <xsl:template match="tei:add[@type = 'accent']">
+  <span>
+   <xsl:attribute name="class">
+    <xsl:text>add </xsl:text>
+    <xsl:value-of select="@rend"/>
+    <xsl:text> accent</xsl:text>
+   </xsl:attribute>
+   <xsl:apply-templates/>
+  </span>
+ </xsl:template>
+
+ <!-- special spaces -->
+ <xsl:template match="tei:space">
+  <xsl:text>&#32;</xsl:text>
+ </xsl:template>
+
+
+
+ <!-- deletions -->
+
+ <!-- <xsl:template
+  match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type = 'clarification']]"/>-->
+
+
+ <!-- <xsl:template match="tei:del[@type = 'correction']"/>-->
+
+ <!-- <xsl:template match="tei:sic">
+  <xsl:choose>
+   <xsl:when test="following-sibling::tei:add[1][@type = 'accent']">
+    <span class="write-over">
+     <xsl:apply-templates/>
+    </span>
+   </xsl:when>
+  </xsl:choose>
+ </xsl:template>-->
+
+ <xsl:template match="tei:del">
+  <xsl:choose>
+
+   <!-- overwritten -->
+   <xsl:when test="self::tei:del[@rend = 'overwritten']">
+    <span class="delete write-over">
+     <xsl:apply-templates/>
+    </span>
+   </xsl:when>
+
+   <xsl:otherwise>
+    <span class="delete">
+     <xsl:apply-templates/>
+    </span>
+   </xsl:otherwise>
+  </xsl:choose>
+ </xsl:template>
+
+
+ <!-- unclear -->
+ <xsl:template match="tei:unclear[@confidence &lt; 0.5]">
+  <span class="unclear"> [<xsl:apply-templates/>] </span>
+ </xsl:template>
+ <xsl:template match="tei:unclear[@confidence >= 0.5]">
+  <span class="unclear">
+   <xsl:apply-templates/>
+  </span>
+ </xsl:template>
+
 
 
 
