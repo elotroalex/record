@@ -20,12 +20,12 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- Je dis que<span class="add  above">ce pays</span>est un ulcère.
+- Je dis que ce pays est un ulcère.
 
 
 - {:.speaker} Le récitant.
 
-- Je dis que cette terre brûle.
+- Je dis que <span class="add">cette</span> terre brûle.
 
 
 - {:.speaker} La récitante.
@@ -41,7 +41,7 @@ author: alex gil
 - {:.speaker} La récitante.
 
 - Ce pays est maudit.
-- {:.prose} Ce pays ba<span class="add blue-ink accent">̂</span><span class="write-over">I</span><span class="add blue-ink above-partial">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
+- {:.prose} Ce pays ba<span class="add blue-ink accent">̂</span><span class="write-over">I</span><span class="add blue-ink  above-partial">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
 
 
 - {:.speaker} Le récitant.
