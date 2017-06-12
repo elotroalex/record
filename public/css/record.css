@@ -1,0 +1,119 @@
+/* Record */
+
+/* Diplomatic */
+
+/*.diplomatic {
+  font-family: "Courier New", monospace;
+  font-size: 16px;
+}
+
+.diplomatic ul {
+  list-style: none;
+  list-style-type: none;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}*/
+
+.add {
+    color:#288828;
+    font-style: italic;
+}
+
+/*.above {
+  bottom: 1em;
+  position: relative;
+  right: 1em;
+}*/
+
+/*.blue-ink {
+  color: #288828;
+}
+
+.light-pencil {
+  color: #AA6832;
+}*/
+
+/*.accent {
+  font-size: 1em; 
+  position: relative;
+  right: .1em;  
+}*/
+
+/*.superimposed {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+}*/
+
+/*.above-partial {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+    bottom: .3em;
+}
+
+.write-over {
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}*/
+
+.delete {
+    text-decoration: line-through;
+    color: #AA3232;
+}
+
+/*.delete-diplomatic {
+    text-decoration: line-through;
+    text-decoration-color: #AA6832;
+}*/
+
+.underlined{
+    text-decoration:underline;
+}
+
+strong {
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: .9rem;
+}
+
+li.centered {
+    text-align: center;
+}
+
+li.speaker, li.speakerGroup {
+    text-align: center;
+}
+
+li.speakerGroup {
+  margin-bottom: -1em;
+}
+
+li.attribution {
+  text-align: right;
+  list-style: none;
+  padding: 0rem 1.5rem 0rem 2rem;
+  margin: 0 0 20px 0; 
+  color: #454545;
+}
+
+li.prose { 
+  list-style-position: inside;
+  margin-left: -1em;
+  text-indent: 0;
+}
+
+li.prose-indent {
+  text-indent: 2rem;
+}
+
+
+.didascalia {
+  font-style: italic;
+}
+
+#broken {
+  vertical-align: middle;
+/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
+}

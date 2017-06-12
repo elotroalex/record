@@ -46,8 +46,7 @@
   <p class="centered">( drame en trois actes )</p>
   <p class="centered">++++++++++++++++++</p>-->
   <!-- Select pages -->
-  <xsl:apply-templates
-   select="tei:TEI/tei:text/tei:body/tei:div[1]/tei:div[position() >= 1 and position() &lt;= 2]"/>
+  <xsl:apply-templates/>
  </xsl:template>
 
  <!-- #################################### -->
@@ -77,8 +76,10 @@
  <!-- pages -->
 
  <xsl:template match="tei:div[@type = 'page']">
-
   <hr/>
+  <xsl:text>
+  </xsl:text>
+
   <xsl:apply-templates/>
 
  </xsl:template>
@@ -98,8 +99,9 @@
    <xsl:text>(/data/sdw-data</xsl:text>
    <xsl:value-of select="../@facs"/>
    <xsl:text>){: target='_blank'}</xsl:text>
-   <xsl:text>            
-            </xsl:text>
+   <xsl:text>
+    
+  </xsl:text>
   </xsl:if>
  </xsl:template>
 
@@ -158,22 +160,9 @@
                 </xsl:text>
  </xsl:template>
 
- <!-- <xsl:template match="tei:stage[@rend = 'inline']">
-  <xsl:choose>
-   <xsl:when test="./tei:add[starts-with(., '(')]">
-
-    <xsl:text>(</xsl:text>
-    <xsl:apply-templates/>
-    <xsl:text>)</xsl:text>
-
-   </xsl:when>
-   <xsl:otherwise>
-
-    <xsl:apply-templates/>
-
-   </xsl:otherwise>
-  </xsl:choose>
- </xsl:template>-->
+  <xsl:template match="tei:stage[@rend = 'inline']">
+  <xsl:apply-templates/>
+ </xsl:template>
 
  <!-- text blocks -->
  <xsl:template match="tei:ab">
@@ -209,21 +198,9 @@
 
 
  <xsl:template match="tei:lb">
-  <xsl:choose>
-   <xsl:when test="@type = 'implied'">
-    <xsl:text>
-            
-            </xsl:text>
-   </xsl:when>
-   <xsl:otherwise>
-    <xsl:text> </xsl:text>
-   </xsl:otherwise>
-  </xsl:choose>
+  <br/>
  </xsl:template>
 
- <xsl:template match="tei:lb[parent::tei:w]">
-  <xsl:text/>
- </xsl:template>
 
 
 
@@ -232,8 +209,8 @@
  <!-- ########################################### -->
 
  <!-- add -->
- 
- 
+
+
  <xsl:template match="tei:add">
   <xsl:choose>
    <xsl:when test="@place = 'bottom'">
@@ -262,8 +239,8 @@
    </xsl:otherwise>
   </xsl:choose>
  </xsl:template>
- 
- <xsl:template match="tei:add[@type='accent']">
+
+ <xsl:template match="tei:add[@type = 'accent']">
   <span>
    <xsl:attribute name="class">
     <xsl:text>add </xsl:text>
@@ -283,13 +260,13 @@
 
  <!-- deletions -->
 
-<!-- <xsl:template
+ <!-- <xsl:template
   match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type = 'clarification']]"/>-->
- 
- 
-<!-- <xsl:template match="tei:del[@type = 'correction']"/>-->
- 
-<!-- <xsl:template match="tei:sic">
+
+
+ <!-- <xsl:template match="tei:del[@type = 'correction']"/>-->
+
+ <!-- <xsl:template match="tei:sic">
   <xsl:choose>
    <xsl:when test="following-sibling::tei:add[1][@type = 'accent']">
     <span class="write-over">
@@ -304,13 +281,13 @@
 
    <!-- overwritten -->
    <xsl:when test="self::tei:del[@rend = 'overwritten']">
-    <span class="write-over">
+    <span class="delete write-over">
      <xsl:apply-templates/>
     </span>
    </xsl:when>
 
    <xsl:otherwise>
-    <span class="delete-diplomatic">
+    <span class="delete">
      <xsl:apply-templates/>
     </span>
    </xsl:otherwise>
@@ -327,7 +304,7 @@
    <xsl:apply-templates/>
   </span>
  </xsl:template>
- 
+
 
 
 

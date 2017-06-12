@@ -25,6 +25,36 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>sdw-scaffold.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>sdw-scaffold</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sdw-revolution.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>sdw-revolution</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>sdw-king.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -55,21 +85,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-scaffold.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>sdw-scaffold</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>sdw-diplomatic.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -90,21 +105,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>sdw-text</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sdw-revolution.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>sdw-revolution</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1057,10 +1057,10 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>/Users/elotroalex/www/project-x/_editions/sdw-diplomatic-new.md</File>
+                                    <File>/Users/elotroalex/www/project-x/_editions/sdw-diplomatic.md</File>
                                 </field>
                                 <field name="outputResource">
-                                    <String>/Users/elotroalex/www/project-x/_editions/sdw-diplomatic-new.md</String>
+                                    <String>/Users/elotroalex/www/project-x/_editions/sdw-diplomatic.md</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
