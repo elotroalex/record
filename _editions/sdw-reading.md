@@ -10,19 +10,15 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 ---
 
-
-<br>
-
 - {:.centered} AIMÉ CÉSAIRE.
+- {:.centered} +++++++++++++
+
 
 - {:.centered} ...ET LES CHIENS SE TAISAIENT.
 - {:.centered} ( Drame en trois actes )
-
-<br>    
+- {:.centered} ++++++++++++++++++       
 
 <hr align="center" width="50%" class="flourish">
-
-
 <hr>
 
 
@@ -184,7 +180,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - de la charogne et de la boue.
 
 
-- {:.speaker} 3ème voix tentatrice.
+- {:.speaker} 3e voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 
@@ -736,7 +732,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Toussaint.
 
-- Dans vos voix de chacal,le bien-être des muselières.
+- Dans vos voix de chacal, le bien-être des muselières.
 
 
 - {:.speaker} La foule.

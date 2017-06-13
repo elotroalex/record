@@ -625,7 +625,7 @@
                         <speaker>
                             <subst>
                                 <add rend="blue-ink" place="inline">3<hi rend="superscript">
-                                        <hi rend="double-underlined">ème</hi>
+                                        <orig><hi rend="double-underlined">ème</hi></orig><reg>e</reg>
                                     </hi></add>
                                 <del rend="blue-ink"><hi rend="underlined">2e</hi></del>
                             </subst><hi rend="underlined"> voix tentatrice</hi>.</speaker>
@@ -1478,8 +1478,8 @@
                         <speaker><hi rend="underlined">Toussaint</hi>.</speaker>
                         <ab><sic>d</sic><reg>D</reg>ans vos voix de chacal<add place="inline">,</add>
                             <subst>
-                                <del rend="#d_p">la nostalgie</del>
-                                <add rend="#d_p" place="above">le bien-être</add>
+                                <del rend="#d_p"> la nostalgie</del>
+                                <add rend="#d_p" place="above"> le bien-être</add>
                             </subst> des muselières.</ab>
                     </sp>
                     <sp>
@@ -1583,8 +1583,8 @@
                         <ab>sans autre chose qui vous tienne chaud au <del rend="overprint"
                                     ><orig>coeur</orig><reg>cœur</reg>
                             </del>sang</ab>
-                        <ab>que de regarder glouter jusqu’à mi-verre<add rend="light-pencil" place="inline">,</add>
-                            votre rhum</ab>
+                        <ab>que de regarder glouter jusqu’à mi-verre<add rend="light-pencil" 
+                            place="inline">,</add> votre rhum</ab>
                         <ab>antillais...</ab>
                         <ab>Âmes de morue.</ab>
 
