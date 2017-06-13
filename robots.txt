@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /editions/sdw-*.html
+Disallow: /editions/sdw-reading.html
+Disallow: /editions/sdw-diplomatic.html

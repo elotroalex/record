@@ -1,22 +1,26 @@
 ---
 layout: poem
-title: "reading edition"
-description: "A reading edition of the Saint-Dié Witness" 
+title: "reading edition: ...et les chiens se taisaient"
+description: "An interpretation of the final stage of the Saint-Dié witness." 
 author: Aimé Césaire
 editor: alex gil
 ---
 
-An interpretation of the final stage of the Saint-Dié witness of 
-"...Et le chiens se taisaient" by Aimé Césaire.
+An interpretation of the final stage of the Saint-Dié witness.
 
 ---
 
+
+<br>
+
 - {:.centered} AIMÉ CÉSAIRE.
-- {:.centered} +++++++++++++
-- 
+
 - {:.centered} ...ET LES CHIENS SE TAISAIENT.
 - {:.centered} ( Drame en trois actes )
-- {:.centered} ++++++++++++++++++
+
+<br>    
+
+<hr align="center" width="50%" class="flourish">
 
 
 <hr>
