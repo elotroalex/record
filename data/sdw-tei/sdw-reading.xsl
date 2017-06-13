@@ -33,7 +33,7 @@
 
     <!-- IGNORE LIST -->
     <xsl:template match="tei:teiHeader"/>
-        <xsl:template match="tei:note"/>
+    <xsl:template match="tei:note"/>
     <xsl:template match="tei:front/tei:titlePage"/>
     <xsl:template match="tei:orig"/>
 
@@ -42,20 +42,35 @@
     <xsl:template match="/">
         <xsl:text>---
         layout: poem
-        title: "reading"
-        description: "" 
-        author: alex gil
+        title: "reading edition"
+        description: "A reading edition of the Saint-Dié Witness" 
+        author: Aimé Césaire
+        editor: alex gil
         ---
         
-        (draft)
+        An interpretation of the final stage of the Saint-Dié witness of 
+        "...Et le chiens se taisaient" by Aimé Césaire.
         
+        ---
+        
+        - {:.centered} AIMÉ CÉSAIRE.
+        - {:.centered} +++++++++++++
+        - 
+        - {:.centered} ...ET LES CHIENS SE TAISAIENT.
+        - {:.centered} ( Drame en trois actes )
+        - {:.centered} ++++++++++++++++++
+
+            
         </xsl:text>
-        
+       
+
         <!-- Select all pages -->
         <xsl:apply-templates/>
         <xsl:text>
             
             ---
+            
+            ## Footnotes
             
         </xsl:text>
         <xsl:apply-templates select="//tei:note[@type = 'scholarly']" mode="content"/>
@@ -65,8 +80,19 @@
     <!-- #################################### -->
     <!-- ############### TEXT ############### -->
     <!-- #################################### -->
+    
+    <!-- pages -->
+    
+    <xsl:template match="tei:div[@type = 'page']">
+        <hr/>
+        <xsl:text>
+  </xsl:text>
+        
+        <xsl:apply-templates/>
+        
+    </xsl:template>
 
-    <!-- headers -->
+    <!-- act headers -->
     <xsl:template match="tei:head">
         <xsl:choose>
             <xsl:when test="@type = 'speakers'">
@@ -86,34 +112,38 @@
         </xsl:choose>
     </xsl:template>
 
-    <!-- pages -->
-
-    <xsl:template match="tei:div[@type = 'page']">
-
-        <hr/>
-        <xsl:apply-templates/>
-
-    </xsl:template>
 
 
-    <!-- page numbers -->
+    <!-- page numbers and curtains -->
     <xsl:template match="tei:fw">
-        <xsl:if test="tei:locus/@scheme != '#Page'"/>
-
-        <xsl:if test="tei:locus/@scheme = '#Page'">
-            <xsl:text>
-            
-            </xsl:text>
-            <xsl:text>[ </xsl:text>
-            <xsl:value-of select="tei:locus"/>
-            <xsl:text> ]</xsl:text>
-            <xsl:text>(/data/sdw-data</xsl:text>
-            <xsl:value-of select="../@facs"/>
-            <xsl:text>){: target='_blank'}</xsl:text>
-            <xsl:text>
+        
+            <xsl:if test="@type = 'curtain'">
+                <xsl:text>
                 
             </xsl:text>
-        </xsl:if>
+                <xsl:text>- {:.centered} </xsl:text>
+                <xsl:apply-templates/>
+                <xsl:text>
+                
+            </xsl:text>
+            </xsl:if>
+            <xsl:if test="tei:locus/@scheme != '#Page'"/>
+            
+            <xsl:if test="tei:locus/@scheme = '#Page'">
+                <xsl:text>
+            
+            </xsl:text>
+                <xsl:text>[ </xsl:text>
+                <xsl:value-of select="tei:locus"/>
+                <xsl:text> ]</xsl:text>
+                <xsl:text>(/data/sdw-data</xsl:text>
+                <xsl:value-of select="../@facs"/>
+                <xsl:text>){: target='_blank'}</xsl:text>
+                <xsl:text>
+    
+  </xsl:text>
+            </xsl:if>
+        
     </xsl:template>
 
 

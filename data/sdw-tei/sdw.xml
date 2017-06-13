@@ -6942,32 +6942,33 @@
                         <ab>et de jujubier et de perturbation et de soleil bayonnetté.</ab>
                         <stage>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires <w>brous<lb
                             rend="hyphen"/>sailles</w><sic xml:space="preserve"> </sic>, des guerriers nus 
-                            bondissent, un tam-tam bat lointainement ) </stage>
+                            bondissent, un tam-tam bat lointainement<sic xml:space="preserve"> </sic><reg>.</reg>)</stage>
                     </sp>
                     <sp>
                         <speaker>La récitante.</speaker>
-                        <ab rend="indent">O la danse des étoiles sans nom... les savanes s'animent... les pluies
-                                    <w>fu<lb rend="hyphen"/>ment</w>... des arbres inconnus tombent palmés de
-                            foudre.</ab>
+                        <ab rend="indent"><orig>O</orig><reg>Ô</reg> la danse des étoiles sans 
+                            nom... les savanes s'animent... les pluies <w>fu<lb rend="hyphen"/>ment</w>... 
+                            des arbres inconnus tombent palmés de foudre.</ab>
                     </sp>
                     <sp>
                         <speaker>Le récitant.</speaker>
                         <ab rend="indent">Qu'est ce qu'elle dit<reg>&#160;</reg>? Qu'est-ce qu'elle
                             dit<reg>&#160;</reg>?</ab>
                         <lb/>
-                        <stage>(à ce moment Toussaint se redresse<reg>.</reg>)</stage>
+                        <stage>(<orig>à</orig><reg>À</reg> ce moment Toussaint se redresse<reg>.</reg>)</stage>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
                         <ab rend="indent">les chenilles rampent vers l'auberge des bonnets de coton... La cuve de
                             la<lb/>Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha
-                                ha<reg>&#160;</reg>! le ciel<lb/>suce des poignards...Roi de Malaisie et de la fièvre
+                            ha<reg>&#160;</reg>! le ciel<lb/>suce des poignards...<reg 
+                                xml:space="preserve"> </reg>Roi de Malaisie et de la fièvre
                             pleine d'insectes mâche<lb/>bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit
                             entre tes <w>souri<lb rend="hyphen"/>res</w> blancs... Aïe<reg>&#160;</reg>! je marche dans
                             des piquants d'étoiles. Je marche... j'assume...<lb/>j'embrasse...</ab>
                         <lb/>
-                        <stage>          (<sic xml:space="preserve"> </sic>Toussaint s'affaisse, les bras étendus, poitrine contre
-                            terre).</stage>
+                        <stage><sic><space quantity="5"/></sic>(<sic xml:space="preserve"> </sic>Toussaint s'affaisse, les bras étendus, poitrine contre
+                            terre<reg>.</reg>)<orig>.</orig></stage>
                     </sp>
                 </div>
 
@@ -7030,7 +7031,8 @@
                     </sp>
                     <sp>
                         <speaker>Le récitant.</speaker>
-                        <ab rend="indent">dans la forêt les meurtrières coulent avec des rires de fontaine et les</ab>
+                        <ab rend="indent"><orig>d</orig><reg>D</reg>ans la forêt les meurtrières 
+                            coulent avec des rires de fontaine et les</ab>
                         <ab>fleuves sans signaux trament l'aventure charnue des voyages virulents</ab>
                         <ab>sang nomade en coquetterie de morts et de genèses</ab>
                         <ab>gaspille du fond des pierres trouées et de la nuit des âges</ab>
@@ -7062,21 +7064,22 @@
 
 
                     <stage><del rend="blue-ink">Au fond les murs de Saint Marc assiégé par l'armée noire de
-                            Dessalines;</del> sur le<lb/>rempart apparait une tête. L'homme se dresse, c'est le
-                            <add>«</add>négrophobe.<add>»</add></stage>
+                        Dessalines<reg>&#160;</reg>; </del><orig>s</orig><reg>S</reg>ur 
+                        le<lb/>rempart apparait une tête. L'homme se dresse, c'est le
+                        <add>«&#160;</add>négrophobe.<add>&#160;»</add></stage>
                     <sp>
-                        <speaker><add>« </add>le négrophobe.<add>»</add></speaker>
+                        <speaker><orig><add>«&#160;</add></orig>Le négrophobe.<orig><add>&#160;»</add></orig></speaker>
                         <ab>Bande de salauds<reg>&#160;</reg>! Mort aux voleurs<reg>&#160;</reg>! <add rend="blue-ink"
                                 place="inline">(</add>Des animaux qui n'ont pas d'âme à sauver<lb/>et à qui le fouet
                             prête de temps en temps un semblant de conscience.<add rend="blue-ink" place="inline"
                                 >)</add> Voleurs<reg>&#160;</reg>!<lb/>Voleurs<reg>&#160;</reg>! Les armes à
                                 la<add> </add>main, je revendique mon bien, mon troupeau, ma possession<lb/>légitime,
-                            mes esclaves<reg>&#160;</reg>!<lb/><stage>(bruit de mousqueter<add type="clarification"
-                                    >i</add>e<reg>&#160;</reg>; les nègres ont tiré<reg>&#160;</reg>; le négrophobe
-                                tombe, il est <w>aus<lb rend="hyphen"/>sitôt</w> remplacé par le <add>«</add>le
-                                    négrophile<add>»</add>.)</stage>
-                        </ab>
+                            mes esclaves<reg>&#160;</reg>!</ab>
                     </sp>
+                    <stage rend="indent">(<orig>b</orig><reg>B</reg>ruit de mousqueter<add type="clarification"
+                        >i</add>e<reg>&#160;</reg>; les nègres ont tiré<reg>&#160;</reg>; le négrophobe
+                        tombe, il est <w>aus<lb rend="hyphen"/>sitôt</w> remplacé par le <add>«&#160;</add>le
+                        négrophile<add>&#160;»</add>.)</stage>
                     <sp>
                         <speaker>Le négrophile </speaker>
                         <stage type="delivery">(haraguant le vide<reg>.</reg>)</stage>
@@ -7090,7 +7093,7 @@
                             </subst> qui vivez dans l'obscurité, dans l'obscurité<lb/>de votre peau, dans l'obscurité de
                             vos <orig><orig>coeur</orig><reg>cœur</reg>s</orig><reg>cœurs</reg>, je veux faire
                             descendre, lait,<lb/>un rayon de lumière... d'amour. Et je ne cesserai<del>t</del> de vous
-                            appeler "mes amis"<lb/>mes amis, mes frères.<del>-</del>
+                            appeler <orig>"</orig><reg>«&#160;</reg>mes amis<orig>"</orig><reg>&#160;»</reg><lb/>mes amis, mes frères.<del>-</del>
                         </ab>
                     </sp>
                     <sp>
@@ -7112,16 +7115,16 @@
                     <sp>
                         <speaker>Le négrophile </speaker>
                         <stage type="delivery">(donnant des coups d'épée dans l'eau<reg>.</reg>)</stage>
-                        <ab>paix, paix, amour, amour.</ab>
+                        <ab><orig>p</orig><reg>P</reg>aix, paix, amour, amour.</ab>
                     </sp>
                     <sp>
                         <speaker>L'écho</speaker>
-                        <ab>amour, amour</ab>
+                        <ab><orig>a</orig><reg>A</reg>mour, amour</ab>
                     </sp>
                     <sp>
                         <speaker>Le négrophile </speaker>
                         <stage type="delivery">(désespéré<reg>.</reg>)</stage>
-                        <ab>ô peuple égaré,</ab>
+                        <ab><orig>ô</orig><reg>Ô</reg> peuple égaré,</ab>
                         <ab>ô insensés</ab>
                         <ab>lâchez vos armes homicides</ab>
                     </sp>
@@ -7148,8 +7151,10 @@
                     </sp>
                     <sp>
                         <speaker>Le négrophile </speaker>
-                        <ab><stage>(<sic xml:space="preserve"> </sic>bruit de mousqueter<add>i</add>e<reg>.</reg>)</stage> Mes frères, mes
-                            frères&#160;! <stage>(<sic xml:space="preserve"> </sic>le négrophile tombe<reg>.</reg>)</stage></ab>
+                        <ab><stage>(<sic xml:space="preserve"> </sic><orig>b</orig><reg>B</reg>ruit de 
+                            mousqueter<add>i</add>e<reg>.</reg>)</stage> Mes frères, mes
+                            frères&#160;! <stage>(<sic xml:space="preserve"> </sic><orig>l</orig><reg>L</reg>e 
+                                négrophile tombe<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
                         <speaker>Récitante</speaker>
@@ -7225,7 +7230,7 @@
                                 <del rend="blue-ink">épales</del>
                                 <add rend="blue-ink" type="clarification">épaules</add>
                             </subst> de l'eau bouillante nos <add place="above" rend="blue-ink">fesses</add> scarifiées
-                            se mirent à crier vengeance;</ab>
+                            se mirent à crier vengeance<reg>&#160;</reg>;</ab>
                         <ab>à l'heure rouge des miracles</ab>
                         <ab>liberté belle de nuit éclose au caillebotis et fumier de jambes coupées</ab>
                         <ab>les chenilles rugissaient sur le pont</ab>
@@ -7256,7 +7261,7 @@
                         <ab>et une virginité saignait cette nuit là</ab>
                         <ab>timonnier de la nuit peuplée de soleils et d'arc-en ciel</ab>
                         <ab>timonnier de la<del>n</del> mer et de mort</ab>
-                        <ab>liberté ô magrande<add> </add>bringue les<del>h</del> jambes poisseuses du sang neuf</ab>
+                        <ab>liberté ô ma grande<add> </add>bringue les<del>h</del> jambes poisseuses du sang neuf</ab>
                         <ab>ton cri d'oiseau surpris et de fascine</ab>
                         <ab>et de chabine au fond des eaux</ab>
                         <ab>et d'aubier et d'épreuve et de letchi triomphant</ab>
@@ -7289,12 +7294,12 @@
                     <sp>
                         <speaker>Général<del>.</del> <del>
                                 <add rend="blue-ink" place="inline">noir</add>
-                            </del><add place="inline" rend="blue-ink">négre</add></speaker>
+                            </del><add place="inline" rend="blue-ink">négre<reg>.</reg></add></speaker>
                         <ab>En avant Morne Rouge <stage rend="inline">(<sic xml:space="preserve"> </sic>charge de
                                 fantassins<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
-                        <speaker>Général<del>.</del><add place="inline" rend="blue-ink"> négre</add></speaker>
+                        <speaker>Général<del>.</del><add place="inline" rend="blue-ink"> négre<reg>.</reg></add></speaker>
                         <ab>En avant charnier ardent <stage rend="inline">(<sic xml:space="preserve"> </sic>nouvelle charge de
                                     fantassins<reg>.</reg>)</stage></ab>
                     </sp>
@@ -7309,7 +7314,8 @@
                                 place="inline" rend="light-pencil" type="clarification">-</add>Mort&#160;! <stage
                                 rend="inline">(<sic xml:space="preserve"> </sic>charge de cavalerie<reg>.</reg>)</stage>
                         </ab>
-                        <stage>(<sic xml:space="preserve"> </sic>des cris au loin&#160;: Victoire, victoire...)</stage>
+                        <stage>(<sic xml:space="preserve"> </sic><orig>d</orig><reg>D</reg>es cris au 
+                            loin&#160;: Victoire, victoire...)</stage>
                     </sp>
                     <sp>
                         <speaker>Général<del>.</del><add place="inline" rend="blue-ink"> négre</add></speaker>
@@ -7353,9 +7359,9 @@
                                 <add rend="light-pencil" place="above">flamboiement</add>
                             </subst> de mes<lb/>os dans le minuit de ma chair.</ab>
                     </sp>
-                    <stage rend="centered">
-                        <del rend="blue-ink">R I D E A U</del>
-                    </stage>
+                    <fw type="curtain"><del rend="blue-ink">R I D E A U</del></fw>
+                        
+
                 </div>
 
                 <div type="page" facs="/P107.jpg" n="107">
@@ -7387,7 +7393,7 @@
                     </sp>
                     <sp>
                         <speaker>Récitante.</speaker>
-                        <ab>lumière décomposée en chaque splendeur avare</ab>
+                        <ab><orig>l</orig><reg>L</reg>umière décomposée en chaque splendeur avare</ab>
                         <ab>cargaison de poissons d'or, <subst>
                                 <del>frutss</del>
                                 <add type="clarification" place="above" rend="blue-ink">fruits</add>
@@ -7406,28 +7412,27 @@
                                 <orig>choeur</orig>
                                 <reg>chœur</reg>
                             </choice>.</speaker>
-                        <ab>grouillement de larves, talismans sans valeur</ab>
+                        <ab><orig>g</orig><reg>G</reg>rouillement de larves, talismans sans valeur</ab>
                         <ab>îles</ab>
                         <ab>terres silencieuses</ab>
-                        <ab>îles tronquées</ab>
+                        <ab>îles tronquées<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Récitant.</speaker>
-                        <ab>Je viens à vous</ab>
+                        <ab>Je viens à vous<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Récitante.</speaker>
-                        <ab>Je suis une de vous, îles</ab>
-                        <stage>(le Récitant et la récitante vacillent sur leurs jambes puis s'effondrent.)</stage>
+                        <ab>Je suis une de vous, îles<reg>.</reg></ab>
+                        <stage>(<orig>l</orig><reg>L</reg>e Récitant et la récitante vacillent sur 
+                            leurs jambes puis s'effondrent.)</stage>
                         <lb/>
                         <stage>(Le <choice>
                                 <orig>choeur</orig>
                                 <reg>chœur</reg>
                             </choice> sort à reculons.)</stage>
                     </sp>
-                    <stage rend="centered">
-                        <add rend="blue-ink">FIN</add>
-                    </stage>
+                    <fw type="curtain"><add rend="blue-ink">FIN</add></fw>
                 </div>
             </div>
         </body>

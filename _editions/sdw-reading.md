@@ -1,13 +1,26 @@
 ---
 layout: poem
-title: "reading"
-description: "" 
-author: alex gil
+title: "reading edition"
+description: "A reading edition of the Saint-Dié Witness" 
+author: Aimé Césaire
+editor: alex gil
 ---
 
-(draft)
+An interpretation of the final stage of the Saint-Dié witness of 
+"...Et le chiens se taisaient" by Aimé Césaire.
+
+---
+
+- {:.centered} AIMÉ CÉSAIRE.
+- {:.centered} +++++++++++++
+- 
+- {:.centered} ...ET LES CHIENS SE TAISAIENT.
+- {:.centered} ( Drame en trois actes )
+- {:.centered} ++++++++++++++++++
+
 
 <hr>
+
 
 [ 1 ](/data/sdw-data/P001.jpg){: target='_blank'}
 
@@ -51,6 +64,7 @@ author: alex gil
 
 <hr>
 
+
 [ 2 ](/data/sdw-data/P002.jpg){: target='_blank'}
 
 
@@ -83,6 +97,7 @@ author: alex gil
 
 <hr>
 
+
 [ 3 ](/data/sdw-data/P003.jpg){: target='_blank'}
 
 
@@ -111,6 +126,7 @@ author: alex gil
 
 
 <hr>
+
 
 [ 4 ](/data/sdw-data/P004.jpg){: target='_blank'}
 
@@ -151,6 +167,7 @@ author: alex gil
 
 <hr>
 
+
 [ 5 ](/data/sdw-data/P005.jpg){: target='_blank'}
 
 
@@ -186,6 +203,7 @@ author: alex gil
 - Îles,
 
 <hr>
+
 
 [ 6 ](/data/sdw-data/P006.jpg){: target='_blank'}
 
@@ -224,6 +242,7 @@ author: alex gil
 - abîmes fraternels des roses de Jéricho...
 
 <hr>
+
 
 [ 7 ](/data/sdw-data/P007.jpg){: target='_blank'}
 
@@ -274,6 +293,7 @@ author: alex gil
 
 <hr>
 
+
 [ 8 ](/data/sdw-data/P008.jpg){: target='_blank'}
 
 
@@ -314,6 +334,7 @@ author: alex gil
 
 <hr>
 
+
 [ 9 ](/data/sdw-data/P009.jpg){: target='_blank'}
 
 
@@ -335,6 +356,7 @@ author: alex gil
 - Les étoiles ont débridé leurs cicatrices de sable.
 
 <hr>
+
 
 [ 10 ](/data/sdw-data/P010.jpg){: target='_blank'}
 
@@ -371,6 +393,7 @@ author: alex gil
 - la langue de brandon dans ma gorge desséchée.
 
 <hr>
+
 
 [ 11 ](/data/sdw-data/P011.jpg){: target='_blank'}
 
@@ -417,6 +440,7 @@ author: alex gil
 
 <hr>
 
+
 [ 12 ](/data/sdw-data/P012.jpg){: target='_blank'}
 
 
@@ -453,6 +477,7 @@ author: alex gil
 - {:.indent-2} Ô roi debout.
 
 <hr>
+
 
 [ 13 ](/data/sdw-data/P013.jpg){: target='_blank'}
 
@@ -512,6 +537,7 @@ author: alex gil
 
 <hr>
 
+
 [ 14 ](/data/sdw-data/P014.jpg){: target='_blank'}
 
 
@@ -558,6 +584,7 @@ author: alex gil
 
 <hr>
 
+
 [ 15 ](/data/sdw-data/P015.jpg){: target='_blank'}
 
 
@@ -574,6 +601,7 @@ author: alex gil
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
 <hr>
+
 
 [ 16 ](/data/sdw-data/P016.jpg){: target='_blank'}
 
@@ -605,6 +633,7 @@ author: alex gil
 
 
 <hr>
+
 
 [ 17 ](/data/sdw-data/P017.jpg){: target='_blank'}
 
@@ -655,6 +684,7 @@ author: alex gil
 - {:.indent-2} Il a raison&nbsp;; il a raison&nbsp;; Mort à Toussaint.
 
 <hr>
+
 
 [ 18 ](/data/sdw-data/P018.jpg){: target='_blank'}
 
@@ -716,6 +746,7 @@ author: alex gil
 
 <hr>
 
+
 [ 19 ](/data/sdw-data/P019.jpg){: target='_blank'}
 
 
@@ -773,6 +804,7 @@ author: alex gil
 
 <hr>
 
+
 [ 20 ](/data/sdw-data/P020.jpg){: target='_blank'}
 
 
@@ -812,6 +844,7 @@ author: alex gil
 - de réveils d’étincelles et de peaux de lynx.
 
 <hr>
+
 
 [ 21 ](/data/sdw-data/P021.jpg){: target='_blank'}
 
@@ -855,6 +888,7 @@ author: alex gil
 
 <hr>
 
+
 [ 22 ](/data/sdw-data/P022.jpg){: target='_blank'}
 
 
@@ -872,6 +906,7 @@ author: alex gil
 - {:.indent-2} ... La Grande Révolution de Saint Domingue vient de commencer.
 
 <hr>
+
 
 [ 23 ](/data/sdw-data/P023.jpg){: target='_blank'}
 
@@ -928,6 +963,7 @@ author: alex gil
 
 <hr>
 
+
 [ 24 ](/data/sdw-data/P024.jpg){: target='_blank'}
 
 
@@ -964,6 +1000,7 @@ author: alex gil
 
 <hr>
 
+
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
 
 
@@ -996,6 +1033,7 @@ author: alex gil
 - le phare disjoint de sang d’aiglon.
 
 <hr>
+
 
 [ 26 ](/data/sdw-data/P026.jpg){: target='_blank'}
 
@@ -1047,6 +1085,7 @@ author: alex gil
 
 <hr>
 
+
 [ 27 ](/data/sdw-data/P027.jpg){: target='_blank'}
 
 
@@ -1091,6 +1130,7 @@ author: alex gil
 
 <hr>
 
+
 [ 28 ](/data/sdw-data/P028.jpg){: target='_blank'}
 
 
@@ -1123,6 +1163,7 @@ author: alex gil
 
 
 <hr>
+
 
 [ 29 ](/data/sdw-data/P029.jpg){: target='_blank'}
 
@@ -1174,6 +1215,7 @@ author: alex gil
 
 <hr>
 
+
 [ 30 ](/data/sdw-data/P030.jpg){: target='_blank'}
 
 
@@ -1198,6 +1240,7 @@ author: alex gil
 - {:.prose .prose-indent} Un oiseau et son sourire... un navire et ses racines... l’horizon et ses cheveux de pierres précieuses... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la pierre des nuits...
 
 <hr>
+
 
 [ 31 ](/data/sdw-data/P031.jpg){: target='_blank'}
 
@@ -1258,6 +1301,7 @@ author: alex gil
 
 <hr>
 
+
 [ 32 ](/data/sdw-data/P032.jpg){: target='_blank'}
 
 
@@ -1306,6 +1350,7 @@ author: alex gil
 
 <hr>
 
+
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}
 
 
@@ -1348,6 +1393,7 @@ author: alex gil
 - {:.prose .prose-indent} Pas de silence qui tienne. Nous sommes libres et égaux en droits. N’oubliez pas cela.
 
 <hr>
+
 
 [ 34 ](/data/sdw-data/P034.jpg){: target='_blank'}
 
@@ -1395,6 +1441,7 @@ author: alex gil
 
 <hr>
 
+
 [ 35 ](/data/sdw-data/P035.jpg){: target='_blank'}
 
 
@@ -1435,6 +1482,7 @@ author: alex gil
 
 <hr>
 
+
 [ 36 ](/data/sdw-data/P036.jpg){: target='_blank'}
 
 
@@ -1467,6 +1515,7 @@ author: alex gil
 - {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
 <hr>
+
 
 [ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}
 
@@ -1515,6 +1564,7 @@ author: alex gil
 - {:.indent-2} La pluie est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
 <hr>
+
 
 [ 38 ](/data/sdw-data/P038.jpg){: target='_blank'}
 
@@ -1566,6 +1616,7 @@ author: alex gil
 
 <hr>
 
+
 [ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}
 
 
@@ -1608,6 +1659,7 @@ author: alex gil
 
 <hr>
 
+
 [ 40 ](/data/sdw-data/P040.jpg){: target='_blank'}
 
 
@@ -1629,6 +1681,7 @@ author: alex gil
 - Froid cœur de la mort, la lagune a dégainé son rire de poignard.
 
 <hr>
+
 
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
@@ -1676,6 +1729,7 @@ author: alex gil
 - 
 
 <hr>
+
 
 [ 42 ](/data/sdw-data/P042.jpg){: target='_blank'}
 
@@ -1728,6 +1782,7 @@ author: alex gil
 
 <hr>
 
+
 [ 43 ](/data/sdw-data/P043.jpg){: target='_blank'}
 
 
@@ -1778,6 +1833,7 @@ author: alex gil
 - d'épave&nbsp;!
 
 <hr>
+
 
 [ 44 ](/data/sdw-data/P044.jpg){: target='_blank'}
 
@@ -1830,6 +1886,7 @@ author: alex gil
 - as-tu entendu quelque chose ?
 
 <hr>
+
 
 [ 45 ](/data/sdw-data/P045.jpg){: target='_blank'}
 
@@ -1893,6 +1950,7 @@ author: alex gil
 
 <hr>
 
+
 [ 46 ](/data/sdw-data/P046.jpg){: target='_blank'}
 
 - est-ce pour vous voir que les Pyramides
@@ -1937,6 +1995,7 @@ author: alex gil
 - {:.prose} Mais je dis que c'est pas de sa faute. Hon&nbsp;! je dis que c'est son sang qui est plus fort que lui&nbsp;; et qui le bat, et qui lui joue de mauvais tours. Hon. Et je vois qu'il a passé sa maladie à une foule de jeunes gens. Et c'est très malheureux. Une foule de jeunes réclameurs. Des nègres&nbsp;: ils ont tort de tant réclamer. Et forcément ça attire le malheur. De mon temps on était plus doux, plus acceptant, plus consentant. Hon.
 
 <hr>
+
 
 [ 47 ](/data/sdw-data/P047.jpg){: target='_blank'}
 
@@ -1991,6 +2050,7 @@ author: alex gil
 
 <hr>
 
+
 [ 48-49 ](/data/sdw-data/P048-49.jpg){: target='_blank'}
 
 
@@ -2041,6 +2101,7 @@ author: alex gil
 
 <hr>
 
+
 [ 50 ](/data/sdw-data/P050.jpg){: target='_blank'}
 
 
@@ -2076,6 +2137,7 @@ author: alex gil
 - {:.prose .prose-indent} Toutes les mordorures et tout l'espoir au dos des mains, au creux des mains des feuilles de caïmitiers ne me consoleront pas.
 
 <hr>
+
 
 [ 51 ](/data/sdw-data/P051.jpg){: target='_blank'}
 
@@ -2123,6 +2185,7 @@ author: alex gil
 
 <hr>
 
+
 [ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
 
 - nénuphars.
@@ -2164,6 +2227,7 @@ author: alex gil
 
 <hr>
 
+
 [ 53 ](/data/sdw-data/P053.jpg){: target='_blank'}
 
 - Les hippopotames soufflent leurs mauvais rêves
@@ -2198,6 +2262,7 @@ author: alex gil
 - des clameurs au creux se ruent au creux et bouchent le ciel...
 
 <hr>
+
 
 [ 54 ](/data/sdw-data/P054.jpg){: target='_blank'}
 
@@ -2260,6 +2325,7 @@ author: alex gil
 
 <hr>
 
+
 [ 55 ](/data/sdw-data/P055.jpg){: target='_blank'}
 
 
@@ -2307,6 +2373,7 @@ author: alex gil
 
 <hr>
 
+
 [ 56 ](/data/sdw-data/P056.jpg){: target='_blank'}
 
 
@@ -2353,6 +2420,7 @@ author: alex gil
 - de votre génipa.
 
 <hr>
+
 
 [ 57 ](/data/sdw-data/P057.jpg){: target='_blank'}
 
@@ -2404,6 +2472,7 @@ author: alex gil
 
 <hr>
 
+
 [ 58 ](/data/sdw-data/P058.jpg){: target='_blank'}
 
 
@@ -2450,6 +2519,7 @@ author: alex gil
 
 <hr>
 
+
 [ 59 ](/data/sdw-data/P059.jpg){: target='_blank'}
 
 
@@ -2472,6 +2542,7 @@ author: alex gil
 - de mon royaume qui est et qui n'est pas encore.
 
 <hr>
+
 
 [ 60 ](/data/sdw-data/P060.jpg){: target='_blank'}
 
@@ -2528,6 +2599,7 @@ author: alex gil
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
 <hr>
+
 
 [ 61 ](/data/sdw-data/P061.jpg){: target='_blank'}
 
@@ -2597,6 +2669,7 @@ author: alex gil
 
 <hr>
 
+
 [ 62 ](/data/sdw-data/P062.jpg){: target='_blank'}
 
 - toutes mes idées transformées en brûlots
@@ -2653,6 +2726,7 @@ author: alex gil
 
 <hr>
 
+
 [ 63 ](/data/sdw-data/P063.jpg){: target='_blank'}
 
 - mais ils avancent...
@@ -2707,6 +2781,7 @@ author: alex gil
 
 <hr>
 
+
 [ 64 ](/data/sdw-data/P064.jpg){: target='_blank'}
 
 - et bientôt les jararacas prirent position au haut du paysage
@@ -2745,6 +2820,7 @@ author: alex gil
 - que le goût le vertige le luxe du sacrilège capiteux.
 
 <hr>
+
 
 [ 65 ](/data/sdw-data/P065.jpg){: target='_blank'}
 
@@ -2786,6 +2862,7 @@ author: alex gil
 - {:.prose .prose-indent} Je cherche les traces de ma puissance comme un dans la brousse les traces perdues
 
 <hr>
+
 
 [ 66 ](/data/sdw-data/P066.jpg){: target='_blank'}
 
@@ -2830,6 +2907,7 @@ author: alex gil
 - un phallus de noyé, un tibia, un sternum
 
 <hr>
+
 
 [ 67 ](/data/sdw-data/P067.jpg){: target='_blank'}
 
@@ -2886,6 +2964,7 @@ author: alex gil
 
 <hr>
 
+
 [ 68 ](/data/sdw-data/P068.jpg){: target='_blank'}
 
 - blocs d'injustice monstrueusement agencés
@@ -2929,6 +3008,7 @@ author: alex gil
 - me voici...
 
 <hr>
+
 
 [ 69 ](/data/sdw-data/P069.jpg){: target='_blank'}
 
@@ -2998,6 +3078,7 @@ author: alex gil
 
 
 <hr>
+
 
 [ 70 ](/data/sdw-data/P070.jpg){: target='_blank'}
 
@@ -3072,6 +3153,7 @@ author: alex gil
 - 
 
 <hr>
+
 
 [ 71 ](/data/sdw-data/P071.jpg){: target='_blank'}
 
@@ -3149,6 +3231,7 @@ author: alex gil
 
 <hr>
 
+
 [ 72 ](/data/sdw-data/P072.jpg){: target='_blank'}
 
 
@@ -3218,6 +3301,7 @@ author: alex gil
 
 <hr>
 
+
 [ 73 ](/data/sdw-data/P073.jpg){: target='_blank'}
 
 
@@ -3264,6 +3348,7 @@ author: alex gil
 - {:.prose .prose-indent} Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut du tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'orgueil dans les villes prises&nbsp;; on en vit aux Te Deum. On en vit rédiger des constitutions. Voilà ce que l'on vit , bonnes gens qui m'écoutez. Et ce que l'on vit encore, la fumée dans le ciel de midi, le feu dans le ciel de minuit d'innombrables aurores boréales jetant au loin le reflet du crime et de l'absurdité.
 
 <hr>
+
 
 [ 74 ](/data/sdw-data/P074.jpg){: target='_blank'}
 
@@ -3322,6 +3407,7 @@ author: alex gil
 
 <hr>
 
+
 [ 75 ](/data/sdw-data/P075.jpg){: target='_blank'}
 
 
@@ -3378,6 +3464,7 @@ author: alex gil
 
 <hr>
 
+
 [ 76 ](/data/sdw-data/P076.jpg){: target='_blank'}
 
 
@@ -3420,6 +3507,7 @@ author: alex gil
 
 <hr>
 
+
 [ 77 ](/data/sdw-data/P077.jpg){: target='_blank'}
 
 - mon corps&nbsp;&nbsp;mon corps
@@ -3428,6 +3516,7 @@ author: alex gil
 - au roulis des&nbsp;&nbsp;ornières peuplés&nbsp;&nbsp;de veaux marins.
 
 <hr>
+
 
 [ 78 ](/data/sdw-data/P078.jpg){: target='_blank'}
 
@@ -3485,6 +3574,7 @@ author: alex gil
 
 <hr>
 
+
 [ 79 ](/data/sdw-data/P079.jpg){: target='_blank'}
 
 
@@ -3533,6 +3623,7 @@ author: alex gil
 - Comment&nbsp;! vos promesses&nbsp;? vos remords&nbsp;? votre lettre&nbsp;?
 
 <hr>
+
 
 [ 80 ](/data/sdw-data/P080.jpg){: target='_blank'}
 
@@ -3610,6 +3701,7 @@ author: alex gil
 
 <hr>
 
+
 [ 81 ](/data/sdw-data/P081.jpg){: target='_blank'}
 
 
@@ -3654,6 +3746,7 @@ author: alex gil
 - {:.prose} Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un ne te rencontre. 
 
 <hr>
+
 
 [ 82 ](/data/sdw-data/P082.jpg){: target='_blank'}
 
@@ -3707,6 +3800,7 @@ author: alex gil
 - votre rire de bombe en retard sur leurs pieds de  maîtres
 
 <hr>
+
 
 [ 83 ](/data/sdw-data/P083.jpg){: target='_blank'}
 
@@ -3764,6 +3858,7 @@ author: alex gil
 
 <hr>
 
+
 [ 84 ](/data/sdw-data/P084.jpg){: target='_blank'}
 
 - et leur bruit et leur harmonie et leur mesure
@@ -3809,6 +3904,7 @@ author: alex gil
 
 <hr>
 
+
 [ 85 ](/data/sdw-data/P085.jpg){: target='_blank'}
 
 -  du père moribond.
@@ -3846,6 +3942,7 @@ author: alex gil
 
 <hr>
 
+
 [ 86 ](/data/sdw-data/P086.jpg){: target='_blank'}
 
 - {:.prose}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
@@ -3874,6 +3971,7 @@ author: alex gil
 - {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme... et les nôtres s'arrétèrent... C'était le maitre... J'entrai. C'est toi, Toussaint, me dit-il, très calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai, le sang gicla&nbsp;; c'est de ce seul baptème que je me souviens aujourd'hui.
 
 <hr>
+
 
 [ 87 ](/data/sdw-data/P087.jpg){: target='_blank'}
 
@@ -3919,6 +4017,7 @@ author: alex gil
 
 <hr>
 
+
 [ 88 ](/data/sdw-data/P088.jpg){: target='_blank'}
 
 - {:.prose} faites d'oreilles coupées qui glissent sur le couchant. Va-t-en, fils, je suis seul et la mer est une manille à mon pied de forçat.
@@ -3959,6 +4058,7 @@ author: alex gil
 
 <hr>
 
+
 [ 89 ](/data/sdw-data/P089.jpg){: target='_blank'}
 
 
@@ -3989,6 +4089,7 @@ author: alex gil
 - {:.prose} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
 
 <hr>
+
 
 [ 90 ](/data/sdw-data/P090.jpg){: target='_blank'}
 
@@ -4038,6 +4139,7 @@ author: alex gil
 - {:.indent-2} De lois, la panse pleine de lois !
 
 <hr>
+
 
 [ 91 ](/data/sdw-data/P091.jpg){: target='_blank'}
 
@@ -4090,6 +4192,7 @@ author: alex gil
 - 
 
 <hr>
+
 
 [ 92 ](/data/sdw-data/P092.jpg){: target='_blank'}
 
@@ -4144,6 +4247,7 @@ author: alex gil
 
 <hr>
 
+
 [ 93 ](/data/sdw-data/P093.jpg){: target='_blank'}
 
 - au secours&nbsp;! au secours&nbsp;! au meurtre&nbsp;!
@@ -4178,6 +4282,7 @@ author: alex gil
 - voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.
 
 <hr>
+
 
 [ 94 ](/data/sdw-data/P094.jpg){: target='_blank'}
 
@@ -4234,6 +4339,7 @@ author: alex gil
 
 <hr>
 
+
 [ 95 ](/data/sdw-data/P095.jpg){: target='_blank'}
 
 
@@ -4269,6 +4375,7 @@ author: alex gil
 - Et je m'accuse de m'être vautré d'amour dans la nuit opaque, dans la nuit lourde.
 
 <hr>
+
 
 [ 96 ](/data/sdw-data/P096.jpg){: target='_blank'}
 
@@ -4341,6 +4448,7 @@ author: alex gil
 
 <hr>
 
+
 [ 97 ](/data/sdw-data/P097.jpg){: target='_blank'}
 
 
@@ -4390,6 +4498,7 @@ author: alex gil
 - {:.prose} Quelle nuit&nbsp;! quelle neige&nbsp;! C'est comme si la neige et la nuit s'étaient furieusement battues&nbsp;: de grosses masses d'ombre s'écroulent avec tout le panneau du ciel et la cavalerie des flocons se précipite au vol fouetté de ses cent mille burnous.
 
 <hr>
+
 
 [ 98 ](/data/sdw-data/P098.jpg){: target='_blank'}
 
@@ -4450,6 +4559,7 @@ author: alex gil
 
 <hr>
 
+
 [ 99 ](/data/sdw-data/P099.jpg){: target='_blank'}
 
 
@@ -4477,6 +4587,7 @@ author: alex gil
 
 <hr>
 
+
 [ 100 ](/data/sdw-data/P100.jpg){: target='_blank'}
 
 - bres à pain, de sucreries, de bagasse harcelée de moucherons...
@@ -4497,13 +4608,13 @@ author: alex gil
 - et de jujubier et de perturbation et de soleil bayonnetté.
 
 
-<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles, des guerriers nus bondissent, un tam-tam bat lointainement ) </em>
+<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles, des guerriers nus bondissent, un tam-tam bat lointainement.)</em>
 
 
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} O la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
+- {:.prose .prose-indent} Ô la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
 
 
 - {:.speaker} Le récitant.
@@ -4511,19 +4622,20 @@ author: alex gil
 - {:.indent-2} Qu'est ce qu'elle dit&nbsp;? Qu'est-ce qu'elle dit&nbsp;?
  
 
-<em>(à ce moment Toussaint se redresse.)</em>
+<em>(À ce moment Toussaint se redresse.)</em>
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha&nbsp;! le ciel suce des poignards...Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe&nbsp;! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
+- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha&nbsp;! le ciel suce des poignards... Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe&nbsp;! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
  
 
-<em>(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Toussaint s'affaisse, les bras étendus, poitrine contre terre).)</em>
+<em>(Toussaint s'affaisse, les bras étendus, poitrine contre terre.)</em>
 
 
 <hr>
+
 
 [ 101 ](/data/sdw-data/P101.jpg){: target='_blank'}
 
@@ -4571,7 +4683,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.indent-2} dans la forêt les meurtrières coulent avec des rires de fontaine et les
+- {:.indent-2} Dans la forêt les meurtrières coulent avec des rires de fontaine et les
 - fleuves sans signaux trament l'aventure charnue des voyages virulents
 - sang nomade en coquetterie de morts et de genèses
 - gaspille du fond des pierres trouées et de la nuit des âges
@@ -4588,25 +4700,26 @@ author: alex gil
 
 <hr>
 
+
 [ 102 ](/data/sdw-data/P102.jpg){: target='_blank'}
 
 
 
-<em>( sur le rempart apparait une tête. L'homme se dresse, c'est le «négrophobe.»)</em>
+<em>(Sur le rempart apparait une tête. L'homme se dresse, c'est le «&nbsp;négrophobe.&nbsp;»)</em>
 
 
 
-- {:.speaker} « le négrophobe.»
+- {:.speaker} Le négrophobe.
 
-- {:.prose} Bande de salauds&nbsp;! Mort aux voleurs&nbsp;! (Des animaux qui n'ont pas d'âme à sauver et à qui le fouet prête de temps en temps un semblant de conscience.) Voleurs&nbsp;! Voleurs&nbsp;! Les armes à la&nbsp;main, je revendique mon bien, mon troupeau, ma possession légitime, mes esclaves&nbsp;! 
+- {:.prose} Bande de salauds&nbsp;! Mort aux voleurs&nbsp;! (Des animaux qui n'ont pas d'âme à sauver et à qui le fouet prête de temps en temps un semblant de conscience.) Voleurs&nbsp;! Voleurs&nbsp;! Les armes à la&nbsp;main, je revendique mon bien, mon troupeau, ma possession légitime, mes esclaves&nbsp;!
 
-<em>(bruit de mousqueterie&nbsp;; les nègres ont tiré&nbsp;; le négrophobe tombe, il est aussitôt remplacé par le «le négrophile».)</em>
 
+<em>(Bruit de mousqueterie&nbsp;; les nègres ont tiré&nbsp;; le négrophobe tombe, il est aussitôt remplacé par le «&nbsp;le négrophile&nbsp;».)</em>
 
 
 - {:.speaker} Le négrophile  <em>(haraguant le vide.)</em>
 
-- {:.prose} Ha&nbsp;! mes amis, mes chers amis&nbsp;! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière... d'amour. Et je ne cesserai de vous appeler "mes amis" mes amis, mes frères.
+- {:.prose} Ha&nbsp;! mes amis, mes chers amis&nbsp;! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière... d'amour. Et je ne cesserai de vous appeler «&nbsp;mes amis&nbsp;» mes amis, mes frères.
 
 
 - {:.speaker} L'écho
@@ -4624,20 +4737,21 @@ author: alex gil
 
 - {:.speaker} Le négrophile  <em>(donnant des coups d'épée dans l'eau.)</em>
 
-- paix, paix, amour, amour.
+- Paix, paix, amour, amour.
 
 
 - {:.speaker} L'écho
 
-- amour, amour
+- Amour, amour
 
 - {:.speaker} Le négrophile  <em>(désespéré.)</em>
 
-- ô peuple égaré,
+- Ô peuple égaré,
 - ô insensés
 - lâchez vos armes homicides
 
 <hr>
+
 
 [ 103 ](/data/sdw-data/P103.jpg){: target='_blank'}
 
@@ -4657,11 +4771,11 @@ author: alex gil
 
 - 
 
-<em>(bruit de mousqueterie.)</em>
+<em>(Bruit de mousqueterie.)</em>
 
  Mes frères, mes frères&nbsp;! 
 
-<em>(le négrophile tombe.)</em>
+<em>(Le négrophile tombe.)</em>
 
 
 
@@ -4691,6 +4805,7 @@ author: alex gil
 
 <hr>
 
+
 [ 104 ](/data/sdw-data/P104.jpg){: target='_blank'}
 
 - mais aux salles aussi belles que le mensonge qui n'est pas autre chose que
@@ -4716,7 +4831,7 @@ author: alex gil
 - à l'heure rouge des nostalgies
 - à l'heure dénouée rouge
 - à l'heure rouge des cohues
-- épaules de l'eau bouillante nos fesses scarifiées se mirent à crier vengeance;
+- épaules de l'eau bouillante nos fesses scarifiées se mirent à crier vengeance&nbsp;;
 - à l'heure rouge des miracles
 - liberté belle de nuit éclose au caillebotis et fumier de jambes coupées
 - les chenilles rugissaient sur le pont
@@ -4731,6 +4846,7 @@ author: alex gil
 
 <hr>
 
+
 [ 105 ](/data/sdw-data/P105.jpg){: target='_blank'}
 
 - aux mains de champs de charpie et de fonio
@@ -4739,7 +4855,7 @@ author: alex gil
 - et une virginité saignait cette nuit là
 - timonnier de la nuit peuplée de soleils et d'arc-en ciel
 - timonnier de la mer et de mort
-- liberté ô magrande&nbsp;bringue les jambes poisseuses du sang neuf
+- liberté ô ma grande&nbsp;bringue les jambes poisseuses du sang neuf
 - ton cri d'oiseau surpris et de fascine
 - et de chabine au fond des eaux
 - et d'aubier et d'épreuve et de letchi triomphant
@@ -4758,16 +4874,17 @@ author: alex gil
 
 <hr>
 
+
 [ 106 ](/data/sdw-data/P106.jpg){: target='_blank'}
 
 
 
-- {:.speaker} Général&nbsp;négre
+- {:.speaker} Général&nbsp;négre.
 
 - En avant Morne Rouge <em>(charge de fantassins.)</em>
 
 
-- {:.speaker} Général&nbsp;négre
+- {:.speaker} Général&nbsp;négre.
 
 - En avant charnier ardent <em>(nouvelle charge de fantassins.)</em>
 
@@ -4777,7 +4894,7 @@ author: alex gil
 - En avant Capoix-la-Mort&nbsp;! <em>(charge de cavalerie.)</em>
 
 
-<em>(des cris au loin&nbsp;: Victoire, victoire...)</em>
+<em>(Des cris au loin&nbsp;: Victoire, victoire...)</em>
 
 
 
@@ -4811,10 +4928,11 @@ author: alex gil
 - {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur , jusqu'à l'éclatement de mes veines, jusqu'au flamboiement de mes os dans le minuit de ma chair.
 
 
-<em>()</em>
+- {:.centered} 
 
 
 <hr>
+
 
 [ 107 ](/data/sdw-data/P107.jpg){: target='_blank'}
 
@@ -4837,7 +4955,7 @@ author: alex gil
 
 - {:.speaker} Récitante.
 
-- lumière décomposée en chaque splendeur avare
+- Lumière décomposée en chaque splendeur avare
 - cargaison de poissons d'or, fruits fourbus
 - fleuve à mes lèvres foudroyées
 
@@ -4851,23 +4969,23 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- grouillement de larves, talismans sans valeur
+- Grouillement de larves, talismans sans valeur
 - îles
 - terres silencieuses
-- îles tronquées
+- îles tronquées.
 
 
 - {:.speaker} Récitant.
 
-- Je viens à vous
+- Je viens à vous.
 
 
 - {:.speaker} Récitante.
 
-- Je suis une de vous, îles
+- Je suis une de vous, îles.
 
 
-<em>(le Récitant et la récitante vacillent sur leurs jambes puis s'effondrent.)</em>
+<em>(Le Récitant et la récitante vacillent sur leurs jambes puis s'effondrent.)</em>
 
  
 
@@ -4875,11 +4993,13 @@ author: alex gil
 
 
 
-<em>(FIN)</em>
+- {:.centered} FIN
 
 
 
 ---
+
+## Footnotes
 
 [^tei1]: The quote comes verbatim from Cervantes Saavedra, Miguel de. L’ingénieux hidalgo Don Quichotte de la Mancha. Trans. Louis Viardot, and Tony Johannot. Paris: Victor Lecou, 1853. Print.
 

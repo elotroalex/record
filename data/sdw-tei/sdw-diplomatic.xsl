@@ -24,10 +24,12 @@
         layout: poem
         title: "diplomatic"
         description: "" 
-        author: alex gil
+        author: Aimé Césaire
+        editor: alex gil
         ---
         
-        (draft)
+        A diplomatic edition of the Saint-Dié witness of 
+        "...Et le chiens se taisaient" by Aimé Césaire.
         
         </xsl:text>
     <hr/>
