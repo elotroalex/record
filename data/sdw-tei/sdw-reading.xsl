@@ -36,9 +36,6 @@
         <xsl:template match="tei:note"/>
     <xsl:template match="tei:front/tei:titlePage"/>
     <xsl:template match="tei:orig"/>
-    <!--    <xsl:template match="tei:add[@type='accent']"/>-->
-
-    <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
 
 
     <!-- HTML wrapper | document element -->
@@ -53,6 +50,7 @@
         (draft)
         
         </xsl:text>
+        
         <!-- Select all pages -->
         <xsl:apply-templates/>
         <xsl:text>
@@ -311,9 +309,6 @@
 
     </xsl:template>
 
-    <!--    <xsl:template match="tei:space[@quantity]">
-        <xsl:text></xsl:text>
-    </xsl:template>-->
 
     <xsl:template match="tei:note[@type = 'scholarly']">
         <xsl:text>[^</xsl:text>

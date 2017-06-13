@@ -955,7 +955,7 @@ author: alex gil
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qu' y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales...
+- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qu'y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales...
 
 
 - {:.speaker} 
@@ -1042,7 +1042,7 @@ author: alex gil
 
 <em>(Des cris contradictoires dans la foule.)</em>
 
-- {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. Amort... à mort.
+- {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort... à mort.
 - ...
 
 <hr>
@@ -1464,7 +1464,7 @@ author: alex gil
 
 - {:.speaker} Le récitant <em>(d’une voix cinglante.)</em>
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, soninsolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
 <hr>
 
@@ -1488,7 +1488,7 @@ author: alex gil
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même...Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
+- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
 
 
 <em>(Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes, puis des mains... Ce sont des esclaves qui labourent au crépuscule.)</em>
@@ -1697,7 +1697,7 @@ author: alex gil
 - Hurrah&nbsp;!
 
 
-- {:.speaker} 2e délégation&nbsp;:2e orateur.
+- {:.speaker} 2e délégation&nbsp;: 2e orateur.
 
 - {:.prose} Gloire à Toussaint Louverture, le Spartacus noir, le nègre prédit par Raynal pour venger les injures faites à sa race.
 
@@ -1707,7 +1707,7 @@ author: alex gil
 - Hurrah&nbsp;!
 
 
-- {:.speaker} 3e délégation&nbsp;:3e orateur.
+- {:.speaker} 3e délégation&nbsp;: 3e orateur.
 
 - {:.prose} Reconnaissance éternelle à Toussaint Louverture, pacificateur, restaurateur...
 
@@ -1790,13 +1790,13 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Une tour
-- il y a des lézardes dans le mur &nbsp;; 
+- il y a des lézardes dans le mur&nbsp;; 
 - une forêt pleine de loups
 - et ils se promènent la-dedans mitre en tête
 - un plat de champignons venéneux
 - et ils se jettent dessus goulûment.
 
-- {:.speaker} Chantres  <em>(braillant plus fort .)</em>
+- {:.speaker} Chantres  <em>(braillant plus fort.)</em>
 
 - Salvum fac Spartacum&nbsp;!
 
@@ -2791,7 +2791,7 @@ author: alex gil
 
 - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
-- {:.prose} J'ai saigné dans les couloirs secrets— sur le sol grand'ouvert des batailles et,
+- {:.prose} J'ai saigné dans les couloirs secrets — sur le sol grand'ouvert des batailles et,
 - je m'avance, mouche dédorée grand insecte malicorne et vorace
 - {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil.
 
@@ -2821,7 +2821,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches !les drapeaux&nbsp;!
+- le caïman ! les torches ! les drapeaux&nbsp;!
 - et l'Amazone degout d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,
@@ -2938,63 +2938,63 @@ author: alex gil
 
 
 
-<em>(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque) </em>
+<em>(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque.)</em>
 
 
 
-- {:.speaker} 1e  dieu
+- {:.speaker} 1e  dieu.
 
-- quelle époque. Mes enfants vous avez fait là une belle boucherie
-
-
-<em>(il s'assied sur son trône .)</em>
+- Quelle époque. Mes enfants vous avez fait là une belle boucherie.
 
 
-
-- {:.speaker} 2e  dieu
-
-- {:.prose} Une époque étonnante mes frères: la morue terre-neuvienne se jette d'elle-même s sur les lignes.
-
-
-<em>(il s'assied sur son trône .)</em>
+<em>(Il s'assied sur son trône.)</em>
 
 
 
-- {:.speaker} 3e  dieu
+- {:.speaker} 2e  dieu.
 
-- Je dis que c'est une époque étourdissante ou stupéfiante à votre gré
-
-
-<em>(il s'assied sur son trône .)</em>
+- {:.prose} Une époque étonnante mes frères&nbsp;: la morue terre-neuvienne se jette d'elle-même sur les lignes.
 
 
-
-- {:.speaker} 4e  dieu
-
-- Une époque phallique et fertile en miracles
-
-
-<em>(il rit idiotement et s'assied sur son trône. Les trois premiers dieux  se touchent le front du doigt et désignent le quatrième dieu  pour indiquer qu'il est fou.)</em>
+<em>(Il s'assied sur son trône.)</em>
 
 
 
-- {:.speaker} l'archevêque
+- {:.speaker} 3e  dieu.
+
+- Je dis que c'est une époque étourdissante ou stupéfiante à votre gré.
+
+
+<em>(Il s'assied sur son trône.)</em>
+
+
+
+- {:.speaker} 4e  dieu.
+
+- Une époque phallique et fertile en miracles.
+
+
+<em>(Il rit idiotement et s'assied sur son trône. Les trois premiers dieux  se touchent le front du doigt et désignent le quatrième dieu  pour indiquer qu'il est fou.)</em>
+
+
+
+- {:.speaker} L'archevêque.
 
 - Allons, j'aime les bêtes de beau pelage : ne tuez pas les chats.
-- ouha. brrouha. ou-ou-ah
+- Ouha. Brrouha. Ou-ou-ah.
 
 
-<em>(les dieux se touchent le front du doigt et désignent l'archevêque pour indiquer qu'il a perdu la raison.) </em>
+<em>(Les dieux se touchent le front du doigt et désignent l'archevêque pour indiquer qu'il a perdu la raison.)</em>
 
 
 
-- {:.speaker} l'archevêque
+- {:.speaker} L'archevêque.
 
 - Allons, j'entends la flute perlée des crapauds et le crécellement rugueux des
-- grillons de la nuit. ouah, brrouah.
+- grillons de la nuit. Ouah, brrouah.
 
 
-<em>(les dieux se lèvent, le groupe sort lentement, chacun trainant derrière soi un hareng-saur attaché au bout d'un fil.) </em>
+<em>(Les dieux se lèvent, le groupe sort lentement, chacun trainant derrière soi un hareng-saur attaché au bout d'un fil.)</em>
 
 
 <hr>
@@ -3005,66 +3005,70 @@ author: alex gil
 
 - {:.speaker} Récitante.
 
-- ô j'attends passionnément : je suis cernée...
+- Ô j'attends passionnément : je suis cernée...
 
 
 - {:.speaker} Récitant.
 
-- cerné d'yeux, de cauchemars.
+- Cerné d'yeux, de cauchemars.
 
 
 - {:.speaker} Récitante.
 
-- cernée d'enfants et d'yeux et de ruées de  rires.
+- Cernée d'enfants et d'yeux et de ruées de  rires.
 
 
 - {:.speaker} Récitant.
 
-- Cataractes voici les cataractes et le chant meurtrier clair des oiseaux. 
+- Cataractes voici les cataractes et le chant meurtrier clair des oiseaux.
 
 
 <em>(Une campagne désertique, aussi peu tropicale que possible. Des paysans. Entre le voyageur la tête recouverte d'un voile).</em>
 
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
-- Bonjour bonnes gens, bonjour
-
-
-- {:.speaker} les bonnes gens.
-
-- Hein&nbsp;? C'est drôle&nbsp;? Pourquoi bonjour&nbsp;?;
+- Bonjour bonnes gens, bonjour.
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Les bonnes gens.
+
+- Hein&nbsp;? C'est drôle&nbsp;? Pourquoi bonjour&nbsp;?
+
+
+- {:.speaker} Le voyageur.
 
 - Ouf, je viens de loin.
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - De combien loin&nbsp;?
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
 - {:.prose} De bien loin... Dites, j'ai jadis connu  un homme qui s'appelait  Tous­ saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - Hein,  nous le conaissons pas.
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
 - {:.prose} Et pourtant c'est dans cette lande qu'enfant il joua, saharien, avec pour compagnon votre paysannerie joviale.
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - {:.prose} &nbsp;C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
+
+
+- {:.speaker} 
+
 - 
 
 <hr>
