@@ -7,7 +7,7 @@ author: alex gil
 
 (draft)
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 1 ](/data/sdw-data/P001.jpg){: target='_blank'}
 
@@ -15,7 +15,7 @@ author: alex gil
 - {:.centered} ACTE I
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène est à Saint Domingue&nbsp;à&nbsp;l’epoque de la Révolution française.)</em>
+<em>(La scène est à Saint Domingue&nbsp;à&nbsp;l’epoque de la Révolution française.)</em>
 
 
 
@@ -49,7 +49,7 @@ author: alex gil
 
 - {:.prose} Ce pays mord&nbsp;: bouche ouverte d’une gorge de feu, convergence de crocs de feu sur la croupe de l’Amérique mauvaise.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 2 ](/data/sdw-data/P002.jpg){: target='_blank'}
 
@@ -81,7 +81,7 @@ author: alex gil
 
 - {:.prose .prose-indent}   
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 3 ](/data/sdw-data/P003.jpg){: target='_blank'}
 
@@ -107,16 +107,16 @@ author: alex gil
 - {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille tressée est à sa main gauche... Il s’arrête... Il rampe... Il s’immobilise un genou en terre... Le torse est renversé comme une muraille... La sagaie est levée...
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, chevaux, chiens. Senteurs de musc et benjoin.)</em>
+<em>(A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, chevaux, chiens. Senteurs de musc et benjoin.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 4 ](/data/sdw-data/P004.jpg){: target='_blank'}
 
 
 
-- {:.speaker}  1ère voix tentatrice.
+- {:.speaker} 1ère voix tentatrice.
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -145,11 +145,11 @@ author: alex gil
 - {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 
 
-- {:.speaker}  2e voix tentatrice.
+- {:.speaker} 2e voix tentatrice.
 
 - {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois&nbsp;; mille mots Toussaint... O mon ami,  veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne ? Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 5 ](/data/sdw-data/P005.jpg){: target='_blank'}
 
@@ -163,7 +163,7 @@ author: alex gil
 - de la charogne et de la boue.
 
 
-- {:.speaker}  3ème voix tentatrice.
+- {:.speaker} 3ème voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 
@@ -171,7 +171,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Fête de nuit
-- <span xmlns:saxon="http://saxon.sf.net/" class="unclear">carne</span>, cave
+- <span class="unclear">carne</span>, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
@@ -185,7 +185,7 @@ author: alex gil
 - Surpris un demi-mot sur la langue. Complice.
 - Îles,
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 6 ](/data/sdw-data/P006.jpg){: target='_blank'}
 
@@ -223,7 +223,7 @@ author: alex gil
 - le coup de feu, le sang gaché, le chant d’acier
 - abîmes fraternels des roses de Jéricho...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 7 ](/data/sdw-data/P007.jpg){: target='_blank'}
 
@@ -272,19 +272,19 @@ author: alex gil
 - Je veux un monde nu d’univers non timbré.
 - Une petite fille du Fouta ronge un os en forme de candélabre.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 8 ](/data/sdw-data/P008.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/"> </em>
+<em> </em>
 
 
 
 - {:.speaker} 
 
-- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma  joue, mais il pleure des yeux aux arbres de Judée baignés de crocus et
+- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma joue, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
 - Je suis nu.
 - Je suis nu dans les pierres.
@@ -312,7 +312,7 @@ author: alex gil
 
 - {:.prose .prose-indent} Approchez donc, flammes effilées, paquet de frissons. Que la senteur des feux jette son javelot autour de ma tête.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 9 ](/data/sdw-data/P009.jpg){: target='_blank'}
 
@@ -334,7 +334,7 @@ author: alex gil
 - {:.indent-2} ... J’ai regardé et les ponts sont coupés...
 - Les étoiles ont débridé leurs cicatrices de sable.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 10 ](/data/sdw-data/P010.jpg){: target='_blank'}
 
@@ -342,9 +342,9 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Ha, ha
+-  Ha, ha
 - Nous ne voyons plus
-- Ha, ha
+-  Ha, ha
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
@@ -370,7 +370,7 @@ author: alex gil
 - J’attends ce que dit le vent
 - la langue de brandon dans ma gorge desséchée.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 11 ](/data/sdw-data/P011.jpg){: target='_blank'}
 
@@ -389,16 +389,16 @@ author: alex gil
 - {:.speaker} Le chœur.
 
 - {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et légifère.
-The 'f' is written again on the side after an original attempt to correct the word directly left the character unclear.
+
 
 - {:.speaker} Le Récitant.
 
 - {:.prose .prose-indent} Il n’y a pas de roses&nbsp;: seuls les piments agrafent leurs larmes rouges.
-The 'f' is repeated on the right margin in pencil.
+
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Toussaint est roi... Il n’en a pas le titre, mais bien sûr qu’il est roi... un vrai lamido... voici sa The correct form of the word is written in parenthesis on the margin. Small underscore pencil lines also join the disconnected syllables inline. garde... les casques d’argent s’enflamment au crépuscule.
+- {:.prose .prose-indent} Toussaint est roi... Il n’en a pas le titre, mais bien sûr qu’il est roi... un vrai lamido... voici sa  garde... les casques d’argent s’enflamment au crépuscule.
 
 
 - {:.speaker} Le Récitant.
@@ -415,7 +415,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - {:.prose .prose-indent} Mes souvenirs délirent d'encens et de cloches... Le Niger bleu... Le Congo d’or... Le Logone sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 12 ](/data/sdw-data/P012.jpg){: target='_blank'}
 
@@ -423,7 +423,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la piste dans laIn this correction, the first 'e' in the original 'peste' has been substituted by the letter 'i' in what seems to be dark pencil. The rest of the word was left untouched. forêt... le barracoun... le négrier...
+- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la piste dans la  forêt... le barracoun... le négrier...
 
 
 - {:.speaker} Le chœur.
@@ -433,12 +433,12 @@ The 'f' is repeated on the right margin in pencil.
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et  j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
+- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et  j’ai vu venir du côté des girofliers un hommepetit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Vous avez entendu... Vous avez entendu... Toussaint arrive. Toussaint met pied à terre... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2e. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse There' a chance the crossing out is the letter ycamouflée de sourires glissants...
+- {:.prose .prose-indent} Vous avez entendu... Vous avez entendu... Toussaint arrive. Toussaint met pied à terre... Toussaint monte l’escalier. Toussaint franchit la première marche. Il en est à la 2e. Toussaint est sur le perron. Pas après pas, Toussaint a mis le pied dans la fosse camouflée de sourires glissants...
 
 
 - {:.speaker} Toussaint.
@@ -448,11 +448,11 @@ The 'f' is repeated on the right margin in pencil.
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(lointain.)</em>
+- {:.speaker} Chœur <em> (lointain.)</em>
 
 - {:.indent-2} Ô roi debout.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 13 ](/data/sdw-data/P013.jpg){: target='_blank'}
 
@@ -460,7 +460,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvres de la cendre&nbsp;;
+- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvresde la cendre&nbsp;;
 - le cap et la limaille
 - les oiseaux et les jours
 - tournent avec leur bruit de serrures&nbsp;;
@@ -470,7 +470,7 @@ The 'f' is repeated on the right margin in pencil.
 - leurs yeux
 - enjoués de toute la nuit bue.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(lointain.)</em>
+- {:.speaker} Chœur <em> (lointain.)</em>
 
 - Ô roi debout.
 
@@ -479,7 +479,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - Je veux peupler la nuit d’adieux méticuleux.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(au loin.)</em>
+- {:.speaker} Chœur <em> (au loin.)</em>
 
 - Ô roi debout.
 
@@ -488,7 +488,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - Des violettes, des anémones se lèvent à chaque pas de mon sang.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(plus lointain.)</em>
+- {:.speaker} Chœur <em> (plus lointain.)</em>
 
 - Ô roi debout.
 
@@ -497,7 +497,7 @@ The 'f' is repeated on the right margin in pencil.
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(plus lointain encore.)</em>
+- {:.speaker} Chœur <em> (plus lointain encore.)</em>
 
 - ... Ô roi debout.
 
@@ -505,21 +505,21 @@ The 'f' is repeated on the right margin in pencil.
 - {:.speaker} Toussaint.
 
 - ... des pommes d’araucaria, des bouquets de cerises.
-The 'n' is untouched in the typescript. We know to substitute it because of the pencil addition of the letter 'u' above it.
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(presque perdu dans la distance.)</em>
+
+- {:.speaker} Chœur <em> (presque perdu dans la distance.)</em>
 
 - Ô roi debout.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 14 ](/data/sdw-data/P014.jpg){: target='_blank'}
 
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/"> (d’une voix tonnante.)</em>
+- {:.speaker} Toussaint <em> (d’une voix tonnante.)</em>
 
 - ... des arcs, des signes, des empreintes, des feux.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/"> (gémissant.)</em>
+- {:.speaker} Chœur <em> (gémissant.)</em>
 
 - Ô roi debout.
 
@@ -528,7 +528,7 @@ The 'n' is untouched in the typescript. We know to substitute it because of the 
 
 - {:.indent-2} j’amenerai ce pays à la connaissance
 - de lui-même,
-There is an earlier addition in pencil above 'J'avais' which has been scrawled over beyond recognition.- je&nbsp;familiariserai cette terre avec ses démons secrets
+- je&nbsp;familiariserai cette terre avec ses démons secrets
 - j’allumerai aux cratères d’hélodermes et de cymbales
 - les symphonies d’un enfer inconnu, splendide
 - parasité de nostalgies hautaines...
@@ -556,7 +556,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - Ô roi debout.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 15 ](/data/sdw-data/P015.jpg){: target='_blank'}
 
@@ -573,7 +573,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - désir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 16 ](/data/sdw-data/P016.jpg){: target='_blank'}
 
@@ -601,10 +601,10 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - Colomb. Colomb.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A ce moment les esclaves nègres envahissent la scène.)</em>
+<em>(A ce moment les esclaves nègres envahissent la scène.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 17 ](/data/sdw-data/P017.jpg){: target='_blank'}
 
@@ -636,7 +636,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - Au feu, Toussaint, au feu.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Un groupe prépare frénétiquement un brasier.)</em>
+<em>(Un groupe prépare frénétiquement un brasier.)</em>
 
 
 
@@ -647,14 +647,14 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assez d’emmerdements. Bien sur qu’on n’est pas heureux&nbsp;? Eh, camarades, est-ce qu’on sera heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous  trahit. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assezd’emmerdements. Bien sur qu’on n’est pas heureux&nbsp;? Eh, camarades, est-ce qu’on sera heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous  trahit. A mort.
 
 
 - {:.speaker} Des voix.
 
 - {:.indent-2} Il a raison&nbsp;; il a raison&nbsp;; Mort à Toussaint.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 18 ](/data/sdw-data/P018.jpg){: target='_blank'}
 
@@ -666,7 +666,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - Au feu, Toussaint.
 
 
-<em xmlns:saxon="http://saxon.sf.net/"> </em>
+<em> </em>
 
 
 
@@ -697,12 +697,12 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.speaker} La foule.
 
-'La foule' is irregularly underlined.- A mort, à mort.
+- A mort, à mort.
 
 
 - {:.speaker} Toussaint.
 
-- Dans vos voix de chacal, le bien-être des muselières.
+- Dans vos voix de chacal,le bien-être des muselières.
 
 
 - {:.speaker} La foule.
@@ -714,7 +714,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - Raz de marée de ravets, d’accordéons empoisonnés.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 19 ](/data/sdw-data/P019.jpg){: target='_blank'}
 
@@ -771,7 +771,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.prose} ... les soleils arrêtés, feront de nuit, d’immenses cocotiers catastrophiques...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 20 ](/data/sdw-data/P020.jpg){: target='_blank'}
 
@@ -795,7 +795,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - de gémir ;
 - condamnés à vivre en tête à tête avec la stupidité empuantie
 - sans autre chose qui vous tienne chaud au sang
-- que de regarder glouter jusqu’à mi-verre, votre rhum
+- que de regarder glouter jusqu’à mi-verre,votre rhum
 - antillais...
 - Âmes de morue.
 
@@ -811,7 +811,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - j’ai rêvé de lumière, d’enseigne d’or, de sommeils pourprés,
 - de réveils d’étincelles et de peaux de lynx.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 21 ](/data/sdw-data/P021.jpg){: target='_blank'}
 
@@ -853,13 +853,13 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.indent-2} Mort aux blancs.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 22 ](/data/sdw-data/P022.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène s’efface progressivement, lentement.)</em>
+<em>(La scène s’efface progressivement, lentement.)</em>
 
 
 
@@ -867,17 +867,17 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.prose .prose-indent} La cendre... le songe... eau noire... affamés, affamés... deux mains brûlantes dans l’assiette du soleil...
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(très calme.)</em>
+- {:.speaker} Le récitant <em> (très calme.)</em>
 
 - {:.indent-2} ... La Grande Révolution de Saint Domingue vient de commencer.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 23 ](/data/sdw-data/P023.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent le chœur, le récitant, la récitante.)</em>
+<em>(A Saint-Domingue devant une riche maison coloniale style 18e siècle, des jeunes filles blanches en train de jouer. Entrent le chœur, le récitant, la récitante.)</em>
 
 
 
@@ -885,7 +885,7 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.prose .prose-indent} Rentrez chez-vous jeunes filles, il n’est plus temps de jouer, les orbites de la mort poussent des yeux fulgurants à travers le mica blême.
 
-- {:.speaker} 1re jeune fille <em xmlns:saxon="http://saxon.sf.net/">(sérieuse.)</em>
+- {:.speaker} 1re jeune fille <em>(sérieuse.)</em>
 
 - {:.indent-2} C’est une devinette&nbsp;?
 
@@ -894,13 +894,13 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 
 - {:.indent-2} C’est la saison des étoiles brûlantes qui commence.
 
-- {:.speaker} 2e jeune fille <em xmlns:saxon="http://saxon.sf.net/">(riant.)</em>
+- {:.speaker} 2e jeune fille <em> (riant.)</em>
 
 - {:.indent-2} Ah. C’est un conte.
 
-- {:.speaker} Le chœur <em xmlns:saxon="http://saxon.sf.net/">(menaçant.)</em>
+- {:.speaker} Le chœur <em> (menaçant.)</em>
 
-- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse sur la gadoue des barracouns.Before the whole word was striken out, an attempt was made to change three of the letters by writing over them with blue ink. The resulting word would have been 'baracoons.'
+- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse sur la gadoue des barracouns.
 
 
 - {:.speaker} 3e jeune fille.
@@ -913,29 +913,29 @@ There is an earlier addition in pencil above 'J'avais' which has been scrawled o
 - {:.indent-2} Hou. Hou.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La mère parait sur le pas de la porte, très pâle.)</em>
+<em>(La mère parait sur le pas de la porte, très pâle.)</em>
 
 - {:.prose .prose-indent} Mes enfants... rentrez... rentrez vite... j’ai peur.
-The stage direction in this case is written inline with the speech, in this case suggesting a change in speaker.
+
 
 - {:.speaker} Le récitant.
 
 - {:.prose .prose-indent} Jeunes filles, respectez les pèlerins qui gaspillent leur pain quotidien sur les riches ornières du crépuscule.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Les jeunes filles s’enfuient.)</em>
+<em>(Les jeunes filles s’enfuient.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 24 ](/data/sdw-data/P024.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Le récitant et la récitante feignent de poser par terre une civière&nbsp;; le chœur de creuser une fosse. Un cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)</em>
+<em>(Le récitant et la récitante feignent de poser par terre une civière&nbsp;; le chœur de creuser une fosse. Un cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)</em>
 
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(recueilli.)</em>
+- {:.speaker} Le récitant <em>(recueilli.)</em>
 
 - {:.indent-2} Adieu, Saint- Domingue.
 
@@ -944,12 +944,12 @@ The stage direction in this case is written inline with the speech, in this case
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
 
-- {:.speaker} Le chœur <em xmlns:saxon="http://saxon.sf.net/">(haineux.)</em>
+- {:.speaker} Le chœur <em> (haineux .)</em>
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vo­mi le happement du squale et le rampement du scolopendre.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.)</em>
+<em>(A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.)</em>
 
 
 
@@ -962,17 +962,17 @@ The stage direction in this case is written inline with the speech, in this case
 
 - {:.prose .prose-indent}   
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
 
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/"></em>
+- {:.speaker} Toussaint <em></em>
 
 - {:.prose .prose-indent} C’est bien. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Rassemblement. Bruit de tam-tam.)</em>
+<em>(Rassemblement. Bruit de tam-tam.)</em>
 
 
 
@@ -995,13 +995,13 @@ The stage direction in this case is written inline with the speech, in this case
 - ensorcelent&nbsp;de serpents, de palabres, de varechs
 - le phare disjoint de sang d’aiglon.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 26 ](/data/sdw-data/P026.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène est envahie par la foule&nbsp;des insurgés&nbsp;: masse d’hommes et de femmes armés de coutelas.)</em>
+<em>(La scène est envahie par la foule&nbsp;des insurgés&nbsp;: masse d’hommes et de femmes armés de coutelas.)</em>
 
 
 
@@ -1040,12 +1040,12 @@ The stage direction in this case is written inline with the speech, in this case
 - {:.prose .prose-indent} Revenez sur les habitations. Reprenez le travail. Nous sommes  prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous  vous garantissons à tous notre bienveillance paternelle.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Des cris contradictoires dans la foule.)</em>
+<em>(Des cris contradictoires dans la foule.)</em>
 
-- {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort... à mort.
+- {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. Amort... à mort.
 - ...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 27 ](/data/sdw-data/P027.jpg){: target='_blank'}
 
@@ -1071,7 +1071,7 @@ The stage direction in this case is written inline with the speech, in this case
 - {:.indent-2} A mort. Tue. Tue.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La foule se resserre comme une machoire.)</em>
+<em>(La foule se resserre comme une machoire.)</em>
 
 
 
@@ -1089,13 +1089,13 @@ The stage direction in this case is written inline with the speech, in this case
 
 - {:.prose} Baiser de gemmes, oubliettes du sang, belle comme la mémoire déssaisie d’oubli frais, la vengeance s’est dressée avec l’oreille du jour, et toutes les poussières de vanille qui tissent la chair des nuits, toutes les guêpes qui salivent la cassave des nuits, toutes les sphyrènes qui signent les dos des nuits, ont forcé jusqu’à voir leur œil de serrure.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 28 ](/data/sdw-data/P028.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Les guerriers défilent devant les cadavres en brandissant des coutelas.)</em>
+<em>(Les guerriers défilent devant les cadavres en brandissant des coutelas.)</em>
 
 
 
@@ -1119,10 +1119,10 @@ The stage direction in this case is written inline with the speech, in this case
 - {:.prose .prose-indent} C’est bien camarades... Tout de suite... Nous tous en avant et pas de quartier.
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Les bandes s’ébranlent en poussant des cris frénétiques.)</em>
+<em>(Les bandes s’ébranlent en poussant des cris frénétiques.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 29 ](/data/sdw-data/P029.jpg){: target='_blank'}
 
@@ -1140,7 +1140,7 @@ The stage direction in this case is written inline with the speech, in this case
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied des arbres à pain.
+- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied des arbres à pain .
 
 
 - {:.speaker} La récitante.
@@ -1150,13 +1150,13 @@ The stage direction in this case is written inline with the speech, in this case
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nous coupaient les jarrets.
+- {:.indent-2} Ils nouscoupaient les jarrets.
 
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nous marquaient au fer rouge.
-In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaient...'. The corrections were marked with vertical lines drawn in pencil across the words where the whitespaces belong.
+- {:.indent-2} Ils nousmarquaient au fer rouge.
+
 
 - {:.speaker} Le chœur.
 
@@ -1172,7 +1172,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.prose .prose-indent} J’entends des cris d’enfants dans la case noire... et le petits ventres pierreux pommés en leur mitan du nombril énorme se gonflent de famine et du noir migan de la terre et des larmes et de la morve et de l’urine.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 30 ](/data/sdw-data/P030.jpg){: target='_blank'}
 
@@ -1197,13 +1197,13 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.prose .prose-indent} Un oiseau et son sourire... un navire et ses racines... l’horizon et ses cheveux de pierres précieuses... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la pierre des nuits...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 31 ](/data/sdw-data/P031.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Au Cap. A l’assemblée des planteurs présidée par le gouverneur.)</em>
+<em>(Au Cap. A l’assemblée des planteurs présidée par le gouverneur.)</em>
 
 
 
@@ -1229,7 +1229,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <span xmlns:saxon="http://saxon.sf.net/" class="unclear">Trêmes</span>, Noé, Toussaint  a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1249,14 +1249,14 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les crisThis line, and the following one to some extent, show plenty of interventions meant to compensate for extremely faint type. These clarifications have been made in blue ink and pencil. du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
+- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris  du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
 
 
 - {:.speaker} 
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 32 ](/data/sdw-data/P032.jpg){: target='_blank'}
 
@@ -1297,28 +1297,28 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières, au Morne, à Dondon, à la Marmelade et à Fort Dauphin. Quant à vous, Messieurs, aux armes, et vive la colonie française de Saint-Domingue.
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Vivats prolongés. Les députés sortent.)</em>
+<em>(Vivats prolongés. Les députés sortent.)</em>
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Quelques attardés discutent encore.)</em>
+<em>(Quelques attardés discutent encore.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Une rue. La nuit. Des groupes passent.)</em>
+<em>(Une rue. La nuit. Des groupes passent.)</em>
 
 
 
 - {:.speaker} 1er&nbsp;groupe &nbsp;: Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison,c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
-<em xmlns:saxon="http://saxon.sf.net/">(La voix se perd dans la nuit.)</em>
+<em>(La voix se perd dans la nuit.)</em>
 
 
 
@@ -1328,13 +1328,13 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - {:.prose .prose-indent} Hum&nbsp;! alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur&nbsp;; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(La voix fredonne&nbsp;:</em>
+<em>(La voix fredonne&nbsp;:</em>
 
 - {:.indent-2} A la Matinique, Matinique, Matinique
 - {:.indent-2} c’est çà qui chic...)
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appellerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
+<em>(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appelleronsle speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
 
 
 
@@ -1347,7 +1347,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.prose .prose-indent} Pas de silence qui tienne. Nous sommes libres et égaux en droits. N’oubliez pas cela.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 34 ](/data/sdw-data/P034.jpg){: target='_blank'}
 
@@ -1365,10 +1365,10 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.speaker} 3e énergumène.
 
-- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;?  
+- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)</em>
+<em>(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)</em>
 
 
 
@@ -1381,19 +1381,19 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.indent-2} Mort aux blancs, mort aux blancs.
 
-- {:.speaker} Le speaker <em xmlns:saxon="http://saxon.sf.net/">(soufletant la tête coupée.)</em>
+- {:.speaker} Le speaker <em>(soufletant la tête coupée.)</em>
 
 - {:.indent-2} La parole est à Monsieur le Gouverneur.
 
-- {:.speaker} Le porte-drapeau <em xmlns:saxon="http://saxon.sf.net/">(d'une voix nasillarde.)</em>
+- {:.speaker} Le porte-drapeau <em>(d'une voix nasillarde.)</em>
 
 - {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il  n’est plus temps de délibérer. Ma décision est prise. Avec les nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre du jour, Messieurs...
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Applaudissements. Des rires.)</em>
+<em>(Applaudissements. Des rires.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 35 ](/data/sdw-data/P035.jpg){: target='_blank'}
 
@@ -1404,7 +1404,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - {:.indent-2} A mort&nbsp;; à mort.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Une hystérie collective. Une odeur de sang monte. Le speaker danse la bamboula sur l’estrade.)</em>
+<em>(Une hystérie collective. Une odeur de sang monte. Le speaker danse la bamboula sur l’estrade.)</em>
 
 
 
@@ -1420,7 +1420,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Le silence tombe raide, funèbre.)</em>
+<em>(Le silence tombe raide, funèbre.)</em>
 
 
 
@@ -1433,7 +1433,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.indent-2} En ma main noire et rouge s’époumonne une aurore de sureau blanc
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 36 ](/data/sdw-data/P036.jpg){: target='_blank'}
 
@@ -1448,31 +1448,31 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.indent-2} Pardon, camarade, au commencement il y avait la nuit.
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(docile.)</em>
+- {:.speaker} Le récitant <em>(docile.)</em>
 
 - {:.indent-2} Camarade, au commencement il y avait la nuit...
 
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères&nbsp;et de dividendes, la grande mer de sang noir, la grande houle de cannes à sucre,  le grand océan d’horreurs et de désolations.
+- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères&nbsp;et de dividendes,la grande mer de sang noir, la grande houle de cannes à sucre, le grand océan d’horreurs et de désolations.
 - {:.indent-2} A la fin, il y a, à la fin...
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Elle se bouche les yeux.)</em>
+<em>(Elle se bouche les yeux.)</em>
 
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(d’une voix cinglante.)</em>
+- {:.speaker} Le récitant <em>(d’une voix cinglante.)</em>
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, soninsolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
+<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
 
 
 
@@ -1488,33 +1488,33 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
+- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même...Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes, puis des mains... Ce sont des esclaves qui labourent au crépuscule.)</em>
+<em>(Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes, puis des mains... Ce sont des esclaves qui labourent au crépuscule.)</em>
 
 
-- {:.speaker} 1er esclave <em xmlns:saxon="http://saxon.sf.net/">(chantant.)</em>
-
-- {:.indent-2} Hé, mes amis, ho.
-
-- {:.speaker} 2e esclave <em xmlns:saxon="http://saxon.sf.net/">(chantant.)</em>
+- {:.speaker} 1er esclave <em>(chantant.)</em>
 
 - {:.indent-2} Hé, mes amis, ho.
 
-- {:.speaker} 1er esclave <em xmlns:saxon="http://saxon.sf.net/">(chantant.)</em>
+- {:.speaker} 2e esclave <em>(chantant.)</em>
+
+- {:.indent-2} Hé, mes amis, ho.
+
+- {:.speaker} 1er esclave <em>(chantant.)</em>
 
 - {:.indent-2} La terre est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
-- {:.speaker} 2e esclave <em xmlns:saxon="http://saxon.sf.net/">(chantant.)</em>
+- {:.speaker} 2e esclave <em>(chantant.)</em>
 
 - {:.indent-2} Le soleil est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
-- {:.speaker} 3e esclave <em xmlns:saxon="http://saxon.sf.net/">(chantant.)</em>
+- {:.speaker} 3e esclave <em>(chantant.)</em>
 
 - {:.indent-2} La pluie est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 38 ](/data/sdw-data/P038.jpg){: target='_blank'}
 
@@ -1522,7 +1522,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 
 - {:.speaker} 1er esclave.
 
-- {:.indent-2} Hé, mes amis, ho.
+- {:.indent-2}  Hé, mes amis, ho.
 
 
 - {:.speaker} 2e esclave.
@@ -1541,7 +1541,7 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - Ma fatigue est un tombereau de sable insonore
 - aux quatre coins des moissons pétrifiées.
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(lugubre.)</em>
+- {:.speaker} Le récitant <em> (lugubre.)</em>
 
 - {:.prose .prose-indent} Saint-Domingue fond comme un noyé dans l’acide des gorges de la Révolution.
 
@@ -1554,30 +1554,30 @@ In the above lines the orginal read 'Ils nouscoupaient...' and 'Ils nousmarquaie
 - {:.speaker} Le récitant.
 
 - {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de   la nuit.
-Just as above, the line begins to close to the previous one. The correction resets the line in the proper place. Light pencil was used originally and was then reinforced with the darker pencil.
-
-<em xmlns:saxon="http://saxon.sf.net/">(Coups de feu...)</em>
 
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(fébrile.)</em>
+<em>(Coups de feu...)</em>
+
+
+- {:.speaker} Le récitant <em>(fébrile.)</em>
 
 - {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les esclaves...
 - Sonthonax ouvre les portes du Cap à Pierrot et à Macaya...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}
 
 
-- {:.speaker} La récitante <em xmlns:saxon="http://saxon.sf.net/">(dolente.)</em>
+- {:.speaker} La récitante <em> (dolente.)</em>
 
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent...
  
 
-<em xmlns:saxon="http://saxon.sf.net/"></em>
+<em></em>
 
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(féroce.)</em>
+- {:.speaker} Le récitant <em> (féroce.)</em>
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
 
@@ -1606,54 +1606,54 @@ Just as above, the line begins to close to the previous one. The correction rese
 
 - {:.indent-2} Mort aux blancs. Mort aux blancs.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 40 ](/data/sdw-data/P040.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le champ de vision, en perdition&nbsp;; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)</em>
+<em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition&nbsp;; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)</em>
 
 - République d’Haïti.
 
-- {:.speaker} Le chœur <em xmlns:saxon="http://saxon.sf.net/">(enthousiaste.)</em>
+- {:.speaker} Le chœur <em> (enthousiaste.)</em>
 
 - {:.indent-2} Haïti. Haïti.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
+<em>(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
 
 
-- {:.speaker} Le récitant <em xmlns:saxon="http://saxon.sf.net/">(pleurant.)</em>
+- {:.speaker} Le récitant <em> (pleurant.)</em>
 
 - Froid cœur de la mort, la lagune a dégainé son rire de poignard.
-The lines which lead to the addition seem to erase an unascertained character as well. The missing character is difficult to discern because the lines are so thick.
-<hr xmlns:saxon="http://saxon.sf.net/">
+
+<hr>
 
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
 
-- {:.centered}  Acte II
+- {:.centered} Acte II
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses&nbsp;; écumez contre mon attente scabreuse.
+- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses&nbsp;;  écumez contre mon attente scabreuse.
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents.
+- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents. 
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;?
+- {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je  nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;?
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtres n'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
+- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
 
 
 - {:.speaker} Récitante.
@@ -1663,7 +1663,7 @@ The lines which lead to the addition seem to erase an unascertained character as
 
 - {:.speaker} Récitant.
 
-- {:.prose} Il fait beau une gerbera plus nue qu'une femme  dans le soleil joueThe deletion was first striken out with the typewriter before being striken out in ink. vers le soleil et le soleil crépite dans les  cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
+- {:.prose} Il fait beau une gerbera plus nue qu'une femme  dans le soleil joue vers le soleil et le soleil crépite dans les  cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
 
 
 - {:.speaker} Récitant.
@@ -1675,7 +1675,7 @@ The lines which lead to the addition seem to erase an unascertained character as
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 42 ](/data/sdw-data/P042.jpg){: target='_blank'}
 
@@ -1683,9 +1683,9 @@ The lines which lead to the addition seem to erase an unascertained character as
 - {:.centered} 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(une ville haïtienne, place publique&nbsp;: troupes, foules, drapeaux Subitement acclamations et fanfares. entrent Toussaint et sa suite. Toussaint s'installe sous un dais&nbsp;: les délégations avancent, successives.)</em>
+<em>(une ville haïtienne, place publique&nbsp;: troupes, foules, drapeaux Subitement acclamations et fanfares. entrent Toussaint et sa suite. Toussaint s'installe sous un dais&nbsp;: les délégations avancent, successives.)</em>
 
-The 'x' in 'drapeaux' is written on the line below next to the edge of the page
+
 
 - {:.speaker} 1re délégation&nbsp;: 1er orateur.
 
@@ -1697,7 +1697,7 @@ The 'x' in 'drapeaux' is written on the line below next to the edge of the page
 - Hurrah&nbsp;!
 
 
-- {:.speaker} 2e délégation&nbsp;: 2e orateur.
+- {:.speaker} 2e délégation&nbsp;:2e orateur.
 
 - {:.prose} Gloire à Toussaint Louverture, le Spartacus noir, le nègre prédit par Raynal pour venger les injures faites à sa race.
 
@@ -1707,7 +1707,7 @@ The 'x' in 'drapeaux' is written on the line below next to the edge of the page
 - Hurrah&nbsp;!
 
 
-- {:.speaker} 3e délégation&nbsp;: 3e orateur.
+- {:.speaker} 3e délégation&nbsp;:3e orateur.
 
 - {:.prose} Reconnaissance éternelle à Toussaint Louverture, pacificateur, restaurateur...
 
@@ -1726,7 +1726,7 @@ The 'x' in 'drapeaux' is written on the line below next to the edge of the page
 
 - Hurrah&nbsp;! Hurrah&nbsp;!
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 43 ](/data/sdw-data/P043.jpg){: target='_blank'}
 
@@ -1760,9 +1760,9 @@ The 'x' in 'drapeaux' is written on the line below next to the edge of the page
 
 - {:.speaker} L'archevèque.
 
-- Dieu nous l'a donné&nbsp;! Dieu nous le conservera. <em xmlns:saxon="http://saxon.sf.net/">(Il bénit la foule).</em>
+- Dieu nous l'a donné&nbsp;! Dieu nous le conservera. <em>(Il bénit la foule).</em>
 
-- {:.speaker} Les chantres <em xmlns:saxon="http://saxon.sf.net/">(braillant.)</em>
+- {:.speaker} Les chantres  <em>(braillant.)</em>
 
 - Salvum fac gubernatorem.
 
@@ -1772,17 +1772,17 @@ The 'x' in 'drapeaux' is written on the line below next to the edge of the page
 - Îles heureuses
 - jardins de la reine
 - je me laisse dériver dans la nuit d'épices de tornade et de saintes images
-The 's' in the last word is repeated below next to the edge of the page.- et le varech
+- et le varech
 - agrippe de ses petits doigts d'enfant
 - mon barissement  futur
 - d'épave&nbsp;!
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 44 ](/data/sdw-data/P044.jpg){: target='_blank'}
 
 
-- {:.speaker} Chantres <em xmlns:saxon="http://saxon.sf.net/">(braillant.)</em>
+- {:.speaker} Chantres  <em>(braillant.)</em>
 
 - Salvum fac civitatis fundatorem.
 
@@ -1796,7 +1796,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - un plat de champignons venéneux
 - et ils se jettent dessus goulûment.
 
-- {:.speaker} Chantres <em xmlns:saxon="http://saxon.sf.net/">(braillant plus fort.)</em>
+- {:.speaker} Chantres  <em>(braillant plus fort .)</em>
 
 - Salvum fac Spartacum&nbsp;!
 
@@ -1820,7 +1820,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.speaker} Toussaint.
 
 - Un singe, je suis un singe qui par ses grimaces attroupe
-- les escales de flaques d'eau de poudrières, de desespérance, de famine
+- les escales de flaques d'eau de poudrières, dedesespérance, de famine
 - de vengeances rentrées, de détresses nucléaires, de dévotions inavouables
 - et c'est toi que j'interroge
 - ô vent
@@ -1829,7 +1829,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - calamiteusement
 - as-tu entendu quelque chose ?
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 45 ](/data/sdw-data/P045.jpg){: target='_blank'}
 
@@ -1854,10 +1854,10 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - {:.speaker} Toussaint.
 
-- Connaissez-vous Samana ? Ici est&nbsp;ma querencia&nbsp;:
+- Connaissez-vous Samana ? Ici est &nbsp;ma querencia&nbsp;:
 - malheur à qui m'y traque.
 
-- {:.speaker} Chantres <em xmlns:saxon="http://saxon.sf.net/">(braillant.)</em>
+- {:.speaker} Chantres <em> (braillant.)</em>
 
 - Salvum fac...
 
@@ -1874,7 +1874,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - avant-garde de voceratrices et de fossoyeurs.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène est envahie par des prêtres de tous ordres qui bénissent frénétiquement)</em>
+<em>(La scène est envahie par des prêtres de tous ordres qui bénissent frénétiquement) </em>
 
 
 
@@ -1891,7 +1891,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - est-ce que les oiseaux de proie ne violentent pas le cerne de leurs yeux ?
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 46 ](/data/sdw-data/P046.jpg){: target='_blank'}
 
@@ -1901,7 +1901,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - haussées sur la pointe de pieds ?
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Á ce moment une pluie de caillous lancés par d'invisibles mains s'abat sur les délégations&nbsp;; désarroi.)</em>
+<em>(Á ce moment une pluie de caillous lancés par d'invisibles mains s'abat sur les délégations&nbsp;; désarroi.)</em>
 
 
 
@@ -1912,31 +1912,31 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - Rampez, rampez fleuve d'immondices jusqu'à l'oubli.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Sauve qui peut&nbsp;; le clergé sort en bénissant peureusement.)</em>
+<em>(Sauve qui peut&nbsp;; le clergé sort en bénissant peureusement.)</em>
 
 
-- {:.speaker} Les chantres <em xmlns:saxon="http://saxon.sf.net/">(à reculons.)</em>
+- {:.speaker} Les chantres <em>(à reculons.)</em>
 
 - Salvum fac imperatorem
 - salvum fac gubernatorem.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène reste vide quelques instants.)</em>
+<em>(La scène reste vide quelques instants.)</em>
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Entre la nourrice, une vieille négresse chargée de médailles.)</em>
+<em>(Entre la nourrice, une vieille négresse chargée de médailles.)</em>
 
 
 
-- {:.speaker}  le chœur 
+- {:.speaker} le chœur
 
 - {:.prose} C'est moi la nourrice. Toussaint Louverture, bien sûr qu'il n'avait pas de nourrice&nbsp;; et qu'il ne m'est jamais tombé des bras&nbsp;; et qu'on sait qu'il a bu le lait de la terre et qu'il a machonné le sein de la terre et qu'il a mangé le pain de la terre, mais une nourrice, imaginez que je suis la terre.
 - Alors je suis venu vous demander de lui pardonner.
 - {:.prose} Il est bizarre mon enfant, il est violent mon enfant&nbsp;; il réclame mon enfant&nbsp;; des droits. Toutes sortes de droits. Des droits qui ne sont pas faits pour nous.
 - {:.prose} Mais je dis que c'est pas de sa faute. Hon&nbsp;! je dis que c'est son sang qui est plus fort que lui&nbsp;; et qui le bat, et qui lui joue de mauvais tours. Hon. Et je vois qu'il a passé sa maladie à une foule de jeunes gens. Et c'est très malheureux. Une foule de jeunes réclameurs. Des nègres&nbsp;: ils ont tort de tant réclamer. Et forcément ça attire le malheur. De mon temps on était plus doux, plus acceptant, plus consentant. Hon.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 47 ](/data/sdw-data/P047.jpg){: target='_blank'}
 
@@ -1989,7 +1989,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 48-49 ](/data/sdw-data/P048-49.jpg){: target='_blank'}
 
@@ -1997,7 +1997,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.centered} 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Une rue du Cap).</em>
+<em>(Une rue du Cap).</em>
 
 
 - {:.speakerGroup} 1er groupe de passants.
@@ -2039,7 +2039,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.prose .prose-indent} Un singe à peine dégrossi&nbsp;; un chimpanzé, un orang-outang, un ouistiti, un sapajou, que sais-je&nbsp;?
 - {:.indent-2} Tous les savants vous disent cela.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 50 ](/data/sdw-data/P050.jpg){: target='_blank'}
 
@@ -2057,7 +2057,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.indent-2} Quel soufflet pour nous&nbsp;!
 
 
-<em xmlns:saxon="http://saxon.sf.net/"> </em>
+<em></em>
 
 
 
@@ -2075,7 +2075,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - {:.prose .prose-indent} Toutes les mordorures et tout l'espoir au dos des mains, au creux des mains des feuilles de caïmitiers ne me consoleront pas.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 51 ](/data/sdw-data/P051.jpg){: target='_blank'}
 
@@ -2100,7 +2100,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards, de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- {:.prose} de poignards, de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, depetits jours étranges, l'engourdissementbu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
 
 
 - {:.speaker} Le chœur.
@@ -2121,12 +2121,12 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - Je sens des astres s'attendrir dans ma chair, des laitances, des lunes, des
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
 
 - nénuphars.
-- {:.indent-2}  On muselerait la mer en écoutant peiner les maraichers vers la croupe
+- {:.indent-2} On muselerait la mer en écoutant peiner les maraichers vers la croupe
 - fabuleuse des matins, dans une douceur de scandales et d'écume.
 
 
@@ -2149,7 +2149,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues et les fauves&nbsp;!
 - Je n'ai pas le don du vol.
 - Je n'ai pas de mère — je n'ai pas de passé.
-- J'ai comblé jusqu'àl'oubli, de poussières et d'insultes, le puits
+- J'ai comblé jusqu'à l'oubli, de poussières et d'insultes, le puits
 - marâtre de mon nombril.
 
 
@@ -2162,7 +2162,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - Tuez ou adorez.
 - Je suis hors. Innocent, les mains nettes. Je suis hors.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 53 ](/data/sdw-data/P053.jpg){: target='_blank'}
 
@@ -2174,7 +2174,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - {:.speaker} Le Récitant.
 
-- Attention&nbsp;!
+-  Attention&nbsp;!
 - Je crie attention du haut de ma guette.
 - Plus près&nbsp;!
 - Par ici&nbsp;!
@@ -2197,13 +2197,13 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - {:.prose} des champs de maïs, d'indigo, de cannes à sucre, à quelques brasses de profondeur&nbsp;;
 - des clameurs au creux se ruent au creux et bouchent le ciel...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 54 ](/data/sdw-data/P054.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Vision de panique. Des hommes courent en tous sens.)</em>
+<em>(Vision de panique. Des hommes courent en tous sens.)</em>
 
 
 
@@ -2227,7 +2227,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - Les blancs débarquent.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La foule grossit devant le palais de Toussaint. Toussaint parait au balcon.)</em>
+<em>(La foule grossit devant le palais de Toussaint. Toussaint parait au balcon.)</em>
 
 
 
@@ -2236,7 +2236,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - Les blancs débarquent, les blancs débarquent.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Coups de canon dans le lointain, puis un silence... Un drapeau blanc jaillit du sol.)</em>
+<em>(Coups de canon dans le lointain, puis un silence... Un drapeau blanc jaillit du sol.)</em>
 
 
 
@@ -2250,7 +2250,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - Des parlementaires&nbsp;? ... Les blancs envoient des parlementaires&nbsp;?
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Parait une troupe en armes accompagnant un parlementaire blanc.)</em>
+<em>(Parait une troupe en armes accompagnant un parlementaire blanc.)</em>
 
 
 
@@ -2258,7 +2258,7 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 
 - Vive la Liberté&nbsp;! Vive la liberté&nbsp;! Vive Toussaint Louverture&nbsp;!
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 55 ](/data/sdw-data/P055.jpg){: target='_blank'}
 
@@ -2305,11 +2305,11 @@ The 's' in the last word is repeated below next to the edge of the page.- et le 
 - âge de la pierre
 - à ras de terre.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 56 ](/data/sdw-data/P056.jpg){: target='_blank'}
 
-In this case the main scheme corresponds with the #P7
+
 
 - {:.speaker} Parlementaire.
 
@@ -2352,7 +2352,7 @@ In this case the main scheme corresponds with the #P7
 - de votre curare
 - de votre génipa.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 57 ](/data/sdw-data/P057.jpg){: target='_blank'}
 
@@ -2402,13 +2402,13 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose} Nous sommes au moment où 9 scorpions se frappent formés par la malédic­tion des âmes.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 58 ](/data/sdw-data/P058.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A ce moment des tams-tams éclatent frénétiques, couvrent les voix.)</em>
+<em>(A ce moment des tams-tams éclatent frénétiques, couvrent les voix.)</em>
 
 
 
@@ -2416,7 +2416,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.indent-2} Qu'est ce que c'est&nbsp;?...
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/">(extatique.)</em>
+- {:.speaker} Toussaint <em> (extatique.)</em>
 
 - Accoudé à la rampe de feu,
 - les cris des nuages ne me suffisaient  pas.
@@ -2448,15 +2448,15 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose} Ce que vous reproche le consul...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 59 ](/data/sdw-data/P059.jpg){: target='_blank'}
 
 
 
-- {:.speaker} Le chœur.
+- {:.speaker} Lechœur.
 
-- Dites au Vaudou d'éteindre le jaune solaire de ses  minuits
+- Dites au Vaudou d'éteindre le jaune solaire de ses minuits
 - dites aux bothrops que les jeux  sont faits
 - nous sommes la race tombée
 - nous sommes la race sans jour et sans lendemain
@@ -2471,7 +2471,7 @@ In this case the main scheme corresponds with the #P7
 - ô les chemins fragiles têtus et certains
 - de mon royaume qui est et qui n'est pas encore.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 60 ](/data/sdw-data/P060.jpg){: target='_blank'}
 
@@ -2486,7 +2486,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose} Nous sommes au moment où l'impératrice décrète dans les grottes de l'empire l'inutilité des caisses de compensation et se tatoue les cuisses d'une pluie de datûras où râle une lance flammée.
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/">(à la foule.)</em>
+- {:.speaker} Toussaint <em> (à la foule.)</em>
 
 - {:.indent-2} Mes amis, cries avec moi&nbsp;: Vive la liberté.
 
@@ -2527,7 +2527,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 61 ](/data/sdw-data/P061.jpg){: target='_blank'}
 
@@ -2563,7 +2563,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.indent-2} Aux armes. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La foule se disperse en courant.)</em>
+<em>(La foule se disperse en courant.)</em>
 
 
 
@@ -2588,14 +2588,14 @@ In this case the main scheme corresponds with the #P7
 - {:.indent-2} Vive Toussaint Louverture. Vive Toussaint Louverture.
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} Toussaint .
 
 - Faites sauter la ville ;
 - j'assassinerai, je dépècerai
 - fièvre,
 - peste
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 62 ](/data/sdw-data/P062.jpg){: target='_blank'}
 
@@ -2612,7 +2612,7 @@ In this case the main scheme corresponds with the #P7
 - je me reculerais pas...
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions... de la fumée... une panique...)</em>
+<em>(3 coups de canon espacés retentissent. Des hommes avec des torches courent des explosions... de la fumée... une panique...)</em>
 
 
 
@@ -2641,7 +2641,7 @@ In this case the main scheme corresponds with the #P7
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Des troupes défilent... une forêt la nuit ; lueurs d'incendieau loin... des cavaliers.)</em>
+<em>(Des troupes défilent... une forêt la nuit ; lueurs d'incendie au loin... des cavaliers.)</em>
 
 
 
@@ -2651,7 +2651,7 @@ In this case the main scheme corresponds with the #P7
 - ils avancent
 - {:.prose} les massacres, mes massacres, les fumées, mes fumées font une route peu limpide de jets d'eau lancés par les évents de l'incendie
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 63 ](/data/sdw-data/P063.jpg){: target='_blank'}
 
@@ -2697,7 +2697,7 @@ In this case the main scheme corresponds with the #P7
 - pour un siècle.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La troupe s'ébranle).</em>
+<em>(La troupe s'ébranle).</em>
 
 
 
@@ -2705,7 +2705,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose} Vers le soir de grandes îles de crachat s'élargirent en annonces somptuaires — sur le pavé.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 64 ](/data/sdw-data/P064.jpg){: target='_blank'}
 
@@ -2719,7 +2719,7 @@ In this case the main scheme corresponds with the #P7
 - les signaux de la mort.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Une lande désolée&nbsp;: leurs d'incendie.)</em>
+<em>(Une lande désolée&nbsp;: leurs d'incendie.)</em>
 
 
 
@@ -2735,7 +2735,7 @@ In this case the main scheme corresponds with the #P7
 - hélas.
 - Tout s'efface, tout s'écroule.
 - il ne m'importe plus que les ciels mémorés
-- The word 'mémorés' is written above the original in blue ink. In this case, though, the clarification was completely unnecessary since the original is quite legible.il ne me reste plus qu'un escalier à descendre marche par marche
+- il ne me reste plus qu'un escalier à descendre marche par marche
 - il ne me reste plus qu'une petite rose de tison volé
 - qu'un fumet de femmes nues
 - qu'un pays d'explosions fabuleuses
@@ -2744,7 +2744,7 @@ In this case the main scheme corresponds with the #P7
 - qu'un calendrier désuet
 - que le goût le vertige le luxe du sacrilège capiteux.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 65 ](/data/sdw-data/P065.jpg){: target='_blank'}
 
@@ -2785,13 +2785,13 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose .prose-indent} Je cherche les traces de ma puissance comme un dans la brousse les traces perdues
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 66 ](/data/sdw-data/P066.jpg){: target='_blank'}
 
 - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs, chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
-- {:.prose} J'ai saigné dans les couloirs secrets — sur le sol grand'ouvert des batailles et,
+- {:.prose} J'ai saigné dans les couloirs secrets— sur le sol grand'ouvert des batailles et,
 - je m'avance, mouche dédorée grand insecte malicorne et vorace
 - {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil.
 
@@ -2821,7 +2821,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches ! les drapeaux&nbsp;!
+- le caïman ! les torches !les drapeaux&nbsp;!
 - et l'Amazone degout d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,
@@ -2829,7 +2829,7 @@ In this case the main scheme corresponds with the #P7
 - là où germent d'étranges monogrammes&nbsp;:
 - un phallus de noyé, un tibia, un sternum
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 67 ](/data/sdw-data/P067.jpg){: target='_blank'}
 
@@ -2864,7 +2864,7 @@ In this case the main scheme corresponds with the #P7
 - vaincu,
 - Afrique, Amérique, Europe j'ai de la frénésie cachée sous les feuilles,
 - à ma suffisance ;
-- je tiens à l'abri descœursà flanc de furie
+- je tiens à l'abri des cœurs à flanc de furie
 - la clé des perturbations
 - et tout à détruire.
 - le soufre mon frère, le soufre mon sang
@@ -2884,7 +2884,7 @@ In this case the main scheme corresponds with the #P7
 - je n'entends  rien
 - rien que les catastrophes qui montent à la relève des villes
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 68 ](/data/sdw-data/P068.jpg){: target='_blank'}
 
@@ -2912,7 +2912,7 @@ In this case the main scheme corresponds with the #P7
 - {:.indent-2} Que l'on m'invente des tortures
 - je vois d'ennuis exploser les roses trémières des longs silences pacifiques.
 
-- {:.speaker} Chœur <em xmlns:saxon="http://saxon.sf.net/">(souterrain.)</em>
+- {:.speaker} Chœur <em>(souterrain.)</em>
 
 - {:.indent-2} Voici ma main. Voici ma main.
 - Ma main fraiche, ma main de jet d'eau de sang
@@ -2928,53 +2928,53 @@ In this case the main scheme corresponds with the #P7
 - le bourdonnement d'une chair vivante,
 - me voici...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 69 ](/data/sdw-data/P069.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Passent des nègres «&nbsp;enfilés par le cou à une longue chaine de fer, comme les grains d'un chapelet, et portant tons des menottes aux bras&nbsp;».)[^tei1]</em>
+<em>(Passent des nègres «&nbsp;enfilés par le cou à une longue chaine de fer, comme les grains d'un chapelet, et portant tons des menottes aux bras&nbsp;».)[^tei1]</em>
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque)</em>
+<em>(Entrent les dieux noirs et rouges paissants sous la houlette de l'archevêque) </em>
 
 
 
-- {:.speaker} 1e dieu
+- {:.speaker} 1e  dieu
 
 - quelle époque. Mes enfants vous avez fait là une belle boucherie
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(il s'assied sur son trône.)</em>
+<em>(il s'assied sur son trône .)</em>
 
 
 
-- {:.speaker} 2e dieu
+- {:.speaker} 2e  dieu
 
 - {:.prose} Une époque étonnante mes frères: la morue terre-neuvienne se jette d'elle-même s sur les lignes.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(il s'assied sur son trône.)</em>
+<em>(il s'assied sur son trône .)</em>
 
 
 
-- {:.speaker} 3e dieu
+- {:.speaker} 3e  dieu
 
 - Je dis que c'est une époque étourdissante ou stupéfiante à votre gré
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(il s'assied sur son trône.)</em>
+<em>(il s'assied sur son trône .)</em>
 
 
 
-- {:.speaker} 4e dieu
+- {:.speaker} 4e  dieu
 
 - Une époque phallique et fertile en miracles
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(il rit idiotement et s'assied sur son trône. Les trois premiers dieux  se touchent le front du doigt et désignent le quatrième dieu  pour indiquer qu'il est fou.)</em>
+<em>(il rit idiotement et s'assied sur son trône. Les trois premiers dieux  se touchent le front du doigt et désignent le quatrième dieu  pour indiquer qu'il est fou.)</em>
 
 
 
@@ -2984,20 +2984,20 @@ In this case the main scheme corresponds with the #P7
 - ouha. brrouha. ou-ou-ah
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(les dieux se touchent le front du doigt et désignent l'archevêque pour indiquer qu'il a perdu la raison.)</em>
+<em>(les dieux se touchent le front du doigt et désignent l'archevêque pour indiquer qu'il a perdu la raison.) </em>
 
 
 
 - {:.speaker} l'archevêque
 
-- Allons, j'entends la flute perlée des crapauds et lecrécellementrugueux des
+- Allons, j'entends la flute perlée des crapauds et le crécellement rugueux des
 - grillons de la nuit. ouah, brrouah.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(les dieux se lèvent, le groupe sort lentement, chacun trainant derrière soi un hareng-saur attaché au bout d'un fil.)</em>
+<em>(les dieux se lèvent, le groupe sort lentement, chacun trainant derrière soi un hareng-saur attaché au bout d'un fil.) </em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 70 ](/data/sdw-data/P070.jpg){: target='_blank'}
 
@@ -3015,15 +3015,15 @@ In this case the main scheme corresponds with the #P7
 
 - {:.speaker} Récitante.
 
-- cernée d'enfants et d'yeux et de ruées de rires.
+- cernée d'enfants et d'yeux et de ruées de  rires.
 
 
 - {:.speaker} Récitant.
 
-- Cataractes voici les cataractes et le chant meurtrier clair des oiseaux.
+- Cataractes voici les cataractes et le chant meurtrier clair des oiseaux. 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Une campagne désertique, aussi peu tropicale que possible. Des paysans. Entre le voyageur la tête recouverte d'un voile).</em>
+<em>(Une campagne désertique, aussi peu tropicale que possible. Des paysans. Entre le voyageur la tête recouverte d'un voile).</em>
 
 
 
@@ -3049,12 +3049,12 @@ In this case the main scheme corresponds with the #P7
 
 - {:.speaker} le voyageur.
 
-- {:.prose} De bien loin... Dites, j'ai jadis connuun homme qui s'appelait  Tous­ saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
+- {:.prose} De bien loin... Dites, j'ai jadis connu  un homme qui s'appelait  Tous­ saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
 
 
 - {:.speaker} les bonnes gens.
 
-- Hein, nous le conaissons pas.
+- Hein,  nous le conaissons pas.
 
 
 - {:.speaker} le voyageur.
@@ -3067,7 +3067,7 @@ In this case the main scheme corresponds with the #P7
 - {:.prose} &nbsp;C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 71 ](/data/sdw-data/P071.jpg){: target='_blank'}
 
@@ -3095,7 +3095,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.speaker} le voyageur.
 
-- {:.prose} Oui toutefois.. un homme étonnant... en morsures profondes..Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavresdétrempés, ses pas fertiles.
+- {:.prose} Oui toutefois.. un homme étonnant... en morsuresprofondes..Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
 
 
 - {:.speaker} les bonnes gens.
@@ -3108,7 +3108,7 @@ In this case the main scheme corresponds with the #P7
 - {:.prose} Peuple singulier.. et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Le voyageur enlève son voile.)</em>
+<em>(Le voyageur enlève son voile.)</em>
 
 
 
@@ -3122,16 +3122,16 @@ In this case the main scheme corresponds with the #P7
 - Non, nous ne vous connaissons pas.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Toussaint les bat nerveusement. .)</em>
+<em>(Toussaint les bat nerveusement. .)</em>
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère, votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
+- {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,  votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent)</em>
+<em>(les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent )</em>
 
 
 
@@ -3140,16 +3140,16 @@ In this case the main scheme corresponds with the #P7
 - {:.prose} tu nous  importunes étranger&nbsp;; nous ne croyons à rien... nous plantons des pierres.
 
 
-<em xmlns:saxon="http://saxon.sf.net/"></em>
+<em></em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 72 ](/data/sdw-data/P072.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Toussaint s'éloigne&nbsp;: les bonnes gens en riant lui lancent des pierres.)</em>
+<em>(Toussaint s'éloigne&nbsp;: les bonnes gens en riant lui lancent des pierres.)</em>
 
 
 
@@ -3157,7 +3157,7 @@ In this case the main scheme corresponds with the #P7
 
 - {:.prose} Hein, c'est drôle : nous ne le connaissons pas. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Toussaint s'avance seul dans la lande&nbsp;; des hommes déterrent des pierres avec leurs ongles. Toussaint s'arrète.)</em>
+<em>(Toussaint s'avance seul dans la lande&nbsp;; des hommes déterrent des pierres avec leurs ongles. Toussaint s'arrète.)</em>
 
 
 
@@ -3170,7 +3170,7 @@ In this case the main scheme corresponds with the #P7
 - {:.speaker} Les deterreurs de pierres
 
 - Un  roi&nbsp;?
-Above the preceding words, hardly legible pencil markings seem to spell out an address of some sort: "2 AVE dr#17"
+
 
 - {:.speaker} Toussaint.
 
@@ -3186,7 +3186,7 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 
 - {:.prose} Ravaudeurs du désert, baptisez moi. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Toussaint s'incline face contre terre, les bras écartés. Un des hommes luiverse de la terre sur la tête et la nuque)</em>
+<em>(Toussaint s'incline face contre terre, les bras écartés. Un des hommes luiverse de la terre sur la tête et la nuque) </em>
 
 
 
@@ -3195,11 +3195,11 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 
 - {:.prose} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ ténèbres, exige, dirige... 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Il approche l'oreille du sol.)</em>
+<em>(Il approche l'oreille du sol.)</em>
 
  Oh, des pas ; des sabots de chevaux ; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh Oh, je suis atteint. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Il se redresse&nbsp;; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)</em>
+<em>(Il se  redresse&nbsp;; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)</em>
 
 
 
@@ -3208,11 +3208,11 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 
 - {:.prose} A la folle enchère, à mes frais, à mes risques et périls... 
 
-<em xmlns:saxon="http://saxon.sf.net/">( Toussaint a disparu.)</em>
+<em>( Toussaint a disparu.)</em>
 
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 73 ](/data/sdw-data/P073.jpg){: target='_blank'}
 
@@ -3220,7 +3220,7 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 - {:.centered} ACTE III
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(En France. Une prison dans le Jura.)</em>
+<em>(En France. Une prison dans le Jura.)</em>
 
 
 
@@ -3253,17 +3253,17 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 
 - Je danserai autour de ma victime la danse du scalp.
 
-- {:.speaker} Geolier.  <em xmlns:saxon="http://saxon.sf.net/">(s'adressant au public.)</em>
+- {:.speaker} Geolier.  <em>(s'adressant au public.)</em>
 
 - {:.prose} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons&nbsp;; calculateur sournois égaré parmi des frénétiques.
 - {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ ternité.
 - {:.prose .prose-indent} Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut du tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'orgueil dans les villes prises&nbsp;; on en vit aux Te Deum. On en vit rédiger des constitutions. Voilà ce que l'on vit , bonnes gens qui m'écoutez. Et ce que l'on vit encore, la fumée dans le ciel de midi, le feu dans le ciel de minuit d'innombrables aurores boréales jetant au loin le reflet du crime et de l'absurdité.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 74 ](/data/sdw-data/P074.jpg){: target='_blank'}
 
-- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprèmeet c'est elle qui refait aujourd'hui du général Toussaint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
+- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème et c'est elle qui refait aujourd'hui du général Toussaint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
 - {:.prose .prose-indent} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des jours sanglotés.
 
 
@@ -3316,7 +3316,7 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 75 ](/data/sdw-data/P075.jpg){: target='_blank'}
 
@@ -3345,14 +3345,14 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 - L'Afrique a part avec lui
 - Toussaint a part avec lui qu'il le veuille ou non.
 - Je dis que l'Afrique ne le lâchera pas...
-- <em xmlns:saxon="http://saxon.sf.net/">(à ce moment entre à l'autre bout de la scène le Messager.)</em>
+- <em>(à ce moment entre à l'autre bout de la scène le Messager.)</em>
 
 
 - {:.speaker} Toussaint.
 
 - Ah. Voici le digne messager de cette race cupide.
 - L'or et l'argent ont tissé leur teint pâle
-- l'attente de la proie a busqué leur nez fauve
+- l'attente de la proie a busquéleur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids.
 - Ah. C'est une race sans velours.
 
@@ -3369,7 +3369,7 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 - mon cri fumant
 - mon cri intact d'animal pris au piège.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 76 ](/data/sdw-data/P076.jpg){: target='_blank'}
 
@@ -3411,7 +3411,7 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 - un cent d'eunuques des sacrifices des tumultes
 - un vol de couteaux de jet de sagaies de cuivre rouge
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 77 ](/data/sdw-data/P077.jpg){: target='_blank'}
 
@@ -3419,8 +3419,8 @@ Above the preceding words, hardly legible pencil markings seem to spell out an a
 - brancard je ne jetterai pas le blessé aux chiens de l'aubépine
 - au cri du vin
 - au roulis des&nbsp;&nbsp;ornières peuplés&nbsp;&nbsp;de veaux marins.
-The rest of the page is crossed-out with a large x written in blue ink.
-<hr xmlns:saxon="http://saxon.sf.net/">
+
+<hr>
 
 [ 78 ](/data/sdw-data/P078.jpg){: target='_blank'}
 
@@ -3457,7 +3457,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.prose} Il y a dans ma tête une riviere de boue d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
 - des miaulemants entrecroisés giclés très près du baillon
 - mes années convulsées peintes en feu
-- des plaques tournantes demarécages, de cratères, de fillettes violées
+- des plaques tournantes de marécages, de cratères, de fillettes violées
 - il y a dans mes oreilles le peloton d'exécution dans les caponnières du matin.
 
 
@@ -3476,7 +3476,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Des singes gambadaient autour du Lion à face d'homme.
 - Toussaint, Toussaint, c'est le jour de l'épreuve.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 79 ](/data/sdw-data/P079.jpg){: target='_blank'}
 
@@ -3525,7 +3525,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - Comment&nbsp;! vos promesses&nbsp;? vos remords&nbsp;? votre lettre&nbsp;?
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 80 ](/data/sdw-data/P080.jpg){: target='_blank'}
 
@@ -3568,7 +3568,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Insolent <em xmlns:saxon="http://saxon.sf.net/">(il le frappe.)</em>
+- {:.indent-2} Insolent<em>(il le frappe.)</em>
 
 
 - {:.speaker} Toussaint.
@@ -3601,7 +3601,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 81 ](/data/sdw-data/P081.jpg){: target='_blank'}
 
@@ -3614,7 +3614,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Dis-tu vrai&nbsp;? Isaac est entre leurs mains.
 - Non traitre, bourreau... bourreau.
 
-- {:.speaker} Le-nègre-à-lunettes <em xmlns:saxon="http://saxon.sf.net/">(sententieux.)</em>
+- {:.speaker} Le-nègre-à-lunettes  <em>(sententieux.)</em>
 
 - Je dis&nbsp;: ô que les querelles pourrissent longuement&nbsp;!
 - Je ne suis pas de ceux qui crachent l'huile sur le feu
@@ -3625,19 +3625,19 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - «Inopportun», comprenez vous ?
 - Je dis&nbsp;: ô , je veux oublier longuement.
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/">(debout.)</em>
+- {:.speaker} Toussaint  <em>(debout.)</em>
 
 - ... Et moi je veux crier
 
-- {:.speaker}  Le-nègre-à-lunettes <em xmlns:saxon="http://saxon.sf.net/">(s'enfuyant.)</em>
+- {:.speaker}  Le-nègre-à-lunettes  <em>(s'enfuyant.)</em>
 
-- {:.prose} Je dis&nbsp;: ô que les querelles pourrissent&nbsp;! Au secours&nbsp;! Au secours&nbsp;! 
+- {:.prose} Je dis&nbsp;: ô que les querelles pourrissent&nbsp;! Au secours&nbsp;! Au secours&nbsp;!  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Entrent des prètres.)</em>
+<em>(Entrent des prètres.)</em>
 
 
 
-- {:.speaker} 1er Prêtre <em xmlns:saxon="http://saxon.sf.net/">(index tendu vers Toussaint.)</em>
+- {:.speaker} 1er Prêtre <em> (index tendu vers Toussaint.)</em>
 
 - {:.prose} Ladre, je te défends, si tu vas par les chemins et si tu rencontres une personne qui te parle de te mettre au dessus du vent avant de répondre.
 
@@ -3646,7 +3646,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.prose} Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un ne te rencontre. 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 82 ](/data/sdw-data/P082.jpg){: target='_blank'}
 
@@ -3664,8 +3664,8 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Toussaint
 
-- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde.
-<em xmlns:saxon="http://saxon.sf.net/">(Il crie.)</em>- Mon fils ! mon fils&nbsp;!
+- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde .
+<em>(Il crie.)</em>- Mon fils ! mon fils&nbsp;!
 
 
 - {:.speaker} Le Récitant
@@ -3677,7 +3677,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - Le fils arrive...
 
-- {:.speaker} Toussaint <em xmlns:saxon="http://saxon.sf.net/">(extatique.)</em>
+- {:.speaker} Toussaint  <em>(extatique.)</em>
 
 - Trois enfants noirs jouent dans mon œil
 - Sollicités de chiens
@@ -3697,9 +3697,9 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - votre rire qui tatoue leurs monnaies sans qu'ils s'en doutent
 - votre rire irrémédiable
 - votre rire de vertige où s'abîmeront fascinées les villes
-- votre rire de bombe en retard sur leurs pieds de maîtres
+- votre rire de bombe en retard sur leurs pieds de  maîtres
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 83 ](/data/sdw-data/P083.jpg){: target='_blank'}
 
@@ -3717,7 +3717,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - jusqu'à ce que tombe
 - rire de vos pieds nus
 - le monde
-- {:.prose} grand vol fou de poule écrasée <em xmlns:saxon="http://saxon.sf.net/">(il rit frénétiquement.)</em>
+- {:.prose} grand vol fou de poule écrasée <em>(il rit frénétiquement.)</em>
 
 
 - {:.speaker} Récitante.
@@ -3755,7 +3755,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - supputer
 - ah&nbsp;! supputer sous leur calme et leur dignité et leur équilibre et leur mouvement
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 84 ](/data/sdw-data/P084.jpg){: target='_blank'}
 
@@ -3800,7 +3800,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - Ah&nbsp;! le scélérat n'avait pas menti... Et ils lancent le fils suborné aux trousses
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 85 ](/data/sdw-data/P085.jpg){: target='_blank'}
 
@@ -3835,9 +3835,9 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membres musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œilvif et le bras ferme
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 86 ](/data/sdw-data/P086.jpg){: target='_blank'}
 
@@ -3866,7 +3866,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Nous forçâmes les portes.
 - {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme... et les nôtres s'arrétèrent... C'était le maitre... J'entrai. C'est toi, Toussaint, me dit-il, très calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai, le sang gicla&nbsp;; c'est de ce seul baptème que je me souviens aujourd'hui.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 87 ](/data/sdw-data/P087.jpg){: target='_blank'}
 
@@ -3903,14 +3903,14 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
 - Et  la pluie de cendres violettes sur ce Paris étranger.
 - Et &nbsp;le froid incisif jusqu'au sang.
-- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 
 - {:.speaker} Toussaint.
 
 - {:.prose} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de peau suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles... des  oreilles... des barques
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 88 ](/data/sdw-data/P088.jpg){: target='_blank'}
 
@@ -3940,7 +3940,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Isaac, Isaac
 - {:.prose} le cataclysme à la tête de scalp, à la cervelle de rouages de larves et de montres
 - au hasard des fables,
-- au hasard des victimes expiatoires
+- au hasard des victimes  expiatoires
 - attend
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
@@ -3950,19 +3950,19 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Liberté, liberté,
 - j'oserai soutenir seul la lumière de ta tête bléssée.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 89 ](/data/sdw-data/P089.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">( à ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le "héraut", «sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
+<em>( à ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le "héraut", «sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
 
 
 
 - {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Allons. Allons&nbsp;; réveille toiêtre grossier , stupide et somnolent que la destinée mauvais m'impose comme bouche.
+- {:.prose} Allons. Allons&nbsp;; réveille toi être grossier , stupide et somnolent que la destinée mauvais m'impose comme bouche.
 - Ma bouche
 - ô ma bouche tardigrade
 - ma honte
@@ -3979,14 +3979,14 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Celui qui regne, qui restreint, qui retient et contraint
 - {:.prose} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la  sta­
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 90 ](/data/sdw-data/P090.jpg){: target='_blank'}
 
 - {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-
 - en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
-- <em xmlns:saxon="http://saxon.sf.net/">(il jappe.)</em> veto, veto;
+- <em>(il jappe.)</em> veto, veto;
 - {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamationspour bâiller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
@@ -3999,14 +3999,14 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Le héraut
 
-- Mais c'est que je ne vois personne. Rien que des arbres et de la savane
+- Mais c'est que je ne vois personne. Rien que des arbres et de la savane 
 
 
 - {:.speaker} Le Grand Prohibiteur
 
 - Imbécile, Eh bien crie la loi aux arbres, à la savane
 
-- {:.speaker} Le héraut <em xmlns:saxon="http://saxon.sf.net/">(incrédule.)</em>
+- {:.speaker} Le héraut  <em>(incrédule.)</em>
 
 - {:.indent-2} Aux arbres&nbsp;? à la savane&nbsp;?
 
@@ -4015,21 +4015,21 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.prose} Je dis: aux arbres à la savane, à la pluie au soleil...Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
 
-- {:.speaker} Le  héraut <em xmlns:saxon="http://saxon.sf.net/">(émerveillé.)</em>
+- {:.speaker} Le  héraut  <em>(émerveillé.)</em>
 
 - Vraiment&nbsp;! aux arbres&nbsp;! à la savane&nbsp;! des lois&nbsp;!!
 
 
 - {:.speaker} Le Grand Prohibiteur
 
-- {:.prose} Ignorant qui connaitle nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal. Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
+- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal. Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
 
 
 - {:.speaker} Le héraut
 
 - {:.indent-2} De lois, la panse pleine de lois !
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 91 ](/data/sdw-data/P091.jpg){: target='_blank'}
 
@@ -4037,22 +4037,22 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Le héraut.
 
-- {:.indent-2} De lois, la panse pleine de lois&nbsp;; de lois répressives.
+- {:.indent-2} De lois,  la panse pleine de lois&nbsp;; de lois répressives.
 
 
 - {:.speaker} Le grand prohibiteur.
 
-- {:.prose} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojedaoffrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. HI HI, tu as compris allons, héraut, allons.
+- {:.prose} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojeda offrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. HI HI, tu as compris allons, héraut, allons.
 
-- {:.speaker} Le héraut <em xmlns:saxon="http://saxon.sf.net/">(d'une voix forte)</em>
+- {:.speaker} Le héraut <em>(d'une voix forte)</em>
 
-- {:.prose} <em xmlns:saxon="http://saxon.sf.net/">(après une sonnerie de trompette.)</em> au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut <em xmlns:saxon="http://saxon.sf.net/">(sonnerie de trompette.)</em>
+- {:.prose} <em>(après une sonnerie de trompette.)</em> au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut <em>(sonnerie de trompette.)</em>
 
-- {:.speaker} Le grand prohibiteur.  <em xmlns:saxon="http://saxon.sf.net/">(jappant.)</em>
+- {:.speaker} Le grand prohibiteur.  <em>(jappant.)</em>
 
 - {:.prose} veto, veto, veto. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(la visiondisparait.)</em>
+<em>(la visiondisparait.)</em>
 
 
 
@@ -4081,7 +4081,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 92 ](/data/sdw-data/P092.jpg){: target='_blank'}
 
@@ -4116,7 +4116,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - et j'ai acquis la force de parler
 - plus haut que les fleuves
 - plus fort que les désastres
-<em xmlns:saxon="http://saxon.sf.net/">(à ce moment vision du soleil qui se couche, saignant.)</em>
+<em>(à ce moment vision du soleil qui se couche, saignant.)</em>
 
 - {:.speaker} Le chœur.
 
@@ -4130,7 +4130,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - ah vous me clignez de l'oeil
 - vous me demandez ma complicité
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 93 ](/data/sdw-data/P093.jpg){: target='_blank'}
 
@@ -4147,7 +4147,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - leurs chevaux sont vite
 - ils entourent le pauvre homme de longs cercles fatals
 - ils resserrent le noeud de leur cercle autour du cou pelé
-- ça y est... ils ont reniflé la viande du négre
+- ça y est..... ils ont reniflé la viande du négre
 - ils s'arrétent
 - ils rient
 - ils se lissent le moustache
@@ -4159,13 +4159,13 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - de la haine
 - aïe&nbsp;! ils sifflent, les autres sifflent
 - ils ont lancé les chiens
-- taiaut&nbsp;! taiaut&nbsp;! ils poussent des cris terribles
+- taiaut&nbsp;!  taiaut&nbsp;! ils poussent des cris terribles
 - à pleine dent de molosse de molosse de molosse
 - les torches sont allumées sous les voûtes de la forêt. C'est fini, tout est fini.
-- &nbsp;Inutile de réclamer&nbsp;; l'action de la justiceest éteinte.
+- &nbsp;Inutile de réclamer&nbsp;; l'action de la justice est éteinte.
 - voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 94 ](/data/sdw-data/P094.jpg){: target='_blank'}
 
@@ -4218,9 +4218,9 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos initiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève... c'est ça ... ou d'un drapeau... ou d'un petit canon... ou d'une croix... ou d'un trèfle.The words 'd'une' are repeated with the same deletion of the letter 'e' below the original.
+- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos initiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève... c'est ça ... ou d'un drapeau... ou d'un petit canon... ou d'une croix... ou d'un trèfle. 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 95 ](/data/sdw-data/P095.jpg){: target='_blank'}
 
@@ -4255,8 +4255,8 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - Et je m'accuse d'avoir ri de Noé, mon père nu, mon père ivre.
 - Et je m'accuse de m'être vautré d'amour dans la nuit opaque, dans la nuit lourde.
-The rest of the page is crossed-out with a large x written in blue ink.
-<hr xmlns:saxon="http://saxon.sf.net/">
+
+<hr>
 
 [ 96 ](/data/sdw-data/P096.jpg){: target='_blank'}
 
@@ -4269,7 +4269,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Geôlier.
 
-- On y va ma femme, on y va <em xmlns:saxon="http://saxon.sf.net/">(il ligote Toussaint.)</em>
+- On y va ma femme, on y va <em>(il ligote Toussaint.)</em>
 
 
 - {:.speaker} Geôlière.
@@ -4321,13 +4321,13 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.speaker} Geôlier.
 
 - Insolent, dégoutant, singe libidineux&nbsp;!
- <em xmlns:saxon="http://saxon.sf.net/">(il le frappe. La femme le frappe également).</em>
+ <em>(il le frappe. La femme le frappe également).</em>
 
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Le roi Toussaint... Répétez&nbsp;: "le roi Toussaint." Le roi Toussaint vainquit les Anglais. Le roi Toussaint terrassa les Espagnols...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 97 ](/data/sdw-data/P097.jpg){: target='_blank'}
 
@@ -4335,7 +4335,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em xmlns:saxon="http://saxon.sf.net/">(il frappe Toussaint.)</em>. 
+- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint.)</em>. 
 
 
 - {:.speaker} Toussaint.
@@ -4346,9 +4346,9 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.speaker} Geôlière.
 
 - {:.prose} Bûche&nbsp;! Quelle bûche&nbsp;! C'est une bûche te dis-je... une drôle de race, ces nègres... Crois-tu que nos coups lui fassent mal... en tout cas, ça ne marque pas.
-- ... <em xmlns:saxon="http://saxon.sf.net/">(elle frappe.)</em> Oh&nbsp;! Oh&nbsp;! Son sang coule&nbsp;!
+- ... <em>(elle frappe.)</em> Oh&nbsp;! Oh&nbsp;! Son sang coule&nbsp;!
 
-- {:.speaker} Geôlier <em xmlns:saxon="http://saxon.sf.net/">(riant.)</em>
+- {:.speaker} Geôlier  <em>(riant.)</em>
 
 - C'est bien connu&nbsp;: battre un nègre  c'est le nourrir...
 
@@ -4360,15 +4360,15 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Geôlier.
 
-- {:.prose} Ah&nbsp;! il déraille sérieusement... C'est à mourir de rire... Dis, c'est marrant le sang rouge sur la peau noire. <em xmlns:saxon="http://saxon.sf.net/">(Ils délient Toussaint.)</em>
+- {:.prose} Ah&nbsp;! il déraille sérieusement... C'est à mourir de rire... Dis, c'est marrant le sang rouge sur la peau noire. <em>(Ils délient Toussaint.)</em>
 
-- {:.speaker} Toussaint  <em xmlns:saxon="http://saxon.sf.net/">(sursautant.)</em>
+- {:.speaker} Toussaint  <em>(sursautant.)</em>
 
 - des mains coupées... de la cervelle giclante... de la charogne molle... Isaac,
 - Isaac... pourquoi rester sous la pluie des scorpions venimeux ?
 - {:.prose} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac&nbsp;! Isaac&nbsp;! 
 
-<em xmlns:saxon="http://saxon.sf.net/"> (il s'écroule en gémissant.)</em>
+<em> (il s'écroule en gémissant.)</em>
 
 
 
@@ -4377,7 +4377,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.prose} Quelle nuit&nbsp;! quelle neige&nbsp;! C'est comme si la neige et la nuit s'étaient furieusement battues&nbsp;: de grosses masses d'ombre s'écroulent avec tout le panneau du ciel et la cavalerie des flocons se précipite au vol fouetté de ses cent mille burnous.
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 98 ](/data/sdw-data/P098.jpg){: target='_blank'}
 
@@ -4392,7 +4392,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.prose} Amen&nbsp;! la neige mord&nbsp;; la neige mord de ses crocs brûlants une nuit solennelle. 
 
-<em xmlns:saxon="http://saxon.sf.net/">(A ce moment vision d'une route illimitée blanche&nbsp;: une lanterne cahote&nbsp;; une forme se précise peu à peu. C'est la Sainte Vierge. Elle s'avance, s'arrête et se penche sur Toussaint qu'elle contemple longuement).</em>
+<em>(A ce moment vision d'une route illimitée blanche&nbsp;: une lanterne cahote&nbsp;; une forme se précise peu à peu. C'est la Sainte Vierge. Elle s'avance, s'arrête et se penche sur Toussaint qu'elle contemple longuement).</em>
 
 
 
@@ -4407,9 +4407,9 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.indent-2} ... Mon fils
 
-- {:.speaker} Le chœur  <em xmlns:saxon="http://saxon.sf.net/">(chuchotant.)</em>
+- {:.speaker} Le chœur <em>(chuchotant.)</em>
 
-- {:.prose} C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;! <em xmlns:saxon="http://saxon.sf.net/">&nbsp;(le vent apporte du lointain des bribes de spiritual.)</em>
+- {:.prose} C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;! <em>&nbsp;(le vent apporte du lointain des bribes de spiritual.)</em>
 
 
 - {:.speaker} La sainte Vierge.
@@ -4436,7 +4436,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.indent-2} Ta souffrance mon enfant, m'était indispensable...
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 99 ](/data/sdw-data/P099.jpg){: target='_blank'}
 
@@ -4445,7 +4445,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu nous as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait monoui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nuls au milieu de vos réjouissances nos faces de scandale,
@@ -4453,17 +4453,17 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.prose} et les soirs de défaite vous nous verrez debouts à vos carrefours, noirs, terribles, muets... et vous aurez honte... et vous aurez peur... 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La vision disparait peu à peu.)</em>
+<em>(La vision disparait peu à peu.)</em>
 
 
-- {:.speaker} Toussaint  <em xmlns:saxon="http://saxon.sf.net/">(hagard)</em>
+- {:.speaker} Toussaint  <em>(hagard)</em>
 
 - {:.prose} ... Une rumeur de chaine de carcans monte de la mer... un gargouillement de noyés de la panse verte de la mer... un claquement de feu, un claquement de fouet, des cris d'assassinés...
 - ... la mer brûle
 - ou c'est l'étoupe de mon sang qui brûle...
-- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent  de l'odeur tendre du ravin moisi d'ar-
+- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisid'ar-
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 100 ](/data/sdw-data/P100.jpg){: target='_blank'}
 
@@ -4485,7 +4485,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - et de jujubier et de perturbation et de soleil bayonnetté.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles , des guerriers nus bondissent, un tam-tam bat lointainement )</em>
+<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles , des guerriers nus bondissent, un tam-tam bat lointainement ) </em>
 
 
 
@@ -4499,7 +4499,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.indent-2} Qu'est ce qu'elle dit&nbsp;? Qu'est-ce qu'elle dit&nbsp;?
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(à ce moment Toussaint se redresse.)</em>
+<em>(à ce moment Toussaint se redresse.)</em>
 
 
 
@@ -4508,10 +4508,10 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha&nbsp;! le ciel suce des poignards...Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe&nbsp;! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Toussaint s'affaisse, les bras étendus, poitrine contre terre).)</em>
+<em>(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Toussaint s'affaisse, les bras étendus, poitrine contre terre).)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 101 ](/data/sdw-data/P101.jpg){: target='_blank'}
 
@@ -4571,16 +4571,16 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Saint Domingue&nbsp;! Saint Domingue&nbsp;!
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(La scène a brusquement changé. Nous sommes à Saint Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
+<em>(La scène a brusquement changé. Nous sommes à Saint Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 102 ](/data/sdw-data/P102.jpg){: target='_blank'}
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">( sur le rempart apparait une tête. L'homme se dresse, c'est le «négrophobe.»)</em>
+<em>( sur le rempart apparait une tête. L'homme se dresse, c'est le «négrophobe.»)</em>
 
 
 
@@ -4588,20 +4588,20 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.prose} Bande de salauds&nbsp;! Mort aux voleurs&nbsp;! (Des animaux qui n'ont pas d'âme à sauver et à qui le fouet prête de temps en temps un semblant de conscience.) Voleurs&nbsp;! Voleurs&nbsp;! Les armes à la&nbsp;main, je revendique mon bien, mon troupeau, ma possession légitime, mes esclaves&nbsp;! 
 
-<em xmlns:saxon="http://saxon.sf.net/">(bruit de mousqueterie&nbsp;; les nègres ont tiré&nbsp;; le négrophobe tombe, il est aussitôt remplacé par le «le négrophile».)</em>
+<em>(bruit de mousqueterie&nbsp;; les nègres ont tiré&nbsp;; le négrophobe tombe, il est aussitôt remplacé par le «le négrophile».)</em>
 
 
 
-- {:.speaker} Le négrophile <em xmlns:saxon="http://saxon.sf.net/">(haraguant le vide.)</em>
+- {:.speaker} Le négrophile  <em>(haraguant le vide.)</em>
 
-- {:.prose} Ha&nbsp;! mes amis, mes chers amis&nbsp;! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de voscœurs, je veux faire descendre, lait, un rayon de lumière... d'amour. Et je ne cesserai de vous appeler "mes amis" mes amis, mes frères.
+- {:.prose} Ha&nbsp;! mes amis, mes chers amis&nbsp;! Et l'Evangile a dit que celui qui hait son frère vivra dans l'obscurité. O mes amis qui vivez dans l'obscurité, dans l'obscurité de votre peau, dans l'obscurité de vos cœurs, je veux faire descendre, lait, un rayon de lumière... d'amour. Et je ne cesserai de vous appeler "mes amis" mes amis, mes frères.
 
 
 - {:.speaker} L'écho
 
 - ... mes frères, mes frères...
 
-- {:.speaker} Le négrophile <em xmlns:saxon="http://saxon.sf.net/">(préchant dans le désert).</em>
+- {:.speaker} Le négrophile  <em>(préchant dans le désert).</em>
 
 - {:.prose} Mes amis, ô mes amis : je vous accorde que l'esclavage est une grande inicuité, mais par l'esclavage vous avez souffert. Et la souffrance vous a grandis. Et la souffrance vous a fait hommes. Dela mes amis, mes frères, ne l'oubliez pas.
 
@@ -4610,7 +4610,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - N'oubliez pas, n'oubliez pas.
 
-- {:.speaker} Le négrophile <em xmlns:saxon="http://saxon.sf.net/">(donnant des coups d'épée dans l'eau.)</em>
+- {:.speaker} Le négrophile  <em>(donnant des coups d'épée dans l'eau.)</em>
 
 - paix, paix, amour, amour.
 
@@ -4619,13 +4619,13 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - amour, amour
 
-- {:.speaker} Le négrophile <em xmlns:saxon="http://saxon.sf.net/">(désespéré.)</em>
+- {:.speaker} Le négrophile  <em>(désespéré.)</em>
 
 - ô peuple égaré,
 - ô insensés
 - lâchez vos armes homicides
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 103 ](/data/sdw-data/P103.jpg){: target='_blank'}
 
@@ -4641,15 +4641,15 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - Vos maitres, vos maitres.
 
 
-- {:.speaker} Le négrophile
+- {:.speaker} Le négrophile 
 
 - 
 
-<em xmlns:saxon="http://saxon.sf.net/">(bruit de mousqueterie.)</em>
+<em>(bruit de mousqueterie.)</em>
 
-Mes frères, mes frères&nbsp;!
+ Mes frères, mes frères&nbsp;! 
 
-<em xmlns:saxon="http://saxon.sf.net/">(le négrophile tombe.)</em>
+<em>(le négrophile tombe.)</em>
 
 
 
@@ -4677,7 +4677,7 @@ Mes frères, mes frères&nbsp;!
 - avec leurs politesses de galère sur la&nbsp;route des cygnes
 - avec leurs airs de chateau connu
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 104 ](/data/sdw-data/P104.jpg){: target='_blank'}
 
@@ -4711,13 +4711,13 @@ Mes frères, mes frères&nbsp;!
 - et nos jambes criaient victoire
 - et les douves brisées répondaient vengeance
 - par ses ardillons d'étoiles
-- par ses prunelles d'étoiles ses mammes d'étoiles
+- par ses prunelles d'étoiles ses mammesd'étoiles
 - ses cerises d'étoiles qu'elle nous lançait à pleines vannes
 - et la mort n'était pas hargneuse
 - mais douce
 - aux mains de seins de palissandre et de jeune fille nubile
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 105 ](/data/sdw-data/P105.jpg){: target='_blank'}
 
@@ -4743,8 +4743,8 @@ Mes frères, mes frères&nbsp;!
 - rampe grand frai ivre de dogues de matins et de marcassins
 - de bothrops lancéolés et d'incendies
 - à la déroute de l'exemple scrofuleux des cataplasmes.
-The rest of the page is crossed-out with a large x written in blue ink.
-<hr xmlns:saxon="http://saxon.sf.net/">
+
+<hr>
 
 [ 106 ](/data/sdw-data/P106.jpg){: target='_blank'}
 
@@ -4752,20 +4752,20 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.speaker} Général&nbsp;négre
 
-- En avant Morne Rouge <em xmlns:saxon="http://saxon.sf.net/">(charge de fantassins.)</em>
+- En avant Morne Rouge <em>(charge de fantassins.)</em>
 
 
 - {:.speaker} Général&nbsp;négre
 
-- En avant charnier ardent <em xmlns:saxon="http://saxon.sf.net/">(nouvelle charge de fantassins.)</em>
+- En avant charnier ardent <em>(nouvelle charge de fantassins.)</em>
 
 
 - {:.speaker} Général négre
 
-- En avant Capoix-la-Mort&nbsp;! <em xmlns:saxon="http://saxon.sf.net/">(charge de cavalerie.)</em>
+- En avant Capoix-la-Mort&nbsp;! <em>(charge de cavalerie.)</em>
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(des cris au loin&nbsp;: Victoire, victoire...)</em>
+<em>(des cris au loin&nbsp;: Victoire, victoire...)</em>
 
 
 
@@ -4778,16 +4778,16 @@ The rest of the page is crossed-out with a large x written in blue ink.
 
 - {:.indent-2} Qu'y a-t-il&nbsp;? Qu'est-ce que c'est... Parlez... Je n'y suis plus.
 
-- {:.speaker} Le chœur <em xmlns:saxon="http://saxon.sf.net/">(allègre.)</em>
+- {:.speaker} Le chœur <em>(allègre.)</em>
 
 - La grande Révolution de Saint-Domingue continue...
 
 
 - {:.speaker} La récitante.
 
-- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête  sauvage.
+- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête sauvage.
 
-- {:.speaker} Demi chœur <em xmlns:saxon="http://saxon.sf.net/">(allègre.)</em>
+- {:.speaker} Demi chœur <em>(allègre.)</em>
 
 - Dessalines... Dessalines le boucher, Dessalines le vengeur.
 - Toussaint Toussaint Louverture&nbsp;!
@@ -4799,10 +4799,10 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur , jusqu'à l'éclatement de mes veines, jusqu'au flamboiement de mes os dans le minuit de ma chair.
 
 
-<em xmlns:saxon="http://saxon.sf.net/">()</em>
+<em>()</em>
 
 
-<hr xmlns:saxon="http://saxon.sf.net/">
+<hr>
 
 [ 107 ](/data/sdw-data/P107.jpg){: target='_blank'}
 
@@ -4816,7 +4816,7 @@ The rest of the page is crossed-out with a large x written in blue ink.
 - {:.speaker} Récitant.
 
 - Tour des voyance effondrez vous plus bas que la parole
-The added 'voyance' has scansion marks over the 'y' and the 'a.'
+
 
 - {:.speaker} Récitant.
 
@@ -4855,15 +4855,15 @@ The added 'voyance' has scansion marks over the 'y' and the 'a.'
 - Je suis une de vous, îles
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(le Récitant et la récitante vacillent sur leurs jambes puis s'effondrent.)</em>
+<em>(le Récitant et la récitante vacillent sur leurs jambes puis s'effondrent.)</em>
 
  
 
-<em xmlns:saxon="http://saxon.sf.net/">(Le chœur sort à reculons.)</em>
+<em>(Le chœur sort à reculons.)</em>
 
 
 
-<em xmlns:saxon="http://saxon.sf.net/">(FIN)</em>
+<em>(FIN)</em>
 
 
 
