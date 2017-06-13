@@ -84,6 +84,7 @@ li.centered {
 
 li.speaker, li.speakerGroup {
     text-align: center;
+    padding-top: 1.2em;
 }
 
 li.speakerGroup {

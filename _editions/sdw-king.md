@@ -127,7 +127,7 @@ author: alex gil
 - l’école buissonnière, les sourcils joints des hauts labours
 - {:.prose} les ruses savantes des colloques sans rime ni raison aux sables mouvants.
 - La vache des naufrageurs, la pluie des calvaires et des vagues
-- ensorcelent &nbsp;de serpents, de palabres, de varechs
+- ensorcelent&nbsp;de serpents, de palabres, de varechs
 - le phare disjoint de sang d’aiglon.
 
 <hr>
@@ -135,7 +135,7 @@ author: alex gil
 [ 26 ](/data/sdw-data/P026.jpg){: target='_blank'}            
 
 
-<em>(La scène est envahie par la foule : masse d’hommes et de femmes armés de coutelas.)</em>
+<em>(La scène est envahie par la foule&nbsp;: masse d’hommes et de femmes armés de coutelas.)</em>
 
 
 
@@ -171,7 +171,7 @@ author: alex gil
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Revenez sur les habitations. Reprenez le travail. Nous sommes prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous  vous garantissons à tous notre bienveillance paternelle.
+- {:.prose .prose-indent} Revenez sur les habitations. Reprenez le travail. Nous sommes  prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous  vous garantissons à tous notre bienveillance paternelle.
 
 
 <em>(Des cris contradictoires dans la foule.)</em>
@@ -227,13 +227,13 @@ author: alex gil
 [ 28 ](/data/sdw-data/P028.jpg){: target='_blank'}            
 
 
-<em>( Les guerriers défilent devant les cadavres en brandissant des coutelas.)</em>
+<em>(Les guerriers défilent devant les cadavres en brandissant des coutelas.)</em>
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Tout n’est pas fini Camarades... Qui portera aux blancs notre réponse flamboyante&nbsp;?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
+- {:.prose .prose-indent} Tout n’est pas fini camarades... Qui portera aux blancs notre réponse flamboyante&nbsp;?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
 
 
 - {:.speaker} Des voix.
@@ -286,7 +286,7 @@ author: alex gil
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Iles nous marquaient <span class="delete">de</span> fer rouge.
+- {:.indent-2} Ils nous marquaient <span class="delete">de</span> fer rouge.
 
 
 - {:.speaker} Le chœur.
@@ -358,7 +358,7 @@ author: alex gil
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez o nous en sommes : en pleine révolte servile ; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <span class="unclear">Trêmes</span>, Noé, Toussaint <span class="delete">et Boukmann </span><span class="delete">ont</span> constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés ; les planteurs sont sciés vivants entre deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez o nous en sommes : en pleine révolte servile ; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <span class="unclear">Trêmes</span>, Noé, Toussaint <span class="delete">et Boukmann </span> <span class="delete">ont</span> constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés ; les planteurs sont sciés vivants entre deux planches.
 
 
 - {:.speaker} Une voix.
@@ -425,13 +425,13 @@ author: alex gil
 - {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières au Morne, à Dondon, à la Marmelade et à Fort Dauphin. Quant à vous, Messieurs, aux armes et vive la colonie française de Saint-Domingue.
  
 
-<em>( Vivats prolongés. Les députés sortent.)</em>
+<em>(Vivats prolongés. Les députés sortent.)</em>
 
 
 
 <em>(Quelques attardés discutent encore.)</em>
 
- 
+
 <hr>
 
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}            
@@ -455,7 +455,7 @@ author: alex gil
 - {:.prose .prose-indent} Hum alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur ; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
  
 
-<em>(La voix fredonne :</em>
+<em>(La voix fredonne&nbsp;:</em>
 
 - {:.indent-2} A la Matinique, Matinique, Matinique
 - {:.indent-2} c’est çà qui chic...)
@@ -513,12 +513,12 @@ author: alex gil
 
 - {:.speaker} Le porte-drapeau <em>(d'une voix nasillarde.)</em>
 
-- {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il n’est plus temps de délibérer. Ma décision est prise. Avec les nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre du jour, Messieurs...
+- {:.prose .prose-indent} Parfaitement. Parfaitement. Je parlerai. Voilà, Messieurs, il  n’est plus temps de délibérer. Ma décision est prise. Avec les nègres, je ne connais qu’un moyen, la terreur. La terreur est à l’ordre du jour, Messieurs...
  
 
 <em>(Applaudissements. Des rires.)</em>
 
- 
+
 <hr>
 
 [ 35 ](/data/sdw-data/P035.jpg){: target='_blank'}            
@@ -621,7 +621,7 @@ author: alex gil
 
 - {:.indent-2} Hé, mes amis, ho.
 
-- {:.speaker} 2è esclave <em>(chantant.)</em>
+- {:.speaker} 2e esclave <em>(chantant.)</em>
 
 - {:.indent-2} Hé, mes amis, ho.
 
@@ -675,7 +675,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de  la nuit.
+- {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de   la nuit.
 
 
 <em>Coups de feu...</em>
@@ -697,7 +697,7 @@ author: alex gil
 
 <em><span class="delete">(A mesure qu’elle parle, tout cela se dessine sur l’écran.)</span></em>
 
- 
+
 - {:.speaker} Le récitant <em>(féroce.)</em>
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
@@ -805,15 +805,15 @@ author: alex gil
 - {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu. Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille tressée est à sa main gauche... Il s’arrête... Il rampe... Il s’immobilise un genou en terre... Le torse est renversé comme une muraille... La sagaie est levée...
 
 
-<em>(A ce moment un cortège magnifique envahit la scène : pèlerins, chevaux, chiens. Senteurs de musc et benjoin.)</em>
+<em>(A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, chevaux, chiens. Senteurs de musc et benjoin.)</em>
 
- 
+
 <hr>
 
 [ 4 ](/data/sdw-data/P004.jpg){: target='_blank'}            
 
 
-- {:.speaker} <span class="delete">Une</span> voix tentatrice.
+- {:.speaker}  <span class="delete">Une</span> voix tentatrice.
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -842,9 +842,9 @@ author: alex gil
 - {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 
 
-- {:.speaker} <span class="delete"><span class="unclear">1re </span></span> voix tentatrice.
+- {:.speaker}  <span class="delete"><span class="unclear">1re </span></span> voix tentatrice.
 
-- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots: pas trois ; mille mots Toussaint... O mon ami, <span class="delete"><span class="unclear">naïf ami,</span></span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne <span class="delete"> </span><span class="delete"><span class="unclear">comme Biasson&nbsp;?</span></span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois ; mille mots Toussaint... O mon ami, <span class="delete"><span class="unclear">naïf ami,</span></span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne <span class="delete"> </span><span class="delete"><span class="unclear">comme Biasson&nbsp;?</span></span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
 <hr>
 
@@ -859,7 +859,7 @@ author: alex gil
 - de la charogne et de la boue.
 
 
-- {:.speaker} <span class="delete">2e</span> voix tentatrice.
+- {:.speaker}  <span class="delete">2e</span> voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 
@@ -879,7 +879,7 @@ author: alex gil
 - dédouble de soleils nichés la fièvre lisse des jours.
 - Maudit serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- îles
+- Îles
 
 <hr>
 
@@ -977,7 +977,7 @@ author: alex gil
 
 - {:.speaker} <span class="delete">Toussaint.</span>
 
-- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma <span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus et
+- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma  <span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
 - Je suis nu.
 - Je suis nu dans les pierres.
@@ -1025,7 +1025,7 @@ author: alex gil
 
 - {:.indent-2} ... J’ai regardé et les ponts sont coupés...
 - Les étoiles ont débridé leurs cicatrices de sable.
- 
+
 <hr>
 
 [ 10 ](/data/sdw-data/P010.jpg){: target='_blank'}            
@@ -1083,7 +1083,7 @@ author: alex gil
 
 - {:.speaker} Le Récitant.
 
-- {:.prose .prose-indent} Il n’y a pas de roses : seuls les piments agra<span class="delete">p</span>ent leurs larmes rouges.
+- {:.prose .prose-indent} Il n’y a pas de roses&nbsp;: seuls les piments agra<span class="delete">p</span>ent leurs larmes rouges.
 
 
 - {:.speaker} Le chœur.
@@ -1122,7 +1122,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
+- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et  j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
 
 
 - {:.speaker} Le récitant.
@@ -1160,7 +1160,7 @@ author: alex gil
 
 - {:.speaker} Chœur <em>(lointain.)</em>
 
- - Ô roi debout.
+- Ô roi debout.
 
 
 - {:.speaker} Toussaint.
@@ -1169,7 +1169,7 @@ author: alex gil
 
 - {:.speaker} Chœur <em>(au loin.)</em>
 
- - Ô roi debout.
+- Ô roi debout.
 
 
 - {:.speaker} Toussaint.
@@ -1279,7 +1279,7 @@ author: alex gil
 - turbulence d’orgues couchées
 - sacrifice de verres de lampes croisées sur la bouche
 - des tempêtes
-- branle-le-bas virulent pris tout absurdedans le mouvement
+- branle-le-bas virulent pris tout absurde dans le mouvement
 - des palmes et des scolopendres
 - c’est moi ce soir jurant toute la forêt ramassée
 - en anneaux de cris violents
@@ -1349,7 +1349,7 @@ author: alex gil
 - Au feu, Toussaint.
 
 
-<em><span class="delete">( Le feu jaillit ; le mannequin brûle. Rondo.</span> <span class="delete">Toussaint </span><span class="delete"><span class="delete">parait enchainé, </span></span><span class="delete"> entre deux gardes en haut de la citadelle.)</span></em>
+<em><span class="delete">(Le feu jaillit ; le mannequin brûle. Rondo.</span> <span class="delete">Toussaint </span><span class="delete"><span class="delete">parait enchainé, </span></span><span class="delete"> entre deux gardes en haut de la citadelle.)</span></em>
 
 
 

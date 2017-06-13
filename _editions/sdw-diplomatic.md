@@ -26,7 +26,7 @@ author: alex gil
 - {:.centered} ACTE I
 
 
-<span class="add light-pencil inline">(</span>La scène est à Saint Domingue<span class="delete write-over">.</span><span class="delete write-over"><span class="add light-pencil superimposed">)</span></span><span class="add blue-ink superimposed">à</span><span class="add blue-ink inline"> l’epoque de la Révolution française)</span>
+<span class="add light-pencil inline">(</span>La scène est à Saint Domingue<span class="delete write-over">.</span><span class="delete write-over"><span class="add light-pencil superimposed">)</span></span><span class="add blue-ink superimposed">à&nbsp;</span><span class="add blue-ink inline">l’epoque de la Révolution française)</span>
 
 
 
@@ -340,7 +340,7 @@ author: alex gil
 - {:.speaker} La récitante.
 
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
-- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ<br>de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans<br>ombre et sans eau --et il m<span class="add light-pencil accent">â</span>che, ombre et eau- une prière qu’il ne<br>vendra pas.
+- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ<br>de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans<br>ombre et sans eau --et il ma<span class="add light-pencil accent">̂</span>che, ombre et eau- une prière qu’il ne<br>vendra pas.
 
 
 - {:.speaker} Toussaint.
@@ -620,7 +620,7 @@ author: alex gil
 - turbulence d’orgues couchées
 - sacrifice de verres de lampes croisées sur la bouche
 - des tempêtes
-- branle-le-bas virulent pris tout absurde<span class="delete">dans</span>dans le mouvement
+- branle-le-bas virulent pris tout absurde<span class="delete">dans</span> dans le mouvement
 - des palmes et des scolopendres
 - c’est moi ce soir jurant toute la forêt ramassée
 - en anneaux de cris violents
@@ -1037,7 +1037,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 
 
-<span class="add light-pencil inline">(</span>La scène est envahie par la foule <span class="add light-pencil above">des insurgés</span>: masse d’hommes et de femmes ar<br>més de coutelas.<span class="add light-pencil inline">)</span>
+<span class="add light-pencil inline">(</span>La scène est envahie par la foule&nbsp;<span class="add light-pencil above">des insurgés&nbsp;</span>: masse d’hommes et de femmes ar<br>més de coutelas.<span class="add light-pencil inline">)</span>
 
 
 
@@ -1194,7 +1194,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Demi-choeur.
 
-- {:.indent-2} Iles nous<span class="add light-pencil vertical-line "> </span>marquaient <span class="delete">de</span><span class="add  above">au</span> fer rouge.
+- {:.indent-2} Ils nous<span class="add light-pencil vertical-line "> </span>marquaient <span class="delete">de</span><span class="add  above">au</span> fer rouge.
 
 
 - {:.speaker} Le choeur.

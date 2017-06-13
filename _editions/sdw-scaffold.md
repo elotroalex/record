@@ -111,7 +111,7 @@ author: alex gil
 
 <em>(A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, chevaux, chiens. Senteurs de musc et benjoin.)</em>
 
- 
+
 <hr>
 
 [ 4 ](/data/sdw-data/P004.jpg){: target='_blank'}
@@ -149,7 +149,7 @@ author: alex gil
 
 - {:.speaker}  <span class="unclear">1re </span> voix tentatrice.
 
-- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots: pas trois ; mille mots Toussaint... O mon ami, <span class="unclear">naïf ami,</span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne  <span class="unclear">comme Biasson&nbsp;?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois ; mille mots Toussaint... O mon ami, <span class="unclear">naïf ami,</span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne  <span class="unclear">comme Biasson&nbsp;?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
 <hr>
 
@@ -185,7 +185,7 @@ author: alex gil
 - dédouble de soleils nichés la fièvre lisse des jours.
 - Maudit serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- îles
+- Îles
 
 <hr>
 
@@ -335,7 +335,7 @@ author: alex gil
 
 - {:.indent-2} ... J’ai regardé et les ponts sont coupés...
 - Les étoiles ont débridé leurs cicatrices de sable.
- 
+
 <hr>
 
 [ 10 ](/data/sdw-data/P010.jpg){: target='_blank'}
@@ -474,7 +474,7 @@ author: alex gil
 
 - {:.speaker} Chœur <em>(lointain.)</em>
 
- - Ô roi debout.
+- Ô roi debout.
 
 
 - {:.speaker} Toussaint.
@@ -483,7 +483,7 @@ author: alex gil
 
 - {:.speaker} Chœur <em>(au loin.)</em>
 
- - Ô roi debout.
+- Ô roi debout.
 
 
 - {:.speaker} Toussaint.
@@ -596,7 +596,7 @@ author: alex gil
 - turbulence d’orgues couchées
 - sacrifice de verres de lampes croisées sur la bouche
 - des tempêtes
-- branle-le-bas virulent pris tout absurdedans le mouvement
+- branle-le-bas virulent pris tout absurde dans le mouvement
 - des palmes et des scolopendres
 - c’est moi ce soir jurant toute la forêt ramassée
 - en anneaux de cris violents
@@ -996,7 +996,7 @@ author: alex gil
 - l’école buissonnière, les sourcils joints des hauts labours
 - {:.prose} les ruses savantes des colloques sans rime ni raison aux sables mouvants.
 - La vache des naufrageurs, la pluie des calvaires et des vagues
-- ensorcelent &nbsp;de serpents, de palabres, de varechs
+- ensorcelent&nbsp;de serpents, de palabres, de varechs
 - le phare disjoint de sang d’aiglon.
 
 <hr>
@@ -1005,7 +1005,7 @@ author: alex gil
 
 
 
-<em>(La scène est envahie par la foule : masse d’hommes et de femmes armés de coutelas.)</em>
+<em>(La scène est envahie par la foule&nbsp;: masse d’hommes et de femmes armés de coutelas.)</em>
 
 
 
@@ -1105,7 +1105,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Tout n’est pas fini Camarades... Qui portera aux blancs notre réponse flamboyante&nbsp;?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
+- {:.prose .prose-indent} Tout n’est pas fini camarades... Qui portera aux blancs notre réponse flamboyante&nbsp;?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
 
 
 - {:.speaker} Des voix.
@@ -1159,7 +1159,7 @@ author: alex gil
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Iles nous marquaient de fer rouge.
+- {:.indent-2} Ils nous marquaient de fer rouge.
 
 
 - {:.speaker} Le chœur.
@@ -1307,7 +1307,7 @@ author: alex gil
 
 <em>(Quelques attardés discutent encore.)</em>
 
- 
+
 <hr>
 
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}
@@ -1396,7 +1396,7 @@ author: alex gil
 
 <em>(Applaudissements. Des rires.)</em>
 
- 
+
 <hr>
 
 [ 35 ](/data/sdw-data/P035.jpg){: target='_blank'}
@@ -1580,7 +1580,7 @@ author: alex gil
 
 <em>(A mesure qu’elle parle, tout cela se dessine sur l’écran.)</em>
 
- 
+
 - {:.speaker} Le récitant <em>(féroce.)</em>
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
