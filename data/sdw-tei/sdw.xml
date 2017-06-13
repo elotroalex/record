@@ -578,7 +578,7 @@
                                     superscript numerals -->
                                 </add>
                                 <del rend="blue-ink">
-                                    <unclear reason="incomplete-type" confidence="0.9">
+                                    <unclear reason="incomplete-type" cert="high">
                                         <hi rend="underlined"><choice>
                                                 <orig>Ière </orig>
                                                 <reg>1re </reg>
@@ -591,13 +591,13 @@
                         <ab rend="indent">Ha, ha, ha. <sic>des</sic><reg>Des</reg> mots, rien que des
                             mots<reg xml:space="preserve"> </reg>: pas trois<reg>&#160;</reg>; mille mots <w>Tous<lb
                                     rend="hyphen"/>saint</w>... O mon ami, <del rend="light-pencil" status="partial">
-                                <unclear reason="deleted" confidence="0.9">naïf ami,</unclear>
+                                <unclear reason="deleted" cert="high">naïf ami,</unclear>
                             </del> veux-tu de l’argent<reg>&#160;</reg>? des titres<reg>&#160;</reg>? de
                                 la<lb/>terre<reg>&#160;</reg>? Veux-tu être maréchal de camp<reg>&#160;</reg>? Grand
                                 d’Espagne<reg xml:space="preserve"> </reg><add rend="light-pencil" place="inline"
                                 status="double">?</add><del type="implied"> </del>
                             <del rend="light-pencil" status="double">
-                                <unclear reason="deleted" confidence="0.4">comme Biasson<reg>&#160;</reg>?</unclear>
+                                <unclear reason="deleted" cert="medium">comme Biasson<reg>&#160;</reg>?</unclear>
                             </del>
                             <!-- Liasson? -->
                             <lb/>Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.</ab>
@@ -641,9 +641,9 @@
                         <ab>Fête de nuit</ab>
                         <ab><subst>
                                 <add rend="light-pencil" place="margin">
-                                    <unclear reason="handwriting" confidence="0.5">carne</unclear></add>
+                                    <unclear reason="handwriting" cert="medium">carne</unclear></add>
                                 <del rend="blue-ink">
-                                    <unclear reason="deleted" confidence="0.5">came</unclear>
+                                    <unclear reason="deleted" cert="medium">came</unclear>
                                 </del>
                             </subst>, cave</ab>
                         <ab>les maisons fendues filent leur coupe abstraite de serpent</ab>
@@ -739,7 +739,7 @@
                                 place="above">mon </add>
                             <del rend="light-pencil">prisme </del>
                             <del rend="overprint">
-                                <unclear reason="deleted" confidence="0.5">d'amal </unclear>
+                                <unclear reason="deleted" cert="medium">d'amal </unclear>
                             </del><add rend="light-pencil" place="margin">propre</add>
                             <lb/><subst>
                                 <add place="margin">don</add>
@@ -982,7 +982,7 @@
                                 </choice></hi>.</speaker>
                         <ab rend="indent">Les désirs de Toussaint sont des ordres... Il commande et<lb/>légi<subst>
                                 <del rend="#d_p">
-                                    <unclear reason="overwrite" confidence="0.1">g</unclear>
+                                    <unclear reason="overwrite" cert="low">g</unclear>
                                 </del>
                                 <add rend="light-pencil" place="inline" type="clarification">f</add>
                             </subst>ère<reg>.</reg></ab>
@@ -1080,7 +1080,7 @@
                             la<lb/>première marche. Il en est à la 2e<sic xml:space="preserve"> </sic>. Toussaint est sur le perron.
                             Pas<lb/>après pas, Toussaint a mis le pied dans la fosse <del rend="#d_p"><del
                                     rend="overprint">
-                                    <unclear reason="double character" confidence="0.1">x </unclear>
+                                    <unclear reason="double character" cert="low">x </unclear>
                                 </del></del><note>There' a chance the crossing out is the letter y</note>camouflée de
                             sourires<lb/>glissants...</ab>
                     </sp>
@@ -1122,7 +1122,7 @@
                         <ab>le cap et la limaille</ab>
                         <ab>les oiseaux et les jours</ab>
                         <ab><del rend="overprint">
-                                <unclear reason="deleted" confidence="0.1">tounent </unclear>
+                                <unclear reason="deleted" cert="low">tounent </unclear>
                             </del>tournent avec leur bruit de serrures<reg>&#160;</reg>;</ab>
                         <ab>à l’horizon enfantin les animaux fantastiques</ab>
                         <ab>brouteurs de cervelles</ab>
@@ -1304,7 +1304,7 @@
                         </speaker>
                         <ab>Non, non, <subst>
                                 <del>
-                                    <unclear reason="written over" confidence="0.9">tu</unclear>
+                                    <unclear reason="written over" cert="high">tu</unclear>
                                 </del>
                                 <add rend="light-pencil" place="inline">je</add>
                             </subst> mens, j’ai peur, je suis seul</ab>
@@ -1389,7 +1389,7 @@
                             un emmerdeur. Comme si on n’en avait pas asse<add rend="#d_p" place="inline">z</add>
                             d’emmerdements. Bien<lb/>sur qu’on n’<subst>
                                 <del rend="#d_p">
-                                    <unclear reason="written over" confidence="0.5">était</unclear>
+                                    <unclear reason="written over" cert="medium">était</unclear>
                                 </del>
                                 <add rend="#d_p" place="inline">est</add>
                             </subst> pas heureux<reg>&#160;</reg>? E<subst>
@@ -1399,7 +1399,7 @@
                                 <add rend="light-pencil" place="margin">sera</add>
                                 <lb/>
                                 <del rend="light-pencil">
-                                    <unclear reason="deleted" confidence="0.5">est</unclear>
+                                    <unclear reason="deleted" cert="medium">est</unclear>
                                 </del>
                             </subst><del type="implied"> </del>heureux avec la liberté et la guerre et <del
                                 rend="overprint">lave</del><del type="implied"> </del>la vengeance des Blancs<lb/>sur
@@ -1745,7 +1745,7 @@
                         <ab rend="indent">Saint-Domingue raidit ses pattes d’araignée venimeuse <del rend="overprint"
                                 >sous </del>sur<lb/>la gadoue des <subst cause="unclear">
                                 <del rend="light-pencil" status="partial">
-                                    <unclear reason="deleted" confidence="0.5">banacones.</unclear>
+                                    <unclear reason="deleted" cert="medium">banacones.</unclear>
                                 </del>
                                 <add rend="light-pencil" type="clarification">barracouns.</add>
                             </subst>
@@ -1782,7 +1782,7 @@
                         <speaker>Le récitant.</speaker>
                         <ab rend="indent">Jeunes filles<add rend="light-pencil" place="inline">,</add> respectez les <subst>
                                 <del rend="blue-ink">
-                                    <unclear reason="deleted" confidence="0.5">étrangers qui passent </unclear>
+                                    <unclear reason="deleted" cert="medium">étrangers qui passent </unclear>
                                 </del>
                                 <add rend="blue-ink" place="above">pèlerins qui gaspillent leur pain quotidien</add>
                             </subst> sur les <w>ri<lb rend="hyphen"/>ches</w> ornières du crépuscule.</ab>
@@ -1889,7 +1889,7 @@
                         <speaker>Toussaint</speaker>
                         <stage type="delivery">
                             <del rend="#d_p">
-                                <unclear reason="deleted" confidence="0.5"> (l'arrêtant.)</unclear>
+                                <unclear reason="deleted" cert="medium"> (l'arrêtant.)</unclear>
                             </del>
                         </stage>
                         <ab rend="indent"><subst>
@@ -2270,7 +2270,7 @@
                             sommes<reg xml:space="preserve"> </reg>: en pleine révolte servile<reg>&#160;</reg>; la
                             moitié de la province du<lb/>Nord est en feu. Avec les nègres des habitations Turpin,
                             Flaville, <gap reason="deleted" unit="chars" quantity="1"/>
-                            <lb/><unclear reason="faint" confidence="0.9">Trêmes</unclear>, Noé, Toussaint <del
+                            <lb/><unclear reason="faint" cert="high">Trêmes</unclear>, Noé, Toussaint <del
                                 rend="#d_p">et Boukmann </del>
                             <subst>
                                 <del rend="light-pencil">ont</del>
@@ -2617,7 +2617,7 @@
                         <stage type="delivery">(d’une voix cinglante.)</stage>
                         <ab rend="indent">A la fin, je m’en vais vous dire, moi, ce que je <sic>voisà</sic><corr>vois
                                 à</corr> la fin<reg>&#160;</reg>:<lb/>à la fin... <del rend="overprint">
-                                <unclear reason="deleted" confidence="0.9">la culbute de l'Europe,</unclear>
+                                <unclear reason="deleted" cert="high">la culbute de l'Europe,</unclear>
                             </del>
                             <sic>,</sic>ah oui, à l’extrème fin, la <w>cul<orig>&#8208;</orig><lb/><del
                                     rend="light-pencil" type="correction">bute</del>bute</w>&#160;de l’Europe, la posée
@@ -2673,7 +2673,7 @@
                             rend="light-pencil" place="inline">,</add> puis des mains... Ce sont des esclave<subst
                             cause="unclear">
                             <del>
-                                <unclear reason="deleted" confidence="0.1">e</unclear>
+                                <unclear reason="deleted" cert="low">e</unclear>
                             </del>
                             <add rend="light-pencil" place="inline" type="clarification">s</add>
                         </subst> qui labourent au <w>crépus<lb rend="hyphen"/>cule</w>.<add rend="light-pencil"
@@ -2704,7 +2704,7 @@
                         <stage type="delivery">(chantant<reg>.</reg>)</stage>
                         <ab rend="indent">Le soleil est une fatigue<reg>&#160;</reg>; ma fatigue va l<subst>
                                 <del>
-                                    <unclear reason="deleted" confidence="0.1">e</unclear>
+                                    <unclear reason="deleted" cert="low">e</unclear>
                                 </del>
                                 <add rend="light-pencil" place="inline" type="clarification">a</add>
                             </subst> fatiguer.</ab>
@@ -2956,7 +2956,7 @@
                         <ab>
                             <del rend="blue-ink">
                                 <add rend="blue-ink">
-                                    <unclear reason="deleted" confidence="0.5">Ô j'attends passionnément&#160;: je suis
+                                    <unclear reason="deleted" cert="medium">Ô j'attends passionnément&#160;: je suis
                                         cernée</unclear>
                                 </add>
                             </del>
@@ -3360,7 +3360,7 @@
                                 <del status="unmarked">prise</del>
                                 <add rend="blue-ink" place="above" type="clarification">prise</add>
                             </subst> dans le <del rend="blue-ink">
-                                <unclear reason="garbled type" confidence="0.9">gele</unclear>
+                                <unclear reason="garbled type" cert="high">gele</unclear>
                             </del> gel et le surplomb et le filet du pian.</ab>
 
                     </sp>
@@ -3371,7 +3371,7 @@
                     <sp>
                         <speaker>Toussaint.</speaker>
                         <ab>Masse sans <del rend="blue-ink" status="incomplete">
-                                <unclear reason="deleted" confidence="0.5">comunauté- </unclear>
+                                <unclear reason="deleted" cert="medium">comunauté- </unclear>
                             </del>communauté ni communion</ab>
                         <ab>une église brûle dans l'écrin <add rend="blue-ink" type="clarification">d</add>e la forêt
                             tordue</ab>
@@ -3388,7 +3388,7 @@
                         <speaker>Récitant.</speaker>
                         <ab><del rend="overprint">Cp </del>Coupeurs de choux-palmistes,</ab>
                         <ab>charmeurs de <subst>
-                                <del rend="blue-ink" status="partial">serp<unclear reason="deleted" confidence="0.5"
+                                <del rend="blue-ink" status="partial">serp<unclear reason="deleted" cert="medium"
                                         >n</unclear>nts</del>
                                 <add rend="blue-ink" place="above">serpents</add>
                             </subst></ab>
@@ -4917,37 +4917,37 @@
                         <locus scheme="#P8">41</locus>
                     </fw>
                     <sp>
-                        <speaker>le voyageur.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>e voyageur.</speaker>
                         <ab>Eh bien, salut planteurs de pierres, et moi je suis un planteur de paroles.<lb/>Toussaint
                             Louverture, c'était un homme... comment dirais-je<reg>&#160;</reg>?</ab>
                     </sp>
                     <sp>
-                        <speaker>les bonnes gens.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>es bonnes gens.</speaker>
                         <ab>Un homme en morsures profondes.</ab>
                     </sp>
                     <sp>
-                        <speaker>le voyageur.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>e voyageur.</speaker>
                         <ab>Comment<reg>&#160;</reg>? en morsures profondes<reg>&#160;</reg>? Vous le
                                 connaissez<reg>&#160;</reg>?</ab>
                     </sp>
                     <sp>
-                        <speaker>les bonnes gens.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>es bonnes gens.</speaker>
                         <ab><del>C'est drôle </del>nous le connaissons pas.</ab>
                     </sp>
                     <sp>
-                        <speaker>le voyageur.</speaker>
-                        <ab>Oui toutefois.. un homme étonnant... en morsure<add place="inline" rend="#u_m">s</add>
-                            profondes..Il parcourut le pays<lb/>à la vitesse rapide de l'éclair et de la liberté,
-                            imprimant sur le sol de <w>cada<lb rend="hyphen"/>vres</w><del rend="blue-ink">e</del>
-                            <unclear> détrempés</unclear>, ses pas fertiles.</ab>
+                        <speaker><orig>l</orig><reg>L</reg>e voyageur.</speaker>
+                        <ab>Oui toutefois..<reg>.</reg> un homme étonnant... en morsure<add place="inline" 
+                            rend="#u_m">s</add> profondes..<reg xml:space="preserve">. </reg>Il parcourut le pays<lb/>à la vitesse 
+                            rapide de l'éclair et de la liberté, imprimant sur le sol de <w>cada<lb rend="hyphen"/>vres</w>
+                            <del rend="blue-ink">e</del><unclear> détrempés</unclear>, ses pas fertiles.</ab>
                     </sp>
                     <sp>
-                        <speaker>les bonnes gens.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>es bonnes gens.</speaker>
                         <ab>Excusez-nous, nous ne le connaissons pas.</ab>
                     </sp>
                     <sp>
-                        <speaker>le voyageur.</speaker>
-                        <ab>Peuple <add rend="#u_m" place="above">singulier</add>.. et ils ne savent pas reconnaitre
+                        <speaker><orig>l</orig><reg>L</reg>e voyageur.</speaker>
+                        <ab>Peuple <add rend="#u_m" place="above">singulier</add>..<reg>.</reg> et ils ne savent pas reconnaitre
                             parmi les jonquilles une face de <w>tem<lb rend="hyphen"/>pête</w>.</ab>
                     </sp>
                     <stage>(<sic xml:space="preserve"> </sic>Le voyageur enlève son voile<reg>.</reg>)</stage>
@@ -4956,30 +4956,32 @@
                         <ab>Me connaissez-vous maintenant<add type="clarification"><reg>&#160;</reg>?</add></ab>
                     </sp>
                     <sp>
-                        <speaker>les <sic>bones</sic><corr>bons</corr> gens.</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>es <sic>bones</sic><corr>bons</corr> gens.</speaker>
                         <ab><subst>
                                 <del rend="blue-ink">C'est drôle </del>
                                 <add rend="light-pencil" place="above">Non</add>
                             </subst><add rend="#u_m" place="inline">,</add> nous ne vous connaissons pas.</ab>
                     </sp>
-                    <stage>(<sic xml:space="preserve"> </sic>Toussaint les bat nerveusement. <reg>.</reg>)</stage>
+                    <stage>(<sic xml:space="preserve"> </sic>Toussaint les bat nerveusement.<sic 
+                        xml:space="preserve"> </sic>)</stage>
                     <sp>
                         <speaker>Toussaint.</speaker>
                         <ab>Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,
                             <del>vot</del><lb/>votre sang levé, votre machete, votre tête laineuse, votre
                             paroxysme.</ab>
                     </sp>
-                    <stage>(<sic xml:space="preserve"> </sic>les bonnes gens se mettent à planter des pierres, puis brusquement
-                            s'arrêtent<add rend="#u_m" place="inline"> )</add></stage>
+                    <stage>(<sic xml:space="preserve"> </sic><orig>l</orig><reg>L</reg>es bonnes gens 
+                        se mettent à planter des pierres, puis brusquement s'arrêtent<add 
+                            rend="#u_m" place="inline">)</add></stage>
                     <sp>
-                        <speaker>les bonnes gens.</speaker>
-                        <ab><del rend="blue-ink">C'est drôle, </del>tu nous <del>
-                                <unclear>importunet-</unclear>
+                        <speaker><orig>l</orig><reg>L</reg>es bonnes gens.</speaker>
+                        <ab><del rend="blue-ink">C'est drôle, </del><choice><orig>t</orig>
+                            <reg type="special">T</reg></choice>u nous <del><unclear>importunet-</unclear>
                             </del> importunes <sic>éétranger;</sic><corr>étranger&#160;;</corr> nous ne croyons à
                                 rien..<reg>.</reg><lb/>nous plantons des pierres.</ab>
                     </sp>
                     <stage>
-                        <del>(<sic xml:space="preserve"> </sic>Toussaint s'éloigne<reg>)</reg></del>
+                        <del>(<sic xml:space="preserve"> </sic>Toussaint s'éloigne<reg>).</reg></del>
                     </stage>
                 </div>
 
@@ -4996,18 +4998,19 @@
                     <stage>(<sic xml:space="preserve"> </sic>Toussaint <sic>s'éloigne/:</sic><corr>s'éloigne&#160;:</corr> les bonnes gens en
                         riant lui lancent des pierres<reg>.</reg>)</stage>
                     <sp>
-                        <speaker>les bonnes gens</speaker>
+                        <speaker><orig>l</orig><reg>L</reg>es bonnes gens<reg>.</reg></speaker>
                         <ab>Hein, c'est drôle<reg xml:space="preserve"> </reg>: nous ne le connaissons
-                                    pas.<lb/><stage>(<sic xml:space="preserve"> </sic>Toussaint s'avance seul dans la lande<reg>&#160;</reg>;
+                                    pas.<lb/><stage>(<sic xml:space="preserve"> </sic>Toussaint s'avance 
+                                        seul dans la lande<reg>&#160;</reg>;
                                 des hommes déterrent des pierres avec<lb/>leurs ongles. Toussaint
                                 s'arrète<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>Mes enfants je suis un roi qui ne possède rien, bonjour</ab>
+                        <ab>Mes enfants je suis un roi qui ne possède rien, bonjour<reg>.</reg></ab>
                     </sp>
                     <sp>
-                        <speaker>Les deterreurs de pierres</speaker>
+                        <speaker>Les deterreurs de pierres<reg>.</reg></speaker>
                         <ab>Un <del>
                                 <unclear>roi ?</unclear>
                             </del> roi<reg>&#160;</reg>?</ab>
@@ -5016,7 +5019,7 @@
                         sort: "2 AVE dr#17"</note>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>... Qui ne possède rien</ab>
+                        <ab>... Qui ne possède rien<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Les deterreurs de pierres.</speaker>
@@ -5024,25 +5027,27 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint<sic xml:space="preserve"> </sic>.</speaker>
-                        <ab>Ravaudeurs du désert, baptisez moi.<lb/><stage>(<sic xml:space="preserve"> </sic>Toussaint s'incline face contre
-                                terre, les bras écartés. Un des hommes<lb/>lui<del>n</del><corr> </corr>verse de la
-                                terre sur la tête et la nuque) </stage></ab>
+                        <ab>Ravaudeurs du désert, baptisez moi.<lb/><stage>(<sic xml:space="preserve"> </sic>Toussaint 
+                            s'incline face contre terre, les bras écartés. Un des hommes<lb/>lui<del>n</del><reg
+                                xml:space="preserve"> </reg>verse de la terre sur la tête et la 
+                            nuque<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche,
-                            demi<corr>‐</corr><lb/>ténèbres, exige, dirige...<lb/><stage>(<sic xml:space="preserve"> </sic>Il approche
-                                l'oreille du sol<reg>.</reg>)</stage><lb/>Oh, des pas ; des sabots de chevaux ; des
-                            rampements de larves grossis dans<lb/>la vallée de mes oreilles. Confluences. Flaques.
-                            Langages. Mains sures<lb/>d'aveugle. Je suis atteint. Oh Oh, je suis
-                                    atteint.<lb/><stage>(<sic xml:space="preserve"> </sic>Il se <del>lève</del> redresse<reg>&#160;</reg>; à
-                                ce moment la lune brille de tout son éclat haut dans<lb/>le ciel. Toussaint s'enfonce
-                                dans la nuit. Il s'arrète, se retourne et crie<lb/>de loin<reg>.</reg>)</stage></ab>
+                        <ab>Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau 
+                            riche, <w>demi<reg>‐</reg><lb/>ténèbres</w>, exige, dirige...<lb/><stage>(<sic 
+                                xml:space="preserve"> </sic>Il approche l'oreille du sol<reg>.</reg>)</stage><lb/>Oh, 
+                            des pas&#160;; des sabots de chevaux&#160;; des rampements de larves grossis 
+                            dans<lb/>la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures<lb/>d'aveugle. 
+                            Je suis atteint. Oh<reg>,</reg><stage>(<sic xml:space="preserve"> </sic>Il 
+                                se <del>lève</del> redresse<reg>&#160;</reg>; à ce moment la lune brille de tout son 
+                                éclat haut dans<lb/>le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne 
+                                et crie<lb/>de loin<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>A la folle enchère, à mes frais, à mes risques et périls...<lb/><stage>( Toussaint a
-                                    disparu<reg>.</reg>)</stage></ab>
+                        <ab>A la folle enchère, à mes frais, à mes risques et périls...<lb/><stage>(<sic 
+                            xml:space="preserve"> </sic>Toussaint a disparu<reg>.</reg>)</stage></ab>
                     </sp>
                 </div>
 
@@ -5070,7 +5075,7 @@
                     </sp>
                     <sp>
                         <speaker><orig>Choeur</orig><reg>Chœur</reg>.</speaker>
-                        <ab>Salut prince de l'exil</ab>
+                        <ab>Salut prince de l'exil<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
@@ -5085,16 +5090,16 @@
                         <ab>Je danserai autour de ma victime la danse du scalp.</ab>
                     </sp>
                     <sp>
-                        <speaker>Geolier. </speaker>
-                        <stage type="delivery">(<sic xml:space="preserve"> </sic>s'adressant au public<reg>.</reg>)</stage>
+                        <speaker>Geolier<orig>.</orig></speaker>
+                        <stage type="delivery"> (<sic xml:space="preserve"> </sic>s'adressant au public<reg>.</reg>)</stage>
                         <ab>Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face<lb/>blette, les
                             mains <del>frileses</del> frileuses, chef hypocrite d'un peuple de sauvages,<lb/>triste
                             conducteur d'une race de démons<reg>&#160;</reg>; calculateur sournois égaré parmi
                             des<lb/>frénétiques.</ab>
                         <ab rend="indent">Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions
                             qu'au<lb/>nom des droits de l'homme, nous apprenions dis-je que la plus vile de
-                            toutes<lb/>les races allait s'asseoir côte à côte avec nous au banquet d'une risible
-                                fra<del>te</del><corr>­</corr><lb/>ternité.</ab>
+                            toutes<lb/>les races allait s'asseoir côte à côte avec nous au banquet d'une 
+                            risible <w>fra<del>te</del><corr>­</corr><lb/>ternité</w>.</ab>
                         <ab rend="indent">Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut<lb/>du
                             tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'<w>or<lb
                                     rend="hyphen"/>gueil</w> dans les villes prises<reg>&#160;</reg>; on en vit aux Te
@@ -5153,8 +5158,8 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab rend="indent">Attaché comme une enseigne au haut bout de la France, je ne sanglotte
-                            pas<lb/>... j'appelle.</ab>
+                        <ab rend="indent">Attaché comme une enseigne au haut bout de la France, je ne 
+                            sanglotte <w>pas<lb/>...</w> j'appelle.</ab>
                     </sp>
                     <sp>
                         <speaker>Geolier.</speaker>
@@ -5217,12 +5222,10 @@
                         <ab>L'Afrique est désormais liée à son destin...</ab>
                         <ab>L'Afrique a part avec lui</ab>
                         <ab>Toussaint a part avec lui qu'il le veuille ou non.</ab>
-                        <ab>Je dis que l'Afrique ne le lâchera pas...</ab>
-                        <ab><stage rend="inline">(<sic xml:space="preserve"> </sic>à ce moment entre à l'autre bout de la scène le
-                                    Messager<reg>.</reg>)</stage></ab>
+                        <ab>Je dis que l'Afrique ne le lâchera pas...</ab>                        
                     </sp>
-
-
+                    <stage>(<sic xml:space="preserve"> </sic>à ce moment entre à l'autre bout de la scène le
+                        Messager<reg>.</reg>)</stage>
                     <sp>
                         <speaker>Toussaint.</speaker>
                         <ab>Ah. Voici le digne messager de cette race <subst>
@@ -5267,7 +5270,7 @@
                         <ab>les minutes autour de moi processionnent</ab>
                         <ab>comme une bande de loups efflanqués</ab>
                         <ab>comme un troupeau de coups de fouet</ab>
-                        <ab>comme les noeuds d'une échelle de corde et de statuts</ab>
+                        <ab>comme les <orig>noeuds</orig><reg>nœuds</reg> d'une échelle de corde et de statuts</ab>
                         <ab>sujet indocile victime parfaite</ab>
                         <ab>défi rivé au front des mares</ab>
                         <ab>je ne converse pas avec les dieux</ab>
@@ -5490,8 +5493,8 @@
                     </sp>
                     <sp>
                         <speaker>Messager.</speaker>
-                        <ab rend="indent">Insolent<orig>.</orig>
-                            <stage rend="inline">(il le frappe<reg>.</reg>)</stage></ab>
+                        <ab rend="indent">Insolent<orig>.</orig><stage rend="inline"> (<sic 
+                            xml:space="preserve"> </sic>il le frappe<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
@@ -5522,8 +5525,8 @@
 
                     <sp>
                         <speaker>Messager.</speaker>
-                        <ab rend="indent"><del rend="blue-ink">Toussaint</del>, tes puériles imaginations me font
-                            sourire de pitié.</ab>
+                        <ab rend="indent"><del rend="blue-ink">Toussaint, </del><choice><orig>t</orig><reg 
+                            type="special">T</reg></choice>es puériles imaginations me font sourire de pitié.</ab>
                         <ab>Tes fils. <del rend="light-pencil">Naïf</del> vieillard <add rend="light-pencil"
                                 place="inline">naïf.</add></ab>
                         <ab>et ton fils pense comme nous que tu serais impardonnable</ab>
@@ -5571,10 +5574,11 @@
                                 type="clarification">s,</add>
                             <lb/>mais que leur crime est de ne <del>pas</del> savoir pas oublier</ab>
                         <ab>et je dis que, bénévole ministre des bienséances, je cravache de la
-                                mention<lb/>"inopportun<del rend="blue-ink">e</del>" l'indécence exposé<add
-                                type="clarification">e</add> des questions - qu'on-devrait-taire.</ab>
-                        <ab><add rend="blue-ink" place="inline">«</add>Inopportun<add rend="blue-ink"
-                                type="clarification">»,</add> comprenez vous ?</ab>
+                            mention<lb/><orig>"</orig><reg>«&#160;</reg>inopportun<del rend="blue-ink">e</del>
+                            <orig>"</orig><reg>&#160;»</reg> l'indécence exposé<add
+                                type="clarification">e</add> des questions <orig>-</orig><reg>—</reg> qu'on-devrait-taire.</ab>
+                        <ab><add rend="blue-ink" place="inline">«&#160;</add>Inopportun<add rend="blue-ink"
+                            type="clarification"><reg>&#160;</reg>»,</add> comprenez vous&#160;?</ab>
                         <ab>Je dis&#160;: ô , je veux oublier longuement.</ab>
                     </sp>
                     <sp>
@@ -5587,10 +5591,11 @@
                                 rend="blue-ink">-</add>à<add place="inline" rend="blue-ink">-</add>lunettes </speaker>
                         <stage type="delivery">(<sic xml:space="preserve"> </sic>s'enfuyant<reg>.</reg>)</stage>
                         <ab>Je dis&#160;: ô que les querelles pourrissent&#160;! Au secours&#160;! Au secours&#160;!
-                                <lb/><stage rend="centered inline">Entrent des prètres.</stage></ab>
+                                <lb/><stage rend="centered inline">Entrent des <sic>prètres</sic>
+                                    <reg>prêtres</reg>.</stage></ab>
                     </sp>
                     <sp>
-                        <speaker>1er <sic>Pretre</sic><reg>Prêtre</reg>
+                        <speaker>1er <sic>Pretre</sic><reg>prêtre</reg>
                         </speaker>
                         <stage type="delivery"> (<sic xml:space="preserve"> </sic>index tendu vers Toussaint<reg>.</reg>)</stage>
                         <ab>Ladre, je te défends, si tu vas par les chemins et si <add place="above">tu</add> rencontres
@@ -5598,7 +5603,7 @@
                                 répondre<sic xml:space="preserve"> </sic>.</ab>
                     </sp>
                     <sp>
-                        <speaker>2 ème prètre.</speaker>
+                        <speaker><sic>2 ème prètre</sic><reg>2e prêtre</reg>.</speaker>
                         <ab>Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un<lb/><add
                                 type="clarification" rend="blue-ink">n</add>e te rencontre.<lb/><del>n</del>
                         </ab>
@@ -5606,8 +5611,6 @@
                 </div>
 
                 <div type="page" facs="/P082.jpg" n="82">
-
-
                     <fw type="pageNum" place="center">
                         <locus scheme="#P6">78</locus>
                     </fw>
@@ -5615,29 +5618,29 @@
                         <locus scheme="#Page">82</locus>
                     </fw>
                     <sp>
-                        <speaker>3ème prêtre</speaker>
+                        <speaker><orig>3ème</orig><reg>3e</reg> prêtre<reg>.</reg></speaker>
                         <ab>Je te défends de manger et boire en compagnie<sic xml:space="preserve"> </sic>.</ab>
                     </sp>
                     <sp>
-                        <speaker>4ème prêtre</speaker>
+                        <speaker><orig>4ème</orig><reg>4e</reg> prêtre<reg>.</reg></speaker>
                         <ab>Je te défends de sortir sans t'annoncer afin que l'on puisse s'éloigner.</ab>
                     </sp>
 
                     <sp>
-                        <speaker>Toussaint</speaker>
-                        <ab>Et moi je veux crier crier et on m'entendra jusqu'au bout du monde <sic xml:space="preserve"> </sic>.</ab>
-                        <stage rend="inline">(Il crie<reg>.</reg>)</stage>
-                        <ab>Mon fils <unclear cert="high">!</unclear> mon fils&#160;!</ab>
+                        <speaker>Toussaint<reg>.</reg></speaker>
+                        <ab>Et moi je veux crier crier et on m'entendra jusqu'au bout du monde<sic 
+                            xml:space="preserve"> </sic>.<reg xml:space="preserve"> </reg>
+                            <stage rend="inline">(Il crie<reg>.</reg>)</stage></ab>                        
+                        <ab>Mon fils&#160;<unclear cert="medium">!</unclear> mon fils&#160;!</ab>
                     </sp>
 
                     <sp>
-                        <speaker>Le Récitant</speaker>
-                        <ab>Le<del>
-                                <gap reason="deleted" quantity="1" unit="chars"/>
-                            </del>fils arrive<sic xml:space="preserve"> </sic>.</ab>
+                        <speaker>Le Récitant<reg>.</reg></speaker>
+                        <ab>Le<del><unclear cert="low">e</unclear></del><reg xml:space="preserve"> </reg>fils 
+                            arrive<sic xml:space="preserve"> </sic>.</ab>
                     </sp>
                     <sp>
-                        <speaker>La Récitante</speaker>
+                        <speaker>La Récitante<reg>.</reg></speaker>
                         <ab>Le fils arrive<sic xml:space="preserve"> </sic>...</ab>
                     </sp>
                     <sp>
@@ -5845,7 +5848,7 @@
                             maitre,<lb/>qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour
                             faire<lb/>un bon commandeur, <orig>oeil</orig><reg>œil</reg>
                             <del rend="overprint">
-                                <unclear reason="deleted" confidence="0.1" evidence="internal">ferme</unclear>
+                                <unclear reason="deleted" cert="low" evidence="internal">ferme</unclear>
                             </del>vif et le bras ferme</ab>
                     </sp>
                 </div>
@@ -5963,11 +5966,11 @@
                         <ab>Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé <sic>etla</sic><corr>et
                                 la</corr> brume<lb/>sans soleil, l'exil mon père.</ab>
                         <ab><subst>
-                                <add rend="light-pencil" place="margin">Et </add>
+                                <add rend="light-pencil" place="margin">Et</add>
                                 <del rend="light-pencil">O</del>
                             </subst> la pluie de cendres violettes sur ce Paris étranger.</ab>
                         <ab><subst>
-                                <add rend="light-pencil" place="margin">Et </add>
+                                <add rend="light-pencil" place="margin">Et</add>
                                 <del rend="light-pencil">O</del>
                             </subst> <subst>
                                 <del>c</del>
@@ -6053,7 +6056,7 @@
                         <ab>Isaac, Isaac</ab>
                         <ab>vénéneuses mes paupières s'entrouvent au <orig>coeur</orig><reg>cœur</reg> de
                             cocotiers...</ab>
-                        <ab>fortement attirantes la parade des buissons vivants;</ab>
+                        <ab>fortement attirantes la parade des buissons vivants&#160;;</ab>
                         <ab>ô végétaux enfants trébuchant sur les pavés inégaux des perturbations</ab>
                         <ab>Liberté, liberté,</ab>
                         <ab>j'oserai soutenir seul la lumière de <subst>
@@ -6073,10 +6076,13 @@
                     </fw>
 
 
-                    <stage type="setting"><add rend="blue-ink" place="inline">(</add> à ce moment,
-                        vision<reg xml:space="preserve"> </reg>: dans une campagne tropicale, s'agite et se convulse la
-                                <w>sil<lb rend="hyphen"/>houette</w> innénarrable du Grand Prohibiteur. Le "héraut",
-                            <add rend="blue-ink" place="inline">«</add>sa bouche,<add rend="blue-ink" place="inline"
+                    <stage type="setting"><add rend="blue-ink" place="inline">(</add><sic 
+                        xml:space="preserve"> </sic><orig>à</orig><reg>À</reg> ce moment, vision<reg xml:space="preserve"> </reg>: 
+                        dans une campagne tropicale, s'agite et se convulse la <w>sil<lb 
+                            rend="hyphen"/>houette</w> innénarrable du Grand Prohibiteur. 
+                        Le <orig>"</orig><reg>«&#160;</reg>héraut<orig>"</orig><reg>&#160;»</reg>, <space 
+                            quantity="5"></space><add 
+                                rend="blue-ink" place="inline">«&#160;</add>sa bouche,<add rend="blue-ink" place="inline"
                             >»</add> est <w>cou<lb rend="hyphen"/>ché</w> sous un arbre<reg>&#160;</reg>? Il ronfle.<add
                             rend="blue-ink" place="inline">)</add>
                     </stage>
@@ -6101,24 +6107,26 @@
                         <ab>ma honte</ab>
                         <ab>j'ai un flot de paroles<del rend="blue-ink">n</del> d'ordres,<subst>
                                 <del>nde</del>
-                                <add place="above" rend="blue-ink">de</add>
+                                <add place="above" rend="blue-ink"> de</add>
                             </subst> contre-ordres qui se pressent et attendent<lb/><del>et se present</del> dans le
                             recès de ma salive</ab>
                         <ab>allons, vite<del rend="blue-ink">n</del>, vite, l'animal ronfle</ab>
                         <ab>mais peut-être ne savez vous qui je suis&#160;: <subst>
                                 <del>vete</del>
                                 <add place="above">veto</add>
-                            </subst> , <subst>
+                            </subst><sic xml:space="preserve"> </sic>, <subst>
                                 <del>veto</del>
                                 <add place="above">veto</add>
                             </subst>, ce n'est pas un aboi</ab>
-                        <ab>non, c'est veto, veto<lb/>ça ne vous dit rien <sic>,je</sic><corr>, je</corr> vois que ça ne
+                        <ab>non, c'est veto, veto</ab>
+                        <ab>ça ne vous dit rien<sic> ,je</sic><corr>, je</corr> vois que ça ne
                             vous dit rien. Et pourtant à ce cri, les<lb/>bouches s'arrêtent de parler, les jambes
                             rentrent leur humeur vagabonde, le<lb/>monde<del>n</del> se balafre de bornes, se hérisse
                             d'obstacles, veto, veto</ab>
                         <ab>Je suis le compresseur, le represseur, le régisseur</ab>
                         <ab>je suis le grand prohibiteur</ab>
-                        <ab>je m'explique<lb/>eh bien, il avait été constaté en haut lieu qu'il se faisait depuis
+                        <ab>je m'explique</ab>
+                        <ab>eh bien, il avait été constaté en haut lieu qu'il se faisait depuis
                                 quelque<del rend="blue-ink">s</del><lb/>temps une consommation effroyable absurde,
                             imprévue, insensée de dons, largesses<lb/>libéralités, indulgences et permissions, toute
                             chose dérangeant <w>incontestable<lb rend="hyphen"/>ment</w> l'économie fragile, ô fragile,
@@ -6141,7 +6149,7 @@
                                     </subst>ndue</del>
                                 <add>pendue</add>
                             </subst>, le mois qui est le contraire<lb/>du plus, l'arrêt qui est le contraire vrai du
-                            mouvement, non la <del>satation</del> sta­</ab>
+                            mouvement, non la <del>satation </del><w xml:id="station-1" next="#station-2">sta-</w></ab>
                     </sp>
                 </div>
 
@@ -6154,15 +6162,15 @@
                         <locus scheme="#Page">90</locus>
                     </fw>
                     <sp prev="#chUR.sp.515">
-                        <ab part="F">tion, non la station, le retrait qui est le contraire du progrès, l'être
+                        <ab part="F"><w xml:id="station-2" prev="#station-1">tion,</w> non la station, le retrait qui est le contraire du progrès, l'être
                                 <del>p</del><lb/>le plus existant, celui qui se pose en s'opposant, l'être le plus
                             nécessaire, le<lb/><subst>
                                 <del>contraree</del>
                                 <add rend="blue-ink" place="above">contraire</add>
-                            </subst> de l'expansion de la propension de la contagion, croc-en jambe, croc-</ab>
-                        <ab>en jambe</ab>
+                            </subst> de l'expansion de la propension de la contagion, croc-en 
+                            jambe, <w>croc-<lb/>en</w> jambe</ab>
                         <ab>celui qui à un certain moment rend caduc caduc, caduc</ab>
-                        <ab><stage rend="inline">(il jappe<reg>.</reg>)</stage> veto, veto;</ab>
+                        <ab><stage rend="inline">(il jappe)</stage> veto, veto&#160;;</ab>
                         <ab>Mais je m'aperçois que mon serviteur enfin réveillé profite de mes
                             explications<lb/>bénévolentes, de mes philantropiques exclamation<add rend="blue-ink"
                                 place="inline">s</add>pour b<add type="accent">â</add>iller aux cormeilles.</ab>
@@ -6179,13 +6187,13 @@
                         <ab/>
                     </sp>
                     <sp>
-                        <speaker>Le héraut</speaker>
-                        <ab>Mais c'est que je ne vois personne. Rien que des arbres et de la savane </ab>
+                        <speaker>Le héraut<reg>.</reg></speaker>
+                        <ab>Mais c'est que je ne vois personne. Rien que des arbres et de la savane<reg>.</reg></ab>
                     </sp>
                     <sp>
-                        <speaker>Le Grand Prohibiteur</speaker>
+                        <speaker>Le Grand Prohibiteur<reg>.</reg></speaker>
                         <ab>Imbécile, E<add type="clarification" rend="blue-ink">h</add> bien crie la loi aux arbres, à
-                            la savane</ab>
+                            la savane<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Le héraut </speaker>
@@ -6195,7 +6203,8 @@
                     </sp>
                     <sp>
                         <speaker>Le Grand Prohibiteur.</speaker>
-                        <ab>Je dis<add type="clarification">:</add> aux arbres à la savane, à la pluie au soleil...Comme
+                        <ab>Je dis<add type="clarification">&#160;:</add> aux arbres à la savane, à la pluie 
+                            au soleil...<reg xml:space="preserve"> </reg>Comme
                             si sur ce continent<lb/>d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles
                             stables de <del rend="blue-ink">l'</del><lb/><add rend="blue-ink" place="inline"
                             >l'</add>arbre et de la savane que s'étaient gravés les accents de la loi.</ab>
@@ -6211,8 +6220,11 @@
                     <sp>
                         <speaker>Le Grand Prohibiteur</speaker>
                         <ab>Ignorant qui connai<unclear>t</unclear> le nom de Don Christobal Colon amiral de l'océan et
-                            ignore<lb/>celui de Rodri<add type="clarification">g</add>o de Escovedo notaire royal.
-                            Apprends donc mon ami, que les <w>ca<lb rend="hyphen"/>ravelles</w> qui abordaient ici
+                            ignore<lb/>celui de Rodri<add type="clarification">g</add>o de Escovedo notaire 
+                            royal.<note type="scholarly" n="tei2">Rodrigo de Escobedo, the Armada scribe who accompanied
+                            Colombus on his first voyage across the Atlantic, wrote the document that claimed ownership
+                            over the island of "San Salvador," now part of the Bahamas.</note> Apprends donc mon ami, 
+                            que les <w>ca<lb rend="hyphen"/>ravelles</w> qui abordaient ici
                             n'étaient pas seulement enceintes d'armes, de <w>vi<lb rend="hyphen"/>vres</w>, de chevaux,
                             de cavaliers... Elles avaient et surtout la <subst>
                                 <del rend="blue-ink">pause reboucrie</del>
@@ -6220,7 +6232,7 @@
                             </subst> de lois sonores et répressives.</ab>
                     </sp>
                     <sp>
-                        <speaker>Le héraut</speaker>
+                        <speaker>Le héraut<reg>.</reg></speaker>
                         <ab rend="indent">De lois, la pa<subst>
                                 <del>u</del>
                                 <add type="clarification">n</add>
@@ -6244,7 +6256,7 @@
                             </subst> pleine de lois<reg>&#160;</reg>; de<del>s</del> lois répressives.</ab>
                     </sp>
                     <sp>
-                        <speaker>Le grand prohibiteur.</speaker>
+                        <speaker>Le <orig>g</orig><reg>G</reg>rand <orig>p</orig><reg>P</reg>rohibiteur.</speaker>
                         <ab>Et puis que j'ai commencé à <subst>
                                 <del>l</del>
                                 <add type="clarification">t</add>
@@ -6261,27 +6273,27 @@
                             jolie paire de <subst>
                                 <del>menotees</del>
                                 <add rend="blue-ink" type="clarification">menottes</add>
-                            </subst>. HI HI, tu as<lb/>compris allons, héraut, allons.</ab>
+                            </subst>. <orig>HI HI</orig><reg>Hi-hi</reg>, tu as<lb/>compris allons, héraut, allons.</ab>
                     </sp>
                     <sp>
                         <speaker>
                             <sic>Le héráut</sic><corr>Le héraut</corr>
                         </speaker>
-                        <stage type="delivery"><add rend="blue-ink" place="inline">(</add>d'une voix forte<subst>
-                                <del>.</del>
+                        <stage type="delivery"><add rend="blue-ink" place="inline">(</add>d'une voix forte<reg>.</reg><subst>
+                                <del type="overwritten">.</del>
                                 <add type="clarification" rend="blue-ink">)</add>
                             </subst></stage>
-                        <ab><stage rend="inline">(<sic xml:space="preserve"> </sic>après une sonnerie de
-                            trompette<reg>.</reg>)</stage><lb/>au vent, a la pluie, au soleil, aux arbres du nouveau
+                        <ab><stage rend="inline">(<sic xml:space="preserve"> </sic><orig>a</orig><reg>A</reg>près 
+                            une sonnerie de trompette)</stage><lb/>au vent, a la pluie, au soleil, aux arbres du nouveau
                             Monde, salut<lb/><stage rend="inline">(<sic xml:space="preserve"> </sic>sonnerie de
                                 trompette<reg>.</reg>)</stage></ab>
                     </sp>
                     <sp>
-                        <speaker>Le grand prohibiteur. </speaker>
+                        <speaker>Le <orig>g</orig><reg>G</reg>rand <orig>p</orig><reg>P</reg>rohibiteur<orig>.</orig> </speaker>
                         <stage type="delivery">(<sic xml:space="preserve"> </sic>jappant<reg>.</reg>)</stage>
-                        <ab>veto, veto, veto.<lb/>
-                            <stage rend="inline centered">(<sic xml:space="preserve"> </sic>la vision<del>e</del>
-                                disparait<reg>.</reg>)</stage></ab>
+                        <ab><orig>v</orig><reg>V</reg>eto, veto, veto.<lb/>
+                            <stage rend="inline centered">(<sic xml:space="preserve"> </sic>la 
+                                vision<del>e</del> disparait<reg>.</reg>)</stage></ab>
                     </sp>
 
                     <sp>
@@ -6301,13 +6313,13 @@
                         <ab>et les manilles et les menottes</ab>
                         <ab>et le rotin et la noyade</ab>
                         <ab>hélas, hélas vers le matin blanchiment <del>vil</del> d'îles de continents d'église et
-                                de<lb/>málédic<unclear>t</unclear>ion</ab>
+                                de<lb/>málédic<unclear>t</unclear>ion<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Le récitant</speaker>
-                        <ab>Un gouffre. Ma vue ne saurait le mesurer</ab>
+                        <ab>Un gouffre. Ma vue ne saurait le mesurer<reg>.</reg></ab>
                     </sp>
-                    <sp>
+                    <sp xml:id="false-1">
                         <speaker>La récitante.</speaker>
                         <ab/>
                     </sp>
@@ -6321,7 +6333,7 @@
                     <fw type="pageNum" place="center">
                         <locus scheme="#Page">92</locus>
                     </fw>
-                    <sp>
+                    <sp exclude="#false-1">
                         <speaker>Récitante.</speaker>
                         <ab>Un gouffre de <subst>
                                 <del>
@@ -6385,10 +6397,10 @@
                         <ab>et j'ai mangé des excréments</ab>
                         <ab>et j'ai acquis la force de parler</ab>
                         <ab>plus haut que les fleuves</ab>
-                        <ab>plus fort que les désastres</ab>
-                        <stage rend="inline">(<sic xml:space="preserve"> </sic>à ce moment vision du soleil qui se couche,
-                                saignant<reg>.</reg>)</stage>
+                        <ab>plus fort que les désastres</ab>                        
                     </sp>
+                    <stage>(<sic xml:space="preserve"> </sic>à ce moment vision du soleil qui se couche,
+                        saignant<reg>.</reg>)</stage>
 
 
                     <sp>
@@ -6405,7 +6417,7 @@
                         <ab>ah vous me <subst>
                                 <del>clignes</del>
                                 <add rend="blue-ink" type="clarification" place="above">clignez</add>
-                            </subst> de l'oeil</ab>
+                            </subst> de l'<orig>oeil</orig><reg>œil</reg></ab>
                         <ab>vous me demande<add type="clarification">z</add> ma complicité</ab>
                     </sp>
                 </div>
@@ -6418,19 +6430,20 @@
                     <fw type="pageNum" place="center">
                         <locus scheme="#Page">93</locus>
                     </fw>
+                    <note>The first 8 lines of this page are slightly indented, as if the page moved in the roller</note>
                     <sp prev="#chUR.sp.536">
-                        <ab part="F">  au secours<reg>&#160;</reg>! au secours<reg>&#160;</reg>! au
+                        <ab part="F">au secours<reg>&#160;</reg>! au secours<reg>&#160;</reg>! au
                                 meurtre<reg>&#160;</reg>!</ab>
-                        <ab>  ils ont tué le soleil<reg>&#160;</reg>! il n'y a plus de soleil<reg>&#160;</reg>! il ne
+                        <ab>ils ont tué le soleil<reg>&#160;</reg>! il n'y a plus de soleil<reg>&#160;</reg>! il ne
                             reste plus que les taureaux</ab>
-                        <ab>  de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent</ab>
-                        <ab>  la <add type="clarification">s</add>avan<add type="clarification">e</add> sans
+                        <ab>de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent</ab>
+                        <ab>la <add type="clarification">s</add>avan<add type="clarification">e</add> sans
                             meubles</ab>
-                        <ab>  Il y a aussi les cavaliers.</ab>
-                        <ab>  Ils ont suspendu le soleil comme un bouclier à la<add rend="blue-ink" place="inline"
+                        <ab>Il y a aussi les cavaliers.</ab>
+                        <ab>Ils ont suspendu le soleil comme un bouclier à la<add rend="blue-ink" place="inline"
                                 > </add>porte du ciel</ab>
-                        <ab>  assassins<reg>&#160;</reg>! assassins<reg>&#160;</reg>!</ab>
-                        <ab>  mais ils s<add type="clarification" rend="blue-ink">'</add>éloignent et je ne puis pas
+                        <ab>assassins<reg>&#160;</reg>! assassins<reg>&#160;</reg>!</ab>
+                        <ab>mais ils s<add type="clarification" rend="blue-ink">'</add>éloignent et je ne puis pas
                                 le<add place="inline" rend="blue-ink">s</add> suivre</ab>
                         <ab>ils poursuivent le pauvre homme<reg>&#160;</reg>! ils lui donnent la chasse à grands
                             cris</ab>
@@ -6438,7 +6451,7 @@
                         <ab>leurs chevaux sont vite</ab>
                         <ab>ils ento<add type="clarification" rend="blue-ink">ur</add>ent le pauvre homme de longs
                             cercles fatals</ab>
-                        <ab>ils resserrent le noeud de leur cercle autour du cou pelé</ab>
+                        <ab>ils resserrent le <orig>noeud</orig><reg>nœud</reg> de leur cercle autour du cou pelé</ab>
                         <ab>ça y est...<sic>..</sic> ils ont reniflé la viande du n<add type="accent" rend="blue-ink"
                                 >é</add>gre</ab>
                         <ab>ils s'arrétent</ab>
@@ -6456,11 +6469,11 @@
                                 <add type="clarification" rend="blue-ink">autres</add>
                             </subst> sifflent</ab>
                         <ab>ils ont lancé les chiens</ab>
-                        <ab>taiaut<reg>&#160;</reg>! <del>caillot</del> taiaut<reg>&#160;</reg>! ils poussent des cris
+                        <ab><orig>taiaut</orig><reg>taïaut&#160;</reg>! <del>caillot</del> <orig>taiaut</orig><reg>taïaut&#160;</reg>! ils poussent des cris
                             terribles</ab>
                         <ab>à pleine dent de molosse de molosse de molosse</ab>
                         <ab>les torches sont allumées sous les voûtes de la forêt. C'est fini, tout est fini.</ab>
-                        <ab> Inutile de réclamer<reg>&#160;</reg>; l'action de la justice <del>d</del>est éteinte.</ab>
+                        <ab rend="indent">Inutile de réclamer<reg>&#160;</reg>; l'action de la justice <del>d</del>est éteinte.</ab>
                         <ab>voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.</ab>
                     </sp>
                 </div>
@@ -6499,12 +6512,13 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>Allons<reg>&#160;</reg>! bonnes gens... c'est vrai que je vous importun...<sic>.</sic> et
+                        <ab>Allons<reg>&#160;</reg>! bonnes gens... c'est vrai que je vous importune...<sic>.</sic> et
                             vous voudriez<lb/>m'empécher de parler... Faites moi peur, faites moi bien peur, je suis
                             très <w>lâ<lb rend="hyphen"/>che</w> vous savez&#160;: j'ai tremblé de toutes <subst>
                                 <del rend="blue-ink">le </del>
                                 <add rend="blue-ink" place="above">les</add>
-                            </subst><del rend="blue-ink">s</del>peurs depuis la peur première...</ab>
+                            </subst><del rend="blue-ink">s</del><reg xml:space="preserve"> </reg>peurs 
+                            depuis la peur première...</ab>
                     </sp>
                     <sp>
                         <speaker>Geolier.</speaker>
@@ -6512,9 +6526,9 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens:<lb/>serrez
-                            moi le front avec une corde, pendez moi par les aisselles, chauffez moi<lb/>les pieds avec
-                            une pelle rougie.</ab>
+                        <ab>Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons 
+                            moyens<reg>&#160;</reg>:<lb/>serrez moi le front avec une corde, pendez moi par les 
+                            aisselles, chauffez moi<lb/>les pieds avec une pelle rougie.</ab>
                     </sp>
                     <sp>
                         <speaker>G eolier</speaker>
@@ -6522,7 +6536,7 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab>Percez moi la bouche d'un cadenas rougi au feu</ab>
+                        <ab>Percez moi la bouche d'un cadenas rougi au feu<reg>.</reg></ab>
                     </sp>
                     <sp>
                         <speaker>Geolier.</speaker>
@@ -6568,7 +6582,8 @@
                     </sp>
                     <sp>
                         <speaker>Geolier.</speaker>
-                        <ab>ça se <add type="clarification">voit</add> à l'oeil nu.</ab>
+                        <ab><orig>ç</orig><reg>Ç</reg>a se <add type="clarification">voit</add> à l'<orig>oeil</orig>
+                            <reg>œil</reg> nu.</ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
@@ -6678,7 +6693,7 @@
                         <speaker>Geôlier.</speaker>
                         <ab rend="indent">Dis-donc, mais il se fou<add type="clarification">t</add> de nous, le
                             moricaud... Bien sûr qu'il fait le<lb/>fou... Plus fort... encore plus fort <stage
-                                rend="inline">(il frappe Toussaint<reg>.</reg>)</stage>. </ab>
+                                rend="inline">(il frappe Toussaint)</stage>.</ab>
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
@@ -6805,7 +6820,7 @@
                     </sp>
                     <sp>
                         <speaker>Toussaint.</speaker>
-                        <ab rend="indent">Je ne suis pas ton fils, mas le fils de la Terre, mais le frère du
+                        <ab rend="indent">Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du
                             Soleil,<lb/>mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton
                             fils...<lb/>j'ai peur... ma gorge me brûle. Mère&#160;! Mère<reg>&#160;</reg>!</ab>
                     </sp>
@@ -6841,8 +6856,10 @@
                         <ab rend="indent">Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour
                             julep<lb/>et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage
                             et<lb/>la coulure acide dans nos chairs animales de l'humiliation.<lb/>Merci, ma
-                            mère.<lb/>Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur
-                            fallait<lb/>mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon
+                            mère.<lb/>Et il fallait aussi<orig>-</orig><reg> —</reg> n'est ce pas 
+                            ?<orig>-</orig><reg> —</reg> à ceux qui t'ont envoyée, il leur
+                            fallait<lb/>mieux que ma défaite<sic xml:space="preserve"> </sic>, mieux que 
+                            ma poitrine qui se rompt, mieux que mon
                             sang<lb/>qui se décompose, il leur fallait mon acceptation... il <add type="clarification"
                                 >l</add>eur fallait mon <hi rend="underlined">oui</hi><lb/>et alors ils t'ont envoyée...
                             Va t'en marâtre...<sic>.</sic> va t'en car je t'exècre...<lb/>va t'en les mains vides... ou
@@ -6877,8 +6894,8 @@
                                 <del rend="#u_m">
                                     <unclear>se gonflé</unclear>
                                 </del>
-                            </add>de l'odeur tendre du ravin moisi<del>,</del>
-                            <w xml:id="arbre-1" next="#arbre-2">d'ar-</w></ab>
+                            </add>de l'odeur tendre du ravin moisi<del>,</del><w 
+                                xml:id="arbre-1" next="#arbre-2"> d'ar-</w></ab>
                     </sp>
                 </div>
 
@@ -6924,8 +6941,8 @@
                         <ab>aux mains d'hivernage et de jamais</ab>
                         <ab>et de jujubier et de perturbation et de soleil bayonnetté.</ab>
                         <stage>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires <w>brous<lb
-                                    rend="hyphen"/>sailles</w> , des guerriers nus bondissent, un tam-tam bat
-                            lointainement ) </stage>
+                            rend="hyphen"/>sailles</w><sic xml:space="preserve"> </sic>, des guerriers nus 
+                            bondissent, un tam-tam bat lointainement ) </stage>
                     </sp>
                     <sp>
                         <speaker>La récitante.</speaker>

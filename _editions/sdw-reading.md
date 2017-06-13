@@ -171,7 +171,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Fête de nuit
-- <span class="unclear">carne</span>, cave
+- carne, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
@@ -1229,7 +1229,7 @@ author: alex gil
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  Trêmes, Noé, Toussaint a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -3064,7 +3064,7 @@ author: alex gil
 
 - {:.speaker} Les bonnes gens.
 
-- {:.prose} &nbsp;C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
+- {:.prose} C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie à planter des pierres.
 
 
 - {:.speaker} 
@@ -3077,39 +3077,39 @@ author: alex gil
 
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
 - {:.prose} Eh bien, salut planteurs de pierres, et moi je suis un planteur de paroles. Toussaint Louverture, c'était un homme... comment dirais-je&nbsp;?
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - Un homme en morsures profondes.
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
 - Comment&nbsp;? en morsures profondes&nbsp;? Vous le connaissez&nbsp;?
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - nous le connaissons pas.
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
-- {:.prose} Oui toutefois.. un homme étonnant... en morsuresprofondes..Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
+- {:.prose} Oui toutefois... un homme étonnant... en morsures profondes... Il parcourut le pays à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cadavres détrempés, ses pas fertiles.
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
 - Excusez-nous, nous ne le connaissons pas.
 
 
-- {:.speaker} le voyageur.
+- {:.speaker} Le voyageur.
 
-- {:.prose} Peuple singulier.. et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
+- {:.prose} Peuple singulier... et ils ne savent pas reconnaitre parmi les jonquilles une face de tempête.
 
 
 <em>(Le voyageur enlève son voile.)</em>
@@ -3121,12 +3121,12 @@ author: alex gil
 - Me connaissez-vous maintenant&nbsp;?
 
 
-- {:.speaker} les bons gens.
+- {:.speaker} Les bons gens.
 
 - Non, nous ne vous connaissons pas.
 
 
-<em>(Toussaint les bat nerveusement. .)</em>
+<em>(Toussaint les bat nerveusement.)</em>
 
 
 
@@ -3135,13 +3135,13 @@ author: alex gil
 - {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,  votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
 
 
-<em>(les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent )</em>
+<em>(Les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent)</em>
 
 
 
-- {:.speaker} les bonnes gens.
+- {:.speaker} Les bonnes gens.
 
-- {:.prose} tu nous  importunes étranger&nbsp;; nous ne croyons à rien... nous plantons des pierres.
+- {:.prose} Tu nous  importunes étranger&nbsp;; nous ne croyons à rien... nous plantons des pierres.
 
 
 <em></em>
@@ -3157,7 +3157,7 @@ author: alex gil
 
 
 
-- {:.speaker} les bonnes gens
+- {:.speaker} Les bonnes gens.
 
 - {:.prose} Hein, c'est drôle : nous ne le connaissons pas. 
 
@@ -3168,17 +3168,17 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Mes enfants je suis un roi qui ne possède rien, bonjour
+- Mes enfants je suis un roi qui ne possède rien, bonjour.
 
 
-- {:.speaker} Les deterreurs de pierres
+- {:.speaker} Les deterreurs de pierres.
 
 - Un  roi&nbsp;?
 
 
 - {:.speaker} Toussaint.
 
-- ... Qui ne possède rien
+- ... Qui ne possède rien.
 
 
 - {:.speaker} Les deterreurs de pierres.
@@ -3190,18 +3190,18 @@ author: alex gil
 
 - {:.prose} Ravaudeurs du désert, baptisez moi. 
 
-<em>(Toussaint s'incline face contre terre, les bras écartés. Un des hommes luiverse de la terre sur la tête et la nuque) </em>
+<em>(Toussaint s'incline face contre terre, les bras écartés. Un des hommes lui verse de la terre sur la tête et la nuque.)</em>
 
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ ténèbres, exige, dirige... 
+- {:.prose} Terre farineuse, lait de ma mère chaud sur ma nuque, ruisseau riche, demi‐ténèbres, exige, dirige... 
 
 <em>(Il approche l'oreille du sol.)</em>
 
- Oh, des pas ; des sabots de chevaux ; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh Oh, je suis atteint. 
+ Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh,
 
 <em>(Il se  redresse&nbsp;; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)</em>
 
@@ -3212,7 +3212,7 @@ author: alex gil
 
 - {:.prose} A la folle enchère, à mes frais, à mes risques et périls... 
 
-<em>( Toussaint a disparu.)</em>
+<em>(Toussaint a disparu.)</em>
 
 
 
@@ -3240,7 +3240,7 @@ author: alex gil
 
 - {:.speaker} Chœur.
 
-- Salut prince de l'exil
+- Salut prince de l'exil.
 
 
 - {:.speaker} Toussaint.
@@ -3257,10 +3257,10 @@ author: alex gil
 
 - Je danserai autour de ma victime la danse du scalp.
 
-- {:.speaker} Geolier.  <em>(s'adressant au public.)</em>
+- {:.speaker} Geolier <em> (s'adressant au public.)</em>
 
 - {:.prose} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons&nbsp;; calculateur sournois égaré parmi des frénétiques.
-- {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ ternité.
+- {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
 - {:.prose .prose-indent} Ah, le résultat ne se fit guère attendre. Il y eut du comique. Il y eut du tragique. Il y eut de l'horrible. On vit des cannibales entrer gonflés d'orgueil dans les villes prises&nbsp;; on en vit aux Te Deum. On en vit rédiger des constitutions. Voilà ce que l'on vit , bonnes gens qui m'écoutez. Et ce que l'on vit encore, la fumée dans le ciel de midi, le feu dans le ciel de minuit d'innombrables aurores boréales jetant au loin le reflet du crime et de l'absurdité.
 
 <hr>
@@ -3288,7 +3288,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas ... j'appelle.
+- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas... j'appelle.
 
 
 - {:.speaker} Geolier.
@@ -3349,7 +3349,10 @@ author: alex gil
 - L'Afrique a part avec lui
 - Toussaint a part avec lui qu'il le veuille ou non.
 - Je dis que l'Afrique ne le lâchera pas...
-- <em>(à ce moment entre à l'autre bout de la scène le Messager.)</em>
+
+
+<em>(à ce moment entre à l'autre bout de la scène le Messager.)</em>
+
 
 
 - {:.speaker} Toussaint.
@@ -3389,7 +3392,7 @@ author: alex gil
 - les minutes autour de moi processionnent
 - comme une bande de loups efflanqués
 - comme un troupeau de coups de fouet
-- comme les noeuds d'une échelle de corde et de statuts
+- comme les nœuds d'une échelle de corde et de statuts
 - sujet indocile victime parfaite
 - défi rivé au front des mares
 - je ne converse pas avec les dieux
@@ -3572,7 +3575,7 @@ author: alex gil
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Insolent<em>(il le frappe.)</em>
+- {:.indent-2} Insolent<em> (il le frappe.)</em>
 
 
 - {:.speaker} Toussaint.
@@ -3595,7 +3598,7 @@ author: alex gil
 
 - {:.speaker} Messager.
 
-- {:.indent-2} , tes puériles imaginations me font sourire de pitié.
+- {:.indent-2} Tes puériles imaginations me font sourire de pitié.
 - Tes fils.  vieillard naïf.
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
@@ -3625,8 +3628,8 @@ author: alex gil
 - Mais j'ai choisi de jeter l'eau sur la braise
 - {:.prose} et je dis que je renifle ici un crime&nbsp;: le crime contre l'oubli, le crime contre le fils et je dis que le père n'a pas le droit de pendre le fil dans le fil rancunier de ses souvenirs cruels
 - {:.prose} et je dis qu'il faut savoir oublier, que le tort des vaincus est d'être vaincus, mais que leur crime est de ne  savoir pas oublier
-- {:.prose} et je dis que, bénévole ministre des bienséances, je cravache de la mention "inopportun" l'indécence exposée des questions - qu'on-devrait-taire.
-- «Inopportun», comprenez vous ?
+- {:.prose} et je dis que, bénévole ministre des bienséances, je cravache de la mention «&nbsp;inopportun&nbsp;» l'indécence exposée des questions — qu'on-devrait-taire.
+- «&nbsp;Inopportun&nbsp;», comprenez vous&nbsp;?
 - Je dis&nbsp;: ô , je veux oublier longuement.
 
 - {:.speaker} Toussaint  <em>(debout.)</em>
@@ -3637,16 +3640,16 @@ author: alex gil
 
 - {:.prose} Je dis&nbsp;: ô que les querelles pourrissent&nbsp;! Au secours&nbsp;! Au secours&nbsp;!  
 
-<em>(Entrent des prètres.)</em>
+<em>(Entrent des prêtres.)</em>
 
 
 
-- {:.speaker} 1er Prêtre <em> (index tendu vers Toussaint.)</em>
+- {:.speaker} 1er prêtre <em> (index tendu vers Toussaint.)</em>
 
 - {:.prose} Ladre, je te défends, si tu vas par les chemins et si tu rencontres une personne qui te parle de te mettre au dessus du vent avant de répondre.
 
 
-- {:.speaker} 2 ème prètre.
+- {:.speaker} 2e prêtre.
 
 - {:.prose} Ladre, je te défends d'aller dans les ruelles étroites, de peur que quelqu'un ne te rencontre. 
 
@@ -3656,28 +3659,28 @@ author: alex gil
 
 
 
-- {:.speaker} 3ème prêtre
+- {:.speaker} 3e prêtre.
 
 - Je te défends de manger et boire en compagnie.
 
 
-- {:.speaker} 4ème prêtre
+- {:.speaker} 4e prêtre.
 
 - Je te défends de sortir sans t'annoncer afin que l'on puisse s'éloigner.
 
 
-- {:.speaker} Toussaint
+- {:.speaker} Toussaint.
 
-- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde .
-<em>(Il crie.)</em>- Mon fils ! mon fils&nbsp;!
-
-
-- {:.speaker} Le Récitant
-
-- Lefils arrive.
+- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde. <em>(Il crie.)</em>
+- Mon fils&nbsp;! mon fils&nbsp;!
 
 
-- {:.speaker} La Récitante
+- {:.speaker} Le Récitant.
+
+- Le fils arrive.
+
+
+- {:.speaker} La Récitante.
 
 - Le fils arrive...
 
@@ -3905,8 +3908,8 @@ author: alex gil
 - Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
 - {:.prose} Lorsque la République t'offrit de m'élever en Europe, les cloches de ton cœur sonnèrent à toute volée.
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
-- Et  la pluie de cendres violettes sur ce Paris étranger.
-- Et &nbsp;le froid incisif jusqu'au sang.
+- Et la pluie de cendres violettes sur ce Paris étranger.
+- Et&nbsp;le froid incisif jusqu'au sang.
 - {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décence, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 
@@ -3949,7 +3952,7 @@ author: alex gil
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
 - vénéneuses mes paupières s'entrouvent au cœur de cocotiers...
-- fortement attirantes la parade des buissons vivants;
+- fortement attirantes la parade des buissons vivants&nbsp;;
 - ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
 - Liberté, liberté,
 - j'oserai soutenir seul la lumière de ta tête bléssée.
@@ -3960,7 +3963,7 @@ author: alex gil
 
 
 
-<em>( à ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le "héraut", «sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
+<em>(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le «&nbsp;héraut&nbsp;»,  «&nbsp;sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
 
 
 
@@ -3970,27 +3973,28 @@ author: alex gil
 - Ma bouche
 - ô ma bouche tardigrade
 - ma honte
-- {:.prose} j'ai un flot de paroles d'ordres,de contre-ordres qui se pressent et attendent  dans le recès de ma salive
+- {:.prose} j'ai un flot de paroles d'ordres, de contre-ordres qui se pressent et attendent  dans le recès de ma salive
 - allons, vite, vite, l'animal ronfle
-- mais peut-être ne savez vous qui je suis&nbsp;: veto , veto, ce n'est pas un aboi
-- {:.prose} non, c'est veto, veto ça ne vous dit rien , je vois que ça ne vous dit rien. Et pourtant à ce cri, les bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le monde se balafre de bornes, se hérisse d'obstacles, veto, veto
+- mais peut-être ne savez vous qui je suis&nbsp;: veto, veto, ce n'est pas un aboi
+- non, c'est veto, veto
+- {:.prose} ça ne vous dit rien, je vois que ça ne vous dit rien. Et pourtant à ce cri, les bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le monde se balafre de bornes, se hérisse d'obstacles, veto, veto
 - Je suis le compresseur, le represseur, le régisseur
 - je suis le grand prohibiteur
-- {:.prose} je m'explique eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque temps une consommation effroyable absurde, imprévue, insensée de dons, largesses libéralités, indulgences et permissions, toute chose dérangeant incontestablement l'économie fragile, ô fragile, fragile de l'univers borné
+- je m'explique
+- {:.prose} eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque temps une consommation effroyable absurde, imprévue, insensée de dons, largesses libéralités, indulgences et permissions, toute chose dérangeant incontestablement l'économie fragile, ô fragile, fragile de l'univers borné
 - borné
 - et c'est alors que je fus suscité. Prohibiteur le grand Prohibiteur
 - je suis le grand prohibiteur, saisissez vous ?
 - Celui qui regne, qui restreint, qui retient et contraint
-- {:.prose} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la  sta­
+- {:.prose} l'ordre négatif, la défense personnifiée, la menotte éloquente, le verrou de prison ambulant, le baillon à la langue bien pendue, le mois qui est le contraire du plus, l'arrêt qui est le contraire vrai du mouvement, non la sta-
 
 <hr>
 
 [ 90 ](/data/sdw-data/P090.jpg){: target='_blank'}
 
-- {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-
-- en jambe
+- {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
-- <em>(il jappe.)</em> veto, veto;
+- <em>(il jappe)</em> veto, veto&nbsp;;
 - {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamationspour bâiller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
@@ -4001,14 +4005,14 @@ author: alex gil
 - 
 
 
-- {:.speaker} Le héraut
+- {:.speaker} Le héraut.
 
-- Mais c'est que je ne vois personne. Rien que des arbres et de la savane 
+- Mais c'est que je ne vois personne. Rien que des arbres et de la savane.
 
 
-- {:.speaker} Le Grand Prohibiteur
+- {:.speaker} Le Grand Prohibiteur.
 
-- Imbécile, Eh bien crie la loi aux arbres, à la savane
+- Imbécile, Eh bien crie la loi aux arbres, à la savane.
 
 - {:.speaker} Le héraut  <em>(incrédule.)</em>
 
@@ -4017,7 +4021,7 @@ author: alex gil
 
 - {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Je dis: aux arbres à la savane, à la pluie au soleil...Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
+- {:.prose} Je dis&nbsp;: aux arbres à la savane, à la pluie au soleil... Comme si sur ce continent d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de  l'arbre et de la savane que s'étaient gravés les accents de la loi.
 
 - {:.speaker} Le  héraut  <em>(émerveillé.)</em>
 
@@ -4026,10 +4030,10 @@ author: alex gil
 
 - {:.speaker} Le Grand Prohibiteur
 
-- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal. Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
+- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore celui de Rodrigo de Escovedo notaire royal.[^tei2] Apprends donc mon ami, que les caravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vivres, de chevaux, de cavaliers... Elles avaient et surtout la panse rebondie de lois sonores et répressives.
 
 
-- {:.speaker} Le héraut
+- {:.speaker} Le héraut.
 
 - {:.indent-2} De lois, la panse pleine de lois !
 
@@ -4044,19 +4048,19 @@ author: alex gil
 - {:.indent-2} De lois,  la panse pleine de lois&nbsp;; de lois répressives.
 
 
-- {:.speaker} Le grand prohibiteur.
+- {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojeda offrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. HI HI, tu as compris allons, héraut, allons.
+- {:.prose} Et puis que j'ai commencé à t'instruire, je ne veux pas te laisser ignorer le nom de mon genial précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda. Retiens bien ce nom  don Alonzo de Hojeda,&nbsp;de même que l'histoire a retenu comme symbole le geste d'Hojeda offrant au cacique Caonabo ce qu'il y a au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ? un turey, un turey sacré, c'est à dire une jolie paire de menottes. Hi-hi, tu as compris allons, héraut, allons.
 
-- {:.speaker} Le héraut <em>(d'une voix forte)</em>
+- {:.speaker} Le héraut <em>(d'une voix forte.)</em>
 
-- {:.prose} <em>(après une sonnerie de trompette.)</em> au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut <em>(sonnerie de trompette.)</em>
+- {:.prose} <em>(Après une sonnerie de trompette)</em> au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut <em>(sonnerie de trompette.)</em>
 
-- {:.speaker} Le grand prohibiteur.  <em>(jappant.)</em>
+- {:.speaker} Le Grand Prohibiteur <em>(jappant.)</em>
 
-- {:.prose} veto, veto, veto. 
+- {:.prose} Veto, veto, veto. 
 
-<em>(la visiondisparait.)</em>
+<em>(la vision disparait.)</em>
 
 
 
@@ -4073,12 +4077,12 @@ author: alex gil
 - et la révolte un beau soir miteux
 - et les manilles et les menottes
 - et le rotin et la noyade
-- {:.prose} hélas, hélas vers le matin blanchiment  d'îles de continents d'église et de málédiction
+- {:.prose} hélas, hélas vers le matin blanchiment  d'îles de continents d'église et de málédiction.
 
 
 - {:.speaker} Le récitant
 
-- Un gouffre. Ma vue ne saurait le mesurer
+- Un gouffre. Ma vue ne saurait le mesurer.
 
 
 - {:.speaker} La récitante.
@@ -4120,7 +4124,11 @@ author: alex gil
 - et j'ai acquis la force de parler
 - plus haut que les fleuves
 - plus fort que les désastres
+
+
 <em>(à ce moment vision du soleil qui se couche, saignant.)</em>
+
+
 
 - {:.speaker} Le chœur.
 
@@ -4131,26 +4139,26 @@ author: alex gil
 
 - Arrière.
 - arrétez bourreaux
-- ah vous me clignez de l'oeil
+- ah vous me clignez de l'œil
 - vous me demandez ma complicité
 
 <hr>
 
 [ 93 ](/data/sdw-data/P093.jpg){: target='_blank'}
 
-- &nbsp;&nbsp;au secours&nbsp;! au secours&nbsp;! au meurtre&nbsp;!
-- &nbsp;&nbsp;ils ont tué le soleil&nbsp;! il n'y a plus de soleil&nbsp;! il ne reste plus que les taureaux
-- &nbsp;&nbsp;de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
-- &nbsp;&nbsp;la savane sans meubles
-- &nbsp;&nbsp;Il y a aussi les cavaliers.
-- &nbsp;&nbsp;Ils ont suspendu le soleil comme un bouclier à la&nbsp;porte du ciel
-- &nbsp;&nbsp;assassins&nbsp;! assassins&nbsp;!
-- &nbsp;&nbsp;mais ils s'éloignent et je ne puis pas les suivre
+- au secours&nbsp;! au secours&nbsp;! au meurtre&nbsp;!
+- ils ont tué le soleil&nbsp;! il n'y a plus de soleil&nbsp;! il ne reste plus que les taureaux
+- de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
+- la savane sans meubles
+- Il y a aussi les cavaliers.
+- Ils ont suspendu le soleil comme un bouclier à la&nbsp;porte du ciel
+- assassins&nbsp;! assassins&nbsp;!
+- mais ils s'éloignent et je ne puis pas les suivre
 - ils poursuivent le pauvre homme&nbsp;! ils lui donnent la chasse à grands cris
 - et abois de chiens
 - leurs chevaux sont vite
 - ils entourent le pauvre homme de longs cercles fatals
-- ils resserrent le noeud de leur cercle autour du cou pelé
+- ils resserrent le nœud de leur cercle autour du cou pelé
 - ça y est..... ils ont reniflé la viande du négre
 - ils s'arrétent
 - ils rient
@@ -4163,10 +4171,10 @@ author: alex gil
 - de la haine
 - aïe&nbsp;! ils sifflent, les autres sifflent
 - ils ont lancé les chiens
-- taiaut&nbsp;!  taiaut&nbsp;! ils poussent des cris terribles
+- taïaut&nbsp;! taïaut&nbsp;! ils poussent des cris terribles
 - à pleine dent de molosse de molosse de molosse
 - les torches sont allumées sous les voûtes de la forêt. C'est fini, tout est fini.
-- &nbsp;Inutile de réclamer&nbsp;; l'action de la justice est éteinte.
+- {:.indent-2} Inutile de réclamer&nbsp;; l'action de la justice est éteinte.
 - voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.
 
 <hr>
@@ -4192,7 +4200,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Allons&nbsp;! bonnes gens... c'est vrai que je vous importun... et vous voudriez m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâche vous savez&nbsp;: j'ai tremblé de toutes lespeurs depuis la peur première...
+- {:.prose} Allons&nbsp;! bonnes gens... c'est vrai que je vous importune... et vous voudriez m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâche vous savez&nbsp;: j'ai tremblé de toutes les peurs depuis la peur première...
 
 
 - {:.speaker} Geolier.
@@ -4202,7 +4210,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens: serrez moi le front avec une corde, pendez moi par les aisselles, chauffez moi les pieds avec une pelle rougie.
+- {:.prose} Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens&nbsp;: serrez moi le front avec une corde, pendez moi par les aisselles, chauffez moi les pieds avec une pelle rougie.
 
 
 - {:.speaker} G eolier
@@ -4212,7 +4220,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Percez moi la bouche d'un cadenas rougi au feu
+- Percez moi la bouche d'un cadenas rougi au feu.
 
 
 - {:.speaker} Geolier.
@@ -4252,7 +4260,7 @@ author: alex gil
 
 - {:.speaker} Geolier.
 
-- ça se voit à l'oeil nu.
+- Ça se voit à l'œil nu.
 
 
 - {:.speaker} Toussaint.
@@ -4339,7 +4347,7 @@ author: alex gil
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint.)</em>. 
+- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint)</em>.
 
 
 - {:.speaker} Toussaint.
@@ -4433,7 +4441,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne suis pas ton fils, mas le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils... j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère&nbsp;!
+- {:.prose .prose-indent} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils... j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère&nbsp;!
 
 
 - {:.speaker} La sainte Vierge.
@@ -4449,7 +4457,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu nous as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nuls au milieu de vos réjouissances nos faces de scandale,
@@ -4465,7 +4473,7 @@ author: alex gil
 - {:.prose} ... Une rumeur de chaine de carcans monte de la mer... un gargouillement de noyés de la panse verte de la mer... un claquement de feu, un claquement de fouet, des cris d'assassinés...
 - ... la mer brûle
 - ou c'est l'étoupe de mon sang qui brûle...
-- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisid'ar-
+- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisi d'ar-
 
 <hr>
 
@@ -4489,7 +4497,7 @@ author: alex gil
 - et de jujubier et de perturbation et de soleil bayonnetté.
 
 
-<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles , des guerriers nus bondissent, un tam-tam bat lointainement ) </em>
+<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles, des guerriers nus bondissent, un tam-tam bat lointainement ) </em>
 
 
 
@@ -4874,4 +4882,6 @@ author: alex gil
 ---
 
 [^tei1]: The quote comes verbatim from Cervantes Saavedra, Miguel de. L’ingénieux hidalgo Don Quichotte de la Mancha. Trans. Louis Viardot, and Tony Johannot. Paris: Victor Lecou, 1853. Print.
+
+[^tei2]: Rodrigo de Escobedo, the Armada scribe who accompanied Colombus on his first voyage across the Atlantic, wrote the document that claimed ownership over the island of "San Salvador," now part of the Bahamas.
 
