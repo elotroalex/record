@@ -297,7 +297,7 @@ bears only a remote relationship to the original.
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- o<span class="add blue-ink accent">ù</span> la pensée est sans équivoque, une fleur au coeur de papillon.
+- ou<span class="add blue-ink accent">̀</span> la pensée est sans équivoque, une fleur au coeur de papillon.
 - Je veux un monde nu d’<span class="delete">unions</span><span class="add  above">univers</span> non timbré.
 - <span class="add below">&nbsp;|&nbsp;une petite fille du Fouta ronge un os en forme de candélabre&nbsp;|&nbsp;</span>
 
@@ -606,7 +606,7 @@ bears only a remote relationship to the original.
 - envol d’in memoriam
 - de vêtements liturgiques
 - premier visage du mon<span class="add light-pencil ">d</span>e
-- <span class="add light-pencil ">séd</span>i<span class="add light-pencil ">t</span>ion de longs si<span class="add light-pencil accent">è</span>cles
+- <span class="add light-pencil ">séd</span>i<span class="add light-pencil ">t</span>ion de longs sie<span class="add light-pencil accent">̀</span>cles
 - <span class="add light-pencil ">dé</span>sir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
@@ -686,7 +686,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple<br>et un emmerdeur. Comme si on n’en avait pas asse<span class="add #d_p inline">z</span> d’emmerdements. Bien<br>sur qu’on n’<span class="delete">était</span><span class="add #d_p inline">est</span> pas heureux? E<span class="delete">t</span><span class="add #d_p ">h</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on <span class="add margin">&nbsp;|&nbsp;sera&nbsp;|&nbsp;</span><br><span class="delete">est</span><span class="delete"></span>heureux avec la liberté et la guerre et <span class="delete">lave</span><span class="delete"></span>la vengeance des Blancs<br>sur les bras<span class="delete">.</span><span class="add light-pencil ">?</span> Alors je dis que =Toussaint nous <span class="delete">a</span> trahi<span class="delete">s</span><span class="add #d_p ">t</span>. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple<br>et un emmerdeur. Comme si on n’en avait pas asse<span class="add #d_p inline">z</span> d’emmerdements. Bien<br>sur qu’on n’<span class="delete">était</span><span class="add #d_p inline">est</span> pas heureux? E<span class="delete">t</span><span class="add #d_p ">h</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on <span class="add margin">&nbsp;|&nbsp;sera&nbsp;|&nbsp;</span><br><span class="delete">est</span><span class="delete"> </span>heureux avec la liberté et la guerre et <span class="delete">lave</span><span class="delete"></span>la vengeance des Blancs<br>sur les bras<span class="delete">.</span><span class="add light-pencil ">?</span> Alors je dis que =Toussaint nous <span class="delete">a</span> trahi<span class="delete">s</span><span class="add #d_p ">t</span>. A mort.
 
 
 - {:.speaker} Des voix.
@@ -913,7 +913,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 
 - {:.speaker} Le récitant  (très calme.)
 
-- {:.indent-2} ... La Grande Révolution de Saint Domingue<span class="delete">continue</span><span class="delete"><span class="add light-pencil below">a commencé</span></span><span class="add #d_p inline">vient de commencer</span>.
+- {:.indent-2} ... La Grande Révolution de Saint Domingue<span class="delete"> continue</span><span class="delete"><span class="add light-pencil below"> a commencé</span></span><span class="add #d_p inline"> vient de commencer</span>.
 
 <hr>
 
@@ -1186,7 +1186,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes<br>qui tombent. Ce ne sont pas des troncs de bananiers. <span class="delete">Le sang a fait</span><br><span class="delete">sauter sa bonde.&nbsp;</span>Le sang ruisselle; des crânes b<span class="add  accent">â</span>illent, tels des<br>noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
+- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes<br>qui tombent. Ce ne sont pas des troncs de bananiers. <span class="delete">Le sang a fait</span><br><span class="delete">sauter sa bonde.&nbsp;</span>Le sang ruisselle; des crânes ba<span class="add  accent">̂</span>illent, tels des<br>noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
 
 
 - {:.speaker} Le récitant.
@@ -1282,7 +1282,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens<span class="add light-pencil inline">,</span> que diable. Vous savez o<span class="add  accent">ù</span> nous<br>en sommes: en pleine révolte servile; la moitié de la province du<br>Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <br>Trêmes, Noé, Toussaint <span class="delete">et Boukmann </span><span class="delete">ont</span><span class="add #d_p inline">a</span> constitué<span class="delete">s</span> une armée. Et <span class="delete">que</span><br>quelle armée. J’en frémis. Les femmes subissent les derniers outrag<span class="add light-pencil ">es,</span><br>les enfants sont empalés; les planteurs sont sciés vivants entre <br>deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens<span class="add light-pencil inline">,</span> que diable. Vous savez ou<span class="add  accent">̀</span> nous<br>en sommes: en pleine révolte servile; la moitié de la province du<br>Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <br>Trêmes, Noé, Toussaint <span class="delete">et Boukmann </span><span class="delete">ont</span><span class="add #d_p inline">a</span> constitué<span class="delete">s</span> une armée. Et <span class="delete">que</span><br>quelle armée. J’en frémis. Les femmes subissent les derniers outrag<span class="add light-pencil ">es,</span><br>les enfants sont empalés; les planteurs sont sciés vivants entre <br>deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1338,7 +1338,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} I député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de<br>flétrir solennellement l’assemblée Constituante qui, par ses décrets<br>insensés, nous a menés o<span class="add light-pencil accent">ù</span> nous en sommes: à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de<br>flétrir solennellement l’assemblée Constituante qui, par ses décrets<br>insensés, nous a menés ou<span class="add light-pencil accent">̀</span> nous en sommes: à la ruine.
 
 
 - {:.speaker} I député.
@@ -2022,7 +2022,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - d'ombres bleues
 - qu'y-a-t-il? qu'y-a-t-il?
 - à travers ma main j'aperçois des étoiles
-- des libertés désu<span class="add blue-ink accent">è</span>t<span class="delete">t</span>es
+- des libertés désue<span class="add blue-ink accent">̀</span>t<span class="delete">t</span>es
 - ;;; une face révulsée <span class="delete">prise</span><span class="add blue-ink above">prise</span> dans le <span class="delete">gele</span> gel et le surplomb et le filet du pian.
 
 
@@ -2172,7 +2172,7 @@ Une rue du Cap.
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages....pleins
-- {:.prose} de poignards<span class="add light-pencil inline">,</span> de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges<br>une vaste improvisation de tornades, de coup<span class="delete">a</span>s de soleil,de maléfices, de<br>pierres qui cuisent,depetits jours étranges,l'engourdissementbu à petite<span class="add  ">s</span><br>gorgées,<span class="delete">la</span><span class="add  ">le</span> sexe rouge<span class="add  inline">, </span><span class="add  ">le</span> sexe jaune, dévorateur, dévorateur....
+- {:.prose} de poignards<span class="add light-pencil inline">,</span> de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges<br>une vaste improvisation de tornades, de coup<span class="delete">a</span>s de soleil,de maléfices, de<br>pierres qui cuisent,de petits jours étranges,l'engourdissement bu à petite<span class="add  ">s</span><br>gorgées,<span class="delete">la</span><span class="add  ">le</span> sexe rouge<span class="add  inline">, </span><span class="add  ">le</span> sexe jaune, dévorateur, dévorateur....
 
 
 - {:.speaker} Le choeur.
@@ -2627,7 +2627,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès mainte<br>nant que les blancs ne doivent avancer ici que parmi des ruines et des dé<br>combres : trois coups de canon vous donneront le signal <span class="delete">de la </span><span class="add blue-ink above">d'une </span>démolition<br>sytémati<span class="delete">sée</span><span class="add blue-ink above">que</span><span class="delete"> et</span><span class="add  inline">,</span> implacable . Feu et cendre . <span class="delete">Puisse</span><span class="add  above">Perisse </span>Saint Domingue plutôt<br>que <span class="delete">la honte</span><span class="add blue-ink above">notre liberté </span><span class="add blue-ink inline">:</span> la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès mainte<br>nant que les blancs ne doivent avancer ici que parmi des ruines et des dé<br>combres : trois coups de canon vous donneront le signal <span class="delete">de la </span><span class="add blue-ink above">d'une </span>démolition<br>sytémati<span class="delete">sée</span><span class="add blue-ink above">que</span><span class="delete"> et</span><span class="add  inline">,</span> implacable . Feu et cendre . <span class="delete">Puisse </span><span class="add  above">Perisse </span>Saint Domingue plutôt<br>que <span class="delete">la honte </span><span class="add blue-ink above">notre liberté </span><span class="add blue-ink inline">:</span> la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2993,7 +2993,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} 1ère voix céleste.
 
-- {:.prose .prose-indent} Que l'on me b<span class="delete">a</span><span class="add  ">â</span>tisse sur des montagnes de charniers durcis, une prison&nbsp;: je<br>vois battre les narines des ombres glissantes et du mauvais temps.
+- {:.prose .prose-indent} Que l'on me ba<span class="add  accent">̂</span>tisse sur des montagnes de charniers durcis, une prison&nbsp;: je<br>vois battre les narines des ombres glissantes et du mauvais temps.
 
 
 - {:.speaker} 2è voix céleste.
@@ -3973,7 +3973,7 @@ Entrent des prètres.
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux<br>sabots de patience. Nous courions comme des forcenés. Les coups de feu écla<br>tèrent... Nous frappions... La sueur et le sang nous faisaient une fra<span class="add  accent">î</span>cheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux<br>sabots de patience. Nous courions comme des forcenés. Les coups de feu écla<br>tèrent... Nous frappions... La sueur et le sang nous faisaient une frai<span class="add  accent">̂</span>cheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une<br>grande flamme s'éleva vers l'est: c'étaient les communs qui brulaient et la<br>flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
@@ -4106,7 +4106,7 @@ Entrent des prètres.
 - {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être <span class="delete">p</span><br>le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le<br><span class="delete">contraree</span><span class="add blue-ink above">contraire</span> de l'expansion de la propension de la contagion, croc-en jambe, croc-<br>en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
 - (il jappe) veto, veto&nbsp;;
-- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications<br>bénévolentes, de mes philantropiques exclamation<span class="add blue-ink inline">s</span>pour b<span class="add  accent">â</span>iller aux cormeilles.
+- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications<br>bénévolentes, de mes philantropiques exclamation<span class="add blue-ink inline">s</span>pour ba<span class="add  accent">̂</span>iller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
 
@@ -4210,7 +4210,7 @@ Entrent des prètres.
 
 - {:.speaker} Récitante.
 
-- {:.prose} Un gouffre de <span class="delete">sanglotes</span><span class="add  above">sanglots</span>&nbsp;<span class="delete">un ouré gan</span><span class="add  ">un ouragan</span> de rauquements, de vociférations, une forêt<br>d'erreurs, d'interdictions, de rites, de <span class="delete">maladressesnde</span><span class="add blue-ink ">maladresses</span>&nbsp;<span class="delete">mensonged</span><span class="add blue-ink ">de mensonges,</span> d'exaspération<br>pas de fruits,pas de fruits, <span class="delete">harpies</span><span class="add  ">harpies</span>, harpies,buissons d'<span class="add  accent">â</span>mes séchées.
+- {:.prose} Un gouffre de <span class="delete">sanglotes</span><span class="add  above">sanglots</span>&nbsp;<span class="delete">un ouré gan</span><span class="add  ">un ouragan</span> de rauquements, de vociférations, une forêt<br>d'erreurs, d'interdictions, de rites, de <span class="delete">maladressesnde</span><span class="add blue-ink ">maladresses</span>&nbsp;<span class="delete">mensonged</span><span class="add blue-ink ">de mensonges,</span> d'exaspération<br>pas de fruits,pas de fruits, <span class="delete">harpies</span><span class="add  ">harpies</span>, harpies,buissons d'a<span class="add  accent">̂</span>mes séchées.
 
 
 - {:.speaker} Récitant.
@@ -4228,7 +4228,7 @@ Entrent des prètres.
 - {:.speaker} Toussaint.
 
 - <span class="add margin">&nbsp;|&nbsp;...&nbsp;|&nbsp;</span>toutes les violences du monde mort
-- frappé de verges exposé aux b<span class="add  accent">ê</span>tes
+- frappé de verges exposé aux be<span class="add  accent">̂</span>tes
 - trainé en chemise la corde au <span class="delete">cou</span><span class="add  ">cou</span>
 - arrosé de pétrole
 - et j'ai attendu <span class="delete">un</span><span class="add  above">en</span> san-benito l'heure de l'auto-da-fé
@@ -4273,7 +4273,7 @@ Entrent des prètres.
 - leurs chevaux sont vite
 - ils ento<span class="add blue-ink ">ur</span>ent le pauvre homme de longs cercles fatals
 - ils resserrent le noeud de leur cercle autour du cou pelé
-- ça y est..... ils ont reniflé la viande du n<span class="add blue-ink accent">é</span>gre
+- ça y est..... ils ont reniflé la viande du ne<span class="add blue-ink accent">́</span>gre
 - ils s'arrétent
 - ils rient
 - ils se lissent le moustache
@@ -4581,7 +4581,7 @@ Entrent des prètres.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de<br>crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la su<br>eur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'hom<br>me et tu <span class="delete">m'</span><span class="add  ">nous </span>as requis&nbsp;! Merci....
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep<br>et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et<br>la coulure acide dans nos chairs animales de l'humiliation.<br>Merci, ma mère.<br>Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait<br>mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang<br>qui se décompose, il leur fallait mon acceptation... il <span class="add  ">l</span>eur fallait mon oui<br>et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre...<br>va t'en les mains vides... ou plut<span class="add  accent">ô</span>t prends<span class="add light-pencil ">&nbsp;</span>ce sac de paroles ...les paroles<br>de Toussaint, les dernières peut-être<span class="add light-pencil inline">,</span> les dernières... sans doute et porte<br>les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep<br>et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et<br>la coulure acide dans nos chairs animales de l'humiliation.<br>Merci, ma mère.<br>Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait<br>mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang<br>qui se décompose, il leur fallait mon acceptation... il <span class="add  ">l</span>eur fallait mon oui<br>et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre...<br>va t'en les mains vides... ou pluto<span class="add  accent">̂</span>t prends<span class="add light-pencil ">&nbsp;</span>ce sac de paroles ...les paroles<br>de Toussaint, les dernières peut-être<span class="add light-pencil inline">,</span> les dernières... sans doute et porte<br>les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et <span class="delete">nus</span><span class="add light-pencil above">nuls</span> au milieu de vos réjouissances nos faces de<br>scandale,
@@ -4964,7 +4964,7 @@ Entrent des prètres.
 
 - {:.speaker} Récitant.
 
-- {:.prose} Plantes parasites, plantes venéneuses, plantes br<span class="add blue-ink accent">û</span>lantes, plantes cannibales,<br>plantes incendiaires, vraies plantes, lian<span class="delete">n</span>es-feu, lian<span class="delete">n</span>es-sang, filez vos cour<br>bes imprévues à grosses gouttes.
+- {:.prose} Plantes parasites, plantes venéneuses, plantes bru<span class="add blue-ink accent">̂</span>lantes, plantes cannibales,<br>plantes incendiaires, vraies plantes, lian<span class="delete">n</span>es-feu, lian<span class="delete">n</span>es-sang, filez vos cour<br>bes imprévues à grosses gouttes.
 
 
 - {:.speaker} Récitante.

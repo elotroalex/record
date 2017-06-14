@@ -6,8 +6,43 @@
             <serialized version="17.0" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>editor.detect.indent.on.open</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>editor.line.width</String>
+                        <Integer>120</Integer>
+                    </entry>
+                    <entry>
+                        <String>editor.use.tabs</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>enable.zero.indent.detection</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.format.option.pane.group</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sdw.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>sdw-scaffold</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>sdw-scaffold.xsl</String>
@@ -25,11 +60,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-reading.xsl</String>
+                                    <String>sdw-diplomatic.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sdw-reading</String>
+                                        <String>sdw-diplomatic</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -40,11 +75,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-diplomatic.xsl</String>
+                                    <String>sdw-reading.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sdw-diplomatic</String>
+                                        <String>sdw-reading</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">

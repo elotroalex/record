@@ -635,7 +635,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - Colomb. Colomb.
 
 
-<em>(A ce moment les esclaves nègres envahissent la scène.)</em>
+<em>(A ce moment les esclaves nègres envahissent la scène.</em>
 
 
 <hr>
@@ -909,7 +909,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Le récitant <em> (très calme.)</em>
 
-- {:.indent-2} ... La Grande Révolution de Saint-Dominguevient de commencer.
+- {:.indent-2} ... La Grande Révolution de Saint-Domingue vient de commencer.
 
 <hr>
 
@@ -2068,6 +2068,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speakerGroup} 1er groupe de passants.
 
+
 - {:.speaker} 1er passant.
 
 - Tu as vu la gueule du pêlerin&nbsp;: une vraie gueule de macaque.
@@ -2098,6 +2099,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maître Gilles. N'empêche que ça m'emmerde qu'on dise «&nbsp;mon général&nbsp;» à un vieux cul et qu'on se mette devant lui au garde à vous.
 
 - {:.speakerGroup} 2e groupe de passants.
+
 
 - {:.speaker} 1er passant.
 
@@ -2168,7 +2170,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards, de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, depetits jours étranges, l'engourdissementbu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- {:.prose} de poignards, de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
 
 
 - {:.speaker} Le chœur.
@@ -2596,7 +2598,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Ça á été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
+- {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
 - {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre...
 
 
@@ -3223,7 +3225,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,  votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
 
 
-<em>(Les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent)</em>
+<em>(Les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent.)</em>
 
 
 

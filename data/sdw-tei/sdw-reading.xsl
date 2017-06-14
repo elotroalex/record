@@ -112,13 +112,15 @@
         <xsl:choose>
             <xsl:when test="@type = 'speakers'">
                 <xsl:text>
-            </xsl:text>
+                </xsl:text>
                 <xsl:text>- {:.speakerGroup} </xsl:text>
                 <xsl:apply-templates/>
+                <xsl:text>
+                </xsl:text>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:text>
-            </xsl:text>
+                </xsl:text>
                 <xsl:text>- {:.centered} </xsl:text>
                 <xsl:apply-templates/>
                 <xsl:text>

@@ -126,6 +126,8 @@
             <xsl:text>
             </xsl:text>
             <xsl:text>- {:.speakerGroup} </xsl:text><xsl:apply-templates/>
+            <xsl:text>
+            </xsl:text>
         </xsl:when>
         <xsl:otherwise>
             <xsl:text>
@@ -276,7 +278,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:sic[following-sibling::tei:add[position() = 1][@type='accent']]">
+    <xsl:template match="tei:sic[following-sibling::node()[position() = 1][@type='accent']]">
         <xsl:apply-templates/>
     </xsl:template>
     

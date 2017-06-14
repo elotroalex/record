@@ -278,7 +278,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- où la pensée est sans équivoque, une fleur au cœur de papillon.
+- où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’unions non timbré.
 - 
 
@@ -331,7 +331,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} La récitante.
 
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
-- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau --— et il mâche, ombre et eau — une prière qu’il ne vendra pas.
+- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau — et il mâche, ombre et eau — une prière qu’il ne vendra pas.
 
 
 - {:.speaker} Toussaint.
@@ -579,7 +579,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - envol d’in memoriam
 - de vêtements liturgiques
 - premier visage du monde
-- sédition de longs siècles
+- sédition de longs siècles
 - désir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
@@ -611,7 +611,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Colomb. Colomb.
 
 
-<em>A ce moment la populace nègre envahit la scène, déchainée et menaçante, brandissant un mannequin.</em>
+<em>(A ce moment la populace nègre envahit la scène, déchainée et menaçante, brandissant un mannequin).</em>
 
 
 <hr>
@@ -657,7 +657,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas asse d’emmerdements. Bien sur qu’on n’<span class="unclear">était</span> pas heureux&nbsp;? Et maintenant, camarades, est-ce qu’on  <span class="unclear">est</span>heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous a trahit. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assez d’emmerdements. Bien sur qu’on n’<span class="unclear">était</span> pas heureux&nbsp;? Et maintenant, camarades, est-ce qu’on  <span class="unclear">est</span> heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous a trahit. A mort.
 
 
 - {:.speaker} Des voix.
@@ -879,7 +879,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant <em> (très calme.)</em>
 
-- {:.indent-2} ... La Grande Révolution de Saint-Dominguecontinue.
+- {:.indent-2} ... La Grande Révolution de Saint-Domingue continue.
 
 <hr>
 
@@ -984,7 +984,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} Arrière Dessalines. Je suis seul chef ici, et ces hommes m’appartiennent. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
 
 
-<em>Rassemblement. Bruit de tam-tam.</em>
+<em>(Rassemblement. Bruit de tam-tam.)</em>
 
 
 
@@ -1147,7 +1147,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers. Le sang a fait sauter sa bonde.&nbsp;Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
+- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers. Le sang a fait sauter sa bonde.&nbsp;Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
 
 
 - {:.speaker} Le récitant.
@@ -1241,7 +1241,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint et Boukmann ont constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint et Boukmann ont constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1296,7 +1296,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
 
 
 - {:.speaker} 2e député.
@@ -1503,7 +1503,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} Courage mes pauvres enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
 
 
-<em>Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.</em>
+<em>(Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.)</em>
 
 
 - {:.speaker} 1er esclave <em>(chantant.)</em>
@@ -1652,6 +1652,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 - {:.speakerGroup} 1er groupe de passants.
+
 - {:.speaker} 1er passant.
 
 - Tu as vu la gueule du pêlerin&nbsp;: une vraie gueule de macaque.
@@ -1677,6 +1678,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maître Gilles. N'empêche que ça m'emmerde qu'on dise «&nbsp;mon général&nbsp;» à un vieux cul et qu'on se mette devant lui au garde à vous.
 
 - {:.speakerGroup} 2e groupe de passants.
+
 - {:.speaker} 1er passant.
 
 - {:.prose .prose-indent} Un nègre, capitaine général de Saint-Domingue&nbsp;! C'est à la fois ridicule, humiliant, dangereux&nbsp;! Qu'est-ce qu'un nègre, mes amis&nbsp;?
@@ -1743,7 +1745,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, depetits jours étranges, l'engourdissementbu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- {:.prose} de poignards de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
 
 
 - {:.speaker} Le chœur.
@@ -2073,7 +2075,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Ça á été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
+- {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Ça a été le cri de vos frères guadeloupéens quand ils ont appris le sort que leur réservaient les tyrans.
 - {:.prose .prose-indent} «&nbsp;Aux armes&nbsp;». Et le mûlatre Delgrès s'est fait sauter plutôt que de se rendre...
 
 
@@ -2099,7 +2101,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal de la démolition sytématisée et implacable. Feu et cendre. PuisseSaint-Domingue plutôt que la honte la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal de la démolition sytématisée et implacable. Feu et cendre. Puisse Saint-Domingue plutôt que la honte : la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2458,7 +2460,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 1re voix céleste.
 
-- {:.prose .prose-indent} Que l'on me baâtisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
+- {:.prose .prose-indent} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
 
 
 - {:.speaker} 2e voix céleste.
@@ -2884,7 +2886,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
@@ -3168,7 +3170,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu m'as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prendsce sac de paroles... les paroles de Toussaint, les dernières peut-être les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prendsce sac de paroles... les paroles de Toussaint, les dernières peut-être les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nus au milieu de vos réjouissances nos faces de scandale,
