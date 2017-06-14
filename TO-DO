@@ -5,6 +5,7 @@ ___ Fix accents
 ___ mais le fils de la Terre
 ___ Saint Domingue
 ___ R I D E A U
+___ type="special"
 
 yeux aux arbres de Judée baignés de crocus et
 
@@ -136,4 +137,68 @@ d. Toussaint is tortured and dies at the hands of his jailers (96-101).
 As the reader can see, when we bring these episodes together with those  of "Revolution rising" and `P2`, we have a coherent story. With the exception of the order of the segments in Act 1, we also have the general structure of the final version of the typescript. What additions come after "the scaffold" are mostly local. Césaire will reframe Act 2 several times, and the general tenor of the drama changes as the CRR plays an increasingly central role next to Toussaint, but the overall edifice remains the same.
 
 The theme of temptation that will characterize all of the published versions of the drama is already dominant at this stage. The major difference between the typescript and the published versions is that temptation does not only present itself to Toussaint, but to the crowds as well. 
+
+/*.above {
+  bottom: 1em;
+  position: relative;
+  right: 1em;
+}*/
+
+/*.blue-ink {
+  color: #288828;
+}
+
+.light-pencil {
+  color: #AA6832;
+}*/
+
+/*.accent {
+  font-size: 1em; 
+  position: relative;
+  right: .1em;  
+}*/
+
+/*.superimposed {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+}*/
+
+/*.above-partial {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+    bottom: .3em;
+}
+
+.write-over {
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}*/
+
+/* Diplomatic */
+
+/*.diplomatic {
+  font-family: "Courier New", monospace;
+  font-size: 16px;
+}
+
+.diplomatic ul {
+  list-style: none;
+  list-style-type: none;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}*/
+
+/*.delete-diplomatic {
+    text-decoration: line-through;
+    text-decoration-color: #AA6832;
+}*/
+
+/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
+
+.didascalia {
+  font-style: italic;
+}
 

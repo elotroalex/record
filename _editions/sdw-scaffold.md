@@ -1,11 +1,19 @@
 ---
 layout: poem
-title: "scaffold"
+title: "the scaffold"
 description: "" 
 author: alex gil
 ---
 
-(draft)
+The following edition represents a speculative stage in the composition of 
+"...Et les chiens se taisaient" by Aimé Césaire. 
+At this point in the genesis of the drama, Césaire had hit on the scaffolding for the final 
+three-act structure, with lovely asymmetries between the acts. In this stage we're also introduced to 
+the prison in the Jura mountains that provides the setting for the drama 
+in published versions of the work. Page numbers correspond to the main pagination, and link to 
+high resolution scans of the original document. Punctuation is emended silently. Handwritten revisions
+are ignored, except for clarification of characters and diacritics. For a more detailed analysis, see
+[chapter 2]({{site.baseurl}}/chapters/02-pencil/).
 
 <hr>
 
@@ -15,7 +23,7 @@ author: alex gil
 - {:.centered} ACTE I
 
 
-<em>(La scène est à Saint Domingue.)</em>
+<em>(La scène est à Saint-Domingue.)</em>
 
 
 
@@ -42,7 +50,7 @@ author: alex gil
 - {:.speaker} La récitante.
 
 - Ce pays est maudit.
-- {:.prose} Ce pays bille, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
+- {:.prose} Ce pays bâille, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
 
 
 - {:.speaker} Le récitant.
@@ -81,7 +89,7 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Hurrah. Les Anglais sont perdus... Nos batteries d’approche balayent leurs remparts ; nos batteries de brèche sont intallées... Saint-Marc craque... comme un vaisseau pourri...
+- {:.prose .prose-indent} Hurrah. Les Anglais sont perdus... Nos batteries d’approche balayent leurs remparts&nbsp;; nos batteries de brèche sont intallées... Saint-Marc craque... comme un vaisseau pourri...
 
 <hr>
 
@@ -118,7 +126,7 @@ author: alex gil
 
 
 
-- {:.speaker}  Une voix tentatrice.
+- {:.speaker} Une voix tentatrice.
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -147,9 +155,9 @@ author: alex gil
 - {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 
 
-- {:.speaker}  <span class="unclear">1re </span> voix tentatrice.
+- {:.speaker} <span class="unclear">1re </span> voix tentatrice.
 
-- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois ; mille mots Toussaint... O mon ami, <span class="unclear">naïf ami,</span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne  <span class="unclear">comme Biasson&nbsp;?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois&nbsp;; mille mots Toussaint... O mon ami, <span class="unclear">naïf ami,</span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne <span class="unclear">comme Biasson&nbsp;?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
 <hr>
 
@@ -165,7 +173,7 @@ author: alex gil
 - de la charogne et de la boue.
 
 
-- {:.speaker}  2e voix tentatrice.
+- {:.speaker} 2e voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 
@@ -177,7 +185,7 @@ author: alex gil
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
-- l’Artibonite grossie fait le paon ;
+- l’Artibonite grossie fait le paon&nbsp;;
 - sur la digue rompue
 - les fenêtres s’ouvrent sur toujours
 - cessez la torture croisière des paradis barrés de tentations :
@@ -185,7 +193,7 @@ author: alex gil
 - dédouble de soleils nichés la fièvre lisse des jours.
 - Maudit serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- Îles
+- îles
 
 <hr>
 
@@ -199,7 +207,7 @@ author: alex gil
 - et j’ai coupé des cannes et j’ai ciré des chaussures et
 - le moindre enfant (c’était le petit du maitre)
 - conduisait le vieil esclave chenu dans l’obéïssance,
-- et le respect ;
+- et le respect&nbsp;;
 - et je vous le dis,
 - ce qui éclaire la vieille nuit de mon crane,
 - ce ne sont point des images d’ambition, non,
@@ -238,12 +246,12 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure: jusqu’au confluent de feu qui me volatilise, qui m’épure et m’incendie de  prisme  d'or amalgamé.
+- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure: jusqu’au confluent de feu qui me volatilise, qui m’épure et m’incendie de prisme  d'or amalgamé.
 
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} Goût des ruines ; baisers ;  la lune décroit, le roi se cache.
+- {:.indent-2} Goût des ruines&nbsp;; baisers&nbsp;;  la lune décroit, le roi se cache.
 
 
 - {:.speaker} Toussaint.
@@ -270,7 +278,7 @@ author: alex gil
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- o la pensée est sans équivoque, une fleur au cœur de papillon.
+- où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’unions non timbré.
 - 
 
@@ -286,7 +294,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma  joie, mais il pleure des yeux aux arbres de Judée baignés de crocus et
+- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma joie, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
 - Je suis nu.
 - Je suis nu dans les pierres.
@@ -323,7 +331,7 @@ author: alex gil
 - {:.speaker} La récitante.
 
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
-- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau — et il mche, ombre et eau — une prière qu’il ne vendra pas.
+- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau --— et il mâche, ombre et eau — une prière qu’il ne vendra pas.
 
 
 - {:.speaker} Toussaint.
@@ -344,9 +352,9 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Ha, ha
+-  Ha, ha
 - Nous ne voyons plus
-- Ha, ha
+-  Ha, ha
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien par-mi l’herbe nouvelle&nbsp;?
@@ -425,7 +433,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la peste dans la forêt... le barracoun... le négrier...
+- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la peste dans la  forêt... le barracoun... le négrier...
 
 
 - {:.speaker} Le chœur.
@@ -450,7 +458,7 @@ author: alex gil
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve.
 
-- {:.speaker} Chœur <em>(lointain.)</em>
+- {:.speaker} Chœur <em> (lointain.)</em>
 
 - {:.indent-2} Ô roi debout.
 
@@ -462,17 +470,17 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvres de la cendre ;
+- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvres de la cendre&nbsp;;
 - le cap et la limaille
 - les oiseaux et les jours
-- tournent avec leur bruit de serrures ;
+- tournent avec leur bruit de serrures&nbsp;;
 - à l’horizon enfantin les animaux fantastiques
 - brouteurs de cervelles
 - ont remisé
 - leurs yeux
 - enjoués de toute la nuit bue.
 
-- {:.speaker} Chœur <em>(lointain.)</em>
+- {:.speaker} Chœur <em> (lointain.)</em>
 
 - Ô roi debout.
 
@@ -481,7 +489,7 @@ author: alex gil
 
 - Je veux peupler la nuit d’adieux méticuleux.
 
-- {:.speaker} Chœur <em>(au loin.)</em>
+- {:.speaker} Chœur <em> (au loin.)</em>
 
 - Ô roi debout.
 
@@ -490,7 +498,7 @@ author: alex gil
 
 - Des violettes, des anémones se lèvent à chaque pas de mon sang.
 
-- {:.speaker} Chœur <em>(plus lointain.)</em>
+- {:.speaker} Chœur <em> (plus lointain.)</em>
 
 - Ô roi debout.
 
@@ -499,7 +507,7 @@ author: alex gil
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
 
-- {:.speaker} Chœur <em>(plus lointain encore.)</em>
+- {:.speaker} Chœur <em> (plus lointain encore.)</em>
 
 - ... Ô roi debout.
 
@@ -508,7 +516,7 @@ author: alex gil
 
 - ... des pommes d’araucaria, des bouquets de cerises.
 
-- {:.speaker} Chœur <em>(presque perdu dans la distance.)</em>
+- {:.speaker} Chœur <em> (presque perdu dans la distance.)</em>
 
 - Ô roi debout.
 
@@ -571,7 +579,7 @@ author: alex gil
 - envol d’in memoriam
 - de vêtements liturgiques
 - premier visage du monde
-- sédition de longs sicles
+- sédition de longs siècles
 - désir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
@@ -649,12 +657,12 @@ author: alex gil
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas asse d’emmerdements. Bien sur qu’on n’<span class="unclear">était</span> pas heureux&nbsp;? Et maintenant, camarades, est-ce qu’on  <span class="unclear">est</span> heureux avec la liberté et la guerre et  la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous a trahit. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas asse d’emmerdements. Bien sur qu’on n’<span class="unclear">était</span> pas heureux&nbsp;? Et maintenant, camarades, est-ce qu’on  <span class="unclear">est</span>heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous a trahit. A mort.
 
 
 - {:.speaker} Des voix.
 
-- {:.indent-2} Il a raison ; il a raison ; Mort à Toussaint.
+- {:.indent-2} Il a raison&nbsp;; il a raison&nbsp;; mort à Toussaint.
 
 <hr>
 
@@ -668,13 +676,13 @@ author: alex gil
 - Au feu, Toussaint.
 
 
-<em>(Le feu jaillit ; le mannequin brûle. Rondo. Toussaint parait enchainé,  entre deux gardes en haut de la citadelle.)</em>
+<em>(Le feu jaillit&nbsp;; le mannequin brûle. Rondo. Toussaint parait enchainé,  entre deux gardes en haut de la citadelle.)</em>
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Je suis un spectre ; les hommes me chassent de leur cauchemar.
+- {:.indent-2} Je suis un spectre&nbsp;; les hommes me chassent de leur cauchemar.
 
 
 - {:.speaker} La foule.
@@ -789,7 +797,7 @@ author: alex gil
 - {:.prose .prose-indent} Ah vous ne partirez pas, que vous n’ayez senti la morsure de mes mots sur vos âmes imbéciles.
 - Car sachez-le, je vous épie comme ma proie...
 - et je vous regarde et je vous dévêts au milieu de vos
-- mensonges et de vos lachetés ;
+- mensonges et de vos lachetés&nbsp;;
 - larbins fiers
 - petits hypocrites filant doux
 - esclaves et fils d’esclaves
@@ -869,9 +877,9 @@ author: alex gil
 
 - {:.prose .prose-indent} La cendre... le songe... eau noire... affamés, affamés... deux mains brûlantes dans l’assiette du soleil...
 
-- {:.speaker} Le récitant <em>(très calme.)</em>
+- {:.speaker} Le récitant <em> (très calme.)</em>
 
-- {:.indent-2} ... La Grande Révolution de Saint Domingue continue.
+- {:.indent-2} ... La Grande Révolution de Saint-Dominguecontinue.
 
 <hr>
 
@@ -896,18 +904,18 @@ author: alex gil
 
 - {:.indent-2} C’est la saison des étoiles brûlantes qui commence.
 
-- {:.speaker} 2e jeune fille <em>(riant.)</em>
+- {:.speaker} 2e jeune fille <em> (riant.)</em>
 
 - {:.indent-2} Ah. C’est un conte.
 
-- {:.speaker} Le chœur <em>(menaçant.)</em>
+- {:.speaker} Le chœur <em> (menaçant.)</em>
 
 - {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse sur la gadoue des barracouns.
 
 
 - {:.speaker} 3e jeune fille.
 
-- {:.indent-2} Hou ; hou.
+- {:.indent-2} Hou&nbsp;; hou.
 
 
 - {:.speaker} 4e jeune fille.
@@ -922,7 +930,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Jeunes filles respectez les <span class="unclear">étrangers qui passent</span> sur les riches ornières du crépuscule.
+- {:.prose .prose-indent} Jeunes filles respectez les <span class="unclear">étrangers qui passent </span> sur les riches ornières du crépuscule.
 
 
 <em>(Les jeunes filles s’enfuient.)</em>
@@ -934,24 +942,24 @@ author: alex gil
 
 
 
-<em>(Le récitant et la récitante feignent de poser par terre une civière ; le chœur de creuser une fosse. Le cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)</em>
+<em>(Le récitant et la récitante feignent de poser par terre une civière&nbsp;; le chœur de creuser une fosse. Le cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)</em>
 
 
 - {:.speaker} Le récitant <em>(recueilli.)</em>
 
-- {:.indent-2} Adieu, Saint- Domingue.
+- {:.indent-2} Adieu, Saint-Domingue.
 
 
 - {:.speaker} La récitante.
 
-- &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
+- &nbsp;&nbsp;&nbsp;&nbsp;Adieu, Saint-Domingue.
 
-- {:.speaker} Le chœur <em>(haineux.)</em>
+- {:.speaker} Le chœur <em> (haineux .)</em>
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vomi le happement du squale et le rampement du scolopendre.
 
 
-<em>(A ce moment l’obscurité envahit la scène ; des coups de feu ; des cris discordants ; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.)</em>
+<em>(A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.)</em>
 
 
 
@@ -971,7 +979,7 @@ author: alex gil
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
 
 
-- {:.speaker} Toussaint <em><span class="unclear">(l'arrêtant.)</span></em>
+- {:.speaker} Toussaint <em><span class="unclear"> (l'arrêtant.)</span></em>
 
 - {:.prose .prose-indent} Arrière Dessalines. Je suis seul chef ici, et ces hommes m’appartiennent. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
 
@@ -1036,7 +1044,7 @@ author: alex gil
 
 - {:.speaker} Des voix féminines.
 
-- {:.indent-2} Oui, oui ; après&nbsp;?
+- {:.indent-2} Oui, oui&nbsp;; après&nbsp;?
 
 
 - {:.speaker} 1er député.
@@ -1057,7 +1065,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Camarades, vous les avez entendus de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher ; ils sont venus proposer à vos chefs de se vendre... Ils sont venus nous demander de vous trahir.
+- {:.prose .prose-indent} Camarades, vous les avez entendus de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher&nbsp;; ils sont venus proposer à vos chefs de se vendre... Ils sont venus nous demander de vous trahir.
 
 
 - {:.speaker} La foule.
@@ -1067,7 +1075,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Et les écoutant, vous avez compris, camarades, que  blancs n’ont pas encore renoncés à leurs odieux privilèges ; que l’homme blanc n’a pas encore renoncé à s’engraisser du sang et des larmes de l’homme noir.
+- {:.prose .prose-indent} Et les écoutant, vous avez compris, camarades, que  blancs n’ont pas encore renoncés à leurs odieux privilèges&nbsp;; que l’homme blanc n’a pas encore renoncé à s’engraisser du sang et des larmes de l’homme noir.
 
 
 - {:.speaker} La foule.
@@ -1139,7 +1147,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers. Le sang a fait sauter sa bonde.&nbsp;Le sang ruisselle ; des crânes billent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
+- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers. Le sang a fait sauter sa bonde.&nbsp;Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
 
 
 - {:.speaker} Le récitant.
@@ -1149,7 +1157,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.indent-2} Le ravin bourgeonne de cadavres
+- {:.indent-2} Le ravin bourgeonne de cadavres.
 
 
 - {:.speaker} Demi-chœur.
@@ -1233,7 +1241,7 @@ author: alex gil
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez o nous en sommes : en pleine révolte servile ; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <span class="unclear">Trêmes</span>, Noé, Toussaint et Boukmann  ont constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés ; les planteurs sont sciés vivants entre deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint et Boukmann ont constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1253,7 +1261,7 @@ author: alex gil
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
+- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris  du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
 
 
 - {:.speaker} 
@@ -1288,7 +1296,7 @@ author: alex gil
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée Constituante qui, par ses décrets insensés, nous a menés o nous en sommes : à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
 
 
 - {:.speaker} 2e député.
@@ -1320,16 +1328,16 @@ author: alex gil
 
 - {:.speaker}  Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso,. n, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
-<em>(la voix se perd dans la nuit.)</em>
+<em>(La voix se perd dans la nuit.)</em>
 
 
 
 
 - {:.speaker} 2e voix.
 
-- {:.prose .prose-indent} Hum alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur ; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
+- {:.prose .prose-indent} Hum alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur&nbsp;; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
  
 
 <em>(La voix fredonne&nbsp;:</em>
@@ -1338,7 +1346,7 @@ author: alex gil
 - {:.indent-2} c’est çà qui chic...)
 
 
-<em>(Depuis quelques secondes des cris ont éclatés ; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appllerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
+<em>(Depuis quelques secondes des cris ont éclatés&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appllerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
 
 
 
@@ -1369,10 +1377,10 @@ author: alex gil
 
 - {:.speaker} 3e énergumène.
 
-- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? J'ai l'honneur de repousser toute motion  en ce sens.
+- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? J'ai l'honneur de repousser toute motion en ce sens.
 
 
-<em>(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée ; la tête du gouverneur.)</em>
+<em>(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)</em>
 
 
 
@@ -1405,7 +1413,7 @@ author: alex gil
 
 - {:.speaker} La foule.
 
-- {:.indent-2} A mort ; à mort.
+- {:.indent-2} A mort&nbsp;; à mort.
 
 
 <em>(Une hystérie collective. Une odeur de sang monte. Le speaker danse la bamboula sur l’estrade.)</em>
@@ -1459,7 +1467,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La nuit et la misère, Camarade, la misère et l’acceptation animales ; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères, la grande mer de sang noir, la grande houle de cannes à sucre, et le grand océan d’horreurs et de désolations.
+- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères, la grande mer de sang noir, la grande houle de cannes à sucre,et le grand océan d’horreurs et de désolations.
 - {:.indent-2} A la fin, il y a, à la fin...
  
 
@@ -1468,7 +1476,7 @@ author: alex gil
 
 - {:.speaker} Le récitant <em>(d’une voix cinglante.)</em>
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... , ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
 <hr>
 
@@ -1476,7 +1484,7 @@ author: alex gil
 
 
 
-<em>(Entre un groupe de trois femmes ; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
+<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
 
 
 
@@ -1487,15 +1495,15 @@ author: alex gil
 
 - {:.speaker} 2e jeune fille.
 
-- {:.prose .prose-indent} Ah. quelle fatigue... Nous sommes trempées... Il y a de la brume sur la montagne... Mes os suintent de froid et de peur.
+- {:.prose .prose-indent} Ah. Quelle fatigue... Nous sommes trempées... Il y a de la brume sur la montagne... Mes os suintent de froid et de peur.
 
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes pauvres enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore...Aïe. mes jambes...
+- {:.prose .prose-indent} Courage mes pauvres enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
 
 
-<em>Les femmes ont disparu ; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.</em>
+<em>Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.</em>
 
 
 - {:.speaker} 1er esclave <em>(chantant.)</em>
@@ -1508,15 +1516,15 @@ author: alex gil
 
 - {:.speaker} 1er esclave <em>(chantant.)</em>
 
-- {:.indent-2} La terre est une fatigue ; ma fatigue va la fatiguer.
+- {:.indent-2} La terre est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
 - {:.speaker} 2e esclave <em>(chantant.)</em>
 
-- {:.indent-2} Le soleil est une fatigue ; ma fatigue va la fatiguer.
+- {:.indent-2} Le soleil est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
 - {:.speaker} 3e esclave <em>(chantant.)</em>
 
-- {:.indent-2} La pluie est une fatigue ; ma fatigue va la fatiguer.
+- {:.indent-2} La pluie est une fatigue&nbsp;; ma fatigue va la fatiguer.
 
 <hr>
 
@@ -1526,12 +1534,12 @@ author: alex gil
 
 - {:.speaker} 1er esclave.
 
-- {:.indent-2} Hé, mes amis, ho.
+- {:.indent-2}  Hé, mes amis, ho.
 
 
 - {:.speaker} 2e esclave.
 
-- {:.indent-2} Ma fatigue est un gouffre ; aucun sommeil ne saurait le combler.
+- {:.indent-2} Ma fatigue est un gouffre&nbsp;; aucun sommeil ne saurait le combler.
 
 
 - {:.speaker} 3e esclave.
@@ -1541,11 +1549,11 @@ author: alex gil
 
 - {:.speaker} Chœur des esclaves.
 
-- {:.indent-2} Hé, ho. Ho, mes amis, ho
+- {:.indent-2} Hé, ho. Ho, mes amis, ho.
 - Ma fatigue est un tombereau de sable insonore
 - aux quatre coins de moissons pétrifiées.
 
-- {:.speaker} Le récitant <em>(lugubre.)</em>
+- {:.speaker} Le récitant <em> (lugubre.)</em>
 
 - {:.prose .prose-indent} Saint-Domingue fond comme un noyé dans l’acide des gorges de la Révolution.
 
@@ -1573,7 +1581,7 @@ author: alex gil
 [ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}
 
 
-- {:.speaker} La récitante <em>(dolente.)</em>
+- {:.speaker} La récitante <em> (dolente.)</em>
 
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent...
  
@@ -1581,14 +1589,14 @@ author: alex gil
 <em>(A mesure qu’elle parle, tout cela se dessine sur l’écran.)</em>
 
 
-- {:.speaker} Le récitant <em>(féroce.)</em>
+- {:.speaker} Le récitant <em> (féroce.)</em>
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
 
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le tam-tam halète ; le tam-tam éructe... le tam-tam de feu crache des sauterelles de sang.
+- {:.prose .prose-indent} Le tam-tam halète&nbsp;; le tam-tam éructe... le tam-tam de feu crache des sauterelles de sang.
 
 
 - {:.speaker} Le récitant.
@@ -1616,10 +1624,11 @@ author: alex gil
 
 
 
-<em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le champ de vision, en perdition ; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.) </em>
+<em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition&nbsp;; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)</em>
 
+- 
 
-- {:.speaker} Le chœur <em>(enthousiaste.)</em>
+- {:.speaker} Le chœur <em> (enthousiaste.)</em>
 
 - {:.indent-2} Haïti. Haïti.
 
@@ -1627,7 +1636,7 @@ author: alex gil
 <em>(Le récitant et la récitante se rapprochent à tatons sur le devant de la scène.)</em>
 
 
-- {:.speaker} Le récitant <em>(pleurant.)</em>
+- {:.speaker} Le récitant <em> (pleurant.)</em>
 
 - Froid cœur de la mort, la lagune a dégainé son  poignard.
 
@@ -1665,13 +1674,13 @@ author: alex gil
 
 - {:.speaker} 2e passant.
 
-- {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maitre Gilles. N'empêche que ça m'emmerde qu'on dise "mon général" à un vieux cul et qu'on se mette devant lui au garde à vous.
+- {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maître Gilles. N'empêche que ça m'emmerde qu'on dise «&nbsp;mon général&nbsp;» à un vieux cul et qu'on se mette devant lui au garde à vous.
 
 - {:.speakerGroup} 2e groupe de passants.
 - {:.speaker} 1er passant.
 
-- {:.prose .prose-indent} Un nègre, capitaine général de Saint Domingue&nbsp;! C'est à la fois ridicule, humiliant, dangereux&nbsp;! Qu'est-ce qu'un nègre, mes amis&nbsp;?
-- {:.prose .prose-indent} Un singe à peine dégrossi ; un chimpanzé, un orang-outang, un ouistiti, un sapajou, que sais-je&nbsp;?
+- {:.prose .prose-indent} Un nègre, capitaine général de Saint-Domingue&nbsp;! C'est à la fois ridicule, humiliant, dangereux&nbsp;! Qu'est-ce qu'un nègre, mes amis&nbsp;?
+- {:.prose .prose-indent} Un singe à peine dégrossi&nbsp;; un chimpanzé, un orang-outang, un ouistiti, un sapajou, que sais-je&nbsp;?
 - {:.indent-2} Tous les savants vous disent cela.
 
 <hr>
@@ -1681,7 +1690,7 @@ author: alex gil
 
 - {:.speaker} 2e passant.
 
-- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint Domingue
+- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
 - ridicule, je vous le concède,
 - humiliant, je ne le nie pas,
 - {:.prose} Mais voyez-vous jeune homme... dangereux par dessous tout. Et je m'en vais vous dire pourquoi...
@@ -1734,12 +1743,12 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- {:.prose} de poignards de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, depetits jours étranges, l'engourdissementbu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Saint Domingue est heureuse&nbsp;: un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit.
+- {:.prose .prose-indent} Saint-Domingue est heureuse&nbsp;: un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit.
 
 
 - {:.speaker} Toussaint.
@@ -1760,7 +1769,7 @@ author: alex gil
 [ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
 
 - nénuphars.
-- {:.indent-2}  J'ai muselé la mer en écoutant peiner les maraichers vers la croupe
+- {:.indent-2} J'ai muselé la mer en écoutant peiner les maraichers vers la croupe
 - fabuleuse des matins, dans une douceur de scandales et d'écume.
 
 
@@ -1782,8 +1791,8 @@ author: alex gil
 
 - {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues et les fauves&nbsp;!
 - Je n'ai pas le don du vol.
-- Je n'ai pas de mère- je n'ai pas de passé.
-- J'ai comblée jusqu'àl'oubli, de poussières et d'insultes, le puits
+- Je n'ai pas de mère — je n'ai pas de passé.
+- J'ai comblée jusqu'à l'oubli, de poussières et d'insultes, le puits
 - marâtre de mon nombril.
 
 
@@ -1808,7 +1817,7 @@ author: alex gil
 
 - {:.speaker} Le Récitant.
 
-- Attention&nbsp;!
+-  Attention&nbsp;!
 - Je crie attention du haut de ma guette.
 - Plus près&nbsp;!
 - Par ici&nbsp;!
@@ -1954,7 +1963,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Je vous l'ai déjà dit ; résister à toute agression.
+- Je vous l'ai déjà dit&nbsp;; résister à toute agression.
 
 
 - {:.speaker} Parlementaire.
@@ -2001,7 +2010,7 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- Dites au Vaudou d'éteindre le jaune solaire de ses  minuits
+- Dites au Vaudou d'éteindre le jaune solaire de ses minuits
 - dites aux bothrops que les jeux  sont faits
 - nous sommes la race tombée
 - nous sommes la race sans jour et sans lendemain
@@ -2010,7 +2019,7 @@ author: alex gil
 - {:.speaker} Récitante.
 
 - Arpège de guitares sinistres il se lève sous mes paupières
-- &nbsp;&nbsp;une aube saignée à blanc
+-  une aube saignée à blanc
 - je suis attente toute attente
 - je marche sur les œufs des instants précieux
 - ô les chemins fragiles têtus et certains
@@ -2031,7 +2040,7 @@ author: alex gil
 
 - {:.prose} Nous sommes au moment où l'impératrice décrète dans les grottes de l'empire l'inutilité des caisses de compensation et se tatoue les cuisses d'une pluie de datûras où râle une lance flammée.
 
-- {:.speaker} Toussaint <em>(à la foule.)</em>
+- {:.speaker} Toussaint <em> (à la foule.)</em>
 
 - {:.indent-2} Mes amis, cries avec moi&nbsp;: Vive la liberté.
 
@@ -2090,7 +2099,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal de la démolition sytématiséeet implacable. Feu et cendre. Puisse Saint Domingue plutôt que la honte la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal de la démolition sytématisée et implacable. Feu et cendre. PuisseSaint-Domingue plutôt que la honte la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2133,7 +2142,7 @@ author: alex gil
 - {:.indent-2} Vive Toussaint Louverture. Vive Toussaint Louverture.
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} Toussaint .
 
 - Faites sauter la ville ;
 - j'assassinerai, je dépècerai
@@ -2186,7 +2195,7 @@ author: alex gil
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
 
-<em>(Des troupes défilent... une foulela nuit ; lueurs d'incendieau loin... des cavaliers.)</em>
+<em>(Des troupes défilent... une foulela nuit ; lueurs d'incendie au loin... des cavaliers.)</em>
 
 
 
@@ -2320,7 +2329,7 @@ author: alex gil
 
 - {:.indent-2} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
-- Les grives riaient dans l'arbre-à-graines
+- Les grives riaient dans l'arbre-à-graines.
 - et le vesou ne sentait pas mauvais
 - non.
 - dans le matin fruité.
@@ -2351,22 +2360,22 @@ author: alex gil
 
 - {:.speaker} Récitante.
 
-- Saint Domingue saigne
+- Saint-Domingue saigne.
 
 
-- {:.speaker} Récitant
+- {:.speaker} Récitant.
 
 - Haïti saigne.
 
 
 - {:.speaker} Récitante.
 
-- Cul de sac de misères, de solitude d'herbes puantes
+- Cul de sac de misères, de solitude d'herbes puantes.
 
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches ! les drapeaux&nbsp;!
+- le caïman ! les torches .! les drapeaux&nbsp;!
 - et l'Amazone <span class="unclear">degout</span> d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,
@@ -2382,7 +2391,7 @@ author: alex gil
 - de l'œil fermenté des naufrages.
 
 
-- {:.speaker} 1re voix suterraine
+- {:.speaker} 1re voix suterraine.
 
 - {:.indent-2} Toussaint Louverture.
 
@@ -2409,7 +2418,7 @@ author: alex gil
 - vaincu,
 - Afrique, Amérique, Europe j'ai de la frénésie cachée sous les feuilles,
 -  ma suffisance ;
-- je tiens à l'abri descœursà flanc de furie
+- je tiens à l'abri des cœurs à flanc de furie
 - la clé des perturbations
 - et tout à détruire.
 - le soufre mon frère, le soufre mon sang
@@ -2478,37 +2487,37 @@ author: alex gil
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
 
-- {:.centered}  ACTE III
+- {:.centered} ACTE III
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses ; écumez contre mon attente scabreuse.
+- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes mourants, déferlez filles grosses&nbsp;;  écumez contre mon attente scabreuse.
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents.
+- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents. 
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;?
+- {:.prose} Me voici, moi, moi : la  femme obsédée des grandes paroles et je  nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cadavres&nbsp;?
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de meurtres n'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve dev vin.
+- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve dev vin.
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la glace du soleil. Il n'y a qu'à découvrir dans la boite à poudre du soleil la houppe rouge des fourmis venimeuses éclatés à tous vents. Ha ha on ne maquille pas le Destin.
+- {:.prose} Il n'est que de cogner à la vitre du soleil. Il n'y a qu'à casser la glace du soleil. Il n'y a qu'à découvrir dans la boite à poudre du soleil la houppe rouge des fourmis venimeuses éclatés à tous vents. Ha, ha, on ne maquille pas le Destin.
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Il fait beau une gerbera plus nue qu'une femme du soleil dans le soleil joue vers le soleil et le soleil crépite dans les ceveaux cerveaux fermés diadème miné arbre du voyageur cœur tressébelles eaux souflées haut gelées.
+- {:.prose} Il fait beau une gerbera plus nue qu'une femme du soleil dans le soleil joue vers le soleil et le soleil crépite dans les ceveaux cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
 
 
 - {:.speaker} Récitant.
@@ -2530,12 +2539,12 @@ author: alex gil
 
 - {:.speaker} Récitante.
 
-- {:.prose .prose-indent} Saint Domingue... Saint Domingue aux yeux d'antinomie, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux d'antinomie, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Saint Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entend tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
+- {:.prose .prose-indent} Saint-Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entend tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
 
 
 - {:.speaker} Chœur.
@@ -2545,10 +2554,10 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas ... j'appelle.
+- {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas... j'appelle.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Nous avons miné l'écho&nbsp;: tes paroles brûleront comme des excréments.
 
@@ -2558,7 +2567,7 @@ author: alex gil
 - Marron, ton seul drapeau, le mien&nbsp;: de périls et de révolte sans remords.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Tu te vantes de tes forfaits.
 
@@ -2568,7 +2577,7 @@ author: alex gil
 - J'ai acclimaté un arbre de soufre et de laves chez un peuple de vaincus.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Misérable.
 
@@ -2592,7 +2601,7 @@ author: alex gil
 - les pieds de la route explosent de chiques de salpêtre.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Tu expieras prisonnier de la neige, de la solitude, du désespoir.
 
@@ -2606,14 +2615,17 @@ author: alex gil
 - L'Afrique a part avec lui
 - Toussaint a part avec lui qu'il le veuille ou non.
 - Je dis que l'Afrique ne le lâchera pas...
-- <em>(à ce moment entre à l'autre bout de la scène le Messager.)</em>
+
+
+<em>(à ce moment entre à l'autre bout de la scène le Messager.)</em>
+
 
 
 - {:.speaker} Toussaint.
 
 - Ah. Voici le digne messager de cette race cupide.
 - L'or et l'argent ont tissé leur teint pâle
-- l'attente de la proie a busqué leur nez fauve
+- l'attente de la proie a busquéleur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids.
 - Ah. C'est une race sans velours.
 
@@ -2667,7 +2679,7 @@ author: alex gil
 - {:.prose} Il y a dans ma tête une riviere de boue d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
 - des miaulemants entrecroisés giclés très près du baillon
 - mes années convulsées peintes en feu
-- des plaques tournantes demarécages, de cratères, de fillettes violées
+- des plaques tournantes de marécages, de cratères, de fillettes violées
 - il y a dans mes oreilles le peloton d'exécution dans les caponières du matin.
 
 
@@ -2778,7 +2790,7 @@ author: alex gil
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Insolent <em>(il le frappe.)</em>
+- {:.indent-2} Insolent<em> (il le frappe.)</em>
 
 
 - {:.speaker} Toussaint.
@@ -2793,7 +2805,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Toussaint est vaincu ; l'esprit de Toussaint n'est pas vaincu.
+- Toussaint est vaincu&nbsp;; l'esprit de Toussaint n'est pas vaincu.
 - Il anime encore des milliers de volontés
 - voyez-vous les mornes gonflés d'une menace d'hommes à la peau rude&nbsp;?
 - La révolte... mes fils, ce sont mes fils.
@@ -2801,7 +2813,7 @@ author: alex gil
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Toussaint, tes puériles imaginations me font sourire de pitié.
+- {:.indent-2} Toussaint, Tes puériles imaginations me font sourire de pitié.
 - Tes fils. Naïf vieillard 
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
@@ -2824,10 +2836,10 @@ author: alex gil
 
 - {:.speaker} Fils.
 
-- Saint Domingue attend la paix,
+- Saint-Domingue attend la paix,
 - l'oubli,
 - les convalescences
-- Saint Domingue attend de dormir.
+- Saint-Domingue attend de dormir.
 
 
 - {:.speaker} Toussaint.
@@ -2847,8 +2859,8 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je me souviens d'un jour de novembre ; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membre musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
+- {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membre musclés, c'était un très bon maitre
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œilvif et le bras ferme
 
 <hr>
 
@@ -2872,7 +2884,7 @@ author: alex gil
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fracheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
@@ -2916,7 +2928,7 @@ author: alex gil
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
 - O la pluie de cendres violettes sur ce Paris étranger.
 - O&nbsp;le froid incisif jusqu'au sang.
-- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des il avait une mesure, une décense, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décense, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 
 - {:.speaker} Toussaint.
@@ -2958,7 +2970,7 @@ author: alex gil
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
 - vénéneuses mes paupières s'entrouvent au cœur de cocotiers...
-- fortement attirantes la parade des buissons vivants;
+- fortement attirantes la parade des buissons vivants&nbsp;;
 - ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
 - Liberté, liberté,
 - j'oserai soutenir seul la lumière de cette tête bléssée.
@@ -3017,7 +3029,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Qui es-tu femme ?
-- {:.prose} J'en ai connu des femmes ; des seins surpris au pâturage, des éléphants enfants allant à la messe.
+- {:.prose} J'en ai connu des femmes&nbsp;; des seins surpris au pâturage, des éléphants enfants allant à la messe.
 
 
 - {:.speaker} Geôlière.
@@ -3042,7 +3054,7 @@ author: alex gil
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint.)</em>. 
+- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint)</em>.
 
 
 - {:.speaker} Toussaint.
@@ -3055,7 +3067,7 @@ author: alex gil
 - {:.prose} Bûche&nbsp;! Quelle bûche&nbsp;! C'est une bûche te dis-je... une drôle de race, ces nègres... Crois-tu que nos coups lui fassent mal... en tout cas, ça ne marque pas.
 - ... <em>(elle frappe.)</em> Oh&nbsp;! Oh&nbsp;! Son sang coule&nbsp;!
 
-- {:.speaker} Geôlier <em>(riant.)</em>
+- {:.speaker} Geôlier  <em>(riant.)</em>
 
 - C'est bien connu&nbsp;: battre un nègre  c'est le nourrir...
 
@@ -3075,7 +3087,7 @@ author: alex gil
 - Isaac... pourquoi rester sous la pluie des scorpions venimeux ?
 - {:.prose} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac&nbsp;! Isaac&nbsp;! 
 
-<em> (il s'écroule en gémissant.)</em>
+<em> (Il s'écroule en gémissant.)</em>
 
 
 
@@ -3099,7 +3111,7 @@ author: alex gil
 
 - {:.prose} Amen&nbsp;! la neige mord&nbsp;; la neige mord de ses crocs brûlants une nuit solennelle. 
 
-<em>(A ce moment vision d'une route illimitée blanche&nbsp;: une lanterne cahote ; une forme se précise peu à peu. C'est la Sainte Vierge. Elle s'avance, s'arrête et se penche sur Toussaint qu'elle contemple longuement).</em>
+<em>(A ce moment vision d'une route illimitée blanche&nbsp;: une lanterne cahote&nbsp;; une forme se précise peu à peu. C'est la Sainte Vierge. Elle s'avance, s'arrête et se penche sur Toussaint qu'elle contemple longuement).</em>
 
 
 
@@ -3114,9 +3126,13 @@ author: alex gil
 
 - {:.indent-2} ... Mon fils
 
-- {:.speaker} Le chœur  <em>(chuchotant.)</em>
+- {:.speaker} Le chœur <em>(chuchotant.)</em>
 
-- {:.prose} C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;! <em>&nbsp;(le vent apporte du lointain des bribes de spiritual.)</em>
+- C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;!
+
+
+<em>(le vent apporte du lointain des bribes de spiritual.)</em>
+
 
 
 - {:.speaker} La sainte Vierge.
@@ -3136,7 +3152,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne suis pas ton fils, mas le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils... j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère&nbsp;!
+- {:.prose .prose-indent} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil, mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils... j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère&nbsp;!
 
 
 - {:.speaker} La sainte Vierge.
@@ -3152,7 +3168,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu m'as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait monoui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutt prendsce sac de paroles... les paroles de Toussaint, les dernières peut-être les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prendsce sac de paroles... les paroles de Toussaint, les dernières peut-être les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nus au milieu de vos réjouissances nos faces de scandale,
@@ -3192,13 +3208,13 @@ author: alex gil
 - et de jujubier et de perturbation et de soleil bayonnetté.
 
 
-<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles , des guerriers nus bondissent, un tam-tam bat lointainement )</em>
+<em>(Toussaint se met à marcher, à ramper, à courir dans d'imaginaires broussailles, des guerriers nus bondissent, un tam-tam bat lointainement.)</em>
 
 
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} O la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
+- {:.prose .prose-indent} Ô la danse des étoiles sans nom... les savanes s'animent... les pluies fument... des arbres inconnus tombent palmés de foudre.
 
 
 - {:.speaker} Le récitant.
@@ -3206,16 +3222,16 @@ author: alex gil
 - {:.indent-2} Qu'est ce qu'elle dit&nbsp;? Qu'est-ce qu'elle dit&nbsp;?
  
 
-<em>(à ce moment Toussaint se redresse.)</em>
+<em>(À ce moment Toussaint se redresse.)</em>
 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha&nbsp;! le ciel suce des poignards...Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe&nbsp;! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
+- {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha&nbsp;! le ciel suce des poignards... Roi de Malaisie et de la fièvre pleine d'insectes mâche bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes sourires blancs... Aïe&nbsp;! je marche dans des piquants d'étoiles. Je marche... j'assume... j'embrasse...
  
 
-<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Toussaint s'affaisse, les bras étendus, poitrine contre terre).</em>
+<em>(Toussaint s'affaisse, les bras étendus, poitrine contre terre.)</em>
 
 
 <hr>
@@ -3251,12 +3267,12 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} Saint-Domingue, Saint Domingue.
+- {:.indent-2} Saint-Domingue, Saint-Domingue.
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Saint Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
+- {:.prose .prose-indent} Saint-Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
 
 
 - {:.speaker} La récitante.
@@ -3266,7 +3282,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.indent-2} dans la forêt les meurtrières coulent avec des rires de fontaine et les
+- {:.indent-2} Dans la forêt les meurtrières coulent avec des rires de fontaine et les
 - fleuves sans signaux trament l'aventure charnue des voyages virulents
 - sang nomade en coquetterie de morts et de genèses
 - gaspille du fond des pierres trouées et de la nuit des âges
@@ -3275,10 +3291,10 @@ author: alex gil
 
 - {:.speaker} Le chœur.
 
-- Saint Domingue&nbsp;! Saint Domingue&nbsp;!
+- Saint-Domingue&nbsp;! Saint-Domingue&nbsp;!
 
 
-<em>(La scène a brusquement changé. Nous sommes à Saint Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
+<em>(La scène a brusquement changé. Nous sommes à Saint-Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
 
 
 <hr>
@@ -3302,7 +3318,7 @@ author: alex gil
 - En avant Capoux-la-Mort&nbsp;! <em>(charge de cavalerie.)</em>
 
 
-<em>(des cris au loin&nbsp;: Victoire, victoire...)</em>
+<em>(Des cris au loin&nbsp;: Victoire, victoire...)</em>
 
 
 
@@ -3322,7 +3338,7 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête de sang sauvage.
+- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête de sangsauvage.
 
 - {:.speaker} Demi chœur <em>(allègre.)</em>
 
@@ -3334,7 +3350,3 @@ author: alex gil
 
 - {:.indent-2} Laboure-moi, laboure-moi, cri armé de mon peuple&nbsp;;
 - {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur de mon cœur, jusqu'à l'éclatement de mes veines, jusqu'au blanchiement de mes os dans le minuit de ma chair.
-
-
-<em>R I D E A U</em>
-

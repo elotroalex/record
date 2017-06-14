@@ -48,21 +48,35 @@
         editor: alex gil
         ---
         
-        An interpretation of the final stage of the Saint-Dié witness.
+        The following text is an interpretation of the final authorial stage of the Saint-Dié witness (~1943). 
+        Editorial interventions lean on the side of pleasure. I respected most 
+        accidentals in Toussaint's speeches in deference to freedom; the speeches of others became more 
+        regular, unless a strange comma or an intrepid indentation lucidly stopped me. Substantials required 
+        very little conjecture, and strange spellings were rare. Page numbers
+        provide links to the relevant images for easy access to the complexities lost in translation.
         
         ---
         
         - {:.centered} AIMÉ CÉSAIRE.
-        - {:.centered} +++++++++++++
         
-         
-        - {:.centered} ...ET LES CHIENS SE TAISAIENT.
-        - {:.centered} ( Drame en trois actes )
-        - {:.centered} ++++++++++++++++++       
+        </xsl:text>
+        
+        <hr align="center" width="30%" class="flourish"/>
+        
+        <xsl:text>
             
         </xsl:text>
         
-        <hr align="center" width="50%" class="flourish"/>       
+        <br/>
+        
+        <xsl:text>
+            
+        - {:.centered} ...ET LES CHIENS SE TAISAIENT.
+        - {:.centered} ( Drame en trois actes )     
+            
+        </xsl:text>
+
+       
 
         <!-- Select all pages -->
         <xsl:apply-templates/>
@@ -70,7 +84,7 @@
             
             ---
             
-            ## Footnotes
+            ## Notes
             
         </xsl:text>
         <xsl:apply-templates select="//tei:note[@type = 'scholarly']" mode="content"/>
@@ -80,17 +94,17 @@
     <!-- #################################### -->
     <!-- ############### TEXT ############### -->
     <!-- #################################### -->
-    
+
     <!-- pages -->
 
-    
+
     <xsl:template match="tei:div[@type = 'page']">
         <hr/>
         <xsl:text>
   </xsl:text>
-        
+
         <xsl:apply-templates/>
-        
+
     </xsl:template>
 
     <!-- act headers -->
@@ -117,34 +131,34 @@
 
     <!-- page numbers and curtains -->
     <xsl:template match="tei:fw">
-        
-            <xsl:if test="@type = 'curtain'">
-                <xsl:text>
+
+        <xsl:if test="@type = 'curtain'">
+            <xsl:text>
                 
             </xsl:text>
-                <xsl:text>- {:.centered} </xsl:text>
-                <xsl:apply-templates/>
-                <xsl:text>
+            <xsl:text>- {:.centered} </xsl:text>
+            <xsl:apply-templates/>
+            <xsl:text>
                 
             </xsl:text>
-            </xsl:if>
-            <xsl:if test="tei:locus/@scheme != '#Page'"/>
-            
-            <xsl:if test="tei:locus/@scheme = '#Page'">
-                <xsl:text>
+        </xsl:if>
+        <xsl:if test="tei:locus/@scheme != '#Page'"/>
+
+        <xsl:if test="tei:locus/@scheme = '#Page'">
+            <xsl:text>
             
             </xsl:text>
-                <xsl:text>[ </xsl:text>
-                <xsl:value-of select="tei:locus"/>
-                <xsl:text> ]</xsl:text>
-                <xsl:text>(/data/sdw-data</xsl:text>
-                <xsl:value-of select="../@facs"/>
-                <xsl:text>){: target='_blank'}</xsl:text>
-                <xsl:text>
+            <xsl:text>[ </xsl:text>
+            <xsl:value-of select="tei:locus"/>
+            <xsl:text> ]</xsl:text>
+            <xsl:text>(/data/sdw-data</xsl:text>
+            <xsl:value-of select="../@facs"/>
+            <xsl:text>){: target='_blank'}</xsl:text>
+            <xsl:text>
     
   </xsl:text>
-            </xsl:if>
-        
+        </xsl:if>
+
     </xsl:template>
 
 
@@ -330,10 +344,7 @@
         </span>
     </xsl:template>
 
-    <!-- special spaces -->
-    <xsl:template match="tei:space">
-        <xsl:text>&#32;</xsl:text>
-    </xsl:template>
+    <!-- special  -->
 
     <xsl:template match="tei:del[child::tei:restore]">
         <xsl:apply-templates select="tei:restore"/>

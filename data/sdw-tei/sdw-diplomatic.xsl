@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/"
  xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
- exclude-result-prefixes="xs tei" version="1.0">
-
+ exclude-result-prefixes="xs tei saxon" version="1.0">
+ 
  <!-- global settings -->
- <xsl:output method="html"/>
+ <xsl:output method="html" saxon:line-length="500"/>
  <xsl:strip-space elements="*"/>
  <xsl:template match="text()">
-  <xsl:value-of select="normalize-space(.)"/>
+  <xsl:choose>
+   <xsl:when test=". = ' '">
+    <xsl:text> </xsl:text>
+   </xsl:when>
+   <xsl:when test="substring(., 1, 1) = ' ' and substring(., string-length(), 1) = ' '">
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:text> </xsl:text>
+   </xsl:when>
+   <xsl:when test="substring(., 1, 1) = ' '">
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="normalize-space(.)"/>
+   </xsl:when>
+   <xsl:when test="substring(., string-length(), 1) = ' '">
+    <xsl:value-of select="normalize-space(.)"/>
+    <xsl:text> </xsl:text>
+   </xsl:when>
+   <xsl:otherwise>
+    <xsl:value-of select="normalize-space(.)"/>
+   </xsl:otherwise>
+  </xsl:choose>
  </xsl:template>
 
  <!-- IGNORE LIST -->
@@ -21,31 +41,41 @@
  <!-- HTML wrapper | document element -->
  <xsl:template match="/">
   <xsl:text>---
-        layout: poem
-        title: "diplomatic"
-        description: "" 
-        author: Aimé Césaire
-        editor: alex gil
-        ---
-        
-        A diplomatic edition of the Saint-Dié witness of 
-        "...Et le chiens se taisaient" by Aimé Césaire.
-        
-        </xsl:text>
-    <hr/>
+   layout: poem
+   title: "diplomatic: ...et les chiens se taisaient"
+   description: "A diplomatic edition of the Saint-Dié witness." 
+   author: Aimé Césaire
+   editor: alex gil
+   ---
+   
+   The following text is a diplomatic interpretation of the final authorial stage of the 
+   Saint-Dié witness (~1943). Deletions are marked in *crossed-out red*{:.delete}, and additions 
+   in *green*{:.add}. Instant revisions with the typewriter are ommitted. Additions surrounded by |pipes| indicate they were
+   written on the margins of the page. The rest of the additions are simply placed next to the deletions, even
+   though most of the substantial ones were made above the line. While a hand-sculpted web layout could 
+   capture some of the nuances of place in the typescript, this diplomatic is simply an aide to interpreting the handwriting on 
+   the images. In cases of unclear characters or words in the original, I instructed the 
+   machine to leave unmarked conjectures that were assigned a 50% or larger level of 
+   certainty in the TEI—the house odds. Hesitant conjectures are marked in [brackets]. New pages
+   are indicated by a horizontal rule. The page numbers correspond to the main pagination, and
+   link to the high resolution scans of the original document. Other pagination schemes are ommitted. Line spacing
+   bears only a remote relationship to the original.
+   
+  </xsl:text>
+  <hr/>
   <xsl:text>
    
-  <!-- Front matter -->
+   <!-- Front matter -->
   </xsl:text>
-    <a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>
+  <a target="_blank" href="/data/sdw-data/P000.jpg">Title</a>
   <xsl:text>            
-        </xsl:text>
+  </xsl:text>
   <p class="centered">AIME CESAIRE.</p>
   <p class="centered">+++++++++++++</p>
   <p class="centered">......ET LES CHIENS SE TAISAIENT.</p>
   <p class="centered">( drame en trois actes )</p>
   <p class="centered">++++++++++++++++++</p>
-  
+
   <!-- All pages -->
   <xsl:apply-templates/>
  </xsl:template>
@@ -59,17 +89,17 @@
   <xsl:choose>
    <xsl:when test="@type = 'speakers'">
     <xsl:text>
-            </xsl:text>
+    </xsl:text>
     <xsl:text>- {:.speakerGroup} </xsl:text>
     <xsl:apply-templates/>
    </xsl:when>
    <xsl:otherwise>
     <xsl:text>
-            </xsl:text>
+    </xsl:text>
     <xsl:text>- {:.centered} </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>
-            </xsl:text>
+    </xsl:text>
    </xsl:otherwise>
   </xsl:choose>
  </xsl:template>
@@ -86,10 +116,21 @@
  </xsl:template>
 
 
- <!-- page numbers -->
+ <!-- page numbers and curtains -->
  <xsl:template match="tei:fw">
+  
+  <xsl:if test="@type = 'curtain'">
+   <xsl:text>
+                
+            </xsl:text>
+   <xsl:text>- {:.centered} </xsl:text>
+   <xsl:apply-templates/>
+   <xsl:text>
+                
+            </xsl:text>
+  </xsl:if>
   <xsl:if test="tei:locus/@scheme != '#Page'"/>
-
+  
   <xsl:if test="tei:locus/@scheme = '#Page'">
    <xsl:text>
             
@@ -104,7 +145,9 @@
     
   </xsl:text>
   </xsl:if>
+  
  </xsl:template>
+ 
 
 
 
@@ -113,15 +156,15 @@
 
  <xsl:template match="tei:sp[tei:speaker[following-sibling::tei:stage[@type = 'delivery']]]">
   <xsl:text>
-            - {:.speaker} </xsl:text>
+   - {:.speaker} </xsl:text>
   <xsl:apply-templates select="tei:speaker"/>
   <xsl:text> </xsl:text>
 
   <xsl:apply-templates select="tei:stage[@type = 'delivery']"/>
 
   <xsl:text>
-            
-        </xsl:text>
+   
+  </xsl:text>
   <xsl:apply-templates select="tei:stage[@type = 'delivery']/following-sibling::*"/>
  </xsl:template>
 
@@ -138,30 +181,30 @@
  <!-- speaker -->
  <xsl:template match="tei:speaker">
   <xsl:text>
-            
-       </xsl:text>
+   
+  </xsl:text>
   <xsl:text>- {:.speaker} </xsl:text>
   <xsl:apply-templates/>
   <xsl:text/>
   <xsl:text>
-           
-       </xsl:text>
+   
+  </xsl:text>
  </xsl:template>
 
  <!-- stage -->
  <xsl:template match="tei:stage">
   <xsl:text>
-            
-                </xsl:text>
+   
+  </xsl:text>
 
   <xsl:apply-templates/>
 
   <xsl:text>
-            
-                </xsl:text>
+   
+  </xsl:text>
  </xsl:template>
 
-  <xsl:template match="tei:stage[@rend = 'inline']">
+ <xsl:template match="tei:stage[@rend = 'inline']">
   <xsl:apply-templates/>
  </xsl:template>
 
@@ -172,25 +215,25 @@
     <xsl:text>- {:.prose} </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>
-                </xsl:text>
+    </xsl:text>
    </xsl:when>
    <xsl:when test="descendant::tei:lb and @rend = 'indent'">
     <xsl:text>- {:.prose .prose-indent} </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>
-                </xsl:text>
+    </xsl:text>
    </xsl:when>
    <xsl:when test="not(descendant::tei:lb) and @rend = 'indent'">
     <xsl:text>- {:.indent-2} </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>
-                </xsl:text>
+    </xsl:text>
    </xsl:when>
    <xsl:otherwise>
     <xsl:text>- </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>
-                </xsl:text>
+    </xsl:text>
    </xsl:otherwise>
   </xsl:choose>
 

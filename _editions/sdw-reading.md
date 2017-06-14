@@ -6,19 +6,25 @@ author: Aimé Césaire
 editor: alex gil
 ---
 
-An interpretation of the final stage of the Saint-Dié witness.
+The following text is an interpretation of the final authorial stage of the Saint-Dié witness (~1943). 
+Editorial interventions lean on the side of pleasure. I respected most 
+accidentals in Toussaint's speeches in deference to freedom; the speeches of others became more 
+regular, unless a strange comma or an intrepid indentation lucidly stopped me. Substantials required 
+very little conjecture, and strange spellings were rare. Page numbers
+provide links to the relevant images for easy access to the complexities lost in translation.
 
 ---
 
 - {:.centered} AIMÉ CÉSAIRE.
-- {:.centered} +++++++++++++
 
+<hr align="center" width="30%" class="flourish">
+
+<br>
 
 - {:.centered} ...ET LES CHIENS SE TAISAIENT.
-- {:.centered} ( Drame en trois actes )
-- {:.centered} ++++++++++++++++++       
+- {:.centered} ( Drame en trois actes )     
 
-<hr align="center" width="50%" class="flourish">
+
 <hr>
 
 
@@ -28,7 +34,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.centered} ACTE I
 
 
-<em>(La scène est à Saint Domingue&nbsp;à&nbsp;l’epoque de la Révolution française.)</em>
+<em>(La scène est à Saint-Domingue&nbsp;à&nbsp;l’epoque de la Révolution française.)</em>
 
 
 
@@ -200,7 +206,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - dédouble de soleils nichés la fièvre lisse des jours.
 - Maudit, serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- Îles,
+- îles,
 
 <hr>
 
@@ -457,7 +463,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et  j’ai vu venir du côté des girofliers un hommepetit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
+- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre chocolat et  j’ai vu venir du côté des girofliers un homme petit. Il noircissait le ciel d’une face de tourbière coupée de libellules...
 
 
 - {:.speaker} Le récitant.
@@ -485,7 +491,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvresde la cendre&nbsp;;
+- {:.indent-2} Le fleuve sans idiome s’exaspère des manœuvres de la cendre&nbsp;;
 - le cap et la limaille
 - les oiseaux et les jours
 - tournent avec leur bruit de serrures&nbsp;;
@@ -676,12 +682,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assezd’emmerdements. Bien sur qu’on n’est pas heureux&nbsp;? Eh, camarades, est-ce qu’on sera heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous  trahit. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assez d’emmerdements. Bien sur qu’on n’est pas heureux&nbsp;? Eh, camarades, est-ce qu’on sera heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous  trahit. A mort.
 
 
 - {:.speaker} Des voix.
 
-- {:.indent-2} Il a raison&nbsp;; il a raison&nbsp;; Mort à Toussaint.
+- {:.indent-2} Il a raison&nbsp;; il a raison&nbsp;; mort à Toussaint.
 
 <hr>
 
@@ -827,7 +833,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - de gémir ;
 - condamnés à vivre en tête à tête avec la stupidité empuantie
 - sans autre chose qui vous tienne chaud au sang
-- que de regarder glouter jusqu’à mi-verre,votre rhum
+- que de regarder glouter jusqu’à mi-verre, votre rhum
 - antillais...
 - Âmes de morue.
 
@@ -903,7 +909,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le récitant <em> (très calme.)</em>
 
-- {:.indent-2} ... La Grande Révolution de Saint Domingue vient de commencer.
+- {:.indent-2} ... La Grande Révolution de Saint-Dominguevient de commencer.
 
 <hr>
 
@@ -973,12 +979,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le récitant <em>(recueilli.)</em>
 
-- {:.indent-2} Adieu, Saint- Domingue.
+- {:.indent-2} Adieu, Saint-Domingue.
 
 
 - {:.speaker} La récitante.
 
-- &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
+- &nbsp;&nbsp;&nbsp;&nbsp;Adieu, Saint-Domingue.
 
 - {:.speaker} Le chœur <em> (haineux .)</em>
 
@@ -1181,7 +1187,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied des arbres à pain .
+- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied des arbres à pain.
 
 
 - {:.speaker} La récitante.
@@ -1191,12 +1197,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nouscoupaient les jarrets.
+- {:.indent-2} Ils nous coupaient les jarrets.
 
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nousmarquaient au fer rouge.
+- {:.indent-2} Ils nous marquaient au fer rouge.
 
 
 - {:.speaker} Le chœur.
@@ -1328,7 +1334,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée Constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
 
 
 - {:.speaker} 2e député.
@@ -1359,9 +1365,9 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 
 
-- {:.speaker} 1er&nbsp;groupe &nbsp;: Une voix.
+- {:.speaker} 1er&nbsp;groupe&nbsp;: Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison,c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
 <em>(La voix se perd dans la nuit.)</em>
 
@@ -1379,7 +1385,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.indent-2} c’est çà qui chic...)
 
 
-<em>(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appelleronsle speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
+<em>(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appellerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
 
 
 
@@ -1503,7 +1509,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères&nbsp;et de dividendes,la grande mer de sang noir, la grande houle de cannes à sucre, le grand océan d’horreurs et de désolations.
+- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères&nbsp;et de dividendes, la grande mer de sang noir, la grande houle de cannes à sucre, le grand océan d’horreurs et de désolations.
 - {:.indent-2} A la fin, il y a, à la fin...
  
 
@@ -1666,7 +1672,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 <em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition&nbsp;; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)</em>
 
-- République d’Haïti.
+- : République d’Haïti.
 
 - {:.speaker} Le chœur <em> (enthousiaste.)</em>
 
@@ -1737,7 +1743,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.centered} 
 
 
-<em>(une ville haïtienne, place publique&nbsp;: troupes, foules, drapeaux Subitement acclamations et fanfares. entrent Toussaint et sa suite. Toussaint s'installe sous un dais&nbsp;: les délégations avancent, successives.)</em>
+<em>(Une ville haïtienne, place publique&nbsp;: troupes, foules, drapeaux Subitement acclamations et fanfares. entrent Toussaint et sa suite. Toussaint s'installe sous un dais&nbsp;: les délégations avancent, successives.)</em>
 
 
 
@@ -1746,7 +1752,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.prose .prose-indent} Gloire à Toussaint Louverture&nbsp;: il a purgé la colonie des hordes tyranniques des Anglais.
 
 
-- {:.speaker} La foule ;
+- {:.speaker} La foule.
 
 - Hurrah&nbsp;!
 
@@ -1800,7 +1806,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le représentant français.
 
-- {:.prose .prose-indent} Au nom de la France, je confirme le général Toussaint Louverture dans ses titres de gouverneur et de capitaine général de la colonie française de Saint Domingue.
+- {:.prose .prose-indent} Au nom de la France, je confirme le général Toussaint Louverture dans ses titres de gouverneur et de capitaine général de la colonie française de Saint-Domingue.
 
 
 - {:.speaker} La foule.
@@ -1824,7 +1830,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Toussaint.
 
-- Îles heureuses
+- îles heureuses
 - jardins de la reine
 - je me laisse dériver dans la nuit d'épices de tornade et de saintes images
 - et le varech
@@ -1911,7 +1917,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Toussaint.
 
-- Connaissez-vous Samana ? Ici est &nbsp;ma querencia&nbsp;:
+- Connaissez-vous Samana ? Ici est ma querencia&nbsp;:
 - malheur à qui m'y traque.
 
 - {:.speaker} Chantres <em> (braillant.)</em>
@@ -1987,7 +1993,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 
 
-- {:.speaker} le chœur
+- {:.speaker} Le chœur.
 
 - {:.prose} C'est moi la nourrice. Toussaint Louverture, bien sûr qu'il n'avait pas de nourrice&nbsp;; et qu'il ne m'est jamais tombé des bras&nbsp;; et qu'on sait qu'il a bu le lait de la terre et qu'il a machonné le sein de la terre et qu'il a mangé le pain de la terre, mais une nourrice, imaginez que je suis la terre.
 - Alors je suis venu vous demander de lui pardonner.
@@ -2089,13 +2095,13 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} 2e passant.
 
-- {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maitre Gilles. N'empêche que ça m'emmerde qu'on dise «&nbsp;mon général&nbsp;» à un vieux cul et qu'on se mette devant lui au garde à vous.
+- {:.prose .prose-indent} Encore comme ça&nbsp;! Les Anglais et les Espagnols mis à la raison, on renvoie Maître Gilles. N'empêche que ça m'emmerde qu'on dise «&nbsp;mon général&nbsp;» à un vieux cul et qu'on se mette devant lui au garde à vous.
 
 - {:.speakerGroup} 2e groupe de passants.
 
 - {:.speaker} 1er passant.
 
-- {:.prose .prose-indent} Un nègre, capitaine général de Saint Domingue&nbsp;! C'est à la fois ridicule, humiliant, dangereux&nbsp;! Qu'est-ce qu'un nègre, mes amis&nbsp;?
+- {:.prose .prose-indent} Un nègre, capitaine général de Saint-Domingue&nbsp;! C'est à la fois ridicule, humiliant, dangereux&nbsp;! Qu'est-ce qu'un nègre, mes amis&nbsp;?
 - {:.prose .prose-indent} Un singe à peine dégrossi&nbsp;; un chimpanzé, un orang-outang, un ouistiti, un sapajou, que sais-je&nbsp;?
 - {:.indent-2} Tous les savants vous disent cela.
 
@@ -2108,7 +2114,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} 2e passant.
 
-- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint Domingue
+- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
 - ridicule, je vous le concède,
 - humiliant, je ne le nie pas,
 - {:.prose} Mais voyez-vous jeune homme... dangereux par dessus tout. Et je m'en vais vous dire pourquoi...
@@ -2167,7 +2173,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Saint Domingue est heureuse&nbsp;: un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit.
+- {:.prose .prose-indent} Saint-Domingue est heureuse&nbsp;: un oiseau sans peur jette son cri de flamme jeune dans le ventre chaud de la nuit.
 
 
 - {:.speaker} Toussaint.
@@ -2400,12 +2406,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Parlementaire.
 
-- {:.prose} Je serais franc, la République entend faire rentrer sous sa domination la plus belle de ses colonies : Saint Domingue.
+- {:.prose} Je serais franc, la République entend faire rentrer sous sa domination la plus belle de ses colonies : Saint-Domingue.
 
 
 - {:.speaker} Toussaint.
 
-- J'ignorais que Saint Domingue eut proclamé son indépendance.
+- J'ignorais que Saint-Domingue eut proclamé son indépendance.
 
 
 - {:.speaker} Récitant.
@@ -2524,7 +2530,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 
 
-- {:.speaker} Lechœur.
+- {:.speaker} Le chœur.
 
 - Dites au Vaudou d'éteindre le jaune solaire de ses minuits
 - dites aux bothrops que les jeux  sont faits
@@ -2535,7 +2541,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.speaker} Récitante.
 
 - Arpège de guitares sinistres il se lève sous mes paupières
-- &nbsp;&nbsp;une aube saignée à blanc
+- une aube saignée à blanc
 - je suis attente toute attente
 - je marche sur les œufs des instants précieux
 - ô les chemins fragiles têtus et certains
@@ -2617,7 +2623,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse  Saint Domingue plutôt que notre liberté : la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal d'une démolition sytématique, implacable. Feu et cendre. Perisse Saint-Domingue plutôt que notre liberté : la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2851,7 +2857,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.indent-2} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
-- Les grives riaient dans l'arbre-à-graines
+- Les grives riaient dans l'arbre-à-graines.
 - 
 - 
 - 
@@ -2883,10 +2889,10 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Récitante.
 
-- Saint Domingue saigne.
+- Saint-Domingue saigne.
 
 
-- {:.speaker} Récitant
+- {:.speaker} Récitant.
 
 - Haïti saigne.
 
@@ -2915,7 +2921,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - de l'œil fermenté des naufrages.
 
 
-- {:.speaker} 1re voix suterraine
+- {:.speaker} 1re voix suterraine.
 
 - {:.indent-2} Toussaint Louverture.
 
@@ -3130,7 +3136,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le voyageur.
 
-- {:.prose} De bien loin... Dites, j'ai jadis connu  un homme qui s'appelait  Tous­ saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
+- {:.prose} De bien loin... Dites, j'ai jadis connu  un homme qui s'appelait Tous­saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de mains hardies... Toussaint, Toussaint Louverture.
 
 
 - {:.speaker} Les bonnes gens.
@@ -3176,7 +3182,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Les bonnes gens.
 
-- nous le connaissons pas.
+- Nous le connaissons pas.
 
 
 - {:.speaker} Le voyageur.
@@ -3284,10 +3290,10 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 <em>(Il approche l'oreille du sol.)</em>
 
- Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh,
+ Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures d'aveugle. Je suis atteint. Oh, Oh, je suis atteint.
+
 
 <em>(Il se  redresse&nbsp;; à ce moment la lune brille de tout son éclat haut dans le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie de loin.)</em>
-
 
 
 
@@ -3341,7 +3347,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - Je danserai autour de ma victime la danse du scalp.
 
-- {:.speaker} Geolier <em> (s'adressant au public.)</em>
+- {:.speaker} Geôlier <em> (s'adressant au public.)</em>
 
 - {:.prose} Regardez-le, caricatural à souhait, la mine déconfite et chafouine, la face blette, les mains  frileuses, chef hypocrite d'un peuple de sauvages, triste conducteur d'une race de démons&nbsp;; calculateur sournois égaré parmi des frénétiques.
 - {:.prose .prose-indent} Mesdames et Messieurs, suivez-moi bien... En 1793 nous apprenions qu'au nom des droits de l'homme, nous apprenions dis-je que la plus vile de toutes les races allait s'asseoir côte à côte avec nous au banquet d'une risible fra­ternité.
@@ -3358,12 +3364,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Récitante.
 
-- {:.prose .prose-indent} Saint Domingue... Saint Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux d'antimoine, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Saint Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entends tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
+- {:.prose .prose-indent} Saint-Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entends tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
 
 
 - {:.speaker} Chœur.
@@ -3376,7 +3382,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.prose .prose-indent} Attaché comme une enseigne au haut bout de la France, je ne sanglotte pas... j'appelle.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Nous avons miné l'écho&nbsp;: tes paroles brûleront comme des excréments.
 
@@ -3386,7 +3392,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - Marron, ton seul drapeau, le mien&nbsp;: de périls et de révolte sans remords.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Tu te vantes de tes forfaits.
 
@@ -3396,7 +3402,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - J'ai acclimaté un arbre de soufre et de laves chez un peuple de vaincus.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Misérable.
 
@@ -3421,7 +3427,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - les pieds de la route explosent de chiques de salpêtre.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Tu expieras prisonnier de la neige, de la solitude, du désespoir.
 
@@ -3914,10 +3920,10 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Fils.
 
-- Saint Domingue attend la paix,
+- Saint-Domingue attend la paix,
 - l'oubli,
 - les convalescences
-- Saint Domingue attend de dormir.
+- Saint-Domingue attend de dormir.
 
 
 - {:.speaker} Toussaint.
@@ -4063,7 +4069,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 
 
-<em>(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le «&nbsp;héraut&nbsp;»,  «&nbsp;sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
+<em>(À ce moment, vision : dans une campagne tropicale, s'agite et se convulse la silhouette innénarrable du Grand Prohibiteur. Le «&nbsp;héraut&nbsp;», «&nbsp;sa bouche,» est couché sous un arbre&nbsp;? Il ronfle.)</em>
 
 
 
@@ -4298,7 +4304,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - assassins&nbsp;! assassins&nbsp;! assassins&nbsp;!
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Silence&nbsp;!
 
@@ -4308,7 +4314,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.prose} Allons&nbsp;! bonnes gens... c'est vrai que je vous importune... et vous voudriez m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâche vous savez&nbsp;: j'ai tremblé de toutes les peurs depuis la peur première...
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Le gredin&nbsp;!
 
@@ -4318,7 +4324,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.prose} Faites moi peur, faites moi très peur je vous dis. Et vous savez les bons moyens&nbsp;: serrez moi le front avec une corde, pendez moi par les aisselles, chauffez moi les pieds avec une pelle rougie.
 
 
-- {:.speaker} G eolier
+- {:.speaker} Geôlier.
 
 - Tais toi nom de Dieu&nbsp;!
 
@@ -4328,7 +4334,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - Percez moi la bouche d'un cadenas rougi au feu.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Il me tente&nbsp;!
 
@@ -4344,7 +4350,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Tous les diables de l'enfer tisonnent dans sa couenne noire
 
@@ -4354,7 +4360,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - ... ou bien de vos chiffres entrelaçés, ou bien d'une formule latine.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Assez&nbsp;!
 
@@ -4364,7 +4370,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - {:.prose} Ils font les scrupuleux. Ne vous génez pas je vous assure : j'étais absent au baptème du Christ.
 
 
-- {:.speaker} Geolier.
+- {:.speaker} Geôlier.
 
 - Ça se voit à l'œil nu.
 
@@ -4488,7 +4494,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - Isaac... pourquoi rester sous la pluie des scorpions venimeux ?
 - {:.prose} les tamanoirs égarés dans les époques lapent au pavé des villes des fourmis d'aigue-marine. Les sarigues cherchent entre le joint des équinoxes un arbre roux, un arbre d'argent... une volonté se convulse dans le mastic bourbeux des fatalités et le cache-cache des vers luisants. Isaac&nbsp;! Isaac&nbsp;! 
 
-<em> (il s'écroule en gémissant.)</em>
+<em>(Il s'écroule en gémissant.)</em>
 
 
 
@@ -4530,7 +4536,11 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le chœur <em>(chuchotant.)</em>
 
-- {:.prose} C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;! <em>&nbsp;(le vent apporte du lointain des bribes de spiritual.)</em>
+- C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge&nbsp;!
+
+
+<em>(le vent apporte du lointain des bribes de spiritual.)</em>
+
 
 
 - {:.speaker} La sainte Vierge.
@@ -4668,12 +4678,12 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} Saint-Domingue, Saint Domingue.
+- {:.indent-2} Saint-Domingue, Saint-Domingue.
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Saint Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
+- {:.prose .prose-indent} Saint-Domingue les secrets enfermés sous un tour de gorge montent dans le clocher du sang. Les femmes possédées dressent leurs mains savonneuses aux 4 coins du marais au cœur rouge ; les soifs nouvelles s'écoulent, lunes cassées à même la miche d'eau, une pierre au front.
 
 
 - {:.speaker} La récitante.
@@ -4692,10 +4702,10 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 - {:.speaker} Le chœur.
 
-- Saint Domingue&nbsp;! Saint Domingue&nbsp;!
+- Saint-Domingue&nbsp;! Saint-Domingue&nbsp;!
 
 
-<em>(La scène a brusquement changé. Nous sommes à Saint Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
+<em>(La scène a brusquement changé. Nous sommes à Saint-Domingue devant les murs du Cap assiégé par l'armée noire de Dessalines... des coups de canon... des fumées... des pans de murs écroulés... Général noir à cheval entouré d'un nombreux état major... des troupes en armes prêtes à s'ébranler.)</em>
 
 
 <hr>
@@ -4813,7 +4823,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - est-ce que je n'ai pas des mains&nbsp;?
 - de la pierre et de la nuit tombée&nbsp;?
 - un jour-autrefois trève de Dieu sans dieu
-- des ports inconnus toujours- des soleils inconnus
+- des ports inconnus toujours — des soleils inconnus
 - des mains aux créneaux
 - des mains vivantes aux meurtrières
 - le pont-levis s'abaisse sur l'irrémédiable
@@ -4838,7 +4848,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 - et nos jambes criaient victoire
 - et les douves brisées répondaient vengeance
 - par ses ardillons d'étoiles
-- par ses prunelles d'étoiles ses mammesd'étoiles
+- par ses prunelles d'étoiles ses mammes d'étoiles
 - ses cerises d'étoiles qu'elle nous lançait à pleines vannes
 - et la mort n'était pas hargneuse
 - mais douce
@@ -4999,7 +5009,7 @@ An interpretation of the final stage of the Saint-Dié witness.
 
 ---
 
-## Footnotes
+## Notes
 
 [^tei1]: The quote comes verbatim from Cervantes Saavedra, Miguel de. L’ingénieux hidalgo Don Quichotte de la Mancha. Trans. Louis Viardot, and Tony Johannot. Paris: Victor Lecou, 1853. Print.
 

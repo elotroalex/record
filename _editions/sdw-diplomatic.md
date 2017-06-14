@@ -1,11 +1,23 @@
 ---
 layout: poem
-title: "diplomatic"
-description: "" 
-author: alex gil
+title: "diplomatic: ...et les chiens se taisaient"
+description: "A diplomatic edition of the Saint-Dié witness." 
+author: Aimé Césaire
+editor: alex gil
 ---
 
-(draft)
+The following text is a diplomatic interpretation of the final authorial stage of the 
+Saint-Dié witness (~1943). Deletions are marked in *crossed-out red*{:.delete}, and additions 
+in *green*{:.add}. Instant revisions with the typewriter are ommitted. Additions surrounded by |pipes| indicate they were
+written on the margins of the page. The rest of the additions are simply placed next to the deletions, even
+though most of the substantial ones were made above the line. While a hand-sculpted web layout could 
+capture some of the nuances of place in the typescript, this diplomatic is simply an aide to interpreting the handwriting on 
+the images. In cases of unclear characters or words in the original, I instructed the 
+machine to leave unmarked conjectures that were assigned a 50% or larger level of 
+certainty in the TEI—the house odds. Hesitant conjectures are marked in [brackets]. New pages
+are indicated by a horizontal rule. The page numbers correspond to the main pagination, and
+link to the high resolution scans of the original document. Other pagination schemes are ommitted. Line spacing
+bears only a remote relationship to the original.
 
 <hr>
 
@@ -120,7 +132,7 @@ author: alex gil
 - {:.prose .prose-indent} Toussaint a pris tout seul le sentier de la guerre. Tout s’est tu.<br>Fusils et canons se sont tus. Toussaint est nu... Le bouclier de paille<br>tressée est à sa main gauche... Il s’arrête ... Il rampe ... Il s’immo<br>bilise un genou en terre ... Le torse est renversé comme une muraille...<br>La sagaie est levée...
 
 
-( A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, che<br>vaux, chiens. Senteurs de musc et benjoin.)
+(A ce moment un cortège magnifique envahit la scène&nbsp;: pèlerins, che<br>vaux, chiens. Senteurs de musc et benjoin.)
 
 
 <hr>
@@ -130,7 +142,7 @@ author: alex gil
 
 
 
-- {:.speaker}  <span class="add blue-ink inline">1ère</span><span class="delete">Une</span> voix tentatrice.
+- {:.speaker} <span class="add blue-ink inline">1ère</span><span class="delete">Une</span> voix tentatrice.
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
@@ -159,9 +171,9 @@ author: alex gil
 - {:.prose .prose-indent} <span class="add blue-ink ">J</span>e dis que la République a cloché un branle nouveau au monde en heur<br>tant trois mots d’or...
 
 
-- {:.speaker}  <span class="add blue-ink inline">2e</span><span class="delete"><span class="unclear">Ière </span></span> voix tentatrice.
+- {:.speaker} <span class="add blue-ink inline">2e</span><span class="delete">Ière </span> voix tentatrice.
 
-- {:.prose .prose-indent} Ha, ha, ha. des mots, rien que des mots: pas trois; mille mots Tous<br>saint... O mon ami, <span class="delete"><span class="unclear">naïf ami,</span></span> veux-tu de l’argent? des titres? de la<br>terre? Veux-tu être maréchal de camp? Grand d’Espagne<span class="add light-pencil inline">?</span><span class="delete"> </span><span class="delete"><span class="unclear"> [comme Biasson?] </span></span><br>Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+- {:.prose .prose-indent} Ha, ha, ha. des mots, rien que des mots: pas trois; mille mots Tous<br>saint... O mon ami, <span class="delete">naïf ami,</span> veux-tu de l’argent? des titres? de la<br>terre? Veux-tu être maréchal de camp? Grand d’Espagne<span class="add light-pencil inline">?</span><span class="delete"></span><span class="delete">comme Biasson?</span><br>Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
 <hr>
 
@@ -178,7 +190,7 @@ author: alex gil
 - de la charogne et de la boue.
 
 
-- {:.speaker}  <span class="add blue-ink inline">3ème</span><span class="delete">2e</span> voix tentatrice.
+- {:.speaker} <span class="add blue-ink inline">3ème</span><span class="delete">2e</span> voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose<br>en toi qui n’a jamais pu se soumettre, une colère, un désir, une tris<br>tesse, une impatience, un mépris enfin, une violence... Et voilà tes<br>veines charrient de l’or, non de la boue, de l’orgueil, non de la ser<br>vitude. Roi, tu as été roi jadis...
 
@@ -186,7 +198,7 @@ author: alex gil
 - {:.speaker} Toussaint.
 
 - Fête de nuit
-- <span class="add margin">&nbsp;|&nbsp;<span class="unclear">carne</span>&nbsp;|&nbsp;</span><span class="delete"><span class="unclear">came</span></span>, cave
+- <span class="add margin">&nbsp;|&nbsp;carne&nbsp;|&nbsp;</span><span class="delete">came</span>, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
@@ -253,7 +265,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span><span class="add blue-ink inline">,</span> jusqu’au confluent<br>de feu qui me volatilise, qui m’épure et m’incendie de <span class="add  above">mon</span> <span class="delete">prisme </span><span class="delete"><span class="unclear">d'amal </span></span><span class="add margin">&nbsp;|&nbsp;propre&nbsp;|&nbsp;</span><br><span class="add margin">&nbsp;|&nbsp;don&nbsp;|&nbsp;</span><span class="delete">d'or</span> amalgamé.
+- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure<span class="delete">:</span><span class="add blue-ink inline">,</span> jusqu’au confluent<br>de feu qui me volatilise, qui m’épure et m’incendie de <span class="add  above">mon </span><span class="delete">prisme </span><span class="delete">d'amal </span><span class="add margin">&nbsp;|&nbsp;propre&nbsp;|&nbsp;</span><br><span class="add margin">&nbsp;|&nbsp;don&nbsp;|&nbsp;</span><span class="delete">d'or</span> amalgamé.
 
 
 - {:.speaker} Le choeur.
@@ -302,7 +314,7 @@ author: alex gil
 
 - {:.speaker} <span class="delete">Toussaint.</span>
 
-- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant<br>les portes et les fenêtres, d’une enfance de libation et d’holocaustes<br>au fil des yeux, au fil des heures. Un lac de sécheresse p<span class="add light-pencil ">e</span>nd sur ma<br> <span class="add margin">&nbsp;|&nbsp;joue&nbsp;|&nbsp;</span><span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus et
+- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant<br>les portes et les fenêtres, d’une enfance de libation et d’holocaustes<br>au fil des yeux, au fil des heures. Un lac de sécheresse p<span class="add light-pencil ">e</span>nd sur ma<br><span class="add margin">&nbsp;|&nbsp;joue&nbsp;|&nbsp;</span><span class="delete">joie</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
 - Je suis nu.
 - Je suis nu dans les pierres.
@@ -362,9 +374,9 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- Ha/ ha/
+-  Ha/ ha/
 - Nous ne voyons plus
-- Ha/ ha/
+-  Ha/ ha/
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien par<span class="delete">-</span>mi l’herbe nouvelle?
@@ -409,7 +421,7 @@ author: alex gil
 
 - {:.speaker} Le choeur.
 
-- {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et<br>légi<span class="delete"><span class="unclear"> [g] </span></span><span class="add light-pencil inline">f</span>ère
+- {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et<br>légi<span class="delete">g</span><span class="add light-pencil inline">f</span>ère
 
 
 - {:.speaker} Le Récitant.
@@ -445,7 +457,7 @@ author: alex gil
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span><span class="add light-pencil above">piste</span> dans la<br>forêt... le barracoun... le négrier...
+- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la <span class="delete">peste</span><span class="add light-pencil above">piste</span> dans la <br>forêt... le barracoun... le négrier...
 
 
 - {:.speaker} Le choeur.
@@ -455,12 +467,12 @@ author: alex gil
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre cho<br>colat et <span class="delete">jé</span> j’ai vu venir du côté des girofliers un homme, petit . Il<br>noircissait le ciel d’une face de tourbière coupée de libellules...
+- {:.prose .prose-indent} J’ai été réveillé de mon grand rêve de mer violette et de terre cho<br>colat et <span class="delete">jé</span> j’ai vu venir du côté des girofliers un homme,petit . Il<br>noircissait le ciel d’une face de tourbière coupée de libellules...
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Vous avez entendu ... Vous avez entendu... Toussaint arrive. Toussaint<br>met pied à terre... Toussaint monte l’escalier. Toussaint franchit la<br>première marche. Il en est à la 2e . Toussaint est sur le perron. Pas<br>après pas, Toussaint a mis le pied dans la fosse <span class="delete"><span class="delete"><span class="unclear"> [x] </span></span></span>camouflée de sourires<br>glissants...
+- {:.prose .prose-indent} Vous avez entendu ... Vous avez entendu... Toussaint arrive. Toussaint<br>met pied à terre... Toussaint monte l’escalier. Toussaint franchit la<br>première marche. Il en est à la 2e . Toussaint est sur le perron. Pas<br>après pas, Toussaint a mis le pied dans la fosse <span class="delete"><span class="delete">x </span></span>camouflée de sourires<br>glissants...
 
 
 - {:.speaker} Toussaint.
@@ -470,7 +482,7 @@ author: alex gil
 - Voici mes amours, voici mes haines
 - et ma voix très sage enfant au bord de votre alcôve.
 
-- {:.speaker} Choeur (lointain)
+- {:.speaker} Choeur  (lointain)
 
 - {:.indent-2} Ô roi debout.
 
@@ -486,14 +498,14 @@ author: alex gil
 - {:.indent-2} Le fleuve sans idiome s’exaspère des manoeuvres de la cendre;
 - le cap et la limaille
 - les oiseaux et les jours
-- <span class="delete"><span class="unclear"> [tounent] </span></span>tournent avec leur bruit de serrures;
+- <span class="delete">tounent </span>tournent avec leur bruit de serrures;
 - à l’horizon enfantin les animaux fantastiques
 - brouteurs de cervelles
 - ont remisé
 - leurs yeux
 - enjoués de toute la nuit bue.
 
-- {:.speaker} Choeur (lointain)
+- {:.speaker} Choeur  (lointain)
 
 - Ô roi debout.
 
@@ -502,7 +514,7 @@ author: alex gil
 
 - Je veux peupler la nuit d’adieux méticuleux.
 
-- {:.speaker} Choeur (au loin)
+- {:.speaker} Choeur  (au loin)
 
 - Ô roi debout.
 
@@ -511,7 +523,7 @@ author: alex gil
 
 - des violettes, des anémones se lèvent à chaque pas de mon sang.
 
-- {:.speaker} Choeur (plus lointain)
+- {:.speaker} Choeur  (plus lointain)
 
 - Ô roi debout.
 
@@ -520,7 +532,7 @@ author: alex gil
 
 - ... à chaque pas de ma voix, à chaque goutte de mon nom.
 
-- {:.speaker} Choeur (plus lointain encore)
+- {:.speaker} Choeur  (plus lointain encore)
 
 - ... Ô roi debout.
 
@@ -529,7 +541,7 @@ author: alex gil
 
 - ... des pommes d’ara<span class="delete">n</span><span class="add light-pencil above">u</span>caria, des bouquets de cerises.
 
-- {:.speaker} Choeur (presque perdu dans la distance)
+- {:.speaker} Choeur  (presque perdu dans la distance)
 
 - Ô roi debout.
 
@@ -607,7 +619,7 @@ author: alex gil
 
 - {:.speaker} <span class="delete">Toussaint.</span>
 
-- Non, non, <span class="delete"><span class="unclear">tu</span></span><span class="add light-pencil inline">je</span> mens, j’ai peur, je suis seul
+- Non, non, <span class="delete">tu</span><span class="add light-pencil inline">je</span> mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
 - des caravelles inconnues rôdent dans la nuit.
 - Est-ce toi , Colomb ? Capitaine de négrier ? Est-ce toi
@@ -674,7 +686,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple<br>et un emmerdeur. Comme si on n’en avait pas asse<span class="add #d_p inline">z</span> d’emmerdements. Bien<br>sur qu’on n’<span class="delete"><span class="unclear">était</span></span><span class="add #d_p inline">est</span> pas heureux? E<span class="delete">t</span><span class="add #d_p ">h</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on <span class="add margin">&nbsp;|&nbsp;sera&nbsp;|&nbsp;</span><br><span class="delete"><span class="unclear">est</span></span><span class="delete"> </span>heureux avec la liberté et la guerre et <span class="delete">lave</span><span class="delete"> </span>la vengeance des Blancs<br>sur les bras<span class="delete">.</span><span class="add light-pencil ">?</span> Alors je dis que =Toussaint nous <span class="delete">a</span> trahi<span class="delete">s</span><span class="add #d_p ">t</span>. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple<br>et un emmerdeur. Comme si on n’en avait pas asse<span class="add #d_p inline">z</span> d’emmerdements. Bien<br>sur qu’on n’<span class="delete">était</span><span class="add #d_p inline">est</span> pas heureux? E<span class="delete">t</span><span class="add #d_p ">h</span><span class="delete"> maintenant</span>, camarades, est-ce qu’on <span class="add margin">&nbsp;|&nbsp;sera&nbsp;|&nbsp;</span><br><span class="delete">est</span><span class="delete"></span>heureux avec la liberté et la guerre et <span class="delete">lave</span><span class="delete"></span>la vengeance des Blancs<br>sur les bras<span class="delete">.</span><span class="add light-pencil ">?</span> Alors je dis que =Toussaint nous <span class="delete">a</span> trahi<span class="delete">s</span><span class="add #d_p ">t</span>. A mort.
 
 
 - {:.speaker} Des voix.
@@ -730,7 +742,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 
 - {:.speaker} Toussaint.
 
-- dans vos voix de chacal<span class="add  inline">,</span> <span class="delete">la nostalgie</span><span class="add #d_p above">le bien-être</span> des muselières.
+- dans vos voix de chacal<span class="add  inline">,</span><span class="delete"> la nostalgie</span><span class="add #d_p above"> le bien-être</span> des muselières.
 
 
 - {:.speaker} La foule.
@@ -899,9 +911,9 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 
 - {:.prose .prose-indent} La cendre... le songe ... eau noire ... affamés, affamés ...<br>deux mains brûlantes dans l’assiette du soleil...
 
-- {:.speaker} Le récitant (très calme.)
+- {:.speaker} Le récitant  (très calme.)
 
-- {:.indent-2} ... La Grande Révolution de Saint Domingue <span class="delete">continue</span><span class="delete"><span class="add light-pencil below">a commencé</span></span><span class="add #d_p inline">vient de commencer</span>.
+- {:.indent-2} ... La Grande Révolution de Saint Domingue<span class="delete">continue</span><span class="delete"><span class="add light-pencil below">a commencé</span></span><span class="add #d_p inline">vient de commencer</span>.
 
 <hr>
 
@@ -927,13 +939,13 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.indent-2} C’est la saison des étoiles br<span class="delete">u</span><span class="add light-pencil ">û</span>lântes qui commence.
 
-- {:.speaker} 2ème jeune fille (riant)
+- {:.speaker} 2ème jeune fille  (riant)
 
 - {:.indent-2} Ah. C’est un co<span class="add #d_p ">n</span>te
 
-- {:.speaker} Le choeur (menaçant)
+- {:.speaker} Le choeur  (menaçant)
 
-- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse <span class="delete">sous </span>sur<br>la gadoue des <span class="delete"><span class="unclear">banacones.</span></span><span class="add light-pencil ">barracouns.</span>
+- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse <span class="delete">sous </span>sur<br>la gadoue des <span class="delete">banacones.</span><span class="add light-pencil ">barracouns.</span>
 
 
 - {:.speaker} 3ème jeune fille.
@@ -953,7 +965,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Jeunes filles<span class="add light-pencil inline">,</span> respectez les <span class="delete"><span class="unclear">étrangers qui passent</span></span><span class="add blue-ink above">pèlerins qui gaspillent leur pain quotidien</span> sur les ri<br>ches ornières du crépuscule.
+- {:.prose .prose-indent} Jeunes filles<span class="add light-pencil inline">,</span> respectez les <span class="delete">étrangers qui passent </span><span class="add blue-ink above">pèlerins qui gaspillent leur pain quotidien</span> sur les ri<br>ches ornières du crépuscule.
 
 
 (Les jeunes filles s’enfuient.)
@@ -978,7 +990,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu Saint-Domingue.
 
-- {:.speaker} Le choeur (haineux)
+- {:.speaker} Le choeur  (haineux )
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, ou<span class="add light-pencil ">ù</span> le sadisme du maitre, et le rale<span class="add light-pencil inline">‐</span><br>ment de l’esclave par force coprophage parachèvent en traits de vo<span class="add light-pencil inline">­</span><br>mi le happement du squale et le rampement <span class="add light-pencil inline">du</span> scolopendre.
 
@@ -989,7 +1001,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Ier député.
 
-- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est no<br>tre désir de conciliation. Nous avons fait taire en nos coeurs la<br>naturelle indignation qu<span class="delete">i</span><span class="add blue-ink inline">'</span> y suscite le souvenir de tant d’actes de<br>cruauté. Et nous avonsfait table rase de toutes nos répugnances et<br>répulsions, de toutes les habitudes que nos <span class="delete">vieux </span>esprits philoso<br>phes appellent prévention ou préjugés et qui n’en sont pas moins<br>des forces contraignantes dans nos société coloniales...
+- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est no<br>tre désir de conciliation. Nous avons fait taire en nos coeurs la<br>naturelle indignation qu<span class="delete">i </span><span class="add blue-ink inline">'</span>y suscite le souvenir de tant d’actes de<br>cruauté. Et nous avonsfait table rase de toutes nos répugnances et<br>répulsions, de toutes les habitudes que nos <span class="delete">vieux </span>esprits philoso<br>phes appellent prévention ou préjugés et qui n’en sont pas moins<br>des forces contraignantes dans nos société coloniales...
 
 
 - {:.speaker} <span class="delete">2e député.</span>
@@ -1002,7 +1014,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
 
 
-- {:.speaker} Toussaint <span class="delete"><span class="unclear">(l'arrêtant.)</span></span>
+- {:.speaker} Toussaint <span class="delete"> (l'arrêtant.)</span>
 
 - {:.prose .prose-indent} <span class="add #r_i ">C’est bien</span><span class="delete">Arrière Dessalines. Je suis seul chef ici, et ces hommes m’ap‐<br>partiennent</span>. Vous, messieurs, vous exposerez à mes troupes les<br>propositions que vous nous avez faites.
 
@@ -1179,7 +1191,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied<br>des arbres à pain/.
+- {:.prose .prose-indent} Le morne bourgeonne de cris. Des cadavres roulent jusqu’au pied<br>des arbres à pain<span class="delete">,</span>/.
 
 
 - {:.speaker} La récitante.
@@ -1189,12 +1201,12 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Demi-choeur.
 
-- {:.indent-2} Ils nous<span class="add light-pencil vertical-line "> </span>coupaient les jarrets.
+- {:.indent-2} Ils nous<span class="add light-pencil                              vertical-line "> </span>coupaient les jarrets.
 
 
 - {:.speaker} Demi-choeur.
 
-- {:.indent-2} Ils nous<span class="add light-pencil vertical-line "> </span>marquaient <span class="delete">de</span><span class="add  above">au</span> fer rouge.
+- {:.indent-2} Ils nous<span class="add light-pencil                              vertical-line "> </span>marquaient <span class="delete">de</span><span class="add  above">au</span> fer rouge.
 
 
 - {:.speaker} Le choeur.
@@ -1270,7 +1282,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens<span class="add light-pencil inline">,</span> que diable. Vous savez o<span class="add  accent">ù</span> nous<br>en sommes: en pleine révolte servile; la moitié de la province du<br>Nord est en feu. Avec les nègres des habitations Turpin, Flaville,<br><span class="unclear">Trêmes</span>, Noé, Toussaint <span class="delete">et Boukmann </span> <span class="delete">ont</span><span class="add #d_p inline">a</span> constitué<span class="delete">s</span> une armée. Et <span class="delete">que</span><br>quelle armée. J’en frémis. Les femmes subissent les derniers outrag<span class="add light-pencil ">es,</span><br>les enfants sont empalés; les planteurs sont sciés vivants entre<br>deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens<span class="add light-pencil inline">,</span> que diable. Vous savez o<span class="add  accent">ù</span> nous<br>en sommes: en pleine révolte servile; la moitié de la province du<br>Nord est en feu. Avec les nègres des habitations Turpin, Flaville, <br>Trêmes, Noé, Toussaint <span class="delete">et Boukmann </span><span class="delete">ont</span><span class="add #d_p inline">a</span> constitué<span class="delete">s</span> une armée. Et <span class="delete">que</span><br>quelle armée. J’en frémis. Les femmes subissent les derniers outrag<span class="add light-pencil ">es,</span><br>les enfants sont empalés; les planteurs sont sciés vivants entre <br>deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1290,7 +1302,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. <span class="add light-pencil ">Pe</span>ndant que<br>la révolte <span class="add light-pencil ">e</span>ntoure le <span class="delete">c</span><span class="add light-pencil ">C</span>ap <span class="add blue-ink ">prome</span>nant p<span class="add blue-ink ">artout</span> l’<span class="add light-pencil ">incendie et</span> les cris<br>du Vaudou, ici d<span class="add light-pencil ">ans</span> la ville, la voix de la sa<span class="add light-pencil ">ges</span>se a peine à se fai<br>re entendre. On s’en prend aux esclaves restés fidèles. On s’en<br>prend<span class="delete"></span> aux hommes de couleur. Plusieurs d’entre eux ont été massa<br>crés...
+- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. <span class="add light-pencil ">Pe</span>ndant que<br>la révolte <span class="add light-pencil ">e</span>ntoure le <span class="delete">c</span><span class="add light-pencil ">C</span>ap <span class="add blue-ink ">prome</span>nant p<span class="add blue-ink ">artout</span> l’<span class="add light-pencil ">incendie et</span> les cris <br>du Vaudou, ici d<span class="add light-pencil ">ans</span> la ville, la voix de la sa<span class="add light-pencil ">ges</span>se a peine à se fai<br>re entendre. On s’en prend aux esclaves restés fidèles. On s’en<br>prend<span class="delete"></span> aux hommes de couleur. Plusieurs d’entre eux ont été massa<br>crés...
 
 
 - {:.speaker} <span class="delete">Une voix.</span>
@@ -1357,9 +1369,9 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 
 
-- {:.speaker} <span class="add light-pencil inline">1er&nbsp;groupe &nbsp;:</span> Une voix.
+- {:.speaker} <span class="add light-pencil inline">1er&nbsp;groupe&nbsp;:</span> Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso<span class="add #d_p ">n,</span> C’est avec de la mau<br>vaise politique que l’on perd les colonies. Des combats, des plans<br>de bataille. Trêve de balivernes. Avec les nègres, je ne connais<br>qu’un moyen: la terreur. Moi qui vous parle, au<span class="delete">be</span> premier jour de<br>l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’ave<br>nue de mon habitation en guise de palmiers, et je vous garantis que<br>le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso<span class="delete">,. </span><span class="add #d_p ">n, </span>C’est avec de la mau<br>vaise politique que l’on perd les colonies. Des combats, des plans<br>de bataille. Trêve de balivernes. Avec les nègres, je ne connais<br>qu’un moyen: la terreur. Moi qui vous parle, au<span class="delete">be</span> premier jour de<br>l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’ave<br>nue de mon habitation en guise de palmiers, et je vous garantis que<br>le troupeau n’a pas bougé. Voyez-vous...
 
 (la voix se perd dans la<br>nuit.)
 
@@ -1409,7 +1421,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} 3e énergumène.
 
-- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que<br>personne n'a jamais fermée? <span class="delete">J'ai l'honneur de repousser toute </span><span class="delete">mo‐<br>tion </span><span class="delete">de</span> <span class="delete">en ce sens.</span>
+- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que<br>personne n'a jamais fermée? <span class="delete">J'ai l'honneur de repousser toute </span><span class="delete">mo‐<br>tion </span><span class="delete">de</span><span class="delete">en ce sens.</span>
 
 
 (Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite<br>du porte-drapeau. Le drapeau est figuré par une pique. Au bout une<br>tête coupée; la tête du gouverneur.)
@@ -1501,7 +1513,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La nuit et la misère, Camarade, la misère et l’acceptation<span class="delete">uni‐</span><br><span class="delete">verselles </span>animales; la nuit bruissante de souffles d’esclaves dila<br>tant sur les pas du christophore, la grande mer de misères<span class="add #d_p below">&nbsp;et de dividendes</span> la gran<br>de mer de sang noir, la grande houle de cannes à sucre <span class="delete"><span class="add light-pencil above">et de dividendes</span></span><span class="delete">et</span> le grand<br>océan d’horreurs et de désolations.
+- {:.prose .prose-indent} La nuit et la misère, Camarade, la misère et l’acceptation <span class="delete">uni‐</span><br><span class="delete">verselles </span>animales; la nuit bruissante de souffles d’esclaves dila<br>tant sur les pas du christophore, la grande mer de misères<span class="add #d_p below">&nbsp;et de dividendes</span> la gran<br>de mer de sang noir, la grande houle de cannes à sucre<span class="delete"><span class="add light-pencil above"> et de dividendes</span></span><span class="delete">et</span> le grand<br>océan d’horreurs et de désolations.
 - {:.indent-2} <span class="delete">Al </span>A la fin, il y a, à la fin...
 <br>
 
@@ -1510,7 +1522,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le récitant. (d’une voix cinglante.)
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je voisà la fin:<br>à la fin... <span class="delete"><span class="unclear">la culbute de l'Europe</span></span>,ah oui, à l’extrème fin, la cul‐<br><span class="delete">bute</span>bute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules<br>masticatrices, son avachissement visité<span class="delete">e</span> d’épouvantes, son<span class="add light-pencil vertical-line "> </span>insolen<br>ce triturée de prières, et, sur se blessures, la pimentade de mon<br>rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je voisà la fin:<br>à la fin...<span class="delete"> la culbute de l'Europe</span>,ah oui, à l’extrème fin, la cul‐<br><span class="delete">bute</span>bute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules<br>masticatrices, son avachissement visité<span class="delete">e</span> d’épouvantes, son<span class="add light-pencil vertical-line "> </span>insolen<br>ce triturée de prières, et, sur se blessures, la pimentade de mon<br>rire et le sel de mes pleurs.
 
 <hr>
 
@@ -1535,10 +1547,10 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes <span class="delete">pauvres</span> enfants... Courage... C’est dur tout de même.<br>... Courir...courir... et se cacher dans les cannes en flèches... et<br>puis courir encore...Aîe. mes jambes...
+- {:.prose .prose-indent} Courage mes <span class="delete">pauvres</span> enfants... Courage... C’est dur tout de même.<br>... Courir...courir... et se cacher dans les cannes en flèches... et<br>puis courir encore... Aîe. mes jambes...
 
 
-<span class="add light-pencil inline">(</span>Les femmes ont disparu; même décor. Une houe écorne la scène. Des<br>houes<span class="add light-pencil inline">,</span> puis des mains... Ce sont des esclave<span class="delete"><span class="unclear"> [e] </span></span><span class="add light-pencil inline">s</span> qui labourent au crépus<br>cule.<span class="add light-pencil inline">)</span>
+<span class="add light-pencil inline">(</span>Les femmes ont disparu; même décor. Une houe écorne la scène. Des<br>houes<span class="add light-pencil inline">,</span> puis des mains... Ce sont des esclave<span class="delete">e</span><span class="add light-pencil inline">s</span> qui labourent au crépus<br>cule.<span class="add light-pencil inline">)</span>
 
 
 - {:.speaker} Ier esclave (chantant)
@@ -1555,7 +1567,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} 2e esclave (chantant)
 
-- {:.indent-2} Le soleil est une fatigue; ma fatigue va l<span class="delete"><span class="unclear"> [e] </span></span><span class="add light-pencil inline">a</span> fatiguer.
+- {:.indent-2} Le soleil est une fatigue; ma fatigue va l<span class="delete">e</span><span class="add light-pencil inline">a</span> fatiguer.
 
 - {:.speaker} 3e esclave (chantant)
 
@@ -1570,7 +1582,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Ier esclave.
 
-- {:.indent-2} Hé, mes amis, ho.
+- {:.indent-2}  Hé, mes amis, ho.
 
 
 - {:.speaker} 2è esclave.
@@ -1589,7 +1601,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - Ma fatigue est un tombereau de sable insonore
 - aux quatre coins de<span class="add light-pencil inline">s</span> moissons pétrifiées.
 
-- {:.speaker} Le récitant (lugubre.)
+- {:.speaker} Le récitant  (lugubre.)
 
 - {:.prose .prose-indent} Saint-Domingue fond comme un noyé dans l’acide des gorges de la<br>Révolution.
 
@@ -1618,7 +1630,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 [ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}
 
 
-- {:.speaker} La récitante (dolente)
+- {:.speaker} La récitante  (dolente)
 
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et<br>poussent des hurlements clabauds... Le port est couvert de blancs<br>qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes<br>chavirent...
 <br>
@@ -1626,7 +1638,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <span class="delete">( A mesure qu’elle parle, tout cela se dessine sur l’écran.)</span>
 
 
-- {:.speaker} Le récitant (féroce)
+- {:.speaker} Le récitant  (féroce)
 
 - {:.indent-2} ... Les têtes roulent comme des cabosses de cacao.
 
@@ -1662,10 +1674,11 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 
 
-(Cris discordants... Le silence tombe tout à coup lourd et humide,<br>le silence de la Caraïbe. Subitement un navire envahit tout le<span class="delete">cham</span><br>champ de vision, en perdition; et dans la chair de la mer phospho<br>rescente, une inscription explose, sanglante, reflétée par les é<br>cueils.)<br><span class="add blue-ink below">: République d’Haïti.</span>
+(Cris discordants... Le silence tombe tout à coup lourd et humide,<br>le silence de la Caraïbe. Subitement un navire envahit tout le <span class="delete">cham</span><br>champ de vision, en perdition; et dans la chair de la mer phospho<br>rescente, une inscription explose, sanglante, reflétée par les é<br>cueils.)
 
+- <span class="add blue-ink indent below"> : République d’Haïti.</span>
 
-- {:.speaker} Le choeur (enthousiaste)
+- {:.speaker} Le choeur  (enthousiaste)
 
 - {:.indent-2} Haiti. Hâïti.
 
@@ -1673,7 +1686,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 (Le récitant et la récitante se rapprochent<br>à tatons sur le devant de la scène.)
 
 
-- {:.speaker} Le récitant (pleurant)
+- {:.speaker} Le récitant  (pleurant)
 
 - Froid coeur de la mort, la lagune a dégainé son <span class="add light-pencil above">rire de</span> poignard.
 
@@ -1683,27 +1696,27 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
 
-- {:.centered}  <span class="delete">Acte III.</span><span class="add  ">Acte II</span>
+- {:.centered} <span class="delete">Acte III.</span><span class="add  ">Acte II</span>
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes<br>mourants, déferlez filles grosses;<span class="delete">contre-</span> écumez contre mon attente scabreuse
+- {:.prose} Il fait beau, monstrueusement beau. Déferlez semaines, scrupules des mondes<br>mourants, déferlez filles grosses; <span class="delete">contre-</span> écumez contre mon attente scabreuse
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Me voici, l'homme-marchand aux mains vides, oeil nu su<span class="add blue-ink ">s</span>citant le spectacle,<br>gorge brassant vivants les mots éclos contre mes dents.
+- {:.prose} Me voici, l'homme-marchand aux mains vides, oeil nu su<span class="add blue-ink ">s</span>citant le spectacle,<br>gorge brassant vivants les mots éclos contre mes dents. 
 
 
 - {:.speaker} Récitante.
 
-- {:.prose} Me voici, moi, moi: la <span class="delete">fmme-pbsédée</span> femme obsédée des grandes paroles et je<span class="delete">nag</span><br>nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cada<br>vres?
+- {:.prose} Me voici, moi, moi: la <span class="delete">fmme-pbsédée</span> femme obsédée des grandes paroles et je <span class="delete">nag</span><br>nage parmi les glaieuls et les roses de Jéricho vers l'odeur simple des cada<br>vres?
 
 
 - {:.speaker} Récitant.
 
-- {:.prose} Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de <span class="delete">meutres</span><span class="add u_m above">meurtres</span> n'est‐<br>ce pas? Plus de crimes flamboyants? L'orgue de Barbarie ronronne aveugle des<br>minutes de silence et de silence et de silence, sciure du temps sans poussière<br>Ho. Ho. une odeur de cadavres... du sang pétillant comme une grande cuve de<span class="delete">v</span><br>vin.
+- {:.prose} Ce n'est pas vrai...Il n'y a plus de combats. Il n'y a plus de <span class="delete">meutres</span><span class="add u_m above">meurtres</span>n'est‐<br>ce pas? Plus de crimes flamboyants? L'orgue de Barbarie ronronne aveugle des<br>minutes de silence et de silence et de silence, sciure du temps sans poussière<br>Ho. Ho. une odeur de cadavres... du sang pétillant comme une grande cuve de<span class="delete">v</span><br>vin.
 
 
 - {:.speaker} Récitante.
@@ -1713,7 +1726,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Récitant.
 
-- {:.prose} Il fait beau une gerbera plus nue qu'une femme <span class="delete">du soleil</span> dans le soleil joue<br>vers le soleil et le soleil crépite dans les <span class="delete">ceveaux</span> cerveaux fermés diadème<br>miné arbre du voyageur coeur tressébelles-eáux-souflées-haut-gelées.
+- {:.prose} Il fait beau une gerbera plus nue qu'une femme <span class="delete">du soleil</span> dans le soleil joue<br>vers le soleil et le soleil crépite dans les <span class="delete">ceveaux</span> cerveaux fermés diadème<br>miné arbre du voyageur coeur tressé belles-eáux-souflées-haut-gelées.
 
 
 - {:.speaker} Récitant.
@@ -1723,7 +1736,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} <span class="delete">Récitante. </span><span class="delete"><span class="add b_i inline">Récitante</span></span>
 
-- <span class="delete"><span class="add blue-ink "><span class="unclear">Ô j'attends passionnément&nbsp;: je suis cernée</span> </span></span>
+- <span class="delete"><span class="add blue-ink ">Ô j'attends passionnément&nbsp;: je suis cernée</span></span>
 
 <hr>
 
@@ -1738,7 +1751,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 
 
-- {:.speaker} <span class="add light-pencil inline">(</span>1ère délégation,<span class="delete">,</span><span class="add light-pencil ">)</span> 1er orateur.
+- {:.speaker} <span class="add light-pencil inline">(</span>1ère délégation<span class="delete">,</span><span class="add light-pencil ">)</span> 1er orateur.
 
 - {:.prose .prose-indent} Gloire à Toussaint Louverture&nbsp;: il a purgé la colonie des hordes<br>tyranniques des Anglais.
 
@@ -1786,8 +1799,8 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Le grand Maitre de l'Université.
 
-- {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple&nbsp;!<br>Libre à un Villaret-Joyeuse de fermer les écoles dans la Martinique<br>voisine et de déclarer cyniquement&nbsp;:
-- {:.prose .prose-indent} "L'ignorance est un lien nécessaire pour des hommes enchainés par la<br>violence ou flétris par les préjugés ". Ici, dans notre libre Haïti, ago<br>nise, gràce à l'impétueux génie de Toussaint Louverture, le système impie<br>qui voulait que l'ignorance fût une politique, une police, un dogme.
+- {:.prose} Gloire et reconnaissance à Toussaint Louverture éducateur du peuple&nbsp;!<br>Libre à un Villaret- Joyeuse de fermer les écoles dans la Martinique<br>voisine et de déclarer cyniquement&nbsp;:
+- {:.prose .prose-indent} "L'ignorance est un lien nécessaire pour des hommes enchainés par la<br>violence ou flétris par les préjugés. Ici, dans notre libre Haïti, ago<br>nise, gràce à l'impétueux génie de Toussaint Louverture, le système impie<br>qui voulait que l'ignorance fût une politique, une police, un dogme.
 
 
 - {:.speaker} La foule.
@@ -1805,23 +1818,23 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - Vive Toussaint&nbsp;! Vive Toussaint&nbsp;!
 
 
-- {:.speaker} <span class="add light-pencil inline">(</span>Délégation du clergé.<span class="delete">.</span><span class="add light-pencil ">)</span> Les chantres.
+- {:.speaker} <span class="add light-pencil inline">(</span>Délégation du clergé<span class="delete">.</span><span class="add light-pencil ">)</span> Les chantres.
 
 - Salvum fac imperatorem.
 
 
 - {:.speaker} L'archevèque.
 
-- Dieu nous l'a donné&nbsp;! Dieu nous le conservera .( Il bénit la foule).
+- Dieu nous l'a donné&nbsp;! Dieu nous le conservera . ( Il bénit la foule).
 
-- {:.speaker} Les chantres braillant.
+- {:.speaker} Les chantres  braillant.
 
 - Salvum fac gubernatorem
 
 
 - {:.speaker} Toussaint.
 
-- Îles heureuses
+- îles heureuses
 - jardins de la reine
 - je me laisse dériver dans la nuit d'épices de tornade et de saintes images
 - et le varech
@@ -1835,7 +1848,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 [ 44 ](/data/sdw-data/P044.jpg){: target='_blank'}
 
 
-- {:.speaker} Chantres braillant.
+- {:.speaker} Chantres  braillant.
 
 - Salvum fac civitatis fundatorem.
 
@@ -1843,13 +1856,13 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - {:.speaker} Toussaint.
 
 - Une tour
-- il y a des lézard<span class="delete">e</span><span class="add light-pencil ">es</span> dans le mur <span class="add  ">; </span><span class="delete">je vois une comète dessus</span>
+- il y a des lézard<span class="delete">e</span><span class="add light-pencil ">es</span> dans le mur<span class="add  ">; </span><span class="delete">je vois une comète dessus</span>
 - une forêt pleine de loups
 - et ils se promènent la-dedans mitre en tête
 - un plat de champignons venéneux
 - et ils se jettent dessus goulûment.
 
-- {:.speaker} Chantres ( braillant plus fort)
+- {:.speaker} Chantres  ( braillant plus fort)
 
 - Salvum fac Spartacum!
 
@@ -1873,7 +1886,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - {:.speaker} Toussaint.
 
 - Un singe, je <span class="delete">singe </span>suis un singe qui par ses grimaces attroupe
-- les escales de flaques d'eau depoudrières,dedesespérance, de famine
+- les escales de flaques d'eau de poudrières,dedesespérance, de famine
 - de vengeances rentrées, de détresses nucléaires, de dévotions inavouables
 - et c'est toi que j'interroge
 - ô vent
@@ -1901,17 +1914,17 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - Oh! la levée des bâtardeaux&nbsp;!
 - une agonie sur les eaux
-- une grosse<span class="add light-pencil above"> voix</span>dans la citerne
+- une grosse<span class="add light-pencil above"> voix</span> dans la citerne
 - une grosse<span class="add light-pencil above"> voix</span> de guépards pluvieux
 - <span class="delete">dans la citerne</span>dans la forêt de l'océan.
 
 
 - {:.speaker} Toussaint.
 
-- Connaissez-vous <span class="delete">Samarra .</span><span class="add light-pencil above">Samana ?</span> Ici est<span class="add light-pencil inline">&nbsp;</span>ma querencia:
+- Connaissez-vous <span class="delete">Samarra .</span><span class="add light-pencil above">Samana ?</span> Ici est<span class="add light-pencil inline"> </span>ma querencia&nbsp;:
 - malheur à qui m'y traque.
 
-- {:.speaker} Chantres <span class="add light-pencil inline">(</span>braillant.<span class="add light-pencil inline">)</span>
+- {:.speaker} Chantres <span class="add light-pencil inline"> (</span>braillant.<span class="add light-pencil inline">)</span>
 
 - Salvum fac.<span class="add blue-ink inline">..</span>
 
@@ -1928,7 +1941,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - avant-garde de <span class="delete">voratrices</span><span class="add blue-ink above">voceratrices</span> et de fossoyeurs.
 
 
-( La scène est envahie par des prêtres de tous ordres qui bénissent frénéti‐<br>quementº)
+( La scène est envahie par des prêtres de tous ordres qui bénissent frénéti‐<br>quementº) 
 
 
 
@@ -1980,13 +1993,13 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 
 
-&nbsp;&nbsp;( entre la nourrice, une vieille négresse chargée de médaillesº)
+( entre la nourrice, une vieille négresse chargée de médaillesº)
 
 
 
-- {:.speaker}  <span class="add blue-ink inline">le choeur </span><span class="delete">Nourrice.</span>
+- {:.speaker} <span class="add blue-ink inline">le choeur</span><span class="delete">Nourrice.</span>
 
-- {:.prose} C'est moi la nourrice . Toussaint Louverture, bien sûr qu'il n'avait pas de<br>nourrice; et qu'il ne m'est jamais <span class="delete">sauté</span><span class="add blue-ink above">tombé</span> des bras ; et qu'on sait qu'il a<br>bu le lait de la terre et qu'il a machonné le sein de la terre et qu'il a<br>mangé le pain de la terre, mais une nourrice, imaginez que je suis la terre.
+- {:.prose} C'est moi la nourrice . Toussaint Louverture, bien sûr qu'il n'avait pas de<br>nourrice; et qu'il ne m'est jamais <span class="delete">sauté</span><span class="add blue-ink above">tombé</span> des bras&nbsp;; et qu'on sait qu'il a<br>bu le lait de la terre et qu'il a machonné le sein de la terre et qu'il a<br>mangé le pain de la terre, mais une nourrice, imaginez que je suis la terre.
 - Alors je suis venu vous demander de lui pardonner.
 - {:.prose} Il est bizarre mon enfant, il est violent mon enfant; il réclame mon enfant;<br>des droits. Toutes sortes de droits. Des droits qui ne sont pas faits pour<br>nous.
 - {:.prose} Mais je dis que c'est pas de sa faute. Ho<span class="delete">u</span><span class="add #u_m ">n</span>! je dis que c'est son sang qui est<br>plus fort que lui; et qui le bat, et qui lui joue de mauvais tours. Ho<span class="delete">u</span><span class="add #u_m ">n</span>.<br>Et je vois qu'il a passé sa maladie à une foule de jeunes gens. Et c'est très<br>malheureux. Une foule de jeunes réclameurs. Des nègres&nbsp;: ils ont tort de tant<br>réclamer. Et forcément <span class="add blue-ink ">ç</span>a attire le malheur. De mon temps on était plus doux,<br>plus acceptant, plus consentant. <span class="delete">Hou.</span><span class="add blue-ink ">Hon.</span>
@@ -2010,7 +2023,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - qu'y-a-t-il? qu'y-a-t-il?
 - à travers ma main j'aperçois des étoiles
 - des libertés désu<span class="add blue-ink accent">è</span>t<span class="delete">t</span>es
-- ;;; une face révulsée <span class="delete">prise</span><span class="add blue-ink above">prise</span> dans le <span class="delete"><span class="unclear">gele</span></span> gel et le surplomb et le filet du pian.
+- ;;; une face révulsée <span class="delete">prise</span><span class="add blue-ink above">prise</span> dans le <span class="delete">gele</span> gel et le surplomb et le filet du pian.
 
 
 - {:.speaker} Récitant.
@@ -2020,7 +2033,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 
 - {:.speaker} Toussaint.
 
-- Masse sans <span class="delete"><span class="unclear">comunauté- </span></span>communauté ni communion
+- Masse sans <span class="delete">comunauté- </span>communauté ni communion
 - une église brûle dans l'écrin <span class="add blue-ink ">d</span>e la forêt tordue
 - des débris de fusée disent hourra
 - la chair vole en copeaux d'Afrique sombre.
@@ -2034,7 +2047,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 - {:.speaker} Récitant.
 
 - <span class="delete">Cp </span>Coupeurs de choux-palmistes,
-- charmeurs de <span class="delete">serp<span class="unclear">n</span>nts</span><span class="add blue-ink above">serpents</span>
+- charmeurs de <span class="delete">serpnnts</span><span class="add blue-ink above">serpents</span>
 - vous ne charmerez pas mes mains de sablier inexorable
 - et j'arrive dans ce pays où rien n'arrive présser
 - - de peur qu'elles ne s'endorment-
@@ -2079,14 +2092,14 @@ Une rue du Cap.
 - {:.prose} N'empêche que ça m'emmerde de voir un bicorne de général français sur une<br>tête de macaque.
 
 
-- {:.speaker} Ier passant .
+- {:.speaker} Ier passant.
 
 - {:.prose .prose-indent} M'est avis qu'on se fout de lui. Dame! Les anglais et les Espagnols nous<br>pressaient&nbsp;: la néc<span class="delete">i</span><span class="add light-pencil ">é</span>ssité, tu comprends.
 
 
 - {:.speaker} 2e passant.
 
-- {:.prose .prose-indent} Encore comme ça! Les Anglais et les Espagnols mis à la raison, on renvoie<br>Maitre Gilles. N'empêche  que ça m'emmerde qu'on dise "mon général" à un<br>vieux cul et qu'on se mette devant lui au garde à vous.
+- {:.prose .prose-indent} Encore comme ça! Les Anglais et les Espagnols mis à la raison, on renvoie<br>Maitre Gilles. N'empêche  que ça m'emmerde qu'on dise mon général à un<br>vieux cul et qu'on se mette devant lui au garde à vous.
 
 - {:.speakerGroup} 2e groupe de passants.
 
@@ -2115,7 +2128,7 @@ Une rue du Cap.
 - {:.indent-2} Quel soufflet pour nous&nbsp;!
 
 
-<span class="add  "><span class="delete">(palais de Toussaint une terrasse. )</span> </span>
+<span class="add  "><span class="delete">(palais de Toussaint une terrasse. )</span></span>
 
 
 
@@ -2159,7 +2172,7 @@ Une rue du Cap.
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages....pleins
-- {:.prose} de poignards<span class="add light-pencil inline">,</span> de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges<br>une vaste improvisation de tornades, de coup<span class="delete">a</span>s de soleil,de maléfices, de<br>pierres qui cuisent,de petits jours étranges,l'engourdissement bu à petite<span class="add  ">s</span><br>gorgées,<span class="delete">la</span><span class="add  ">le</span> sexe rouge<span class="add  inline">, </span><span class="add  ">le</span> sexe jaune, dévorateur, dévorateur....
+- {:.prose} de poignards<span class="add light-pencil inline">,</span> de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges<br>une vaste improvisation de tornades, de coup<span class="delete">a</span>s de soleil,de maléfices, de<br>pierres qui cuisent,depetits jours étranges,l'engourdissementbu à petite<span class="add  ">s</span><br>gorgées,<span class="delete">la</span><span class="add  ">le</span> sexe rouge<span class="add  inline">, </span><span class="add  ">le</span> sexe jaune, dévorateur, dévorateur....
 
 
 - {:.speaker} Le choeur.
@@ -2186,7 +2199,7 @@ Une rue du Cap.
 [ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
 
 - nénuphars.
-- {:.indent-2} <span class="add margin">&nbsp;|&nbsp;<span class="delete">on</span>&nbsp;|&nbsp;</span> <span class="delete">J'ai muselé </span><span class="add #r_i above">On muselerait </span>la mer en écoutant peiner les maraichers vers la croupe
+- {:.indent-2} <span class="add margin">&nbsp;|&nbsp;<span class="delete">on</span>&nbsp;|&nbsp;</span><span class="delete">J'ai muselé </span><span class="add #r_i above">On muselerait </span>la mer en écoutant peiner les maraichers vers la croupe
 - fabuleuse des matins, dans une douceur de scandales et d'écume.
 
 
@@ -2209,7 +2222,7 @@ Une rue du Cap.
 - {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues<br>et les fauves!'
 - Je n'ai pas le don du vol.
 - Je n'ai pas de mère- je n'ai pas de passé.
-- J'ai comblé<span class="delete">e</span> jusqu'àl'oubli,de poussières et d'insultes, le puits
+- J'ai comblé<span class="delete">e</span> jusqu'à l'oubli,de poussières et d'insultes, le puits
 - marâtre de mon nombril.
 
 
@@ -2235,7 +2248,7 @@ Une rue du Cap.
 
 - {:.speaker} Le Récitant.
 
-- Attention!'
+-  Attention!'
 - Je crie attention du haut de ma guette.
 - Plus près!
 - Par ici!
@@ -2265,7 +2278,7 @@ Une rue du Cap.
 
 
 
-<span class="add blue-ink inline">(</span>Vision de panique . Des hommes courent en tous sens.<span class="add blue-ink inline">)</span>
+<span class="add blue-ink inline">(</span>Vision de panique. Des hommes courent en tous sens.<span class="add blue-ink inline">)</span>
 
 
 
@@ -2397,7 +2410,7 @@ Une rue du Cap.
 
 - {:.speaker} Parlementaire.
 
-- {:.prose} Je serais franc, la République entend fairerentrer,sous<span class="delete">domination </span> sa domination<br>la plus belle de ses colonies: Saint Domingue.
+- {:.prose} Je serais franc, la République entend faire rentrer,sous<span class="delete">domination </span> sa domination<br>la plus belle de ses colonies: Saint Domingue.
 
 
 - {:.speaker} Toussaint.
@@ -2412,7 +2425,7 @@ Une rue du Cap.
 - <span class="delete">hela </span>écoutez-moi
 - j'ai soif de vos flèche incendiaires
 - de vos fumées asphyxiantes roug<span class="add  ">es</span> de piments
-- de vos coups de sifflet<span class="delete">ppquant</span><span class="add blue-ink above">piquant</span> le jarret des aubes
+- de vos coups de sifflet <span class="delete">ppquant</span><span class="add blue-ink above">piquant</span> le jarret des aubes
 - de votre curare
 - de votre génipa.
 
@@ -2482,7 +2495,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.indent-2} Qu'est ce que c'est?...
 
-- {:.speaker} Toussaint (extatique)
+- {:.speaker} Toussaint  (extatique)
 
 - Accoudé à la rampe de feu,
 - les cris des nuages ne me suffisaient <span class="delete">plus</span> pas.
@@ -2512,7 +2525,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Parlementaire.
 
-- {:.prose} <span class="delete">Laissons là des considérations économiques et policières... </span>Ce que vous<br><span class="delete">rzproche <span class="add  above">reproche</span> le consul...</span>
+- {:.prose} <span class="delete">Laissons là des considérations économiques et policières... </span>Ce que vous<br><span class="delete">rzproche<span class="add  above">reproche</span> le consul...</span>
 
 <hr>
 
@@ -2523,7 +2536,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} le choeur.
 
-- Dites au Vaudou d'éteindre le jaune solaire de ses <span class="delete">minitsminuig</span> minuits
+- Dites au Vaudou d'éteindre le jaune solaire de ses <span class="delete">minitsminuig</span>minuits
 - dites aux bothrops que les jeux <span class="delete">snt faits</span> sont faits
 - nous sommes la race tombée
 - nous sommes la race sans jour et sans lendemain
@@ -2532,7 +2545,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 - {:.speaker} Récitante.
 
 - Arpège de guitares sinistres il se lève sous mes paupières
-- &nbsp;&nbsp;une aube saignée à blanc
+-  une aube saignée à blanc
 - je suis attente toute attente
 - je marche sur les oeufs des instants précieux
 - ô les chemins fragiles têtus et certains
@@ -2554,7 +2567,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.prose} Nous sommes au moment où l'impératrice décrète dans les grottes de l'empire<br>l'inutilité des caisses de compensation et se tatoue les cuisses d'une pluie<br>de datûras où râle une lance flammée.
 
-- {:.speaker} Toussaint (à la foule)
+- {:.speaker} Toussaint  (à la foule)
 
 - {:.indent-2} Mes amis, cries avec moi&nbsp;: Vive la liberté.
 
@@ -2614,7 +2627,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès mainte<br>nant que les blancs ne doivent avancer ici que parmi des ruines et des dé<br>combres : trois coups de canon vous donneront le signal <span class="delete">de la </span><span class="add blue-ink above">d'une </span>démolition<br>sytémati<span class="delete">sée</span><span class="add blue-ink above">que</span><span class="delete">et</span><span class="add  inline">,</span> implacable . Feu et cendre . <span class="delete">Puisse</span><span class="add  above">Perisse </span> Saint Domingue plutôt<br>que <span class="delete">la honte</span><span class="add blue-ink above">notre liberté </span><span class="add blue-ink inline">:</span> la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès mainte<br>nant que les blancs ne doivent avancer ici que parmi des ruines et des dé<br>combres : trois coups de canon vous donneront le signal <span class="delete">de la </span><span class="add blue-ink above">d'une </span>démolition<br>sytémati<span class="delete">sée</span><span class="add blue-ink above">que</span><span class="delete"> et</span><span class="add  inline">,</span> implacable . Feu et cendre . <span class="delete">Puisse</span><span class="add  above">Perisse </span>Saint Domingue plutôt<br>que <span class="delete">la honte</span><span class="add blue-ink above">notre liberté </span><span class="add blue-ink inline">:</span> la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2657,7 +2670,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 - {:.indent-2} Vive Toussaint Louverture . Vive Toussaint Louverture.
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} Toussaint .
 
 - Faites sauter la ville ;
 - j'assassinerai, je dépècerai
@@ -2711,7 +2724,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 - {:.indent-2} Vive le liberté . Vive Toussaint.
 
 
-( des troupes défilent ... une <span class="delete">foule</span><span class="add #r_i above">forêt </span>la nuit ; lueurs d'incendieau.loin...<br>des cavaliers.)
+( des troupes défilent ... une <span class="delete">foule</span><span class="add #r_i above">forêt </span>la nuit ; lueurs d'incendie au.loin...<br>des cavaliers.)
 
 
 
@@ -2865,7 +2878,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang.<br>pauvres dieux faces débonnaires , bras trop longs<span class="add #u_m inline">,</span> chassés d'un paradis de<br>rhum - paumes cendreuses visitées de chauves souris et de meutes somnambules-<br>la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
-- {:.prose} J'ai saigné dans les couloirs secrets - sur le sol grand'ouvert des batailles<br>et,
+- {:.prose} J'ai saigné dans les couloirs secrets- sur le sol grand'ouvert des batailles<br>et,
 - je m'avance, mouche dédorée grand insecte <span class="delete">malicorns</span><span class="add blue-ink above">malicorne </span>et vorace
 - {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de<br>mon corps assassiné violent à travers les barreaux du soleil.
 
@@ -2895,7 +2908,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Toussaint.
 
-- le caïman <span class="add  ">!</span> les torches <span class="add  ">!</span> les drapeaux<span class="add  ">&nbsp;!</span>
+- le caïman <span class="add  ">!</span> les torches <span class="delete">.</span><span class="add  ">!</span> les drapeaux<span class="add  ">&nbsp;!</span>
 - et l'Amazone degout d'hévéas
 - et les lunes tombées comme des graines ailées dans l'hum<span class="add blue-ink ">u</span>s tiède du ciel
 - o main de l'étrangleur,
@@ -2939,7 +2952,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 - vaincu,
 - Afrique, Amérique, Europe j'ai de la frénésie cachée sous les feuilles,
 - <span class="add margin">&nbsp;|&nbsp;à&nbsp;|&nbsp;</span> ma suffisance ;
-- je tiens à l'abri descoeursà flanc de furie
+- je tiens à l'abri des coeurs à flanc de furie
 - l<span class="add  ">a</span> clé des perturbations
 - et tout à détruire.
 - le soufre mon frère, le soufre mon sang
@@ -2990,7 +3003,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Choeur.  souterrain.
 
-- {:.indent-2} Voici ma main . voici ma main .
+- {:.indent-2} Voici ma main . voici ma main.
 - Ma main fraiche, ma main de jet d'eau de sang
 - ma main de varech et d'iode
 - ma main de lumière et de vengeance...
@@ -3011,7 +3024,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 
 
-( passent des nègres " enfilés par le cou à une longue chaine de fer, comme les<br>grains d'un chapelet, et portant tons des menottes aux bras")
+( passent des nègres "enfilés par le cou à une longue chaine de fer, comme les<br>grains d'un chapelet, et portant tons des menottes aux bras)
 
 
 
@@ -3019,25 +3032,25 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 
 
-- {:.speaker} 1e <span class="delete">évêque</span><span class="add  inline">dieu</span>
+- {:.speaker} 1e <span class="delete">évêque</span><span class="add  inline"> dieu</span>
 
 - quelle époque. Mes enfants vous avez fait là une belle boucherie
 
 
-( il s'assied sur son trône)
+( il s'assied sur son trône )
 
 
 
-- {:.speaker} 2e <span class="delete">évêque</span><span class="add  inline">dieu</span>
+- {:.speaker} 2e <span class="delete">évêque</span><span class="add  inline"> dieu</span>
 
 - {:.prose} Une époque étonnante mes frères: la morue terre-neuvienne se jette d'elle-même s<br>sur les lignes.
 
 
-( il s'assied sur son trône)
+( il s'assied sur son trône )
 
 
 
-- {:.speaker} 3e <span class="delete">évêque</span><span class="add  inline">dieu</span>
+- {:.speaker} 3e <span class="delete">évêque</span><span class="add  inline"> dieu</span>
 
 - Je dis que c'est une époque étourdissante ou stupéfiante à votre gré
 
@@ -3046,7 +3059,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 
 
-- {:.speaker} 4e <span class="delete">évêque</span><span class="add  inline">dieu</span>
+- {:.speaker} 4e <span class="delete">évêque</span><span class="add  inline"> dieu</span>
 
 - Une époque phallique et fertile en miracles
 
@@ -3067,7 +3080,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} l'archevêque
 
-- Allons, j'entends la flut<span class="delete">t</span>e perlée des crapauds et lecrécellementrugueux des
+- Allons, j'entends la flut<span class="delete">t</span>e perlée des crapauds et le crécellement rugueux des
 - grillons de la nuit. ouah, brrouah.
 
 
@@ -3093,7 +3106,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Récitante.
 
-- cernée d'enfants et d'yeux et de ruées de<span class="delete">rres</span> rires.
+- cernée d'enfants et d'yeux et de ruées de <span class="delete">rres</span> rires.
 
 
 - {:.speaker} Récitant.
@@ -3127,12 +3140,12 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} le voyageur.
 
-- {:.prose} De bien loin... Dites, j'ai jadis connupar;iciun homme qui <span class="delete">s'apelait</span><span class="add #u_m above">s'appelait </span> Tous<span class="delete">sain</span><br>saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de<br>mains hardies... Toussaint, Toussaint Louverture.
+- {:.prose} De bien loin... Dites, j'ai jadis connu par;ici un homme qui <span class="delete">s'apelait</span><span class="add #u_m above">s'appelait </span>Tous<span class="delete">sain</span><br>saint, et le sobriquet avait curieusement allongé son nom d'une aigrette de<br>mains hardies... Toussaint, Toussaint Louverture.
 
 
 - {:.speaker} les bonnes gens.
 
-- Hein,<span class="delete">c'est drôle</span> nous le conaissons pas.
+- Hein, <span class="delete">c'est drôle</span> nous le conaissons pas.
 
 
 - {:.speaker} le voyageur.
@@ -3142,8 +3155,12 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} les bonnes gens.
 
-- {:.prose} &nbsp;C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie<br>à planter des pierres.
-- <span class="delete">le voyageur.</span>
+- {:.prose}  C'est drôle et bien possible nous le connaissons pas. Nous passons notre vie<br>à planter des pierres.
+
+
+- {:.speaker} <span class="delete">le voyageur.</span>
+
+- 
 
 <hr>
 
@@ -3174,7 +3191,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} le voyageur.
 
-- {:.prose} Oui toutefois.. un homme étonnant... en morsure<span class="add #u_m inline">s</span> profondes..Il parcourut le pays<br>à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cada<br>vres<span class="delete">e</span>détrempés, ses pas fertiles.
+- {:.prose} Oui toutefois.. un homme étonnant... en morsure<span class="add #u_m inline">s</span> profondes..Il parcourut le pays<br>à la vitesse rapide de l'éclair et de la liberté, imprimant sur le sol de cada<br>vres<span class="delete">e</span> détrempés, ses pas fertiles.
 
 
 - {:.speaker} les bonnes gens.
@@ -3207,7 +3224,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère,<span class="delete">vot</span><br>votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
+- {:.prose} Toussaint Louverture c'est moi, votre vengeance, votre liberté, votre colère, <span class="delete">vot</span><br>votre sang levé, votre machete, votre tête laineuse, votre paroxysme.
 
 
 ( les bonnes gens se mettent à planter des pierres, puis brusquement s'arrêtent<span class="add #u_m inline">)</span>
@@ -3277,10 +3294,10 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 
 ( Il approche l'oreille du sol)
 
-<br>Oh, des pas ; des sabots de chevaux ; des rampements de larves grossis dans<br>la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures<br>d'aveugle. Je suis atteint. Oh Oh, je suis atteint.<br>
+<br>Oh, des pas&nbsp;; des sabots de chevaux&nbsp;; des rampements de larves grossis dans<br>la vallée de mes oreilles. Confluences. Flaques. Langages. Mains sures<br>d'aveugle. Je suis atteint. Oh Oh, je suis atteint.
 
-( Il se<span class="delete">lève</span> redresse; à ce moment la lune brille de tout son éclat haut dans<br>le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie<br>de loin)
 
+( Il se <span class="delete">lève</span> redresse; à ce moment la lune brille de tout son éclat haut dans<br>le ciel. Toussaint s'enfonce dans la nuit. Il s'arrète, se retourne et crie<br>de loin)
 
 
 
@@ -3345,7 +3362,7 @@ En France. Une prison dans le Jura.
 
 [ 74 ](/data/sdw-data/P074.jpg){: target='_blank'}
 
-- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème<span class="delete">,</span><span class="add blue-ink above">et</span> c'est elle qui refait au<br>jourd'hui du général Tou<span class="add  above">s</span>saint Louverture, le vieux Toussaint, l'esclave Tous<br>saint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux,<br>un nègre dégringolé...
+- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème<span class="delete">,</span><span class="add blue-ink above"> et</span> c'est elle qui refait au<br>jourd'hui du général Tou<span class="add  above">s</span>saint Louverture, le vieux Toussaint, l'esclave Tous<br>saint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux,<br>un nègre dégringolé...
 - {:.prose .prose-indent} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des<br>jours sanglotés.
 
 
@@ -3428,14 +3445,17 @@ En France. Une prison dans le Jura.
 - L'Afrique a part avec lui
 - Toussaint a part avec lui qu'il le veuille ou non.
 - Je dis que l'Afrique ne le lâchera pas...
-- ( à ce moment entre à l'autre bout de la scène le Messager)
+
+
+( à ce moment entre à l'autre bout de la scène le Messager)
+
 
 
 - {:.speaker} Toussaint.
 
 - Ah. Voici le digne messager de cette race <span class="delete">cupide</span><span class="add #u_m above">cupide</span>.
 - L'or et l'argent ont tissé leur teint p<span class="delete">d</span><span class="add  ">â</span>le
-- l'attente de la proie a busqu<span class="delete">ë</span><span class="add  ">é</span> leur nez fauve
+- l'attente de la proie a busqu<span class="delete">ë</span><span class="add  ">é</span>leur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids
 - ah. C'est une race sans velours.
 
@@ -3543,7 +3563,7 @@ En France. Une prison dans le Jura.
 - {:.prose} Il y a dans ma tête une riviere de <span class="delete">boue</span><span class="add #u_m ">boue</span> d'ablettes de choses troubles et<br>vertes d'oiseaux morts,de ventres jaunes,
 - des miaulemants entrecroisés giclés très près du baillon
 - mes années convulsées peintes en feu
-- des plaques tournantes demarécages,de cratères, de fillettes violées
+- des plaques tournantes de marécages,de cratères, de fillettes violées
 - il y a dans mes oreilles le peloton d'exécution dans les capo<span class="add  above">n</span>nières du matin .
 
 
@@ -3656,7 +3676,7 @@ En France. Une prison dans le Jura.
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Insolent. (il le frappe)
+- {:.indent-2} Insolent. ( il le frappe)
 
 
 - {:.speaker} Toussaint.
@@ -3679,7 +3699,7 @@ En France. Une prison dans le Jura.
 
 - {:.speaker} Messager.
 
-- {:.indent-2} <span class="delete">Toussaint</span>, tes puériles imaginations me font sourire de pitié.
+- {:.indent-2} <span class="delete">Toussaint, </span>tes puériles imaginations me font sourire de pitié.
 - Tes fils. <span class="delete">Naïf</span> vieillard <span class="add light-pencil inline">naïf.</span>
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
@@ -3703,7 +3723,7 @@ En France. Une prison dans le Jura.
 - Dis-tu vrai? Isaac est entre leurs mains.
 - Non traitre, bourreau ... bourreau.
 
-- {:.speaker} Le<span class="add blue-ink inline">-</span>nègre<span class="add blue-ink inline">-</span>à<span class="add blue-ink inline">-</span>lunettes ( sententieux)
+- {:.speaker} Le<span class="add blue-ink inline">-</span>nègre<span class="add blue-ink inline">-</span>à<span class="add blue-ink inline">-</span>lunettes  ( sententieux)
 
 - Je dis&nbsp;: ô que les querelles pourrissent longuement&nbsp;!
 - Je ne suis pas de ceux qui crachent l'huile sur le feu
@@ -3711,22 +3731,22 @@ En France. Une prison dans le Jura.
 - {:.prose} et je dis que je renifle ici un crime&nbsp;: le crime contre l'oubli, le crime contr<span class="add  ">e</span><br>le fils et je dis que le père n'a pas le droit de pendre le fil<span class="delete">s</span> dans le fil<br>rancunier de ses souvenirs cruels
 - {:.prose} et je dis qu'il faut savoir oublier, que le tort des vaincus est d'être vaincu<span class="add  ">s,</span><br>mais que leur crime est de ne <span class="delete">pas</span> savoir pas oublier
 - {:.prose} et je dis que, bénévole ministre des bienséances, je cravache de la mention<br>"inopportun<span class="delete">e</span>" l'indécence exposé<span class="add  ">e</span> des questions - qu'on-devrait-taire.
-- <span class="add blue-ink inline">«</span>Inopportun<span class="add blue-ink ">»,</span> comprenez vous ?
+- <span class="add blue-ink inline">«&nbsp;</span>Inopportun<span class="add blue-ink ">»,</span> comprenez vous&nbsp;?
 - Je dis&nbsp;: ô , je veux oublier longuement.
 
-- {:.speaker} Toussaint (debout)
+- {:.speaker} Toussaint  (debout)
 
 - .... Et moi je veux crier
 
-- {:.speaker} <span class="delete">Et</span> Le<span class="add blue-ink inline">-</span>nègre<span class="add blue-ink inline">-</span>à<span class="add blue-ink inline">-</span>lunettes ( s'enfuyant)
+- {:.speaker} <span class="delete">Et</span> Le<span class="add blue-ink inline">-</span>nègre<span class="add blue-ink inline">-</span>à<span class="add blue-ink inline">-</span>lunettes  ( s'enfuyant)
 
-- {:.prose} Je dis&nbsp;: ô que les querelles pourrissent&nbsp;! Au secours&nbsp;! Au secours&nbsp;!<br>
+- {:.prose} Je dis&nbsp;: ô que les querelles pourrissent&nbsp;! Au secours&nbsp;! Au secours&nbsp;! <br>
 
 Entrent des prètres.
 
 
 
-- {:.speaker} 1er Pretre ( index tendu vers Toussaint)
+- {:.speaker} 1er Pretre  ( index tendu vers Toussaint)
 
 - {:.prose} Ladre, je te défends, si tu vas par les chemins et si <span class="add  above">tu</span> rencontres une person<br>ne qui te parle de te mettre au dessus du vent avant de répondre .
 
@@ -3754,20 +3774,20 @@ Entrent des prètres.
 
 - {:.speaker} Toussaint
 
-- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde .
-(Il crie)- Mon fils ! mon fils&nbsp;!
+- Et moi je veux crier crier et on m'entendra jusqu'au bout du monde .(Il crie)
+- Mon fils&nbsp;! mon fils&nbsp;!
 
 
 - {:.speaker} Le Récitant
 
-- Le<span class="delete"></span>fils arrive .
+- Le<span class="delete">e</span>fils arrive .
 
 
 - {:.speaker} La Récitante
 
 - Le fils arrive ...
 
-- {:.speaker} Toussaint (extatique)
+- {:.speaker} Toussaint  (extatique)
 
 - Trois enfants noirs jouent dans mon oeil
 - Sollicités de chiens
@@ -3787,7 +3807,7 @@ Entrent des prètres.
 - votre rire qui tatoue leurs monnaies sans qu'ils s'en doutent
 - votre rire irrémédiable
 - votre rire de vertige où s'abîmeront fascinées les villes
-- votre rire de bombe en retard sur leurs pieds de <span class="delete">têtes</span>maîtres
+- votre rire de bombe en retard sur leurs pieds de <span class="delete">têtes</span> maîtres
 
 <hr>
 
@@ -3928,7 +3948,7 @@ Entrent des prètres.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Je me souviens d'un jour de novembre; tu n'avais pas 6 mois et le maitre<br>est entré dans la case fuligineuse comme une lune rousse, et il tatait tes<br>petits membre<span class="add light-pencil inline">s</span> musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fosset<br>tes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées,<br>ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en<br>me regardant et la mère disait que le maitre était très bon, trop bon disait-<br>elle, je m'en souviens bien et il disait d'autres choses aimables le maitre,<br>qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire<br>un bon commandeur, oeil <span class="delete"><span class="unclear"> [ferme] </span></span>vif et le bras ferme
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fosset<br>tes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées,<br>ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en<br>me regardant et la mère disait que le maitre était très bon, trop bon disait-<br>elle, je m'en souviens bien et il disait d'autres choses aimables le maitre,<br>qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire<br>un bon commandeur, oeil<span class="delete">ferme</span>vif et le bras ferme
 
 <hr>
 
@@ -3996,9 +4016,9 @@ Entrent des prètres.
 - Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
 - {:.prose} Lorsque la République t'offrit de m'élever en Europe, les cloches de ton coeur<br>sonnèrent à toute volée.
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé etla brume<br>sans soleil, l'exil mon père.
-- <span class="add margin">&nbsp;|&nbsp;Et &nbsp;|&nbsp;</span><span class="delete">O</span> la pluie de cendres violettes sur ce Paris étranger.
-- <span class="add margin">&nbsp;|&nbsp;Et &nbsp;|&nbsp;</span><span class="delete">O</span>&nbsp;<span class="delete">c</span><span class="add light-pencil ">l</span>e froid incisif jusqu'au sang.
-- {:.prose} Et<span class="delete">p</span> puis le temps passa. Une paix se fit en moi,quelque chose comme un délaçage<br>de fibres nouées et le paysage fut doux, maternel comme reflété deseaux,et<br>il avait une mesure, une décen<span class="delete">s</span><span class="add #u_m above">c</span>e, une retenue en même temps qu'un abandon,le<br>paysage, une amitié enfin..., mon sang ne jurait plus, c'était quelque chose<br>de défait et de fleuri.
+- <span class="add margin">&nbsp;|&nbsp;Et&nbsp;|&nbsp;</span><span class="delete">O</span> la pluie de cendres violettes sur ce Paris étranger.
+- <span class="add margin">&nbsp;|&nbsp;Et&nbsp;|&nbsp;</span><span class="delete">O</span>&nbsp;<span class="delete">c</span><span class="add light-pencil ">l</span>e froid incisif jusqu'au sang.
+- {:.prose} Et<span class="delete">p</span> puis le temps passa. Une paix se fit en moi,quelque chose comme un délaçage<br>de fibres nouées et le paysage fut doux, maternel comme reflété des eaux,et<br>il avait une mesure, une décen<span class="delete">s</span><span class="add #u_m above">c</span>e, une retenue en même temps qu'un abandon,le<br>paysage, une amitié enfin..., mon sang ne jurait plus, c'était quelque chose<br>de défait et de fleuri.
 
 
 - {:.speaker} Toussaint.
@@ -4036,12 +4056,12 @@ Entrent des prètres.
 - Isaac, Isaac
 - {:.prose} le cataclysme à la tête de scalp, à la cervelle de rouages de larves et de<br>montres
 - au hasard des fables,
-- au hasard des victimes <span class="delete">expiatrices</span><span class="add  inline">expiatoires</span>
+- au hasard des victimes <span class="delete">expiatrices</span><span class="add  inline"> expiatoires</span>
 - attend
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
 - vénéneuses mes paupières s'entrouvent au coeur de cocotiers...
-- fortement attirantes la parade des buissons vivants;
+- fortement attirantes la parade des buissons vivants&nbsp;;
 - ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
 - Liberté, liberté,
 - j'oserai soutenir seul la lumière de <span class="delete">cette</span><span class="add light-pencil above">ta</span> tête bléssée.
@@ -4053,38 +4073,39 @@ Entrent des prètres.
 
 
 
-<span class="add blue-ink inline">(</span> à ce moment, vision: dans une campagne tropicale, s'agite et se convulse la sil<br>houette innénarrable du Grand Prohibiteur. Le "héraut", <span class="add blue-ink inline">«</span>sa bouche,<span class="add blue-ink inline">»</span> est cou<br>ché sous un arbre? Il ronfle.<span class="add blue-ink inline">)</span>
+<span class="add blue-ink inline">(</span> à ce moment, vision: dans une campagne tropicale, s'agite et se convulse la sil<br>houette innénarrable du Grand Prohibiteur. Le "héraut",  <span class="add blue-ink inline">«&nbsp;</span>sa bouche,<span class="add blue-ink inline">»</span> est cou<br>ché sous un arbre? Il ronfle.<span class="add blue-ink inline">)</span>
 
 
 
 - {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Allons. Allons; réveille toi<span class="delete">^et'e</span><span class="add blue-ink above">être</span> grossier , stupide et <span class="delete">somnonleny</span><span class="add blue-ink above">somnolent</span> que la des<br>tinée mauvais m'impose comme bouche.
+- {:.prose} Allons. Allons; réveille toi<span class="delete">^et'e</span><span class="add blue-ink above"> être</span> grossier , stupide et <span class="delete">somnonleny</span><span class="add blue-ink above">somnolent</span> que la des<br>tinée mauvais m'impose comme bouche.
 - Ma bouche
 - ô ma <span class="delete">borche</span><span class="add blue-ink above">bouche</span> tardigrade
 - ma honte
-- {:.prose} j'ai un flot de paroles<span class="delete">n</span> d'ordres,<span class="delete">nde</span><span class="add blue-ink above">de</span> contre-ordres qui se pressent et attendent<br><span class="delete">et se present</span> dans le recès de ma salive
+- {:.prose} j'ai un flot de paroles<span class="delete">n</span> d'ordres,<span class="delete">nde</span><span class="add blue-ink above"> de</span> contre-ordres qui se pressent et attendent<br><span class="delete">et se present</span> dans le recès de ma salive
 - allons, vite<span class="delete">n</span>, vite, l'animal ronfle
 - mais peut-être ne savez vous qui je suis&nbsp;: <span class="delete">vete</span><span class="add  above">veto</span> , <span class="delete">veto</span><span class="add  above">veto</span>, ce n'est pas un aboi
-- {:.prose} non, c'est veto, veto<br>ça ne vous dit rien ,je vois que ça ne vous dit rien. Et pourtant à ce cri, les<br>bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le<br>monde<span class="delete">n</span> se balafre de bornes, se hérisse d'obstacles, veto, veto
+- non, c'est veto, veto
+- {:.prose} ça ne vous dit rien ,je vois que ça ne vous dit rien. Et pourtant à ce cri, les<br>bouches s'arrêtent de parler, les jambes rentrent leur humeur vagabonde, le<br>monde<span class="delete">n</span> se balafre de bornes, se hérisse d'obstacles, veto, veto
 - Je suis le compresseur, le represseur, le régisseur
 - je suis le grand prohibiteur
-- {:.prose} je m'explique<br>eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque<span class="delete">s</span><br>temps une consommation effroyable absurde, imprévue, insensée de dons, largesses<br>libéralités, indulgences et permissions, toute chose dérangeant incontestable<br>ment l'économie fragile, ô fragile, fragile de l'univers borné
+- je m'explique
+- {:.prose} eh bien, il avait été constaté en haut lieu qu'il se faisait depuis quelque<span class="delete">s</span><br>temps une consommation effroyable absurde, imprévue, insensée de dons, largesses<br>libéralités, indulgences et permissions, toute chose dérangeant incontestable<br>ment l'économie fragile, ô fragile, fragile de l'univers borné
 - borné
 - et c'est alors que je fus suscité. Prohibiteur le grand Prohibiteur
 - je suis le grand prohibiteur, saisissez vous ?
 - Celui qui regne, qui restreint, <span class="delete">quir</span><span class="add blue-ink above">qui </span>retient et contraint
-- {:.prose} <span class="add margin">&nbsp;|&nbsp;l'ordre&nbsp;|&nbsp;</span><span class="delete">l(ordre</span> négatif, la défense personnifiée, la menotte éloquente, le verrou de pri<br>son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add  ">e</span>ndue</span><span class="add  ">pendue</span>, le mois qui est le contraire<br>du plus, l'arrêt qui est le contraire vrai du mouvement, non la <span class="delete">satation</span> sta­
+- {:.prose} <span class="add margin">&nbsp;|&nbsp;l'ordre&nbsp;|&nbsp;</span><span class="delete">l(ordre</span> négatif, la défense personnifiée, la menotte éloquente, le verrou de pri<br>son ambulant, le baillon à la langue bien <span class="delete">p<span class="delete">n</span><span class="add  ">e</span>ndue</span><span class="add  ">pendue</span>, le mois qui est le contraire<br>du plus, l'arrêt qui est le contraire vrai du mouvement, non la <span class="delete">satation </span>sta-
 
 <hr>
 
 
 [ 90 ](/data/sdw-data/P090.jpg){: target='_blank'}
 
-- {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être <span class="delete">p</span><br>le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le<br><span class="delete">contraree</span><span class="add blue-ink above">contraire</span> de l'expansion de la propension de la contagion, croc-en jambe, croc-
-- en jambe
+- {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être <span class="delete">p</span><br>le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le<br><span class="delete">contraree</span><span class="add blue-ink above">contraire</span> de l'expansion de la propension de la contagion, croc-en jambe, croc-<br>en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
-- (il jappe) veto, veto;
+- (il jappe) veto, veto&nbsp;;
 - {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications<br>bénévolentes, de mes philantropiques exclamation<span class="add blue-ink inline">s</span>pour b<span class="add  accent">â</span>iller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
@@ -4104,23 +4125,23 @@ Entrent des prètres.
 
 - Imbécile, E<span class="add blue-ink ">h</span> bien crie la loi aux arbres, à la savane
 
-- {:.speaker} Le héraut (incrédule)
+- {:.speaker} Le héraut  (incrédule)
 
 - {:.indent-2} Aux arbres<span class="add  ">?</span> à la savane<span class="add  ">?</span>
 
 
 - {:.speaker} Le Grand Prohibiteur.
 
-- {:.prose} Je dis<span class="add  ">:</span> aux arbres à la savane, à la pluie au soleil...Comme si sur ce continent<br>d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de <span class="delete">l'</span><br><span class="add blue-ink inline">l'</span>arbre et de la savane que s'étaient gravés les accents de la loi.
+- {:.prose} Je dis<span class="add  ">&nbsp;:</span> aux arbres à la savane, à la pluie au soleil...Comme si sur ce continent<br>d'Indiens fuyards, ça n'avait pas été d'abord dans les oreilles stables de <span class="delete">l'</span><br><span class="add blue-ink inline">l'</span>arbre et de la savane que s'étaient gravés les accents de la loi.
 
-- {:.speaker} Le <span class="delete">Grand-Prohibiteur</span> héraut (émerveillé)
+- {:.speaker} Le <span class="delete">Grand-Prohibiteur</span> héraut  (émerveillé)
 
 - Vraiment<span class="add  ">!</span> aux arbres<span class="add  ">!</span> à la savane<span class="add  ">!</span> des lois<span class="add  ">!</span>!
 
 
 - {:.speaker} Le Grand Prohibiteur
 
-- {:.prose} Ignorant qui connaitle nom de Don Christobal Colon amiral de l'océan et ignore<br>celui de Rodri<span class="add  ">g</span>o de Escovedo notaire royal. Apprends donc mon ami, que les ca<br>ravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vi<br>vres, de chevaux, de cavaliers... Elles avaient et surtout la <span class="delete">pause reboucrie</span><span class="add blue-ink above">panse rebondie</span> de lois sonores et répressives.
+- {:.prose} Ignorant qui connait le nom de Don Christobal Colon amiral de l'océan et ignore<br>celui de Rodri<span class="add  ">g</span>o de Escovedo notaire royal. Apprends donc mon ami, que les ca<br>ravelles qui abordaient ici n'étaient pas seulement enceintes d'armes, de vi<br>vres, de chevaux, de cavaliers... Elles avaient et surtout la <span class="delete">pause reboucrie</span><span class="add blue-ink above">panse rebondie</span> de lois sonores et répressives.
 
 
 - {:.speaker} Le héraut
@@ -4136,22 +4157,22 @@ Entrent des prètres.
 
 - {:.speaker} Le héraut.
 
-- {:.indent-2} De lois,<span class="delete">pleine-de-lois</span> la <span class="delete">pause</span><span class="add  ">panse</span> pleine de lois; de<span class="delete">s</span> lois répressives.
+- {:.indent-2} De lois, <span class="delete">pleine-de-lois</span> la <span class="delete">pause</span><span class="add  ">panse</span> pleine de lois; de<span class="delete">s</span> lois répressives.
 
 
 - {:.speaker} Le grand prohibiteur.
 
-- {:.prose} Et puis que j'ai commencé à <span class="delete">l</span><span class="add  ">t</span>'instruire, je ne veux pas te laisser ignorer le<br>nom de <span class="delete">mon genial</span><span class="add  above">mon genial</span> précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda.<br>Retiens bien ce nom <span class="delete">de</span> don Alonzo de Hojeda<span class="add #u_m inline">,</span>&nbsp;<span class="add blue-ink above">de même que l'histoire a retenu comme symbole le geste d'Hojeda</span>offrant au cacique Caonabo ce qu'il y a<br>au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ?<br>un turey, un turey sacré, c'est à dire une jolie paire de <span class="delete">menotees</span><span class="add blue-ink ">menottes</span>. HI HI, tu as<br>compris allons, héraut, allons.
+- {:.prose} Et puis que j'ai commencé à <span class="delete">l</span><span class="add  ">t</span>'instruire, je ne veux pas te laisser ignorer le<br>nom de <span class="delete">mon genial</span><span class="add  above">mon genial</span> précurseur ici, à Hispaniola. Il s'appelait Alonzo Hojeda.<br>Retiens bien ce nom <span class="delete">de</span> don Alonzo de Hojeda<span class="add #u_m inline">,</span>&nbsp;<span class="add blue-ink above">de même que l'histoire a retenu comme symbole le geste d'Hojeda</span> offrant au cacique Caonabo ce qu'il y a<br>au monde de plus précieux. Et il offrit à Caonabo émerveillé devinez quoi ?<br>un turey, un turey sacré, c'est à dire une jolie paire de <span class="delete">menotees</span><span class="add blue-ink ">menottes</span>. HI HI, tu as<br>compris allons, héraut, allons.
 
 - {:.speaker} Le héráut <span class="add blue-ink inline">(</span>d'une voix forte<span class="delete">.</span><span class="add blue-ink ">)</span>
 
 - {:.prose} ( après une sonnerie de trompette)<br>au vent, a la pluie, au soleil, aux arbres du nouveau Monde, salut<br>( sonnerie de trompette)
 
-- {:.speaker} Le grand prohibiteur.  ( jappant)
+- {:.speaker} Le grand prohibiteur. ( jappant)
 
 - {:.prose} veto, veto, veto.<br>
 
-( la vision<span class="delete">e</span>disparait)
+( la vision<span class="delete">e</span> disparait)
 
 
 
@@ -4201,8 +4222,7 @@ Entrent des prètres.
 
 - {:.speaker} Récitante.
 
-- Des torrents dégorgeant d'innombrables cadavres de dogues, de cauchemars, de lémures
-tourmentés.
+- Des torrents dégorgeant d'innombrables cadavres de dogues, de cauchemars, de lémures tourmentés.
 
 
 - {:.speaker} Toussaint.
@@ -4217,7 +4237,11 @@ tourmentés.
 - et j'ai acquis la force de parler
 - plus haut que les fleuves
 - plus fort que les désastres
+
+
 ( à ce moment vision du soleil qui se couche, saignant)
+
+
 
 - {:.speaker} Le choeur.
 
@@ -4236,14 +4260,14 @@ tourmentés.
 
 [ 93 ](/data/sdw-data/P093.jpg){: target='_blank'}
 
-- &nbsp;&nbsp;au secours! au secours! au meurtre!
-- &nbsp;&nbsp;ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
-- &nbsp;&nbsp;de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
-- &nbsp;&nbsp;la <span class="add  ">s</span>avan<span class="add  ">e</span> sans meubles
-- &nbsp;&nbsp;Il y a aussi les cavaliers.
-- &nbsp;&nbsp;Ils ont suspendu le soleil comme un bouclier à la<span class="add blue-ink inline">&nbsp;</span>porte du ciel
-- &nbsp;&nbsp;assassins! assassins!
-- &nbsp;&nbsp;mais ils s<span class="add blue-ink ">'</span>éloignent et je ne puis pas le<span class="add blue-ink inline">s</span> suivre
+- au secours! au secours! au meurtre!
+- ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
+- de Basan une torche est attaché à leur queue furibonde... Les taureaux piétinent
+- la <span class="add  ">s</span>avan<span class="add  ">e</span> sans meubles
+- Il y a aussi les cavaliers.
+- Ils ont suspendu le soleil comme un bouclier à la<span class="add blue-ink inline">&nbsp;</span>porte du ciel
+- assassins! assassins!
+- mais ils s<span class="add blue-ink ">'</span>éloignent et je ne puis pas le<span class="add blue-ink inline">s</span> suivre
 - ils poursuivent le pauvre homme! ils lui donnent la chasse à grands cris
 - et abois de chiens
 - leurs chevaux sont vite
@@ -4261,10 +4285,10 @@ tourmentés.
 - de la haine
 - aïe! ils sifflent, les <span class="delete">autres</span><span class="add blue-ink ">autres</span> sifflent
 - ils ont lancé les chiens
-- taiaut!<span class="delete">caillot</span> taiaut! ils poussent des cris terribles
+- taiaut! <span class="delete">caillot</span>taiaut! ils poussent des cris terribles
 - à pleine dent de molosse de molosse de molosse
 - les torches sont allumées sous les voûtes de la forêt. C'est fini, tout est fini.
-- &nbsp;Inutile de réclamer; l'action de la justice<span class="delete">d</span>est éteinte.
+- {:.indent-2} Inutile de réclamer; l'action de la justice <span class="delete">d</span>est éteinte.
 - voyez, ils l'ont déchiré en lambeaux. En lambeaux comme un cochon sauvage.
 
 <hr>
@@ -4291,7 +4315,7 @@ tourmentés.
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Allons! bonnes gens... c'est vrai que je vous importun.... et vous voudriez<br>m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâ<br>che vous savez&nbsp;: j'ai tremblé de toutes <span class="delete">le </span><span class="add blue-ink above">les</span><span class="delete">s</span>peurs depuis la peur première...
+- {:.prose} Allons! bonnes gens... c'est vrai que je vous importune.... et vous voudriez<br>m'empécher de parler... Faites moi peur, faites moi bien peur, je suis très lâ<br>che vous savez&nbsp;: j'ai tremblé de toutes <span class="delete">le </span><span class="add blue-ink above">les</span><span class="delete">s</span>peurs depuis la peur première...
 
 
 - {:.speaker} Geolier.
@@ -4321,7 +4345,7 @@ tourmentés.
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos ini<br>tiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève... c'est ça<br>..... ou d'un drapeau... ou d'un <span class="add blue-ink above">petit</span> canon.... ou d'une croix.... ou d'un<span class="delete">e</span> trèfle .
+- {:.prose} Marquez moi à l'épaule d'une fleur de lys, d'un verrou de prison, ou de vos ini<br>tiales tout simplement Jean ou Pierre ou Jeanne ou Louise ou Geneviève... c'est ça<br>..... ou d'un drapeau... ou d'un <span class="add blue-ink above">petit</span> canon.... ou d'une croix.... ou d'un<span class="delete">e</span> trèfle . 
 
 <hr>
 
@@ -4441,7 +4465,7 @@ tourmentés.
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fou<span class="add  ">t</span> de nous, le moricaud... Bien sûr qu'il fait le<br>fou... Plus fort... encore plus fort (il frappe Toussaint). 
+- {:.prose .prose-indent} Dis-donc, mais il se fou<span class="add  ">t</span> de nous, le moricaud... Bien sûr qu'il fait le<br>fou... Plus fort... encore plus fort (il frappe Toussaint).
 
 
 - {:.speaker} Toussaint.
@@ -4454,7 +4478,7 @@ tourmentés.
 - {:.prose} Bûche&nbsp;! Quelle bûche&nbsp;! C'est une bûche te dis-je... une drôle de race, ces nè<br>gres... Crois-tu que nos coups lui fassent mal...en tout cas, ça ne marque pas.
 - ...(elle frappe)oh! oh! son sang coule!
 
-- {:.speaker} Geôlier (riant)
+- {:.speaker} Geôlier  (riant)
 
 - c'est bien connu&nbsp;: battre un nègre <span class="delete">d</span> c'est le nourrir...
 
@@ -4466,7 +4490,7 @@ tourmentés.
 
 - {:.speaker} Geôlier.
 
-- {:.prose} Ah&nbsp;! il déraille sérieusement ... C'est à mourir de rire... Dis, c'est marrant<br>le sang rouge sur la peau noire. ( ils délient Toussaint)
+- {:.prose} Ah&nbsp;! il déraille sérieusement ... C'est à mourir de rire... Dis, c'est marrant<br>le sang rouge sur la peau noire. (ils délient Toussaint)
 
 - {:.speaker} Toussaint  (sursautant)
 
@@ -4514,9 +4538,13 @@ tourmentés.
 
 - {:.indent-2} ... Mon fils
 
-- {:.speaker} Le choeur  chuchotant.
+- {:.speaker} Le choeur chuchotant.
 
-- {:.prose} C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge!<br>&nbsp;( le vent apporte du lointain des bribes de spiritual)
+- C'est la Sainte Vierge&nbsp;! C'est la Sainte Vierge!
+
+
+( le vent apporte du lointain des bribes de spiritual)
+
 
 
 - {:.speaker} La sainte Vierge.
@@ -4536,7 +4564,7 @@ tourmentés.
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne suis pas ton fils, mas le fils de la Terre, mais le frère du Soleil,<br>mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils...<br>j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère!
+- {:.prose .prose-indent} Je ne suis pas ton fils, mais le fils de la Terre, mais le frère du Soleil,<br>mais le frère de la Nuit avec ses millions d'étoiles, je ne suis pas ton fils...<br>j'ai peur... ma gorge me brûle. Mère&nbsp;! Mère!
 
 
 - {:.speaker} La sainte Vierge.
@@ -4553,7 +4581,7 @@ tourmentés.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de<br>crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la su<br>eur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'hom<br>me et tu <span class="delete">m'</span><span class="add  ">nous </span>as requis&nbsp;! Merci....
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep<br>et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et<br>la coulure acide dans nos chairs animales de l'humiliation.<br>Merci, ma mère.<br>Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait<br>mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang<br>qui se décompose, il leur fallait mon acceptation... il <span class="add  ">l</span>eur fallait monoui<br>et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre...<br>va t'en les mains vides... ou plut<span class="add  accent">ô</span>t prends<span class="add light-pencil ">&nbsp;</span>ce sac de paroles ...les paroles<br>de Toussaint, les dernières peut-être<span class="add light-pencil inline">,</span> les dernières... sans doute et porte<br>les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep<br>et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et<br>la coulure acide dans nos chairs animales de l'humiliation.<br>Merci, ma mère.<br>Et il fallait aussi- n'est ce pas ?- à ceux qui t'ont envoyée, il leur fallait<br>mieux que ma défaite , mieux que ma poitrine qui se rompt, mieux que mon sang<br>qui se décompose, il leur fallait mon acceptation... il <span class="add  ">l</span>eur fallait mon oui<br>et alors ils t'ont envoyée... Va t'en marâtre.... va t'en car je t'exècre...<br>va t'en les mains vides... ou plut<span class="add  accent">ô</span>t prends<span class="add light-pencil ">&nbsp;</span>ce sac de paroles ...les paroles<br>de Toussaint, les dernières peut-être<span class="add light-pencil inline">,</span> les dernières... sans doute et porte<br>les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et <span class="delete">nus</span><span class="add light-pencil above">nuls</span> au milieu de vos réjouissances nos faces de<br>scandale,
@@ -4569,7 +4597,7 @@ tourmentés.
 - {:.prose} ... Un<span class="add light-pencil inline">e</span> rumeur de chaine de carcans monte de la mer ... un gargouillement de<br>noyés de la panse verte de la mer... un claquement de feu, un claquement de<br>fouet, des cris d'assassinés...
 - .... la mer brûle
 - ou c'est l'étoupe de mon sang qui brûle...
-- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du<br>tambour et vainement se gonfle le vent <span class="add  above"><span class="delete">se gonflé</span> </span>de l'odeur tendre du ravin moisi<span class="delete">,</span> d'ar-
+- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du<br>tambour et vainement se gonfle le vent <span class="add  above"><span class="delete">se gonflé</span></span>de l'odeur tendre du ravin moisi<span class="delete">,</span> d'ar-
 
 <hr>
 
@@ -4617,7 +4645,7 @@ tourmentés.
 - {:.prose .prose-indent} les chenilles rampent vers l'auberge des bonnets de coton... La cuve de la<br>Terre s'est éteinte... c'est bon... Mais le ciel mange du bétel... ha ha! le ciel<br>suce des poignards...Roi de Malaisie et de la fièvre pleine d'insectes mâche<br>bien ton kriss et ton bétel... Isaac, Isaac, une balle pourrit entre tes souri<br>res blancs... Aïe! je marche dans des piquants d'étoiles. Je marche... j'assume...<br>j'embrasse...
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( Toussaint s'affaisse, les bras étendus, poitrine contre terre).
+ ( Toussaint s'affaisse, les bras étendus, poitrine contre terre).
 
 
 <hr>
@@ -4691,28 +4719,28 @@ tourmentés.
 
 
 
-<span class="delete">Au fond les murs de Saint Marc assiégé par l'armée noire de Dessalines;</span> sur le<br>rempart apparait une tête. L'homme se dresse, c'est le <span class="add  ">«</span>négrophobe.<span class="add  ">»</span>
+<span class="delete">Au fond les murs de Saint Marc assiégé par l'armée noire de Dessalines; </span>sur le<br>rempart apparait une tête. L'homme se dresse, c'est le <span class="add  ">«&nbsp;</span>négrophobe.<span class="add  ">&nbsp;»</span>
 
 
 
-- {:.speaker} <span class="add  ">« </span>le négrophobe.<span class="add  ">»</span>
+- {:.speaker} <span class="add  ">«&nbsp;</span>Le négrophobe.<span class="add  ">&nbsp;»</span>
 
-- {:.prose} Bande de salauds! Mort aux voleurs! <span class="add blue-ink inline">(</span>Des animaux qui n'ont pas d'âme à sauver<br>et à qui le fouet prête de temps en temps un semblant de conscience.<span class="add blue-ink inline">)</span> Voleurs!<br>Voleurs! Les armes à la<span class="add  ">&nbsp;</span>main, je revendique mon bien, mon troupeau, ma possession<br>légitime, mes esclaves!<br>
-
-(bruit de mousqueter<span class="add  ">i</span>e; les nègres ont tiré; le négrophobe tombe, il est aus<br>sitôt remplacé par le <span class="add  ">«</span>le négrophile<span class="add  ">»</span>.)
+- {:.prose} Bande de salauds! Mort aux voleurs! <span class="add blue-ink inline">(</span>Des animaux qui n'ont pas d'âme à sauver<br>et à qui le fouet prête de temps en temps un semblant de conscience.<span class="add blue-ink inline">)</span> Voleurs!<br>Voleurs! Les armes à la<span class="add  ">&nbsp;</span>main, je revendique mon bien, mon troupeau, ma possession<br>légitime, mes esclaves!
 
 
+(bruit de mousqueter<span class="add  ">i</span>e; les nègres ont tiré; le négrophobe tombe, il est aus<br>sitôt remplacé par le <span class="add  ">«&nbsp;</span>le négrophile<span class="add  ">&nbsp;»</span>.)
 
-- {:.speaker} Le négrophile (haraguant le vide)
 
-- {:.prose} Ha! mes <span class="delete">mais</span><span class="add blue-ink above">amis</span>, mes chers amis! Et l'Evangile a dit que celui qui hait son frère<br>vivra dans l'obscurité.O mes <span class="delete">anis</span><span class="add blue-ink above">amis</span> qui vivez dans l'obscurité, dans l'obscurité<br>de votre peau, dans l'obscurité de voscoeurs, je veux faire descendre, lait,<br>un rayon de lumière... d'amour. Et je ne cesserai<span class="delete">t</span> de vous appeler "mes amis"<br>mes amis, mes frères.<span class="delete">-</span>
+- {:.speaker} Le négrophile  (haraguant le vide)
+
+- {:.prose} Ha! mes <span class="delete">mais</span><span class="add blue-ink above">amis</span>, mes chers amis! Et l'Evangile a dit que celui qui hait son frère<br>vivra dans l'obscurité.O mes <span class="delete">anis</span><span class="add blue-ink above">amis</span> qui vivez dans l'obscurité, dans l'obscurité<br>de votre peau, dans l'obscurité de vos coeurs, je veux faire descendre, lait,<br>un rayon de lumière... d'amour. Et je ne cesserai<span class="delete">t</span> de vous appeler "mes amis"<br>mes amis, mes frères.<span class="delete">-</span>
 
 
 - {:.speaker} L'écho
 
 - .... mes frères, mes frères.....
 
-- {:.speaker} Le négrophile (préchant dans le désert).
+- {:.speaker} Le négrophile  (préchant dans le désert).
 
 - {:.prose} Mes amis, ô mes amis: je vous accorde que l'esclavage est une grande inicuité,<br>mais par l'esclavage vous avez souffert<span class="delete">s</span>. Et la souffrance vous a grandis. Et<br>la souffrance vous a fait hommes. Dela mes amis, mes frères<span class="add blue-ink inline">,</span> ne l'oubliez pas.
 
@@ -4721,7 +4749,7 @@ tourmentés.
 
 - N'oubliez pas, n'oubliez pas.
 
-- {:.speaker} Le négrophile (donnant des coups d'épée dans l'eau)
+- {:.speaker} Le négrophile  (donnant des coups d'épée dans l'eau)
 
 - paix, paix, amour, amour.
 
@@ -4730,7 +4758,7 @@ tourmentés.
 
 - amour, amour
 
-- {:.speaker} Le négrophile (désespéré)
+- {:.speaker} Le négrophile  (désespéré)
 
 - ô peuple égaré,
 - ô insensés
@@ -4753,13 +4781,13 @@ tourmentés.
 - Vos maitres, vos maitres.
 
 
-- {:.speaker} Le négrophile
+- {:.speaker} Le négrophile 
 
 - 
 
 ( bruit de mousqueter<span class="add  ">i</span>e)
 
-Mes frères, mes frères&nbsp;!
+ Mes frères, mes frères&nbsp;! 
 
 ( le négrophile tombe)
 
@@ -4824,7 +4852,7 @@ Mes frères, mes frères&nbsp;!
 - et nos jambes criaient victoire
 - et les douves brisées répondaient vengeance
 - par ses ardillons d'étoiles
-- par ses prunelles d'étoiles ses <span class="add blue-ink inline">mammes</span> d'étoiles
+- par ses prunelles d'étoiles ses <span class="add blue-ink inline">mammes </span>d'étoiles
 - ses cerises d'étoiles qu'elle nous lançait à pleines vannes
 - et la mort n'était pas hargneuse
 - mais douce
@@ -4841,7 +4869,7 @@ Mes frères, mes frères&nbsp;!
 - et une virginité saignait cette nuit là
 - timonnier de la nuit peuplée de soleils et d'arc-en ciel
 - timonnier de la<span class="delete">n</span> mer et de mort
-- liberté ô magrande<span class="add  ">&nbsp;</span>bringue les<span class="delete">h</span> jambes poisseuses du sang neuf
+- liberté ô ma grande<span class="add  ">&nbsp;</span>bringue les<span class="delete">h</span> jambes poisseuses du sang neuf
 - ton cri d'oiseau surpris et de fascine
 - et de chabine au fond des eaux
 - et d'aubier et d'épreuve et de letchi triomphant
@@ -4900,7 +4928,7 @@ Mes frères, mes frères&nbsp;!
 
 - {:.speaker} La récitante.
 
-- Quel est cet homme? un nuage de sang auréole sa tête <span class="delete">de sang</span> sauvage.
+- Quel est cet homme? un nuage de sang auréole sa tête <span class="delete">de sang</span>sauvage.
 
 - {:.speaker} Demi choeur allègre.
 
@@ -4914,7 +4942,7 @@ Mes frères, mes frères&nbsp;!
 - {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon coeur<br><span class="delete">de mon coeur</span>, jusqu'à l'éclatement de mes veines, jusqu'au <span class="delete">blanchiement</span><span class="add light-pencil above">flamboiement</span> de mes<br>os dans le minuit de ma chair.
 
 
-<span class="delete">R I D E A U</span>
+- {:.centered} <span class="delete">R I D E A U</span>
 
 
 <hr>
@@ -4979,5 +5007,5 @@ Mes frères, mes frères&nbsp;!
 
 
 
-<span class="add blue-ink ">FIN</span>
+- {:.centered} <span class="add blue-ink ">FIN</span>
 

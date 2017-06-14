@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei" version="1.0">
+    exclude-result-prefixes="xs tei saxon" version="1.0">
     
     <!-- global settings -->
-    <xsl:output method="html"/>
+    <xsl:output method="html" saxon:line-length="500"/>
     <xsl:strip-space elements="*"/>
     <xsl:template match="text()">
-        <xsl:value-of select="normalize-space(.)" />  
+        <xsl:choose>
+            <xsl:when test=". = ' '">
+                <xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:when test="substring(., 1, 1) = ' ' and substring(., string-length(), 1) = ' '">
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="normalize-space(.)"/>
+                <xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:when test="substring(., 1, 1) = ' '">
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="normalize-space(.)"/>
+            </xsl:when>
+            <xsl:when test="substring(., string-length(), 1) = ' '">
+                <xsl:value-of select="normalize-space(.)"/>
+                <xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:value-of select="normalize-space(.)"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        
     </xsl:template>
     
     <!-- IGNORE LIST -->
@@ -17,19 +38,26 @@
     <xsl:template match="tei:sic"/>
     <xsl:template match="tei:orig"/>
     
-    <!-- This line erases all pages. To select pages you must select a range in the pages section below -->
-    
+   
     
     <!-- HTML wrapper | document element -->
     <xsl:template match="/">
         <xsl:text>---
         layout: poem
-        title: "scaffold"
+        title: "the scaffold"
         description: "" 
         author: alex gil
         ---
         
-        (draft)
+        The following edition represents a speculative stage in the composition of 
+        "...Et les chiens se taisaient" by Aimé Césaire. 
+        At this point in the genesis of the drama, Césaire had hit on the scaffolding for the final 
+        three-act structure, with lovely asymmetries between the acts. In this stage we're also introduced to 
+        the prison in the Jura mountains that provides the setting for the drama 
+        in published versions of the work. Page numbers correspond to the main pagination, and link to 
+        high resolution scans of the original document. Punctuation is emended silently. Handwritten revisions
+        are ignored, except for clarification of characters and diacritics. For a more detailed analysis, see
+        [chapter 2]({{site.baseurl}}/chapters/02-pencil/).
         
         </xsl:text>
        
@@ -245,6 +273,14 @@
     <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
     <xsl:template match="tei:del[@type='correction']"/>
     <xsl:template match="tei:add[@type='clarification']">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="tei:sic[following-sibling::tei:add[position() = 1][@type='accent']]">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="tei:add[@type='accent']">
         <xsl:apply-templates/>
     </xsl:template>
     
