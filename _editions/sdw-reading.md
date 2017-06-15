@@ -293,7 +293,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- où la pensée est sans équivoque, une fleur au cœur de papillon.
+- où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’univers non timbré.
 - Une petite fille du Fouta ronge un os en forme de candélabre.
 
@@ -602,7 +602,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - envol d’in memoriam
 - de vêtements liturgiques
 - premier visage du monde
-- sédition de longs siècles
+- sédition de longs siècles
 - désir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
@@ -1182,7 +1182,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers.  Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
+- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers.  Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
 
 
 - {:.speaker} Le récitant.
@@ -1278,7 +1278,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  Trêmes, Noé, Toussaint a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens, que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  Trêmes, Noé, Toussaint a constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1334,7 +1334,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
 
 
 - {:.speaker} 2e député.
@@ -2018,7 +2018,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - d'ombres bleues
 - qu'y-a-t-il&nbsp;? qu'y-a-t-il&nbsp;?
 - à travers ma main j'aperçois des étoiles
-- des libertés désuètes
+- des libertés désuètes
 - une face révulsée prise dans le  gel et le surplomb et le filet du pian.
 
 
@@ -2991,7 +2991,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} 1re voix céleste.
 
-- {:.prose .prose-indent} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
+- {:.prose .prose-indent} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
 
 
 - {:.speaker} 2e voix céleste.
@@ -3946,7 +3946,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membres musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œilvif et le bras ferme
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
 
 <hr>
 
@@ -3971,7 +3971,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
@@ -4104,7 +4104,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être  le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le contraire de l'expansion de la propension de la contagion, croc-en jambe, croc-en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
 - <em>(il jappe)</em> veto, veto&nbsp;;
-- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamationspour bâiller aux cormeilles.
+- {:.prose} Mais je m'aperçois que mon serviteur enfin réveillé profite de mes explications bénévolentes, de mes philantropiques exclamationspour bâiller aux cormeilles.
 - Allons héraut. Ma bouche, ma bouche. Héraut. Héraut.
 - Allons héráut fais ton office.
 
@@ -4208,7 +4208,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Récitante.
 
-- {:.prose} Un gouffre de sanglots&nbsp;un ouragan de rauquements, de vociférations, une forêt d'erreurs, d'interdictions, de rites, de maladresses&nbsp;de mensonges, d'exaspération pas de fruits, pas de fruits, harpies, harpies, buissons d'âmes séchées.
+- {:.prose} Un gouffre de sanglots&nbsp;un ouragan de rauquements, de vociférations, une forêt d'erreurs, d'interdictions, de rites, de maladresses&nbsp;de mensonges, d'exaspération pas de fruits, pas de fruits, harpies, harpies, buissons d'âmes séchées.
 
 
 - {:.speaker} Récitant.
@@ -4226,7 +4226,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.speaker} Toussaint.
 
 - ...toutes les violences du monde mort
-- frappé de verges exposé aux bêtes
+- frappé de verges exposé aux bêtes
 - trainé en chemise la corde au cou
 - arrosé de pétrole
 - et j'ai attendu en san-benito l'heure de l'auto-da-fé
@@ -4271,7 +4271,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - leurs chevaux sont vite
 - ils entourent le pauvre homme de longs cercles fatals
 - ils resserrent le nœud de leur cercle autour du cou pelé
-- ça y est..... ils ont reniflé la viande du négre
+- ça y est... ils ont reniflé la viande du négre
 - ils s'arrétent
 - ils rient
 - ils se lissent le moustache
@@ -4579,7 +4579,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu nous as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prends&nbsp;ce sac de paroles... les paroles de Toussaint, les dernières peut-être, les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
 - {:.prose} nous dresserons obscènes et nuls au milieu de vos réjouissances nos faces de scandale,
@@ -4962,7 +4962,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Récitant.
 
-- {:.prose} Plantes parasites, plantes venéneuses, plantes brûlantes, plantes cannibales, plantes incendiaires, vraies plantes, lianes-feu, lianes-sang, filez vos courbes imprévues à grosses gouttes.
+- {:.prose} Plantes parasites, plantes venéneuses, plantes brûlantes, plantes cannibales, plantes incendiaires, vraies plantes, lianes-feu, lianes-sang, filez vos courbes imprévues à grosses gouttes.
 
 
 - {:.speaker} Récitante.

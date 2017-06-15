@@ -2831,7 +2831,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 [ 85 ](/data/sdw-data/P085.jpg){: target='_blank'}
 
-- <span class="unclear">mes</span> du père moribond.
+-  du père moribond.
 - Mon fils, à toi mes trésors, à toi mes bandes
 - Haïti t'attend, Venge moi.
 
@@ -2862,13 +2862,13 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membre musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œilvif et le bras ferme
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
 
 <hr>
 
 [ 86 ](/data/sdw-data/P086.jpg){: target='_blank'}
 
-- {:.prose}  — et cet homme spécualit sur le berceau de mon fils — un berceau de garde-chiourme — 
+- {:.prose}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
 - {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur.
 
 

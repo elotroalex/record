@@ -3910,14 +3910,14 @@ Entrent des prètres.
 
 - {:.speaker} Toussaint.
 
-- Ah! le scélérat n'avait pas menti .... Et ils lancent le fils suborné aux trousse<span class="add  inline">s</span>
+- Ah! le scélérat n'avait pas menti .... Et ils lancent le fils suborné aux trousse<span class="add blue-ink inline">s</span>
 
 <hr>
 
 
 [ 85 ](/data/sdw-data/P085.jpg){: target='_blank'}
 
-- <span class="delete">mes</span> du père moribond.
+- <span class="delete">ses</span> du père moribond.
 - Mon fils, à toi mes trésors, à toi mes bandes
 - Haïti t'attend, Venge moi.
 
@@ -3948,7 +3948,7 @@ Entrent des prètres.
 - {:.speaker} Toussaint.
 
 - {:.prose .prose-indent} Je me souviens d'un jour de novembre; tu n'avais pas 6 mois et le maitre<br>est entré dans la case fuligineuse comme une lune rousse, et il tatait tes<br>petits membre<span class="add light-pencil inline">s</span> musclés, c'était un très bon maitre
-- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fosset<br>tes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées,<br>ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en<br>me regardant et la mère disait que le maitre était très bon, trop bon disait-<br>elle, je m'en souviens bien et il disait d'autres choses aimables le maitre,<br>qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire<br>un bon commandeur, oeil<span class="delete">ferme</span>vif et le bras ferme
+- {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fosset<br>tes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées,<br>ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en<br>me regardant et la mère disait que le maitre était très bon, trop bon disait-<br>elle, je m'en souviens bien et il disait d'autres choses aimables le maitre,<br>qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire<br>un bon commandeur, oeil<span class="delete">ferme</span> vif et le bras ferme
 
 <hr>
 

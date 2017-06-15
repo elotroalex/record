@@ -5792,7 +5792,7 @@
                     <sp>
                         <speaker>Toussaint.</speaker>
                         <ab>Ah<reg>&#160;</reg>! le scélérat n'avait pas menti<sic xml:space="preserve"> </sic>...<sic>.</sic> Et ils lancent
-                            le fils suborné aux trousse<add place="inline">s</add></ab>
+                            le fils suborné aux trousse<add rend="blue-ink" place="inline">s</add></ab>
                     </sp>
                 </div>
 
@@ -5811,8 +5811,8 @@
                         <locus scheme="#P4">10</locus>
                     </fw>
                     <sp prev="#chUR.sp.500">
-                        <ab part="F"><del>
-                                <unclear>mes</unclear>
+                        <ab part="F"><del type="correction">
+                                <unclear>ses</unclear>
                             </del> du père moribond.</ab>
                         <ab>Mon fils, à toi mes trésors, à toi mes bandes</ab>
                         <ab>Haïti t'attend, Venge moi.</ab>
@@ -5857,7 +5857,7 @@
                             faire<lb/>un bon commandeur, <orig>oeil</orig><reg>œil</reg>
                             <del rend="overprint">
                                 <unclear reason="deleted" cert="low" evidence="internal">ferme</unclear>
-                            </del>vif et le bras ferme</ab>
+                            </del> vif et le bras ferme</ab>
                     </sp>
                 </div>
 
@@ -5881,7 +5881,7 @@
                                 <reg> — </reg>
                             </choice>et cet homme <subst>
                                 <del>spécualit</del>
-                                <add rend="light-pencil" place="above">spéculait</add>
+                                <add rend="light-pencil" place="above" type="clarification">spéculait</add>
                             </subst> sur le berceau de mon fils<choice>
                                 <sic>- </sic>
                                 <reg> — </reg>
