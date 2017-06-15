@@ -1468,7 +1468,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - {:.indent-2} A la Matinique, Matinique, Matinique
 
 
-- {:.speaker} Le speaker:
+- {:.speaker} Le speaker.
 
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 

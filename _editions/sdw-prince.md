@@ -1378,7 +1378,7 @@ author: alex gil
 - {:.indent-2} A la Matinique, Matinique, Matinique
 
 
-- {:.speaker} Le speaker:
+- {:.speaker} Le speaker.
 
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 

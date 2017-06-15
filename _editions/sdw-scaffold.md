@@ -1427,7 +1427,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.indent-2} A la Matinique, Matinique, Matinique
 
 
-- {:.speaker} Le speaker:
+- {:.speaker} Le speaker.
 
 - {:.indent-2} A la Matinique, Matinique, Matinique...
 
