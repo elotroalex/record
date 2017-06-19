@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs tei" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:saxon="http://saxon.sf.net/"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
+	exclude-result-prefixes="xs tei saxon" version="1.0">
     
-    <!-- global settings -->
-    <xsl:output method="html"/>
-    <xsl:strip-space elements="*"/>
-    <xsl:template match="text()">
-        <xsl:value-of select="normalize-space(.)" />  
-    </xsl:template>
+	<!-- global settings -->
+	<xsl:output method="html" saxon:line-length="500"/>
+	<xsl:strip-space elements="*"/>
+	<xsl:template match="text()">
+		<xsl:choose>
+			<xsl:when test=". = ' '">
+				<xsl:text> </xsl:text>
+			</xsl:when>
+			<xsl:when test="substring(., 1, 1) = ' ' and substring(., string-length(), 1) = ' '">
+				<xsl:text> </xsl:text>
+				<xsl:value-of select="normalize-space(.)"/>
+				<xsl:text> </xsl:text>
+			</xsl:when>
+			<xsl:when test="substring(., 1, 1) = ' '">
+				<xsl:text> </xsl:text>
+				<xsl:value-of select="normalize-space(.)"/>
+			</xsl:when>
+			<xsl:when test="substring(., string-length(), 1) = ' '">
+				<xsl:value-of select="normalize-space(.)"/>
+				<xsl:text> </xsl:text>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="normalize-space(.)"/>
+			</xsl:otherwise>
+		</xsl:choose>
+		
+	</xsl:template>
     
     <!-- IGNORE LIST -->
     <xsl:template match="tei:teiHeader"/>

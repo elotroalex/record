@@ -357,7 +357,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 -  Ha, ha
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
-- Et tu ne vois rien par-mi l’herbe nouvelle&nbsp;?
+- Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
 - Rien parmi le barrattement de la terre et le
 - Convulsif chahut végétal&nbsp;?
 - Rien dans la mer, n’est-ce pas&nbsp;?
@@ -1328,7 +1328,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker}  Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso,. n, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
 <em>(La voix se perd dans la nuit.)</em>
 
@@ -2377,7 +2377,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches .! les drapeaux&nbsp;!
+- le caïman ! les torches ! les drapeaux&nbsp;!
 - et l'Amazone <span class="unclear">degout</span> d'hévéas
 - et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
 - o main de l'étrangleur,

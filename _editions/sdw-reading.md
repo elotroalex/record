@@ -1692,7 +1692,7 @@ provide links to the relevant images for easy access to the complexities lost in
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
 
-- {:.centered} Acte II
+- {:.centered} ACTE II
 
 
 - {:.speaker} Récitante.

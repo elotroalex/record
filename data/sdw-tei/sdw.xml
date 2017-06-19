@@ -921,7 +921,7 @@
                         </ab>
                         <ab>Nous sommes aveugles</ab>
                         <ab>Aveugles par la grâce de dieu et de la peur.</ab>
-                        <ab>Et tu ne vois rien par<del rend="light-pencil">-</del>mi l’herbe
+                        <ab>Et tu ne vois rien par<del type="correction" rend="light-pencil">-</del>mi l’herbe
                             nouvelle<reg>&#160;</reg>?</ab>
                         <ab>Rien parmi le barrattement de la terre et le</ab>
                         <ab>Convulsif chahut végétal<reg>&#160;</reg>?</ab>
@@ -2413,7 +2413,7 @@
                             <add rend="light-pencil" place="inline">1<hi rend="superscript double-underlined"
                                 >er</hi>&#160;groupe&#160;:</add> Une voix.</speaker>
                         <ab rend="indent">Vous avez raison, mon ami, vous avez raiso<del 
-                            rend="overwriting">,. </del><add rend="#d_p"
+                            rend="overwriting" type="correction">,. </del><add rend="#d_p"
                                 type="clarification">n, </add><orig>C</orig><reg>c</reg>’est avec de 
                             la <w>mau<lb rend="hyphen"/>vaise</w> politique que
                             l’on perd les colonies. Des combats, des plans<lb/>de bataille. Trêve de balivernes. Avec
@@ -2892,7 +2892,7 @@
                     <head>
                         <subst>
                             <del><orig>Acte</orig><reg>ACTE</reg> III<orig>.</orig></del>
-                            <add>Acte II</add>
+                        	<add><orig>Acte</orig><reg>ACTE</reg> II</add>
                         </subst>
                     </head>
                     <sp>
@@ -4579,8 +4579,8 @@
                     </sp>
                     <sp>
                         <speaker><hi rend="underlined">Toussain</hi>t.</speaker>
-                        <ab>le caïman <add type="clarification">!</add> les torches <del rend="overwriting">.</del><add
-                                type="clarification">!</add> les drapeaux<add type="clarification">&#160;!</add></ab>
+                        <ab>le caïman <add type="clarification">!</add> les torches <subst><del rend="overwriting">.</del><add
+                                type="clarification">!</add></subst> les drapeaux<add type="clarification">&#160;!</add></ab>
                         <ab>et l'Amazone <unclear>degout</unclear> d'hévéas</ab>
                         <ab>et les lunes tombées comme des graines ailées dans l'hum<add type="clarification"
                                 rend="blue-ink">u</add>s tiède du ciel</ab>
