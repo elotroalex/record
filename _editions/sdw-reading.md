@@ -5007,8 +5007,6 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.centered} FIN
 
-
-
 ---
 
 ## Notes
