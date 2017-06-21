@@ -271,7 +271,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fète l’innombrable sacrifice des roses désarmées.
+- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fête l’innombrable sacrifice des roses désarmées.
 
 
 - {:.speaker} Le récitant.
@@ -5006,6 +5006,8 @@ provide links to the relevant images for easy access to the complexities lost in
 
 
 - {:.centered} FIN
+
+
 
 ---
 

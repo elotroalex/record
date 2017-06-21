@@ -237,7 +237,7 @@ author: alex gil
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne veux pas être le grain de parfum o*ù*{:.add}se résume et se fète l’innombrablesacrifice des roses désarmées.
+- {:.prose .prose-indent} Je ne veux pas être le grain de parfum o*ù*{:.add}se résume et sefêtel’innombrablesacrifice des roses désarmées.
 
 
 - {:.speaker} Le récitant.

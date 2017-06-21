@@ -256,7 +256,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fète l’innombrable sacrifice des roses désarmées.
+- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fête l’innombrable sacrifice des roses désarmées.
 
 
 - {:.speaker} Le récitant.
