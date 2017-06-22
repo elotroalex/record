@@ -1487,7 +1487,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
+<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
 
 
 

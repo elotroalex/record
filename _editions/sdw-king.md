@@ -595,7 +595,7 @@ author: alex gil
 [ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}            
 
 
-<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, elles<span class="delete"></span> déposent leur baluchon.)</em>
+<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles<span class="delete"></span> déposent leur baluchon.)</em>
 
 
 

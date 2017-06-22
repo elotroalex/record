@@ -1436,7 +1436,7 @@ author: alex gil
 [ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}            
 
 
-<em>*(*{:.add}Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont temps en temps la tête pour regarder si on les suit... A demi rassurées, ellesdéposent leur baluchon.*)*{:.add}</em>
+<em>*(*{:.add}Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont desblanches...Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, ellesdéposent leur baluchon.*)*{:.add}</em>
 
 
 

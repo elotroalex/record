@@ -2642,8 +2642,10 @@
                         <locus scheme="#Page">37</locus>
                     </fw>
                     <stage type="setting"><add rend="light-pencil" place="inline" type="clarification">(</add>Entre un
-                        groupe de trois femmes<reg>&#160;</reg>; lasses, inquiètes. Ce sont temps en temps la tête pour
-                        regarder si on<lb/>les suit... A demi rassurées, elles<del rend="x-overstrike">
+                        groupe de trois femmes<reg>&#160;</reg>; lasses, inquiètes. Ce sont 
+                    	des <w>blan<orig>-</orig><lb/>ches...</w> Elles tournent de temps en temps la 
+                    	tête pour regarder si on<lb/>les suit... 
+                    	A demi rassurées, elles<del rend="x-overstrike">
                             <gap reason="deleted" unit="chars" quantity="1"/>
                             <!-- How do we deal with gaps? -->
                         </del> déposent leur baluchon.<add rend="light-pencil" place="inline" type="clarification"
