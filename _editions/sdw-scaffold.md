@@ -280,7 +280,10 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - le monde sans reconnaissance et sans ingratitude,
 - où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’unions non timbré.
-- 
+
+
+<em></em>
+
 
 <hr>
 
@@ -358,7 +361,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
-- Rien parmi le barrattement de la terre et le
+- Rien parmi le barattement de la terre et le
 - Convulsif chahut végétal&nbsp;?
 - Rien dans la mer, n’est-ce pas&nbsp;?
 - Je vois... j’entends... je parlerai...
@@ -611,7 +614,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Colomb. Colomb.
 
 
-<em>(A ce moment la populace nègre envahit la scène, déchainée et menaçante, brandissant un mannequin).</em>
+<em>(A ce moment la populace nègre envahit la scène, déchainée et menaçante, brandissant un mannequin.)</em>
 
 
 <hr>
@@ -954,7 +957,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu, Saint-Domingue.
 
-- {:.speaker} Le chœur <em> (haineux .)</em>
+- {:.speaker} Le chœur <em> (haineux.)</em>
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vomi le happement du squale et le rampement du scolopendre.
 

@@ -295,7 +295,10 @@ provide links to the relevant images for easy access to the complexities lost in
 - le monde sans reconnaissance et sans ingratitude,
 - où la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’univers non timbré.
-- Une petite fille du Fouta ronge un os en forme de candélabre.
+
+
+<em>(Une petite fille du Fouta ronge un os en forme de candélabre.)</em>
+
 
 <hr>
 
@@ -376,7 +379,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
-- Rien parmi le barrattement de la terre et le
+- Rien parmi le barattement de la terre et le
 - Convulsif chahut végétal&nbsp;?
 - Rien dans la mer, n’est-ce pas&nbsp;?
 - Je vois... j’entends... je parlerai...
@@ -635,7 +638,7 @@ provide links to the relevant images for easy access to the complexities lost in
 - Colomb. Colomb.
 
 
-<em>(A ce moment les esclaves nègres envahissent la scène.</em>
+<em>(A ce moment les esclaves nègres envahissent la scène.)</em>
 
 
 <hr>
@@ -986,7 +989,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu, Saint-Domingue.
 
-- {:.speaker} Le chœur <em> (haineux .)</em>
+- {:.speaker} Le chœur <em> (haineux.)</em>
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vo­mi le happement du squale et le rampement du scolopendre.
 

@@ -78,7 +78,7 @@ author: alex gil
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Adieu, Saint-Domingue.
 
-- {:.speaker} Le chœur <em> (haineux .)</em>
+- {:.speaker} Le chœur <em> (haineux.)</em>
 
 - {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vomi le happement du squale et le rampement du scolopendre.
 
@@ -965,7 +965,10 @@ author: alex gil
 - le monde sans reconnaissance et sans ingratitude,
 - o la pensée est sans équivoque, une fleur au cœur de papillon.
 - Je veux un monde nu d’<span class="delete">unions</span> non timbré.
-- 
+
+
+<em></em>
+
 
 <hr>
 
@@ -1040,7 +1043,7 @@ author: alex gil
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
-- Rien parmi le barrattement de la terre et le
+- Rien parmi le barattement de la terre et le
 - Convulsif chahut végétal&nbsp;?
 - Rien dans la mer, n’est-ce pas&nbsp;?
 - Je vois... j’entends... je parlerai...
@@ -1287,7 +1290,7 @@ author: alex gil
 - Colomb. Colomb.
 
 
-<em>(A ce moment <span class="delete">la populace nègre envahit</span> la scène<span class="delete">, déchainée et menaçante,</span><span class="delete"> </span><span class="delete">brandissant un mannequin)</span>.</em>
+<em>(A ce moment <span class="delete">la populace nègre envahit</span> la scène<span class="delete">, déchainée et menaçante,</span><span class="delete"> </span><span class="delete">brandissant un mannequin</span>.)</em>
 
 
 <hr>

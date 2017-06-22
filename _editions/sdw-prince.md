@@ -261,7 +261,10 @@ author: alex gil
 - le monde sans reconnaissance et sans ingratitude,
 - o*̀*{:.add}la pensée est sans équivoque, une fleur aucœurde papillon.
 - Je veux un monde nu d’*univers*{:.add}non timbré.
-- *Unepetite fille du Fouta ronge un os en forme de candélabre.*{:.add}
+
+
+<em>(*Unepetite fille du Fouta ronge un os en forme de candélabre.*{:.add})</em>
+
 
 <hr>
 
@@ -336,7 +339,7 @@ author: alex gil
 - Nous sommes aveugles
 - Aveugles par la grâce de dieu et de la peur.
 - Et tu ne vois rien parmi l’herbe nouvelle&nbsp;?
-- Rien parmi le barrattement de la terre et le
+- Rien parmi lebarattementde la terre et le
 - Convulsif chahut végétal&nbsp;?
 - Rien dans la mer, n’est-ce pas&nbsp;?
 - Je vois...j’entends...je parlerai...
@@ -583,7 +586,7 @@ author: alex gil
 - Colomb. Colomb.
 
 
-<em>(A ce moment*les esclaves nègres envahissent*{:.add}la scène.</em>
+<em>(A ce moment*les esclaves nègres envahissent*{:.add}la scène.)</em>
 
 
 <hr>

@@ -797,12 +797,13 @@
                             the typewriter, it is hard to determine whether it was made at a later
                             date, in which case the underline was a note to self.</note>-->
                         <!--<lb type="implied"/>-->
-                        <ab>
-                            <add rend="light-pencil" place="bottom"><sic>une</sic><reg>Une</reg> petite fille du Fouta
-                                ronge un os en forme de candélabre<reg>.</reg></add>
-                        </ab>
+
 
                     </sp>
+                	<stage>
+                		<add rend="light-pencil" place="bottom"><sic>une</sic><reg>Une</reg> petite fille du Fouta
+                			ronge un os en forme de candélabre<reg>.</reg></add>
+                	</stage>
                 </div>
 
                 <div type="page" facs="/P008.jpg" n="8">
@@ -923,7 +924,7 @@
                         <ab>Aveugles par la grâce de dieu et de la peur.</ab>
                         <ab>Et tu ne vois rien par<del type="correction" rend="light-pencil">-</del>mi l’herbe
                             nouvelle<reg>&#160;</reg>?</ab>
-                        <ab>Rien parmi le barrattement de la terre et le</ab>
+                        <ab>Rien parmi le <sic>barrattement</sic><corr>barattement</corr> de la terre et le</ab>
                         <ab>Convulsif chahut végétal<reg>&#160;</reg>?</ab>
                         <ab>Rien dans la mer, n’est-ce pas<reg>&#160;</reg>?</ab>
                         <ab>Je vois...<sic>...</sic><reg xml:space="preserve"> </reg>j’entends...<sic>...</sic> je
@@ -1335,7 +1336,7 @@
                             <del rend="light-pencil">la populace nègre envahit</del>
                             <add rend="light-pencil" place="above">les esclaves nègres envahissent</add>
                         </subst> la scène<del rend="light-pencil">, déchainée et menaçante,</del><del><lb/></del>
-                        <del>brandissant un mannequin<reg>)</reg></del>.</stage>
+                    	<del>brandissant un mannequin</del>.<reg>)</reg></stage>
                 </div>
 
                 <div type="page" facs="/P017.jpg" n="17">
@@ -1827,7 +1828,7 @@
                                 <orig>choeur</orig>
                                 <reg>chœur</reg>
                             </choice></speaker>
-                        <stage type="delivery"> (haineux <reg>.</reg>)</stage>
+                        <stage type="delivery"> (haineux<orig xml:space="preserve"> </orig><reg>.</reg>)</stage>
                         <ab rend="indent">...Saint-Domingue la noire, o<orig>u</orig><add rend="light-pencil"
                                 type="clarification">ù</add> le sadisme du maitre, et le <w>rale<add rend="light-pencil"
                                     place="inline">&#8208;</add><lb/>ment</w> de l’esclave par force coprophage
