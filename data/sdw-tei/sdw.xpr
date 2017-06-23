@@ -30,6 +30,36 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>sdw-prince.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>sdw-prince</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>sdw-king.xsl</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>sdw-king</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XML</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>sdw.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -51,11 +81,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>sdw-king.xsl</String>
+                                    <String>sdw-scaffold.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sdw-king</String>
+                                        <String>sdw-scaffold</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -71,21 +101,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>sdw-reading</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sdw-prince.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>sdw-prince</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -116,21 +131,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>sdw-diplomatic</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XML</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>sdw-scaffold.xsl</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>sdw-scaffold</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1031,7 +1031,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Saxon-HE</String>
+                                    <String>Saxon-PE</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>

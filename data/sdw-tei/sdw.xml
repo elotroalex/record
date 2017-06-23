@@ -1680,12 +1680,12 @@
                             <hi rend="underlined">Le récitant</hi>
                         </speaker>
                         <stage type="delivery"> (très calme.)</stage>
-                        <ab rend="indent">... La Grande Révolution de <orig>Saint Domingue</orig><reg>Saint-Domingue</reg> <subst>
-                                <del rend="light-pencil" seq="1"> continue</del>
+                        <ab rend="indent">... La Grande Révolution de <orig>Saint Domingue </orig><reg>Saint-Domingue </reg><subst>
+                                <del rend="light-pencil" seq="1">continue</del>
                                 <del rend="#d_p" seq="2">
-                                    <add rend="light-pencil" place="below" seq="1"> a commencé</add>
+                                    <add rend="light-pencil" place="below" seq="1">a commencé</add>
                                 </del>
-                                <add rend="#d_p" place="inline" seq="2"> vient de commencer</add>
+                                <add rend="#d_p" place="inline" seq="2">vient de commencer</add>
                             </subst>.</ab>
                     </sp>
                     <!-- <note>The rest of the page is crossed-out with a large x written in blue
@@ -1919,7 +1919,7 @@
                     </sp>
                     <sp>
                         <speaker>La récitante.</speaker>
-                        <ab>Les beaux yeux aveugles de la terres chantent d’eux-mêmes</ab>
+                        <ab>Les beaux yeux aveugles de la terre chantent d’eux-mêmes</ab>
                         <ab>l’école buissonnière, les sourcils joints des hauts labours</ab>
                         <ab>les ruses savantes des colloques sans rime ni raison aux sables<lb/>mouvants.</ab>
                         <ab>La vache des naufrageurs, la pluie des calvaires et des vagues</ab>

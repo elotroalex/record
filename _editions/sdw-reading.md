@@ -1034,7 +1034,7 @@ provide links to the relevant images for easy access to the complexities lost in
 
 - {:.speaker} La récitante.
 
-- Les beaux yeux aveugles de la terres chantent d’eux-mêmes
+- Les beaux yeux aveugles de la terre chantent d’eux-mêmes
 - l’école buissonnière, les sourcils joints des hauts labours
 - {:.prose} les ruses savantes des colloques sans rime ni raison aux sables mouvants.
 - La vache des naufrageurs, la pluie des calvaires et des vagues
