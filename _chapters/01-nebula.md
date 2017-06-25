@@ -225,6 +225,8 @@ Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into
 
 ---
 
+## notes
+
 <br/>
 
 [^b2]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. After [Bruce Holsinger](https://twitter.com/bruceholsinger) trended the hashtag [#thanksfortyping](http://www.npr.org/2017/03/30/521931310/-thanksfortyping-spotlights-unnamed-women-in-literary-acknowledgements) on Twitter, though, the lingering suspicion that Suzanne Césaire is our mysterious typist has recently flared up. I put $5 on it. 

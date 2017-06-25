@@ -801,8 +801,8 @@
 
                     </sp>
                 	<stage>
-                		<add rend="light-pencil" place="bottom"><sic>une</sic><reg>Une</reg> petite fille du Fouta
-                			ronge un os en forme de candélabre<reg>.</reg></add>
+                		<add rend="light-pencil" place="bottom"><reg cert="medium">(</reg><orig>une</orig><reg>Une</reg> petite fille du Fouta
+                			ronge un os en forme de candélabre<reg>.</reg><reg cert="medium">)</reg></add>
                 	</stage>
                 </div>
 
@@ -2404,8 +2404,8 @@
                         <locus scheme="#Page">33</locus>
                     </fw>
                     <stage type="setting">
-                        <add rend="light-pencil"><orig>u</orig><reg>U</reg>ne rue. <orig>l</orig><reg>L</reg>a nuit.
-                                <orig>d</orig><reg>D</reg>es groupes passent<reg>.</reg></add>
+                        <add rend="light-pencil"><reg>(</reg><orig>u</orig><reg>U</reg>ne rue. <orig>l</orig><reg>L</reg>a nuit.
+                                <orig>d</orig><reg>D</reg>es groupes passent<reg>.</reg><reg>)</reg></add>
                     </stage>
 
                     <sp>

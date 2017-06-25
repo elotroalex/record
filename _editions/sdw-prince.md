@@ -263,7 +263,7 @@ author: alex gil
 - Je veux un monde nu d’<span class="add">univers</span> non timbré.
 
 
-<em>(<span class="add">Une petite fille du Fouta ronge un os en forme de candélabre.</span>)</em>
+<em><span class="add">(Une petite fille du Fouta ronge un os en forme de candélabre.)</span></em>
 
 
 <hr>
@@ -1278,7 +1278,7 @@ author: alex gil
 [ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}            
 
 
-<em>(<span class="add">Une rue. La nuit. Des groupes passent.</span>)</em>
+<em><span class="add">(Une rue. La nuit. Des groupes passent.)</span></em>
 
 
 

@@ -258,9 +258,17 @@
     <!-- ## Transcription and decorative elements ## -->
     <!-- ########################################### -->
     
-    <!-- additions -->
-    
-    <xsl:template match="tei:add"/>
+	<!-- additions -->
+	
+	<xsl:template match="tei:add">
+		<span class="add"><xsl:apply-templates/></span>            
+	</xsl:template>
+	
+	<xsl:template match="tei:add[text()='&#8208;']"/>
+	
+	<!-- deletions -->
+	
+	<xsl:template match="tei:del"/> 
     
     
     <!-- special spaces -->
@@ -268,45 +276,6 @@
         <xsl:text>&#32;</xsl:text>
     </xsl:template>
     
-    
-    
-    <!-- deletions -->
-    
-    <xsl:template match="tei:del[ancestor::tei:subst and following-sibling::tei:add[@type='clarification']]"/>
-    <xsl:template match="tei:del[@type='correction']"/>
-    <xsl:template match="tei:add[@type='clarification']">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="tei:sic[following-sibling::node()[position() = 1][@type='accent']]">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="tei:add[@type='accent']">
-        <xsl:apply-templates/>
-    </xsl:template>
-    
-    <xsl:template match="tei:del[contains(@rend, 'overprint')]"/>
-    
-    
-    <xsl:template match="tei:del">
-        <xsl:choose>
-            
-            <!-- double-check -->
-            <xsl:when test="self::tei:del[@seq='2']">
-                
-                    <xsl:apply-templates/>
-                
-            </xsl:when>
-            <!-- end double-check -->
-            
-            <xsl:otherwise>
-                
-                    <xsl:apply-templates/>
-                
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
     
     
     <!-- unclear -->

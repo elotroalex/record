@@ -23,7 +23,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.centered} ACTE I
 
 
-<em>(La scène est à Saint-Domingue.)</em>
+<em><span class="add">(</span>La scène est à Saint-Domingue<span class="add">&nbsp;à&nbsp;</span><span class="add">l’epoque de la Révolution française.)</span></em>
 
 
 
@@ -50,7 +50,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} La récitante.
 
 - Ce pays est maudit.
-- {:.prose} Ce pays bâille, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
+- {:.prose} Ce pays b<span class="add">̂</span><span class="add">i</span>lle, ayant craché l’ankylostome Cuba, une bouche de clameurs vides.
 
 
 - {:.speaker} Le récitant.
@@ -67,7 +67,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} En marge des marées sautillantes, je marche sur l’eau des printemps tournants ; j’aperçois très haut mes yeux de sentinelle. L’insomnie à toute épreuve grandit comme une désobéissance le long des tempes libres de la femme à l’emphore, verseau verseau tempête de germes, bouilloire.
+- {:.prose .prose-indent} En marge des marées sautillantes, je marche sur l’eau des printemps tournants ; j’aperçois très haut mes yeux de sentinelle. L’insomnie à toute épreuve grandit comme une désobéissance le long des tempes libres de la femme à l’emphore, verseau<span class="add">,</span> verseau tempête de germes, bouilloire.
 
 
 - {:.speaker} Toussaint.
@@ -76,7 +76,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - contractures
 - et je salue ma fraternité totale.
 - Saint-Domingue, tes fleuves enfoncent dans ma chair
-- leur museau de sagouin
+- leur museau de sagouin<span class="add">,</span>
 - des forêts poussent aux mangles de mes muscles,
 - les vagues de mon sang chantent aux cayes,
 - je ferme les yeux,
@@ -87,9 +87,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - des serpents et des chaines précieuses.
 
 
-- {:.speaker} Le chœur.
+- {:.speaker} 
 
-- {:.prose .prose-indent} Hurrah. Les Anglais sont perdus... Nos batteries d’approche balayent leurs remparts&nbsp;; nos batteries de brèche sont intallées... Saint-Marc craque... comme un vaisseau pourri...
+- {:.prose .prose-indent}   
 
 <hr>
 
@@ -99,12 +99,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Toussaint est debout dans le grondement du fleuve... de la rive d’or cent guerriers lui lancent une cent sagaies... La poitrine de Toussaint est lunée de cicatrices...
+- {:.prose .prose-indent} Toussaint est debout dans le grondement du fleuve... de la rive d’or cent guerriers lui lancent un cent sagaies... La poitrine de Toussaint est lunée de cicatrices...
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Saint-Marc cède... la fière... ses murailles s’écroulent... nos chevaux hument l’air mêlé de poudre et de tambour.
+- {:.prose .prose-indent} Saint-Marc cède... la fière... ses murailles s’écroulent... nos chevaux hument l’air m<span class="add">ê</span>lé de poudre et de tambour.
 
 
 - {:.speaker} La récitante.
@@ -126,17 +126,17 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-- {:.speaker} Une voix tentatrice.
+- {:.speaker} <span class="add">1ère</span> voix tentatrice.
 
 - Ma voix froisse des mots de soie,
 - ma voix souffle en ombelles des panaches,
 - ma voix sans saison d’entre les vasques creuse
 - mille songes harmonieux
-- ma voix de cils aiguise juste mille insectes triomphants
+- ma voix de cils aiguise juste<span class="add">s</span> mille insectes triomphants
 - ma voix est un bel oiseau flamboyant d’or
-- de mousseline de ciel, de désirs sans parade
+- de mousseline de ciel, de désirs sans parade<span class="add">,</span>
 - mes voix humides roulent des ruisseaux
-- de colombes sans effroi sur de galets
+- de colombes sans effroi sur de<span class="add">s</span> galets
 - de jaspe et d’ecbatane...
 
 
@@ -152,12 +152,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or...
+- {:.prose .prose-indent} <span class="add">J</span>e dis que la République a cloché un branle nouveau au monde en heurtant trois mots d’or...
 
 
-- {:.speaker} <span class="unclear">1re </span> voix tentatrice.
+- {:.speaker} <span class="add">2e</span> voix tentatrice.
 
-- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois&nbsp;; mille mots Toussaint... O mon ami, <span class="unclear">naïf ami,</span> veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne <span class="unclear">comme Biasson&nbsp;?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
+- {:.prose .prose-indent} Ha, ha, ha. Des mots, rien que des mots : pas trois&nbsp;; mille mots Toussaint... O mon ami,  veux-tu de l’argent&nbsp;? des titres&nbsp;? de la terre&nbsp;? Veux-tu être maréchal de camp&nbsp;? Grand d’Espagne <span class="add">?</span> Roi... c’est ça... tu seras Roi... je jure que tu seras Roi.
 
 <hr>
 
@@ -169,11 +169,11 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - Je tire un pied
 - Oh. Je tire l’autre&nbsp;pied
-- laissez-moi sans m’insulter de promesses me dégluer
+- laissez-moi sans m’insulter de promesses<span class="add">,</span> me dégluer
 - de la charogne et de la boue.
 
 
-- {:.speaker} 2e voix tentatrice.
+- {:.speaker} <span class="add">3e</span> voix tentatrice.
 
 - {:.prose .prose-indent} ... Un roi. Quelle aventure. Et c’est vrai qu’il y a quelque chose en toi qui n’a jamais pu se soumettre, une colère, un désir, une tristesse, une impatience, un mépris enfin, une violence... Et voilà tes veines charrient de l’or, non de la boue, de l’orgueil, non de la servitude. Roi, tu as été roi jadis...
 
@@ -181,7 +181,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Fête de nuit
-- <span class="unclear">came</span>, cave
+- <span class="add"><span class="unclear">carne</span></span>, cave
 - les maisons fendues filent leur coupe abstraite de serpent
 - fer de lance et de rosace
 - les villes sautent comme les moutons du vomito négro
@@ -191,9 +191,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - cessez la torture croisière des paradis barrés de tentations :
 - au bord de la mer une campagne de rhum et de contrebande
 - dédouble de soleils nichés la fièvre lisse des jours.
-- Maudit serais-je, maudit.
+- Maudit<span class="add">,</span> serais-je, maudit.
 - Surpris un demi-mot sur la langue. Complice.
-- îles
+- îles<span class="add">,</span>
 
 <hr>
 
@@ -201,7 +201,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} 
 
 - J’ai été esclave pendant 50 ans
 - et j’ai coupé des cannes et j’ai ciré des chaussures et
@@ -228,7 +228,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Martinique, Jamaïque,
-- tous les mirages et tous les lampornis
+- tous les mirages et tous les <span class="add">lampornis</span>
 - ne peuvent faire sonner d’oubli dormant
 - le coup de feu, le sang gaché, le chant d’acier
 - abîmes fraternels des roses de Jéricho...
@@ -241,22 +241,22 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} Tu n’échapperas pas à ta loi qui est une loi de domination.
+- {:.indent-2} Tu n’échapperas pas à ta loi.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure: jusqu’au confluent de feu qui me volatilise, qui m’épure et m’incendie de prisme  d'or amalgamé.
+- {:.prose .prose-indent} Ma loi est que je courre d’une chaine sans cassure<span class="add">,</span> jusqu’au confluent de feu qui me volatilise, qui m’épure et m’incendie de <span class="add">mon </span><span class="add">propre</span> <span class="add">don</span> amalgamé.
 
 
 - {:.speaker} Le chœur.
 
-- {:.indent-2} Goût des ruines&nbsp;; baisers&nbsp;;  la lune décroit, le roi se cache.
+- {:.indent-2} <span class="add">Funèbre</span> la lune décroit, le roi se cache.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je ne veux pas être le grain de parfum où se résume et se fête l’innombrable sacrifice des roses désarmées.
+- {:.prose .prose-indent} Je ne veux pas être le grain de parfum o<span class="add">ù</span> se résume et se fête l’innombrable sacrifice des roses désarmées.
 
 
 - {:.speaker} Le récitant.
@@ -278,11 +278,11 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - nu comme le regard unicorne de midi,
 - comme le cri et la morsure, j’éclaircis de basses buées
 - le monde sans reconnaissance et sans ingratitude,
-- où la pensée est sans équivoque, une fleur au cœur de papillon.
-- Je veux un monde nu d’unions non timbré.
+- o<span class="add">̀</span> la pensée est sans équivoque, une fleur au cœur de papillon.
+- Je veux un monde nu d’<span class="add">univers</span> non timbré.
 
 
-<em></em>
+<em><span class="add">(Une petite fille du Fouta ronge un os en forme de candélabre.)</span></em>
 
 
 <hr>
@@ -291,13 +291,13 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Crépitement de tam-tam. Une petite fille du Fouta ronge un os en forme de candélabre.)</em>
+<em> </em>
 
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} 
 
-- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse pend sur ma joie, mais il pleure des yeux aux arbres de Judée baignés de crocus et
+- {:.prose .prose-indent} Et je suis jeune, je suis opulent de jeunesse, d’une enfance d’avant les portes et les fenêtres, d’une enfance de libation et d’holocaustes au fil des yeux, au fil des heures. Un lac de sécheresse p<span class="add">e</span>nd sur ma <span class="add">joue</span>, mais il pleure des yeux aux arbres de Judée baignés de crocus et
 - d’anémones.
 - Je suis nu.
 - Je suis nu dans les pierres.
@@ -306,7 +306,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.indent-2} Patience, je regarde, j’ai regardé.
+- {:.indent-2} Patience, je regarde.
 - {:.prose} Ma tête polaire engloutit les lueurs de cadavres, les casques brisés, les débris inconsolables, les soleils gavés du vent charnel des venaisons.
 
 
@@ -318,7 +318,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Une belle fille terrible brise sa coquille de désastres. Des tireurs de contes se réveillent dans une hutte d’absinthe heureuse.
+- {:.prose .prose-indent} Une belle fille terrible brise sa coquille de désastres. Des tireurs de <span class="add">coyotes</span> se réveillent dans une hutte d’absinthe heureuse.
 
 
 - {:.speaker} Toussaint.
@@ -334,7 +334,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} La récitante.
 
 - {:.indent-2} Et il n’y a plus maintenant qu’un homme perdu,
-- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau — et il mâche, ombre et eau — une prière qu’il ne vendra pas.
+- {:.prose} tragique comme un moignon de palmier dans l’émeute banale et le champ de la foudre. Ses yeux poussièreux s’élancent dans une steppe sans ombre et sans eau — et il m<span class="add">̂</span>che, ombre et eau — une prière qu’il ne vendra pas.
 
 
 - {:.speaker} Toussaint.
@@ -366,17 +366,17 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Rien dans la mer, n’est-ce pas&nbsp;?
 - Je vois... j’entends... je parlerai...
 - O succion nouvelle de mon sang par le soleil
-- vampire
+- vampire<span class="add">,</span>
 - O assaut de mon roc par la nuit corsaire
 - et mon aube a pété sous leur gueule
 - ses fracas de midi et de goelands.
 - Ligotez-moi.
 - Piétinez-moi. Assassinez-moi. Trop tard.
 - Les heures débusquées sonnent sur les accalmies
-- et les fanaux de mouillage 
+- et les fanaux de mouillage <span class="add">;</span>
 - les heures sonnent
 - renifleuses
-- et s’allongent aux caresses de mes mains
+- et s’allongent aux caresses de mes mains<span class="add">,</span>
 - les flammes s’allongent.
 - Moi aussi je suis une flamme.
 - Je m’allonge. Je suis l’heure.
@@ -391,7 +391,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Mon œuil se dore de visions souveraines... Toussaint fait son entrée solennelle à Santo Domingo... Le cavido lui remet les clefs de la ville.
+- {:.prose .prose-indent} Mon œuil se dore de visions souveraines... Toussaint fait son entrée solennelle à Santo Domingo... Le <span class="add">cabido</span> lui remet les clefs de la ville.
 
 
 - {:.speaker} Le Récitant.
@@ -401,17 +401,17 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et légifère.
+- {:.prose .prose-indent} Les désirs de Toussaint sont des ordres... Il commande et légi<span class="add">f</span>ère.
 
 
 - {:.speaker} Le Récitant.
 
-- {:.prose .prose-indent} Il n’y a pas de roses&nbsp;: seuls les piments agrapent leurs larmes rouges.
+- {:.prose .prose-indent} Il n’y a pas de roses&nbsp;: seuls les piments agra<span class="add">f</span>ent leurs larmes rouges.
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Toussaint est roi... Il n’en a pas le titre, mais bien sûr qu’il est roi... un vrai lamido... voici sa  garde... les casques d’argent s’enflamment au crépuscule.
+- {:.prose .prose-indent} Toussaint est roi... Il n’en a pas le titre, mais bien sûr qu’il est roi... un vrai <span class="add">lamido</span>... voici sa  garde... les casques d’argent s’enflamment au crépuscule.
 
 
 - {:.speaker} Le Récitant.
@@ -426,7 +426,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Mes souvenirs délirent d'encens et de cloches... Le Niger bleu... Le Congo d’or... Le Logone sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt.
+- {:.prose .prose-indent} Mes souvenirs délirent d'encens et de cloches... Le Niger bleu... Le Congo d’or... Le <span class="add">Logone</span> sablonneux... un galop de bubales... et les pileuses de millet dans le soir de cobalt.
 
 <hr>
 
@@ -436,7 +436,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la peste dans la  forêt... le barracoun... le négrier...
+- {:.prose .prose-indent} Mes souvenirs brâment le rapt... le carcan... la <span class="add">piste</span> dans la  forêt... le barracoun... le négrier...
 
 
 - {:.speaker} Le chœur.
@@ -517,7 +517,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- ... des pommes d’araucaria, des bouquets de cerises.
+- ... des pommes d’ara<span class="add">u</span>caria, des bouquets de cerises.
 
 - {:.speaker} Chœur <em> (presque perdu dans la distance.)</em>
 
@@ -539,12 +539,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} J’avais amené  ce pays à la connaissance
+- {:.indent-2} <span class="add">j’amenerai</span> ce pays à la connaissance
 - de lui-même,
-- familiarisé cette terre avec ses démons secrets
-- allumé aux cratères d’hélodermes et de cymbales
+- <span class="add">je&nbsp;</span>familiaris<span class="add">erai</span> cette terre avec ses démons secrets
+- <span class="add">j’allumerai</span> aux cratères d’hélodermes et de cymbales
 - les symphonies d’un enfer inconnu, splendide
-- parasité de nostalgies hautaines.
+- parasité de nostalgies hautaines.<span class="add">..</span>
 
 
 - {:.speaker} Chœur.
@@ -557,9 +557,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Et maintenant
 - seul.
 - Tout est seul
-- j’ai beau aiguisé ma voix
-- tou déserte tout
-- ma voix peine
+- j’ai beau aiguis<span class="add">er</span> ma voix
+- tou<span class="add">t</span> déserte tout
+- ma voix peine<span class="add">,</span>
 - ma voix tangue dans le cornet des brumes sans carrefour
 - et je n’ai pas de mère
 - et je n’ai pas de fils.
@@ -581,9 +581,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - désir
 - envol d’in memoriam
 - de vêtements liturgiques
-- premier visage du monde
-- sédition de longs siècles
-- désir
+- premier visage du mon<span class="add">d</span>e
+- <span class="add">séd</span>i<span class="add">t</span>ion de longs si<span class="add">̀</span>cles
+- <span class="add">dé</span>sir
 - le ciel baise des cerises par toutes ses bouches d’étoiles.
 
 <hr>
@@ -592,9 +592,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} 
 
-- Non, non, <span class="unclear">tu</span> mens, j’ai peur, je suis seul
+- Non, non, <span class="add">je</span> mens, j’ai peur, je suis seul
 - mes forêts sont sans oreille, mes fleuves sans chair
 - des caravelles inconnues rôdent dans la nuit.
 - Est-ce toi, Colomb ? Capitaine de négrier ? Est-ce toi
@@ -602,7 +602,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Rien ne répond. La nuit s’augmente d’éboulis.
 - Colomb. Colomb.
 - Réponds-moi, réponds-moi donc.
-- Beau comme la matrice d’ombre de deux pitons à midi
+- Beau comme la matrice d’ombre de deux pitons à <span class="add">midi</span>
 - l’archipel
 - turbulence d’orgues couchées
 - sacrifice de verres de lampes croisées sur la bouche
@@ -614,7 +614,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Colomb. Colomb.
 
 
-<em>(A ce moment la populace nègre envahit la scène, déchainée et menaçante, brandissant un mannequin.)</em>
+<em>(A ce moment <span class="add">les esclaves nègres envahissent</span> la scène.)</em>
 
 
 <hr>
@@ -635,12 +635,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Voix.
 
-- Il a tué nos enfants.
+- <span class="add">Il tuera</span> nos enfants.
 
 
 - {:.speaker} Voix.
 
-- Il a attiré sur nous la colère des Blancs.
+- Il <span class="add">attirera</span> sur nous la colère des Blancs.
 
 
 - {:.speaker} Des voix.
@@ -660,7 +660,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Un orateur.
 
-- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas assez d’emmerdements. Bien sur qu’on n’<span class="unclear">était</span> pas heureux&nbsp;? Et maintenant, camarades, est-ce qu’on  <span class="unclear">est</span> heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras&nbsp;? Alors je dis que Toussaint nous a trahit. A mort.
+- {:.prose .prose-indent} Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. Comme si on n’en avait pas asse<span class="add">z</span> d’emmerdements. Bien sur qu’on n’<span class="add">est</span> pas heureux&nbsp;? E<span class="add">h</span>, camarades, est-ce qu’on <span class="add">sera</span> heureux avec la liberté et la guerre et la vengeance des Blancs sur les bras<span class="add">&nbsp;?</span> Alors je dis que Toussaint nous  trahi<span class="add">t</span>. A mort.
 
 
 - {:.speaker} Des voix.
@@ -679,7 +679,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Au feu, Toussaint.
 
 
-<em>(Le feu jaillit&nbsp;; le mannequin brûle. Rondo. Toussaint parait enchainé,  entre deux gardes en haut de la citadelle.)</em>
+<em> </em>
 
 
 
@@ -715,12 +715,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- Dans vos voix de chacal la nostalgie des muselières.
+- Dans vos voix de chacal<span class="add">,</span><span class="add"> le bien-être</span> des muselières.
 
 
 - {:.speaker} La foule.
 
-- A mort Toussaint, à mort.
+- A mort<span class="add">,</span> Toussaint, à mort.
 
 
 - {:.speaker} Toussaint.
@@ -771,7 +771,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Vive la vengeance. 
+- {:.indent-2} Vive la vengeance. <span class="add">Vive la liberté.</span>
 - {:.prose} Les montagnes trembleront comme une dent prise au davier, les étoiles écraseront contre terre leur front de femme enceinte...
 
 
@@ -792,23 +792,23 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La foule.
 
-- Malheur. Malheur.
+- Malheur. 
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ah vous ne partirez pas, que vous n’ayez senti la morsure de mes mots sur vos âmes imbéciles.
+- {:.prose .prose-indent} Ah<span class="add">&nbsp;!</span> vous ne partirez pas, que vous n’ayez senti la morsure de mes mots sur vos âmes imbéciles.
 - Car sachez-le, je vous épie comme ma proie...
 - et je vous regarde et je vous dévêts au milieu de vos
 - mensonges et de vos lachetés&nbsp;;
 - larbins fiers
 - petits hypocrites filant doux
-- esclaves et fils d’esclaves
-- et vous n’avez plus la force de protester, de vous indigner
-- de gémir 
+- esclaves et fils d’esclaves<span class="add">,</span>
+- et vous n’avez plus la force de protester, de vous indigner<span class="add">,</span>
+- de gémir <span class="add">;</span>
 - condamnés à vivre en tête à tête avec la stupidité empuantie
 - sans autre chose qui vous tienne chaud au sang
-- que de regarder glouter jusqu’à mi-verre votre rhum
+- que de regarder glouter jusqu’à mi-verre<span class="add">,</span> votre rhum
 - antillais...
 - Âmes de morue.
 
@@ -853,8 +853,8 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - vol de moustiques...
 - Colomb, Colomb
 - toi si tranquille
-- quand tu fis le premier  dans cette île close comme une ratière,
-- {:.prose} parmi les signes nouveaux, parmi les Dieux que ta fierté ne consentait pas à avouer, je le sais, je le sens, tu ne te sentis pas envahi de triomphe non, mais d’angoisse, mais d’inquiétude fière, toi l’inexpugnable, pris poreux et ligoté des grandes lianes silencieuses de la peur, des grandes lianes silencieuses du Repentir.
+- quand tu f<span class="add">i</span>s le premier <span class="add">pas</span> dans cette île close comme une ratière,
+- {:.prose} parmi les signes nouveaux, parmi les <span class="add">d</span>ieux que ta fierté ne consentait pas à avouer, je le sais, je le sens, tu ne te sentis pas envahi de triomphe non, mais d’angoisse, mais d’inquiétude <span class="add">fine</span>, toi l’inexpugnable, pris poreux et ligoté des grandes lianes silencieuses de la peur, des grandes lianes silencieuses du Repentir.
 
 
 - {:.speaker} La foule.
@@ -882,7 +882,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant <em> (très calme.)</em>
 
-- {:.indent-2} ... La Grande Révolution de Saint-Domingue continue.
+- {:.indent-2} ... La Grande Révolution de Saint-Domingue <span class="add">vient de commencer</span>.
 
 <hr>
 
@@ -905,15 +905,15 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.indent-2} C’est la saison des étoiles brûlantes qui commence.
+- {:.indent-2} C’est la saison des étoiles br<span class="add">û</span>lantes qui commence.
 
 - {:.speaker} 2e jeune fille <em> (riant.)</em>
 
-- {:.indent-2} Ah. C’est un conte.
+- {:.indent-2} Ah. C’est un co<span class="add">n</span>te.
 
 - {:.speaker} Le chœur <em> (menaçant.)</em>
 
-- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse sur la gadoue des barracouns.
+- {:.prose .prose-indent} Saint-Domingue raidit ses pattes d’araignée venimeuse sur la gadoue des <span class="add">barracouns.</span>
 
 
 - {:.speaker} 3e jeune fille.
@@ -926,14 +926,14 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.indent-2} Hou. Hou.
 
 
-<em>(La mère parait sur le pas de la porte très pâle.)</em>
+<em><span class="add">(</span>La mère parait sur le pas de la porte<span class="add">,</span> très pâle.<span class="add">)</span></em>
 
 - {:.prose .prose-indent} Mes enfants... rentrez... rentrez vite... j’ai peur.
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Jeunes filles respectez les <span class="unclear">étrangers qui passent </span> sur les riches ornières du crépuscule.
+- {:.prose .prose-indent} Jeunes filles<span class="add">,</span> respectez les <span class="add">pèlerins qui gaspillent leur pain quotidien</span> sur les riches ornières du crépuscule.
 
 
 <em>(Les jeunes filles s’enfuient.)</em>
@@ -945,7 +945,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Le récitant et la récitante feignent de poser par terre une civière&nbsp;; le chœur de creuser une fosse. Le cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.)</em>
+<em><span class="add">(</span>Le récitant et la récitante feignent de poser par terre une civière&nbsp;; le chœur de creuser une fosse. <span class="add">Un</span> cadavre imaginaire est déposé au fond de la fosse. C’est une scène de magie imitative.<span class="add">)</span></em>
 
 
 - {:.speaker} Le récitant <em>(recueilli.)</em>
@@ -959,21 +959,21 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur <em> (haineux.)</em>
 
-- {:.prose .prose-indent} ...Saint-Domingue la noire, où le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vomi le happement du squale et le rampement du scolopendre.
+- {:.prose .prose-indent} ...Saint-Domingue la noire, o<span class="add">ù</span> le sadisme du maitre, et le ralement de l’esclave par force coprophage parachèvent en traits de vo<span class="add">­</span>mi le happement du squale et le rampement <span class="add">du</span> scolopendre.
 
 
-<em>(A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.)</em>
+<em><span class="add">(</span>A ce moment l’obscurité envahit la scène&nbsp;; des coups de feu&nbsp;; des cris discordants&nbsp;; puis le tapage s’apaise peu à peu ; quand la lumière revient, le décor a changé : le camp des nègres au milieu d’une forêt. Chefs nègres et députés blancs en conférence.<span class="add">)</span></em>
 
 
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qui y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos vieux esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales...
+- {:.prose .prose-indent} Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. Nous avons fait taire en nos cœurs la naturelle indignation qu<span class="add">'</span>y suscite le souvenir de tant d’actes de cruauté. Et nous avons fait table rase de toutes nos répugnances et répulsions, de toutes les habitudes que nos esprits philosophes appellent prévention ou préjugés et qui n’en sont pas moins des forces contraignantes dans nos societés coloniales...
 
 
-- {:.speaker} 2e député.
+- {:.speaker} 
 
-- {:.prose .prose-indent} A tout péché miséricorde... Une amnistie, voilà ce que nous  sommes venus vous offrir. Miséricorde pour tous, et pour  tous la liberté.
+- {:.prose .prose-indent}   
 
 <hr>
 <p style="color:gray">[missing pages]</p>
@@ -982,12 +982,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 [ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
 
 
-- {:.speaker} Toussaint <em><span class="unclear"> (l'arrêtant.)</span></em>
+- {:.speaker} Toussaint <em></em>
 
-- {:.prose .prose-indent} Arrière Dessalines. Je suis seul chef ici, et ces hommes m’appartiennent. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
+- {:.prose .prose-indent} <span class="add">C’est bien</span>. Vous, messieurs, vous exposerez à mes troupes les propositions que vous nous avez faites.
 
 
-<em>(Rassemblement. Bruit de tam-tam.)</em>
+<em><span class="add">(</span>Rassemblement. Bruit de tam-tam.<span class="add">)</span></em>
 
 
 
@@ -1016,7 +1016,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(La scène est envahie par la foule&nbsp;: masse d’hommes et de femmes armés de coutelas.)</em>
+<em><span class="add">(</span>La scène est envahie par la foule&nbsp;<span class="add">des insurgés&nbsp;</span>: masse d’hommes et de femmes armés de coutelas.<span class="add">)</span></em>
 
 
 
@@ -1027,7 +1027,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Des voix
 
-- {:.indent-2} Oui, oui qu’ils parlent.
+- {:.indent-2} Oui, oui<span class="add">,</span> qu’ils parlent.
 
 
 - {:.speaker} 1er député.
@@ -1055,7 +1055,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} Revenez sur les habitations. Reprenez le travail. Nous sommes  prêts à reconnaitre la liberté aux meilleurs d’entre vous et nous  vous garantissons à tous notre bienveillance paternelle.
 
 
-<em>(Des cris contradictoires dans la foule.)</em>
+<em><span class="add">(</span>Des cris contradictoires dans la foule.<span class="add">)</span></em>
 
 - {:.indent-2} Ecoutez les blancs. Ne les écoutez pas. Paix. Paix. A mort... à mort.
 - ...
@@ -1068,7 +1068,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Camarades, vous les avez entendus de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher&nbsp;; ils sont venus proposer à vos chefs de se vendre... Ils sont venus nous demander de vous trahir.
+- {:.prose .prose-indent} Camarades, vous les avez entendus<span class="add">&nbsp;;</span> de vos propres oreilles, entendus. Comme ils sont bien gentils et bien conciliants, alors ils sont venus proposer à vos chefs de vous lâcher&nbsp;; ils sont venus proposer à vos chefs de se vendre... Ils sont venus nous demander de vous trahir.
 
 
 - {:.speaker} La foule.
@@ -1078,7 +1078,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Et les écoutant, vous avez compris, camarades, que  blancs n’ont pas encore renoncés à leurs odieux privilèges&nbsp;; que l’homme blanc n’a pas encore renoncé à s’engraisser du sang et des larmes de l’homme noir.
+- {:.prose .prose-indent} Et les écoutant, vous avez compris, camarades, que <span class="add">les</span> blancs n’ont pas encore renoncé à leurs odieux privilèges&nbsp;; que l’homme blanc n’a pas encore renoncé à s’engraisser du sang et des larmes de l’homme noir.
 
 
 - {:.speaker} La foule.
@@ -1102,7 +1102,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.prose} Baiser de gemmes, oubliettes du sang, belle comme la mémoire déssaisie d’oubli frais, la vengeance s’est dressée avec l’oreille du jour, et toutes les poussières de vanille qui tissent la chair des nuits, toutes les guêpes qui salivent la cassave des nuits, toutes les sphyrènes qui signent les dos des nuits ont forcé jusqu’à voir leur œil de serrure.
+- {:.prose} Baiser de gemmes, oubliettes du sang, belle comme la mémoire dé<span class="add">ss</span>aisie d’oubli frais, la vengeance s’est dressée avec l’oreille du jour, et toutes les poussières de vanille qui tissent la chair des nuits, toutes les guêpes qui salivent la cassave des nuits, toutes les sphyrènes qui signent les dos des nuits<span class="add">,</span> ont forcé jusqu’à voir leur œil de serrure.
 
 <hr>
 
@@ -1116,7 +1116,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Tout n’est pas fini camarades... Qui portera aux blancs notre réponse flamboyante&nbsp;?.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
+- {:.prose .prose-indent} Tout n’est pas fini camarades... Qui portera aux blancs notre réponse flamboyante<span class="add">&nbsp;?</span>.. Oui... Aveugles et sourds, leurs ambassadeurs naviguent du côté de l’enfer. Qui ira, et par quelles paroles nouer en d’autres viscères la peur terreuse&nbsp;?
 
 
 - {:.speaker} Des voix.
@@ -1150,7 +1150,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers. Le sang a fait sauter sa bonde.&nbsp;Le sang ruisselle&nbsp;; des crânes bâillent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
+- {:.prose .prose-indent} Le coutelas s’abat. Quelle moisson. Ce ne sont pas des cannes qui tombent. Ce ne sont pas des troncs de bananiers.  Le sang ruisselle&nbsp;; des crânes b<span class="add">̂</span>illent, tels des noix de coco. Voici le soleil. Voici le sang. Voici les mouches.
 
 
 - {:.speaker} Le récitant.
@@ -1165,27 +1165,27 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nous coupaient les jarrets.
+- {:.indent-2} Ils nous<span class="add"> </span>coupaient les jarrets.
 
 
 - {:.speaker} Demi-chœur.
 
-- {:.indent-2} Ils nous marquaient de fer rouge.
+- {:.indent-2} Ils nous<span class="add"> </span>marquaient <span class="add">au</span> fer rouge.
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Et l’on nous vendait comme des bêtes et l’on nous comptait les dents... et l’on nous tâtait les bourses et l’on examinait le cati ou le décati de notre peau et l’on nous palpait et pesait et soupesait et l’on passait à notre cou de bête domptée, le collier de la servitude et du sobriquet.
+- {:.prose .prose-indent} Et l’on nous vendait comme des bêtes et l’on nous comptait les dents... et l’on nous tâtait les bourses et l’on examinait le cati ou décati de notre peau et l’on nous palpait et pesait et soupesait et l’on passait à notre cou de bête domptée, le collier de la servitude et du sobriquet.
 
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Le vent s’est levé, les savanes se fendent d'une gloire de panaches folles... J’entends des cris d’enfants...dans la maison du maitre.
+- {:.prose .prose-indent} Le vent s’est levé, les savanes se fendent <span class="add">dans&nbsp;</span>une gloire de panaches folles... J’entends des cris d’enfants...dans la maison du maitre.
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} J’entends des cris d’enfants dans la case noire... et le petits ventres pierreux pommés en leur mitan du nombril énorme se gonflent de famine et du noir migan de la terre et des larmes et de la morve et de l’urine.
+- {:.prose .prose-indent} J’entends des cris d’enfants dans la case noire... et le petits ventres pierreux pommés en leur mitan <span class="add">du</span> nombril énorme se gonflent de famine et du noir migan de la terre et des larmes et de la morve et de l’urine.
 
 <hr>
 
@@ -1195,7 +1195,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.indent-2} Au nom de tous les désirs effrités en la mare de vos âmes
+- {:.indent-2} Au nom de tous les désirs effrités en la mare de vos âmes<span class="add">,</span>
 
 
 - {:.speaker} La récitante.
@@ -1205,12 +1205,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.prose .prose-indent} Je chante le geste salé du harponneur et la baleine a soufflé pour la dernière fois.
+- {:.prose .prose-indent} Je chante le geste salé du harponneur et la baleine a soufflé pour la dernière fois.<span class="add">..</span>
 
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Un oiseau et son sourire... un navire et ses racines... l’horizon et ses cheveux de pierres précieuses... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la presse des nuits...
+- {:.prose .prose-indent} Un oiseau et son sourire... un navire et ses racines... l’horizon et ses cheveux de pierres précieuses... une jeune fille au sourire d’herbe déchire en fines alouettes le vin des jours, la <span class="add">pierre</span> des nuits...
 
 <hr>
 
@@ -1218,7 +1218,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Au Cap. A l’assemblée des planteurs présidée par le gouverneur.)</em>
+<em><span class="add">(</span>Au Cap. A l’assemblée des planteurs présidée par le gouverneur.<span class="add">)</span></em>
 
 
 
@@ -1244,7 +1244,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens que diable. Vous savez où nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint et Boukmann ont constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrages, les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
+- {:.prose .prose-indent} Hé, Messieurs, un peu de bon sens<span class="add">,</span> que diable. Vous savez o<span class="add">̀</span> nous en sommes : en pleine révolte servile&nbsp;; la moitié de la province du Nord est en feu. Avec les nègres des habitations Turpin, Flaville,  <span class="unclear">Trêmes</span>, Noé, Toussaint <span class="add">a</span> constitué une armée. Et  quelle armée. J’en frémis. Les femmes subissent les derniers outrag<span class="add">es,</span> les enfants sont empalés&nbsp;; les planteurs sont sciés vivants entre  deux planches.
 
 
 - {:.speaker} Une voix.
@@ -1254,7 +1254,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Une voix.
 
-- {:.indent-2} A bas les négrophobes.
+- {:.indent-2} A bas les négroph<span class="add">il</span>es.
 
 
 - {:.speaker} Une voix.
@@ -1264,7 +1264,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. Pendant que la révolte entoure le Cap promenant partout l’incendie et les cris  du Vaudou, ici dans la ville, la voix de la sagesse a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
+- {:.prose .prose-indent} Silence, messieurs. Ce n’est pas tout malheureusement. <span class="add">Pe</span>ndant que la révolte <span class="add">e</span>ntoure le <span class="add">C</span>ap <span class="add">prome</span>nant p<span class="add">artout</span> l’<span class="add">incendie et</span> les cris  du Vaudou, ici d<span class="add">ans</span> la ville, la voix de la sa<span class="add">ges</span>se a peine à se faire entendre. On s’en prend aux esclaves restés fidèles. On s’en prend aux hommes de couleur. Plusieurs d’entre eux ont été massacrés...
 
 
 - {:.speaker} 
@@ -1299,24 +1299,24 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 1er député.
 
-- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés où nous en sommes : à la ruine.
+- {:.prose .prose-indent} Monsieur le Gouverneur, avant d’aller plus outre, je propose de flétrir solennellement l’assemblée constituante qui, par ses décrets insensés, nous a menés o<span class="add">̀</span> nous en sommes : à la ruine.
 
 
 - {:.speaker} 2e député.
 
-- {:.prose .prose-indent} Je propose que sur l’une des places du Cap, on tienne en permanence cinq potences et deux échafauds pour le supplice de la roue.
+- {:.prose .prose-indent} Je propose que sur l’une des places du Cap, on tienne en permanence<span class="add">,</span> cinq potences et deux échafauds pour le supplice de la roue.
 
 
 - {:.speaker} Le gouverneur.
 
-- {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières au Morne, à Dondon, à la Marmelade et à Fort Dauphin. Quant à vous, Messieurs, aux armes et vive la colonie française de Saint-Domingue.
+- {:.prose .prose-indent} Je vois, Messieurs, que vous ne m’avez guère compris. Il n’est plus temps de délibérer. Ma décision est prise. L’essentiel étant d’empêcher les nègres de la province de l’ouest de communiquer avec les insurgés du Nord, je fais établir des camps au Trou, à Vallières<span class="add">,</span> au Morne, à Dondon, à la Ma<span class="add">rmel</span>ade et à Fort Dauphin. Quant à vous, Messieurs, aux armes<span class="add">,</span> et vive la colonie française de Saint-Domingue.
  
 
 <em>(Vivats prolongés. Les députés sortent.)</em>
 
 
 
-<em>(Quelques attardés discutent encore.)</em>
+<em><span class="add">(</span>Quelques attardés discutent encore.<span class="add">)</span></em>
 
 
 <hr>
@@ -1325,22 +1325,22 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em></em>
+<em><span class="add">(Une rue. La nuit. Des groupes passent.)</span></em>
 
 
 
-- {:.speaker}  Une voix.
+- {:.speaker} <span class="add">1er&nbsp;groupe&nbsp;:</span> Une voix.
 
-- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raison, c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
+- {:.prose .prose-indent} Vous avez raison, mon ami, vous avez raiso<span class="add">n, </span>c’est avec de la mauvaise politique que l’on perd les colonies. Des combats, des plans de bataille. Trêve de balivernes. Avec les nègres, je ne connais qu’un moyen : la terreur. Moi qui vous parle, au premier jour de l’insurrection, j’ai fait planter 50 têtes des deux côtés de l’avenue de mon habitation en guise de palmiers, et je vous garantis que le troupeau n’a pas bougé. Voyez-vous...
 
 <em>(La voix se perd dans la nuit.)</em>
 
 
 
 
-- {:.speaker} 2e voix.
+- {:.speaker} <span class="add">2e&nbsp;groupe&nbsp;:&nbsp;</span><span class="add">une</span> voix.
 
-- {:.prose .prose-indent} Hum alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur&nbsp;; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
+- {:.prose .prose-indent} Hum<span class="add">&nbsp;!</span> alors tout va rentrer dans l’ordre. Moi, j’ai confiance dans ce gouverneur&nbsp;; un type ce Blanchelande. Et puis, j’ai l’expérience de ces pays là. Les Antilles, voyez-vous, un pays très doux, très doux... tout doux... des îles à doudoux, vous comprenez. Alors, la Révolution, bonsoir.
  
 
 <em>(La voix fredonne&nbsp;:</em>
@@ -1349,7 +1349,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.indent-2} c’est çà qui chic...)
 
 
-<em>(Depuis quelques secondes des cris ont éclatés&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’appllerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
+<em>(Depuis quelques secondes des cris ont éclaté&nbsp;; un chant monotone et sauvage nait, grossit, approche. Des huées. Des ricanements. Un piétinement confus. Une troupe frénétique de nègres envahit la salle de délibération, poussant avec des bourrades et des clameurs quelques députés blancs. Un négre grotesque gesticule à l’estrade officielle. Nous l’app<span class="add">e</span>llerons le speaker. Les nègres s’asseyent dans une confusion indescriptible. Alors commence une séance sinistre et bouffonne pleine d’emphase et de cruauté.)</em>
 
 
 
@@ -1358,9 +1358,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Silence, Messieurs, silence.
 
 
-- {:.speaker} 1er énergumène.
+- {:.speaker} <span class="add">1</span>er énergumène.
 
-- {:.prose .prose-indent} Pas de silence qui tiennent. Nous sommes libres et égaux en droits. N’oubliez pas cela.
+- {:.prose .prose-indent} <span class="add">P</span>as de silence qui tienne. Nous sommes libres et égaux en droit<span class="add">s.</span> N’oubliez pas cela.
 
 <hr>
 
@@ -1370,7 +1370,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 2e énergumène.
 
-- {:.prose .prose-indent} Et moi je dis : malheur à ceux qui n'ont pas vu inscrit sur le mur de nos honorables faces délicotées, le Mane Thecel Pharès de la tyrannie.
+- {:.prose .prose-indent} Et moi je dis : malheur à ceux qui n'ont pas vu inscrit sur le mur de nos honorables faces<span class="add">,</span> le Mane Thecel Pharès de la tyrannie.
 
 
 - {:.speaker} Le speaker.
@@ -1380,7 +1380,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 3e énergumène.
 
-- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? J'ai l'honneur de repousser toute motion en ce sens.
+- {:.prose .prose-indent} De quel droit, dites-moi, Monsieur, ouvrez-vous une séance que personne n'a jamais fermée&nbsp;? 
 
 
 <em>(Nouveaux cris au dehors. Une nouvelle bande arrive sous la conduite du porte-drapeau. Le drapeau est figuré par une pique. Au bout une tête coupée&nbsp;; la tête du gouverneur.)</em>
@@ -1470,7 +1470,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères, la grande mer de sang noir, la grande houle de cannes à sucre,et le grand océan d’horreurs et de désolations.
+- {:.prose .prose-indent} La nuit et la misère, camarade, la misère et l’acceptation  animales&nbsp;; la nuit bruissante de souffles d’esclaves dilatant sur les pas du christophore, la grande mer de misères<span class="add">&nbsp;et de dividendes</span>, la grande mer de sang noir, la grande houle de cannes à sucre, le grand océan d’horreurs et de désolations.
 - {:.indent-2} A la fin, il y a, à la fin...
  
 
@@ -1479,7 +1479,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant <em>(d’une voix cinglante.)</em>
 
-- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
+- {:.prose .prose-indent} A la fin, je m’en vais vous dire, moi, ce que je vois à la fin&nbsp;: à la fin... ah oui, à l’extrème fin, la culbute&nbsp;de l’Europe, la posée sur cette merde hystérique des goules masticatrices, son avachissement visité d’épouvantes, son<span class="add"> </span>insolence triturée de prières, et, sur se blessures, la pimentade de mon rire et le sel de mes pleurs.
 
 <hr>
 
@@ -1487,7 +1487,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.)</em>
+<em><span class="add">(</span>Entre un groupe de trois femmes&nbsp;; lasses, inquiètes. Ce sont des blanches... Elles tournent de temps en temps la tête pour regarder si on les suit... A demi rassurées, elles déposent leur baluchon.<span class="add">)</span></em>
 
 
 
@@ -1503,10 +1503,10 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La mère.
 
-- {:.prose .prose-indent} Courage mes pauvres enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
+- {:.prose .prose-indent} Courage mes  enfants... Courage... C’est dur tout de même... Courir... courir... et se cacher dans les cannes en flèches... et puis courir encore... Aïe. Mes jambes...
 
 
-<em>(Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes puis des mains... Ce sont des esclaves qui labourent au crépuscule.)</em>
+<em><span class="add">(</span>Les femmes ont disparu&nbsp;; même décor. Une houe écorne la scène. Des houes<span class="add">,</span> puis des mains... Ce sont des esclave<span class="add">s</span> qui labourent au crépuscule.<span class="add">)</span></em>
 
 
 - {:.speaker} 1er esclave <em>(chantant.)</em>
@@ -1523,7 +1523,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 2e esclave <em>(chantant.)</em>
 
-- {:.indent-2} Le soleil est une fatigue&nbsp;; ma fatigue va la fatiguer.
+- {:.indent-2} Le soleil est une fatigue&nbsp;; ma fatigue va l<span class="add">a</span> fatiguer.
 
 - {:.speaker} 3e esclave <em>(chantant.)</em>
 
@@ -1554,7 +1554,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.indent-2} Hé, ho. Ho, mes amis, ho.
 - Ma fatigue est un tombereau de sable insonore
-- aux quatre coins de moissons pétrifiées.
+- aux quatre coins de<span class="add">s</span> moissons pétrifiées.
 
 - {:.speaker} Le récitant <em> (lugubre.)</em>
 
@@ -1571,13 +1571,13 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} 3000 flamboyants s’effrènent au néant de la nuit, à l’oubli de   la nuit.
 
 
-<em>Coups de feu...</em>
+<em><span class="add">(</span>Coups de feu...<span class="add">)</span></em>
 
 
 - {:.speaker} Le récitant <em>(fébrile.)</em>
 
 - {:.indent-2} Sonthonax ouvre les prisons... Sonthonax arme les esclaves...
-- Sonthonax ouvre les portes du Cap à Pienot et à Macaya...
+- Sonthonax ouvre les portes du Cap à <span class="add">Pierrot</span> et à Macaya...
 
 <hr>
 
@@ -1589,7 +1589,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose .prose-indent} 300.000 hommes, tribart brisé, se précipitent dans la ville et poussent des hurlements clabauds... Le port est couvert de blancs qui cherchent à gagner les bâtiments en râde... Ah, les chaloupes chavirent...
  
 
-<em>(A mesure qu’elle parle, tout cela se dessine sur l’écran.)</em>
+<em></em>
 
 
 - {:.speaker} Le récitant <em> (féroce.)</em>
@@ -1599,7 +1599,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.prose .prose-indent} Le tam-tam halète&nbsp;; le tam-tam éructe... le tam-tam de feu crache des sauterelles de sang.
+- {:.prose .prose-indent} Le tam-tam halète&nbsp;; le tam-tam éructe... le tam-tam  crache des sauterelles <span class="add">de feu et de</span> sang.
 
 
 - {:.speaker} Le récitant.
@@ -1629,7 +1629,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 <em>(Cris discordants... Le silence tombe tout à coup lourd et humide, le silence de la Caraïbe. Subitement un navire envahit tout le  champ de vision, en perdition&nbsp;; et dans la chair de la mer phosphorescente, une inscription explose, sanglante, reflétée par les écueils.)</em>
 
-- 
+- <span class="add"> : République d’Haïti.</span>
 
 - {:.speaker} Le chœur <em> (enthousiaste.)</em>
 
@@ -1641,14 +1641,14 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant <em> (pleurant.)</em>
 
-- Froid cœur de la mort, la lagune a dégainé son  poignard.
+- Froid cœur de la mort, la lagune a dégainé son <span class="add">rire de</span> poignard.
 
 <hr>
 
 [ 48-49 ](/data/sdw-data/P048-49.jpg){: target='_blank'}
 
 
-- {:.centered} ACTE II
+- {:.centered} 
 
 
 <em>(Une rue du Cap).</em>
@@ -1674,7 +1674,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 1er passant.
 
-- {:.prose .prose-indent} M'est avis qu'on se fout de lui. Dame&nbsp;! Les anglais et les Espagnols nous pressaient&nbsp;: la nécéssité, tu comprends.
+- {:.prose .prose-indent} M'est avis qu'on se fout de lui. Dame&nbsp;! Les anglais et les Espagnols nous pressaient&nbsp;: la néc<span class="add">é</span>ssité, tu comprends.
 
 - {:.speaker} 2e passant.
 
@@ -1695,17 +1695,17 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 2e passant.
 
-- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emportez  et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
+- {:.prose} Vous vous égarez mon cher congénère... Vous vous égarez parce que vous vous emporte<span class="add">z </span> et l'emportement ne vaut rien en politique. Un nègre capitaine général de Saint-Domingue
 - ridicule, je vous le concède,
 - humiliant, je ne le nie pas,
-- {:.prose} Mais voyez-vous jeune homme... dangereux par dessous tout. Et je m'en vais vous dire pourquoi...
+- {:.prose} Mais voyez-vous jeune homme... dangereux par dessus tout. Et je m'en vais vous dire pourquoi...
 - {:.prose .prose-indent} Vous connaissez la version blanche (notre version) de l'histoire du négrier&nbsp;: le nègre Cinquez donne le signal de la révolte. La révolte triomphe. Mais voilà le nègre Cinquez ne sait pas conduire un bateau... Ha, ha&nbsp;! Voyez vous cela d'ici... Quelle revanche pour les Blancs&nbsp;!... La mer indocile le grimoire des étoiles... la famine... le désespoir... Mais imaginez ceci un instant, mes amis&nbsp;: le nègre Cinquez sait conduire un bateau&nbsp;! Le nègre Cinquez sait lire dans les étoiles&nbsp;! Le nègre Cinquez met le cap sur une terre qu'il a calculée juste.
 - {:.prose .prose-indent} Et voilà&nbsp;: un beau jour, le nègre Cinquez débarque avec sa bande, son peuple, dirais-je dans un pays magnifique, plein de soleil, de perroquets, de fruits, d'eau douce, d'arbres à pain...
 - {:.indent-2} Hein&nbsp;! Q'en dites vous&nbsp;?
 - {:.indent-2} Quel soufflet pour nous&nbsp;!
 
 
-<em></em>
+<em><span class="add"></span></em>
 
 
 
@@ -1731,12 +1731,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le chœur.
 
-- {:.prose .prose-indent} Tes palais sont magnifiques, ton peuple libre. L'île d'une embarcation de pourpre, d'indigo, de cérat&nbsp;; fait une fleur aphrodisiaque aux seins de safran.
+- {:.prose .prose-indent} Tes palais sont magnifiques, ton peuple libre. L'île <span class="add">est </span>une embarcation de <span class="add">pourpre</span>, d'indigo, de cérat&nbsp;; une fleur aphrodisiaque aux seins de safran.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes palais, je les hais. Mon île-limite, est une prison, et je suis prisonnier.
+- {:.prose .prose-indent} Mes palais<span class="add">,</span> je les hais. Mon île-limite, est une prison, et je suis prisonnier.
 
 
 - {:.speaker} Le chœur.
@@ -1748,7 +1748,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - J'ai capté dans l'espace d'extraordinaires messages... pleins
-- {:.prose} de poignards de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petites gorgées, le sexe rouge, le sexe jaune, dévorateur, dévorateur...
+- {:.prose} de poignards<span class="add">,</span> de nuits, de gémissements&nbsp;; j'entends plus haut que les louanges une vaste improvisation de tornades, de coups de soleil, de maléfices, de pierres qui cuisent, de petits jours étranges, l'engourdissement bu à petite<span class="add">s</span> gorgées, le sexe rouge<span class="add">, </span><span class="add">le</span> sexe jaune, dévorateur, dévorateur...
 
 
 - {:.speaker} Le chœur.
@@ -1761,7 +1761,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - ... un grand brasier de prunelles rouges et de crabes...
 - {:.indent-2} un ensemencement pour voir de mouches, de palabres, de mauvais souvenirs
 - {:.indent-2} de pistes, de termites, de fièvres-à-guérir, de torts à redresser,
-- {:.indent-2} un baillement d'aligator
+- {:.indent-2} un baillement d'al<span class="add">l</span>igator
 - {:.indent-2} une immense injustice.
 
 
@@ -1774,13 +1774,13 @@ are ignored, except for clarification of characters and diacritics. For a more d
 [ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
 
 - nénuphars.
-- {:.indent-2} J'ai muselé la mer en écoutant peiner les maraichers vers la croupe
+- {:.indent-2} <span class="add"></span><span class="add">On muselerait </span>la mer en écoutant peiner les maraichers vers la croupe
 - fabuleuse des matins, dans une douceur de scandales et d'écume.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} Assez de bonheur&nbsp;! les étranges mendiants aux faces de millésimes qui tantôt menacent tantot saluent les autres 
+- {:.prose} Assez de bonheur&nbsp;! les étranges mendiants aux faces de millésimes qui tantôt menacent tantot saluent les <span class="add">aubes</span>
 - c'est moi
 - une faim chaque nuit les réveille parmi le madrépore
 - une faim de soleil plus large et de pièces de monnaie très anciennes.
@@ -1797,7 +1797,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.prose} Quel fil tendu par dessus les forêts, les fleuves, les marais, les langues et les fauves&nbsp;!
 - Je n'ai pas le don du vol.
 - Je n'ai pas de mère — je n'ai pas de passé.
-- J'ai comblée jusqu'à l'oubli, de poussières et d'insultes, le puits
+- J'ai comblé jusqu'à l'oubli, de poussières et d'insultes, le puits
 - marâtre de mon nombril.
 
 
@@ -1851,7 +1851,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-<em>(Vision de panique. Des hommes courent en tous sens.)</em>
+<em><span class="add">(</span>Vision de panique. Des hommes courent en tous sens.<span class="add">)</span></em>
 
 
 
@@ -1890,7 +1890,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Une voix.
 
-- Les blancs envoient des parlementaires.
+- Les blancs envoient des <span class="add">p</span>arlementaires.
 
 
 - {:.speaker} La foule.
@@ -1938,7 +1938,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 -  Au seuil de la nuit
 - pour la 50e fois
 - dans le grand chateau et le maquis
-- les 14 dagues moulent l'escalier ombrageux
+- les 14 dagues <span class="add">montent </span> l'escalier ombrageux
 - fouetté de branches.
 
 
@@ -1946,9 +1946,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - Eaux surveillées de griffons
 - sommeil au chant des incendies
-- occultation des sables magnificat
-- jardin suspendu et turbulences
-- {:.prose} toutes les flèches du carbet dans mon cœur de papayer sombre
+- occultation des sables<span class="add">,</span> magnificat
+- jardin suspendu et turbulen<span class="add">c</span>es
+- {:.prose}  
 - âge de bronze
 - âge de la pierre
 - à ras de terre.
@@ -1988,7 +1988,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- Nous oserons. Nous avons pour nous le droit, l'honneur, la liberté.
+- Nous oserons. Nous avons pour nous le droit, <span class="add">l'honneur</span>, la liberté.
 
 
 - {:.speaker} Parlementaire.
@@ -2067,7 +2067,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} S'il est encore parmi vous quelques naïfs gonflés d'illusion, je leur dis que les blancs ne font plus mystère de leur <span class="unclear">dessein</span>. Mes amis, écoutez bien&nbsp;: Les blancs ont rétablis l'esclavage à la Martinique, à la Guadeloupe. Martinique esclavage, Guadeloupe esclavage&nbsp;: entendez-vous ? Alors je dis qu'il n'y a plus de doute&nbsp;: ce qu'ils nous apportent&nbsp;:
+- {:.prose .prose-indent} S'il est encore parmi vous quelques naïfs gonflés d'illusion, je leur dis que les blancs ne font plus mystère de leur <span class="add">dessein</span>. Mes amis, écoutez bien&nbsp;: Les blancs ont rétabli l'esclavage à la Martinique, à la Guadeloupe. Martinique esclavage, Guadeloupe esclavage&nbsp;: entendez-vous ? Alors je dis qu'il n'y a plus de doute&nbsp;: ce qu'ils nous apportent&nbsp;:
 - {:.prose .prose-indent} c'est la déchéance, c'est la servitude sans espoir, pour nous et nos en­fants.
 
 
@@ -2104,7 +2104,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal de la démolition sytématisée et implacable. Feu et cendre. Puisse Saint-Domingue plutôt que la honte : la liberté ou la mort.
+- {:.prose .prose-indent} Mes ordres, je vous les communiquerai plus tard. Mais sachez dès maintenant que les blancs ne doivent avancer ici que parmi des ruines et des décombres : trois coups de canon vous donneront le signal <span class="add">d'une </span>démolition sytémati<span class="add">que</span><span class="add">,</span> implacable. Feu et cendre. <span class="add">Perisse </span>Saint-Domingue plutôt que <span class="add">notre liberté </span><span class="add">:</span> la liberté ou la mort.
 
 
 - {:.speaker} La foule.
@@ -2200,7 +2200,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.indent-2} Vive la liberté. Vive Toussaint.
 
 
-<em>(Des troupes défilent... une foulela nuit ; lueurs d'incendie au loin... des cavaliers.)</em>
+<em>(Des troupes défilent... une <span class="add">forêt </span>la nuit ; lueurs d'incendie au loin... des cavaliers.)</em>
 
 
 
@@ -2215,14 +2215,14 @@ are ignored, except for clarification of characters and diacritics. For a more d
 [ 63 ](/data/sdw-data/P063.jpg){: target='_blank'}
 
 - mais ils avancent...
-- les yeux crevés ? les mains coupées comme un maroon&nbsp;?
+- les yeux crevés ? les mains coupées comme un <span class="add">marron&nbsp;?</span>
 - esclave&nbsp;?
 - ils ne m'auront pas.
 - à cheval ma haine et mon espoir.
 - il me reste des ravins
 - il me reste des montagnes...
 - au fond d'un trou fermé aux vents, je guetterais encore les marées secrètes
-- les révoltes du linsoinet des terres noires.
+- les révoltes du <span class="add">limon </span>et des terres noires.
 - en avant mes amis.
 
 
@@ -2233,7 +2233,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 2e cavalier.
 
-- Paroles séchées de herbes
+- Paroles séchées de<span class="add">s</span> herbes
 - guidez nous.
 
 
@@ -2286,14 +2286,14 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.indent-2} Encore. Encore
 - des labyrinthes du vin et de la mer
-- l'orage incontestable boucané 
-- l'isthme les angles le diamant le jour
+- l'orage incontestable <span class="add">boucane</span>
+- l'isthme les angles <span class="add">l</span>e diamant le jour
 - je ne désavoue rien
-- sa vaisselle d'argent : Mon rire
-- {:.prose} ses oriflammes de fruits d'eau de mer de coquillage : Ma tristesse, ma jungle, mes malédictions stimulées...
+- sa vaisselle d'argent <span class="add">:</span> Mon rire
+- {:.prose} ses oriflammes de fruits d'eau de mer de coquillage <span class="add">:</span> Ma tristesse, ma jungle, mes malédictions stimulées...
 - hélas.
 - Tout s'efface, tout s'écroule.
-- il ne m'importe plus que les ciels mémorés
+- il ne m'importe plus que les ciels <span class="add">mémorés</span>
 - il ne me reste plus qu'un escalier à descendre marche par marche
 - il ne me reste plus qu'une petite rose de tison volé
 - qu'un fumet de femmes nues
@@ -2308,7 +2308,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 [ 65 ](/data/sdw-data/P065.jpg){: target='_blank'}
 
 - Rois mages
-- Yeux protégés par 3 rangs de paupières ganflées
+- Yeux protégés par 3 rangs de paupières <span class="add">gauffrées</span>
 - sol des midis gris
 - distillant ronce par ronce un maigre chemin
 - une piste sauvage
@@ -2334,10 +2334,10 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.indent-2} Je me souviens du matin des îles.
 - Le matin pétrissait de l'amande et du verre.
-- Les grives riaient dans l'arbre-à-graines.
-- et le vesou ne sentait pas mauvais
-- non.
-- dans le matin fruité.
+- Les grives riaient dans l'arbre<span class="add">-</span>à<span class="add">-</span>grain<span class="add">es.</span>
+- 
+- 
+- 
 
 
 - {:.speaker} Toussaint.
@@ -2348,10 +2348,10 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 [ 66 ](/data/sdw-data/P066.jpg){: target='_blank'}
 
-- {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
+- {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang. pauvres dieux faces débonnaires , bras trop longs<span class="add">,</span> chassés d'un paradis de rhum — paumes cendreuses visitées de chauves souris et de meutes somnambules — la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
 - {:.prose} J'ai saigné dans les couloirs <span class="unclear">secrets</span> — sur le sol grand'ouvert des batailles et,
-- je m'avance, mouche dédorée grand insecte malicornset vorace
+- je m'avance, mouche dédorée grand insecte <span class="add">malicorne </span>et vorace
 - {:.prose} attiré par les succulences de mon propre squelette en dents de scie, legs de mon corps assassiné violent à travers les barreaux du soleil.
 
 
@@ -2375,25 +2375,25 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Récitante.
 
-- Cul de sac de misères, de solitude d'herbes puantes.
+- Cul de sac de misères, de solitude<span class="add">,</span> d'herbes puantes.
 
 
 - {:.speaker} Toussaint.
 
-- le caïman ! les torches ! les drapeaux&nbsp;!
+- le caïman <span class="add">!</span> les torches <span class="add">!</span> les drapeaux<span class="add">&nbsp;!</span>
 - et l'Amazone <span class="unclear">degout</span> d'hévéas
-- et les lunes tombées comme des graines ailées dans l'humus tiède du ciel
+- et les lunes tombées comme des graines ailées dans l'hum<span class="add">u</span>s tiède du ciel
 - o main de l'étrangleur,
-- mon âme nage en plein <span class="unclear">cœur</span> de
+- mon âme nage en plein <span class="add">cœur </span> d<span class="add">u </span><span class="add">maelström</span>
 - là où germent d'étranges monogrammes&nbsp;:
-- un phallus de noyé, un tibia, un sternum
+- <span class="add">un phallus </span>de noyé, un tibia, un sternum
 
 <hr>
 
 [ 67 ](/data/sdw-data/P067.jpg){: target='_blank'}
 
 - très haut défi
-- de l'œil fermenté des naufrages.
+- de l'œil fermenté des <span class="add">naufrages</span>.
 
 
 - {:.speaker} 1re voix suterraine.
@@ -2403,7 +2403,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 2e voix souterraine.
 
-- {:.indent-2} Toussint Louverture.
+- {:.indent-2} Touss<span class="add">a</span>int Louverture.
 
 
 - {:.speaker} 3e chuchotement.
@@ -2422,12 +2422,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - m'extirper comme une racine sans suite&nbsp;?
 - vaincu,
 - Afrique, Amérique, Europe j'ai de la frénésie cachée sous les feuilles,
--  ma suffisance ;
+- <span class="add">à</span> ma suffisance ;
 - je tiens à l'abri des cœurs à flanc de furie
-- la clé des perturbations
+- l<span class="add">a</span> clé des perturbations
 - et tout à détruire.
 - le soufre mon frère, le soufre mon sang
-- répandra danse les cités les plus orgueilleuses
+- répandra dans les cités les plus orgueilleuses
 - ses effluves parfumées,
 - les charismes de sa grâce.
 
@@ -2440,7 +2440,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Inutile de me contredire
-- je n'entends pas rien
+- je n'entends  rien
 - rien que les catastrophes qui montent à la relève des villes
 
 <hr>
@@ -2449,7 +2449,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - blocs d'injustice monstrueusement agencés
 - villes radieuses
-- je laâcherai sur vous ma meute de vengeance
+- je l<span class="add">â</span>cherai sur vous ma meute de vengeance
 - et j'en susciterai par milliers des nègres
 - de toutes les couleurs mes nègres
 - taillés dans du beurre frais
@@ -2463,7 +2463,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} 1re voix céleste.
 
-- {:.prose .prose-indent} Que l'on me bâtisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
+- {:.prose .prose-indent} Que l'on me b<span class="add">̂</span>tisse sur des montagnes de charniers durcis, une prison&nbsp;: je vois battre les narines des ombres glissantes et du mauvais temps.
 
 
 - {:.speaker} 2e voix céleste.
@@ -2492,7 +2492,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 [ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
 
 
-- {:.centered} ACTE III
+- {:.centered} <span class="add">ACTE II</span>
 
 
 - {:.speaker} Récitante.
@@ -2502,7 +2502,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Récitant.
 
-- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu suscitant le spectacle, gorge brassant vivants les mots éclos contre mes dents. 
+- {:.prose} Me voici, l'homme-marchand aux mains vides, œil nu su<span class="add">s</span>citant le spectacle, gorge brassant vivants les mots éclos contre mes dents. 
 
 
 - {:.speaker} Récitante.
@@ -2512,7 +2512,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Récitant.
 
-- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de meurtresn'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve dev vin.
+- {:.prose} Ce n'est pas vrai... Il n'y a plus de combats. Il n'y a plus de <span class="add">meurtres</span>n'est‐ce pas&nbsp;? Plus de crimes flamboyants&nbsp;? L'orgue de Barbarie ronronne aveugle des minutes de silence et de silence et de silence, sciure du temps sans poussière. Ho. Ho. Une odeur de cadavres... du sang pétillant comme une grande cuve de vin.
 
 
 - {:.speaker} Récitante.
@@ -2522,7 +2522,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Récitant.
 
-- {:.prose} Il fait beau une gerbera plus nue qu'une femme du soleil dans le soleil joue vers le soleil et le soleil crépite dans les ceveaux cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
+- {:.prose} Il fait beau une gerbera plus nue qu'une femme  dans le soleil joue vers le soleil et le soleil crépite dans les  cerveaux fermés diadème miné arbre du voyageur cœur tressé belles eaux souflées haut gelées.
 
 
 - {:.speaker} Récitant.
@@ -2530,7 +2530,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Île j'aime ce mot frais guetté de Karibs et de requins. J'attends.
 
 
-- {:.speaker} Récitante. 
+- {:.speaker} 
 
 - 
 
@@ -2538,18 +2538,18 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 [ 74 ](/data/sdw-data/P074.jpg){: target='_blank'}
 
-- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème, c'est elle qui refait aujourd'hui du général Tousaint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
+- {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème<span class="add"> et</span> c'est elle qui refait aujourd'hui du général Tou<span class="add">s</span>saint Louverture, le vieux Toussaint, l'esclave Toussaint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux, un nègre dégringolé...
 - {:.prose .prose-indent} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des jours sanglotés.
 
 
 - {:.speaker} Récitante.
 
-- {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux d'antinomie, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
+- {:.prose .prose-indent} Saint-Domingue... Saint-Domingue aux yeux <span class="add">d'antimoine</span>, à la bouche de Kola fraiche. St Domingue la lourde, la dorée, aux biseaux de mangue et de femme mûre.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Saint-Domingue salve de bouse coupée d'or. Mords moi, mords moi, j'entend tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
+- {:.prose .prose-indent} Saint-Domingue salve de <span class="add">bouse</span> coupée d'or. Mords moi, mords moi, <span class="add">j'entends</span> tes chiens dans le tonnerre, j'entends ton amour dans mes veines. Mords moi. Bois mon sang.
 
 
 - {:.speaker} Chœur.
@@ -2587,7 +2587,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Misérable.
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} 
 
 - 
 
@@ -2599,8 +2599,8 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- La race de terre la race par terre s'est cousue des pieds.
-- Congo et Mississipi coulez de l'or
+- La race de terre la race par terre s'est <span class="add">connu</span> des pieds.
+- Congo et Missi<span class="add">ss</span>ipi coulez de l'or
 - coulez du sang
 - la race de terre, la race de cendre marche
 - les pieds de la route explosent de chiques de salpêtre.
@@ -2628,9 +2628,9 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- Ah. Voici le digne messager de cette race cupide.
-- L'or et l'argent ont tissé leur teint pâle
-- l'attente de la proie a busquéleur nez fauve
+- Ah. Voici le digne messager de cette race <span class="add">cupide</span>.
+- L'or et l'argent ont tissé leur teint p<span class="add">â</span>le
+- l'attente de la proie a busqu<span class="add">é</span>leur nez fauve
 - l'éclat de l'acier niche en leurs yeux froids.
 - Ah. C'est une race sans velours.
 
@@ -2642,7 +2642,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- Ô mes membre de mur bousillé
+- Ô mes membre<span class="add">s</span> de mur bousillé
 - vous n'éteindrez pas de fatigue ou de froid
 - mon cri fumant
 - mon cri intact d'animal pris au piège.
@@ -2660,7 +2660,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je me souviens des soirs&nbsp;: le crépuscule était un colibri vert-bleu-vert jouissant dans l'hibiscus rouge.
+- {:.prose .prose-indent} Je me souviens des soirs&nbsp;: le crépuscule était un colibri bleu-vert jouissant dans l'hibiscus rouge.
 
 
 - {:.speaker} Messager.
@@ -2681,11 +2681,11 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Qui m'appelle ? J'écoute. Je n'écoute pas.
-- {:.prose} Il y a dans ma tête une riviere de boue d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
+- {:.prose} Il y a dans ma tête une riviere de <span class="add">boue</span> d'ablettes de choses troubles et vertes d'oiseaux morts, de ventres jaunes,
 - des miaulemants entrecroisés giclés très près du baillon
 - mes années convulsées peintes en feu
 - des plaques tournantes de marécages, de cratères, de fillettes violées
-- il y a dans mes oreilles le peloton d'exécution dans les caponières du matin.
+- il y a dans mes oreilles le peloton d'exécution dans les capo<span class="add">n</span>nières du matin.
 
 
 - {:.speaker} Récitant.
@@ -2712,7 +2712,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Je ne crains rien, je ne crains rien mes amis.
-- {:.prose} Aujourd'hui est un jour de connivence. Il est des jours amers à mes lèvres et le mangot qui tombe, tombe lugubrement et les fleurs ressemblent à des ensevelis qui répondent de plus en plus faiblement, mais aujourd'hui je suis en paix et le filao que ne vois pas, me fait des signes et la mer me <span class="unclear">sourit</span> de toutes ses fossettes et chaque mancenillier se double et se suicide de l'olivier propice.
+- {:.prose} Aujourd'hui est un jour de connivence. Il est des jours amers à mes lèvres et le mangot qui tombe, tombe lugubrement et les fleurs ressemblent à des ensevelis qui répondent de plus en plus faiblement, mais aujourd'hui je suis en paix et le filao que ne vois pas, me fait des signes et la mer me <span class="add">sourit</span> de toutes ses fossettes et chaque mancenillier se double et se suicide de l'olivier propice.
 - {:.indent-2} Jour de l'épreuve, soyez le bienvenu.
 
 
@@ -2729,7 +2729,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Messager.
 
-- {:.prose} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1er consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le laissera pas insensible.
+- {:.prose} Toussaint, je suis ravi de vous voir revenu à de meilleures dispositions. Le 1er consul m'envoie vous en féliciter et vous assurer que votre complètes soumission ne le lai<span class="add">ss</span>era pas insensible.
 - {:.prose} En tout cas, permettez-moi de remarquer que vous ne vous sous-estimez pas: vous vous rachetez au prix d'un trésor.
 
 
@@ -2750,7 +2750,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Messager.
 
-- Et vos promesses&nbsp;? vos remords&nbsp;? votre lettre&nbsp;?
+- <span class="add">Comment&nbsp;!</span> vos promesses<span class="add">&nbsp;?</span> vos remords<span class="add">&nbsp;?</span> votre lettre&nbsp;?
 
 <hr>
 
@@ -2760,7 +2760,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.indent-2} Je dis que vou sne l'aurez pas.
+- {:.indent-2} Je dis que <span class="add">vous ne</span> l'aurez pas.
 
 
 - {:.speaker} Messager.
@@ -2805,28 +2805,28 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Messager.
 
-- {:.prose} Voyons Toussaint, vous avez perdu la bataille. Vous êtes vaincu : il n'y a pas de déshonneur à le reconnaitre.
+- {:.prose} Voyons Toussaint, vous avez perdu la bataille. Vous êtes vaincu : il n'y a pas de désh<span class="add">o</span>nneur à le reconnaitre.
 
 
 - {:.speaker} Toussaint.
 
 - Toussaint est vaincu&nbsp;; l'esprit de Toussaint n'est pas vaincu.
 - Il anime encore des milliers de volontés
-- voyez-vous les mornes gonflés d'une menace d'hommes à la peau rude&nbsp;?
+- voyez-<span class="add">vous</span> les mornes gonflés d'une menace d'hommes à la peau rude&nbsp;?
 - La révolte... mes fils, ce sont mes fils.
 
 
 - {:.speaker} Messager.
 
-- {:.indent-2} Toussaint, Tes puériles imaginations me font sourire de pitié.
-- Tes fils. Naïf vieillard 
+- {:.indent-2} Tes puériles imaginations me font sourire de pitié.
+- Tes fils.  vieillard <span class="add">naïf.</span>
 - et ton fils pense comme nous que tu serais impardonnable
 - d'ajouter le vol au crime.
 
 
-- {:.speaker} Toussaint.
+- {:.speaker} 
 
-- Le vol ?
+- 
 
 <hr>
 <p style="color:gray">[missing page]</p>
@@ -2852,8 +2852,8 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Hélas.
 - comme un papayer tendre
 - sa tête est encore chauve de fruits
-- mais le voici élu par toutes les flèches du carbet
-- {:.prose} son lait s'écoule par mille blessures son cœur d'arbre n'a plus la force d'envoyer aux extrémités le sang ferme qui le défendait contre l'atidité du sable.
+- mais le voici élu par t<span class="add">ou</span>tes les flèches du carbet
+- {:.prose} son lait s'écoule par mille blessures son cœur d'arbre n'a plus la force d'envoyer aux extrémités le sang ferme qui le défendait contre <span class="add">l'aridité</span> du sable.
 
 
 - {:.speaker} Fils.
@@ -2864,15 +2864,15 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membre musclés, c'était un très bon maitre
+- {:.prose .prose-indent} Je me souviens d'un jour de novembre&nbsp;; tu n'avais pas 6 mois et le maitre est entré dans la case fuligineuse comme une lune rousse, et il tatait tes petits membre<span class="add">s</span> musclés, c'était un très bon maitre
 - {:.prose} il promena d'une caresse ses doigts gros sur ton petit visage plein de fossettes, ses yeux bleus riaient et sa bouche te taquinait de choses sucrées, ce sera une bonne pièce, dit-il, une bonne pièce comme son père, dit-il en me regardant et la mère disait que le maitre était très bon, trop bon disait-elle, je m'en souviens bien et il disait d'autres choses aimables le maitre, qu'il fallait y penser très tôt, que ce n'était pas trop de 20 ans pour faire un bon commandeur, œil vif et le bras ferme
 
 <hr>
 
 [ 86 ](/data/sdw-data/P086.jpg){: target='_blank'}
 
-- {:.prose}  — et cet homme spéculait sur le berceau de mon fils — un berceau de garde-chiourme — 
-- {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur.
+- {:.prose}  — et cet homme <span class="add">spéculait</span> sur le berceau de mon fils — un berceau de garde-chiourme — 
+- {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler cet homme, et une résolution était prises dans mon cœur.<span class="add">..</span>
 
 
 - {:.speaker} Fils.
@@ -2885,16 +2885,16 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Tué... je l'ai tué... de mes propres mains.
 - C'était une nuit de novembre.
 - Nous rampâmes parmi les cannes à sucre
-- Les coutelas riaient aux étoiles, mais ons se moquait des étoiles.
+- Les coutelas riaient au<span class="add">x</span> étoiles, mais on se moquait des étoiles.
 - Les cannes à sucre nous balafraient le visage de ruisseaux de lames vertes
 - Nous rampâmes coutelas au poing
 - Et subitement des clameurs déchirèrent le silence.
-- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fraîcheur.
+- {:.prose} Nous avions bondi, nous les esclaves, nous le fumier, nous les bêtes aux sabots de patience. Nous courions comme des forcenés. Les coups de feu éclatèrent... Nous frappions... La sueur et le sang nous faisaient une fra<span class="add">̂</span>cheur.
 - {:.prose} Nous frappions parmi les cris et les cris devinrent plus stridents et une grande flamme s'éleva vers l'est : c'étaient les communs qui brulaient et la flamme tremblota douce sur nos joues.
 - Alors ce fut l'assaut donné à la maison du maitre.
 - On tirait des fenètres.
 - Nous forçâmes les portes.
-- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme... et les nôtres s'arrétèrent... C'était le maitre... J'entrai. C'est toi, Toussaint, me dit-il, très calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai, le sang gicla&nbsp;; c'est de ce soul baptème que je me souviens aujourd'hui.
+- {:.prose} La chambre du maitre était grande ouverte. La chambre du maitre était brillamment éclairée, et le maitre était là très calme... et les nôtres s'arrétèrent... C'était le maitre... J'entrai. C'est toi, Toussaint, me dit-il, très calme... C'était moi, c'était bien moi, lui disais-je, le bon Toussaint, le fidèle Toussaint, son esclave Toussaint, Toussaint Toussaint Louverture et soudain ses yeux furent deux ravets apeurés les jours de pluie... je frappai, le sang gicla&nbsp;; c'est de ce <span class="add">seul</span> baptème que je me souviens aujourd'hui.
 
 <hr>
 
@@ -2907,7 +2907,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Je suis libre
 - et je veux oublier comment
 - et le ravin
-- et la broussaille.
+- et la broussaille.<span class="add">..</span>
 
 
 - {:.speaker} Toussaint.
@@ -2931,14 +2931,14 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - Peut-être alors, mon père, pourrais-je m'en plaindre à mon tour
 - {:.prose} Lorsque la République t'offrit de m'élever en Europe, les cloches de ton cœur sonnèrent à toute volée.
 - {:.prose} Mais pour moi, les cris d'exil de la mouette, et le grand rapt salé et la brume sans soleil, l'exil mon père.
-- O la pluie de cendres violettes sur ce Paris étranger.
-- O&nbsp;le froid incisif jusqu'au sang.
-- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décense, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
+- <span class="add">Et</span> la pluie de cendres violettes sur ce Paris étranger.
+- <span class="add">Et</span>&nbsp;<span class="add">l</span>e froid incisif jusqu'au sang.
+- {:.prose} Et puis le temps passa. Une paix se fit en moi, quelque chose comme un délaçage de fibres nouées et le paysage fut doux, maternel comme reflété des  il avait une mesure, une décen<span class="add">c</span>e, une retenue en même temps qu'un abandon, le paysage, une amitié enfin... mon sang ne jurait plus, c'était quelque chose de défait et de fleuri.
 
 
 - {:.speaker} Toussaint.
 
-- {:.prose} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de peau suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles... des  oreilles... des barques
+- {:.prose} et moi, le paysage m'empoisonne des aconits de son alphabet. Moi aussi je sais lire et le nuage a la tête du vieux nègre que j'ai vu rouer vif sur une place du Cap, il avait giflé un blanc, j'avais 10 ans, le ciel bas est un étouffoir, le vent houle des fardeaux et des sanglots de p<span class="add">e</span>au suante, le vent se contamine de fouets et de futailles et les pendus peuplent le ciel d'acéras et il y a des dogues le poil sanglant et des oreilles... des  oreilles... des barques
 
 <hr>
 
@@ -2955,22 +2955,22 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Toussaint.
 
 - Qui a dit pitié ?
-- qui essaie par de mot incongru d'effacer le tableau noir et feu ? Qui demande
+- qui essaie par <span class="add">ce</span> mot incongru d'effacer le tableau noir et feu ? Qui demande
 - grâce&nbsp;?
 - Est-ce que je demande grâce à mes yeux irrités ?
 - est-ce que je ne subis pas mes visions irréparables ?
 - et je n'ai pas besoin de harpon. Et je n'ai pas besoin de merlin.
 - Pas de pardon.
-- {:.prose} J'ai remonté avec mon cœur l'antique silex, le vieil amadon déposé par l'Afrique au fond de moi-même.
+- {:.prose} J'ai remonté avec mon cœur l'antique silex, le vieil amado<span class="add">u</span> déposé par l'Afrique au fond de moi-même.
 - Je te hais. Je vous hais.
 - Et ma haine ne mourra pas.
-- Aussi longtemps que le soleil obèse chevauchera la vieille rosse de la Terre.
+- Aussi longtemps que le soleil obèse chevauchera la vieille rosse de la Terre.<span class="add">..</span>
 - Et maintenant le passé se feuille vivant
 - le passé se haillonne comme une feuille de bananier.
 - Isaac, Isaac
 - {:.prose} le cataclysme à la tête de scalp, à la cervelle de rouages de larves et de montres
 - au hasard des fables,
-- au hasard des victimes expiatrices
+- au hasard des victimes <span class="add"> expiatoires</span>
 - attend
 - les yeux chavirés de palabres magnétiques.
 - Isaac, Isaac
@@ -2978,7 +2978,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - fortement attirantes la parade des buissons vivants&nbsp;;
 - ô végétaux enfants trébuchant sur les pavés inégaux des perturbations
 - Liberté, liberté,
-- j'oserai soutenir seul la lumière de cette tête bléssée.
+- j'oserai soutenir seul la lumière de <span class="add">ta</span> tête bléssée.
 
 <hr>
 
@@ -3013,7 +3013,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Geôlière.
 
-- Voleur&nbsp;! Voleur&nbsp;! ... Nous sommes renseignés...
+- Voleur&nbsp;! Voleur&nbsp;! ... Nous <span class="add">s</span>ommes renseignés...
 
 
 - {:.speaker} Toussaint.
@@ -3028,7 +3028,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Geôlière.
 
-- Frappe le, frappe-le... ça fera du bien à sa vilaine couronne...
+- Frappe le, frappe-le... ça fera du bien à sa vilaine <span class="add">peau</span>...
 
 
 - {:.speaker} Toussaint.
@@ -3059,7 +3059,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Geôlier.
 
-- {:.prose .prose-indent} Dis-donc, mais il se fout de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint)</em>.
+- {:.prose .prose-indent} Dis-donc, mais il se fou<span class="add">t</span> de nous, le moricaud... Bien sûr qu'il fait le fou... Plus fort... encore plus fort <em>(il frappe Toussaint)</em>.
 
 
 - {:.speaker} Toussaint.
@@ -3109,7 +3109,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Le récitant.
 
-- {:.prose} La neige&nbsp;! il neige&nbsp;! première nuit de neige&nbsp;! la neige première creuse la nuit de ses doigts précieux, creuse la mort de ses doigts de vengeance, creuse le bol des nuits de son lait de prière.
+- {:.prose} La neige&nbsp;! il neige&nbsp;! première nuit de neige&nbsp;! la neige première creuse la nuit de ses doigts précieux, creuse la mort de ses doigts de vengeance, creuse le bol des nuits de son <span class="add">lait</span> de prière.
 
 
 - {:.speaker} Le chœur.
@@ -3172,11 +3172,11 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} Toussaint.
 
-- {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu m'as requis&nbsp;! Merci...
-- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il leur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plutôt prendsce sac de paroles... les paroles de Toussaint, les dernières peut-être les dernières... sans doute et porte les à ton engeance fienteuse.
+- {:.prose .prose-indent} Ah&nbsp;! il te fallait un fils nu, un fils trahi et vendu, un fils arrosé de crachats... et tu m'as choisi... Merci&nbsp;! Ainsi donc il te fallait de la sueur d'homme, du sang d'homme, des gémissements d'homme... des désespoirs d'homme et tu <span class="add">nous </span>as requis&nbsp;! Merci...
+- {:.prose .prose-indent} Et quand nous étions las, rompus, fourbus, brisés, nous n'avions pour julep et baume que le ricanement du fouet, l'aboi du fouet et la morsure sauvage et la coulure acide dans nos chairs animales de l'humiliation. Merci, ma mère. Et il fallait aussi — n'est ce pas ? — à ceux qui t'ont envoyée, il leur fallait mieux que ma défaite, mieux que ma poitrine qui se rompt, mieux que mon sang qui se décompose, il leur fallait mon acceptation... il <span class="add">l</span>eur fallait mon oui et alors ils t'ont envoyée... Va t'en marâtre... va t'en car je t'exècre... va t'en les mains vides... ou plut<span class="add">̂</span>t prends<span class="add">&nbsp;</span>ce sac de paroles... les paroles de Toussaint, les dernières peut-être<span class="add">,</span> les dernières... sans doute et porte les à ton engeance fienteuse.
 - {:.indent-2} O hommes blancs, mes frères
 - nos spectres tordus viendront hanter vos banquets
-- {:.prose} nous dresserons obscènes et nus au milieu de vos réjouissances nos faces de scandale,
+- {:.prose} nous dresserons obscènes et <span class="add">nuls</span> au milieu de vos réjouissances nos faces de scandale,
 - nos cris troubleront vos victoires
 - {:.prose} et les soirs de défaite vous nous verrez debouts à vos carrefours, noirs, terribles, muets... et vous aurez honte... et vous aurez peur... 
 
@@ -3184,12 +3184,12 @@ are ignored, except for clarification of characters and diacritics. For a more d
 <em>(La vision disparait peu à peu.)</em>
 
 
-- {:.speaker} Toussaint  <em>(hagard)</em>
+- {:.speaker} Toussaint  <em><span class="add">(</span>hagard<span class="add">)</span></em>
 
-- {:.prose} ... Un rumeur de chaine de carcans monte de la mer... un gargouillement de noyés de la panse verte de la mer... un claquement de feu, un claquement de fouet, des cris d'assassinés...
+- {:.prose} ... Un<span class="add">e</span> rumeur de chaine de carcans monte de la mer... un gargouillement de noyés de la panse verte de la mer... un claquement de feu, un claquement de fouet, des cris d'assassinés...
 - ... la mer brûle
 - ou c'est l'étoupe de mon sang qui brûle...
-- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent de l'odeur tendre du ravin moisi, d'ar-
+- {:.prose} Oh, le cri... toujours ce cri fusant des mornes... et le rut du feu et du tambour et vainement se gonfle le vent <span class="add"></span>de l'odeur tendre du ravin moisi d'ar-
 
 <hr>
 
@@ -3198,7 +3198,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - bres à pain, de sucreries, de bagasse harcelée de moucherons...
 - Terre ma mère j'ai compris votre langage de cape et d'épée
 - mes frères les marrons le mors au dent
-- mes frères les pieds hors clôture et dans lev torrent
+- mes frères les pieds hors clôture et dans le torrent
 - ma sœur l'étoile filante, mon frère le verre pilé
 - mon frère le baiser de sang de la tête coupée au plat d'argent
 - et ma sœur l'épizootie et ma sœur l'épilepsie
@@ -3252,7 +3252,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- {:.indent-2} Mort dans un taillis de clérodendres parfumé.
+- {:.indent-2} Mort dans un taillis de <span class="add">clérodendres</span> parfumé<span class="add">s</span>.
 
 
 - {:.speaker} Le récitant.
@@ -3291,7 +3291,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - fleuves sans signaux trament l'aventure charnue des voyages virulents
 - sang nomade en coquetterie de morts et de genèses
 - gaspille du fond des pierres trouées et de la nuit des âges
-- le rire  des momies caverneuses
+- le rire <span class="add">mortel</span> des momies caverneuses
 
 
 - {:.speaker} Le chœur.
@@ -3308,26 +3308,26 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 
 
-- {:.speaker} Général.&nbsp;
+- {:.speaker} Général&nbsp;<span class="add">négre.</span>
 
 - En avant Morne Rouge <em>(charge de fantassins.)</em>
 
 
-- {:.speaker} Général.
+- {:.speaker} Général<span class="add">&nbsp;négre.</span>
 
 - En avant charnier ardent <em>(nouvelle charge de fantassins.)</em>
 
 
-- {:.speaker} Général.
+- {:.speaker} Général<span class="add"> négre</span>
 
-- En avant Capoux-la-Mort&nbsp;! <em>(charge de cavalerie.)</em>
+- En avant <span class="add">Capoix</span><span class="add">-</span>la<span class="add">-</span>Mort&nbsp;! <em>(charge de cavalerie.)</em>
 
 
 <em>(Des cris au loin&nbsp;: Victoire, victoire...)</em>
 
 
 
-- {:.speaker} Général.
+- {:.speaker} Général<span class="add">&nbsp;négre</span>
 
 - C'est bien.
 
@@ -3343,7 +3343,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 
 - {:.speaker} La récitante.
 
-- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête de sangsauvage.
+- Quel est cet homme&nbsp;? un nuage de sang auréole sa tête sauvage.
 
 - {:.speaker} Demi chœur <em>(allègre.)</em>
 
@@ -3354,4 +3354,4 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.speaker} Une voix dans les airs.
 
 - {:.indent-2} Laboure-moi, laboure-moi, cri armé de mon peuple&nbsp;;
-- {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur de mon cœur, jusqu'à l'éclatement de mes veines, jusqu'au blanchiement de mes os dans le minuit de ma chair.
+- {:.prose} laboure phacochère et piétine, piétine moi jusqu'à la brisure de mon cœur , jusqu'à l'éclatement de mes veines, jusqu'au <span class="add">flamboiement</span> de mes os dans le minuit de ma chair.
