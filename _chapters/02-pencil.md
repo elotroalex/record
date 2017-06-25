@@ -218,6 +218,8 @@ Following the temptation of Toussaint by the third rate demons, Toussaint and CR
 
 After finally calling out his enemy by name, "Colomb, Colomb," Toussaint confronts the crowds one last time. They arrive on the stage ready to burn him. Rabble-rousers attempt to convince the crowds that Toussaint is putting their lives in danger, tempting them with the comforts of the status quo. Toussaint is nevertheless able to sway them to the fight at hand by harshly scolding them for their cowardice. The steadfastness of Toussaint in the face of temptation contrasts with the crowd’s vulnerability, for whom Toussaint plays the role of firebrand and model of resolve. At the end of the episode the revolution continues, or is about to begin, or has just begun, but it is no longer the central focus of the play. The internal struggle of Toussaint, the Promethean hero, has replaced the hesitations of the crowds, and with this twist, historicity begins to erode in earnest.
 
+---
+
 ## The Scaffold
 
 In "The Scaffold," all that was a continuation of "Revolution rising" becomes its prophecy and prelude, including the temptations of the crowd. Several of the episodes decidedly change their thrust with precise flicks of the pen and pencil. Here's a typical example from `P2.11` placing the action on January, 1801 within the frame of reference of "Toussaint King":
