@@ -216,7 +216,7 @@
     <!-- additions -->
     
     <xsl:template match="tei:add">
-        <xsl:text>*</xsl:text><xsl:apply-templates/><xsl:text>*{:.add}</xsl:text>             
+    	<span class="add"><xsl:apply-templates/></span>            
     </xsl:template>
     
     <xsl:template match="tei:add[text()='&#8208;']"/>
