@@ -291,7 +291,7 @@ The structure of the final act echoes the overall structure of "The Scaffold," a
 
 Many other speculative stages could help our genetic analysis of the typescript. In fact, by ending our analysis of speculative stages here, we are ending it in the middle of the process that produced the typescript as we know it. I encourage the future student of the text to generate their own intermediary steps, and perhaps correct or offer an alternative to my genetic tale.
 
-In the next chapters, we will take a broader view on some of the themes explored in this chapter in an attempt to answer the why and not the how of Césaire's move away from history. To accomplish our goal, we will address more familiar, and therefore less controversial textual boundaries (the book, the poem, the article, the preview, etc.) and their attendant geo-temporal complexities. In other words, we will move away from the decomposition and comparison of the one document with itself, to the comparison of many documents with each other.
+In the next chapters we will study Césaire's migrant textuality prior to the first publication of *Et les chiens se taisaient* in the poetry collection *Les Armes miraculeuses* in 1946, and expand on some of the themes explored in this chapter, to answer the why and not the how of Césaire's move away from history. To accomplish our goal, we will address more familiar, and therefore less controversial textual boundaries (the book, the poem, the article, the preview, etc.) and their attendant geo-temporal complexities. In other words, we will move away from the decomposition and comparison of the one document with itself, to the comparison of many documents with each other.
 
 <br>
 
