@@ -1,11 +1,17 @@
 ---
 layout: poem
-title: "king"
+title: "toussaint king"
 description: "" 
 author: alex gil
 ---
 
-(draft)
+The following edition represents a speculative stage in the composition of 
+"...Et les chiens se taisaient" by Aimé Césaire. 
+At this point in the genesis of the drama, Césaire introduces the intimate dialog
+between Toussaint and the Reciters. Page numbers correspond to the main pagination, and link to 
+high resolution scans of the original document. Punctuation is emended silently. Handwritten revisions
+are ignored, except for clarification of characters and diacritics. For a more detailed analysis, see
+[chapter 2]({{site.baseurl}}/chapters/02-pencil/).
 
 <hr>
 
