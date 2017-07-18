@@ -150,6 +150,10 @@ var data = {"items":[
 		"title":"Diplomatic edition: ...Et les chiens se taisaient (1941-1943)",
 		"link":"/editions/sdw-diplomatic/",
 	},
+  {
+    "title":"Reading edition: ...Et les chiens se taisaient (1941-1943)",
+    "link":"/editions/sdw-reading/",
+  },
 	{
 		"title":"Facsimile edition: ...Et les chiens se taisaient (1941-1943)",
 		"link":"#",

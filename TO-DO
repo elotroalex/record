@@ -1,7 +1,330 @@
 TO-DO
 
+From Nietzche:
+
+The dithyrambic chorus on the other hand is a chorus of the transformed, who have forgotten their civic past and social rank, who have become timeless servants of their god and live outside all social spheres. 
+
+But, notwithstanding its subordination to the god, the chorus remains the highest expression of nature, and, like nature, utters in its enthusiasm oracular words of wisdom.
+
+The profound poet tells us that a man who is truly noble is incapable of sin; though every law, every natural order, indeed the entire canon of ethics, perish by his actions, those very actions will create a circle of higher consequences able to found a new world on the ruins of the old.
+
+Here l sit, forming men
+in my own image,
+a race to be like me,
+to suffer, to weep,
+to delight and to rejoice,
+and to defy you,
+as I do. -- Goethe
+
+This titanic urge to be the Atlas of all individuals, to bear them on broad shoulders ever farther and higher, is the common bond between the Promethean and the Dionysian forces.
+
+From John Walsh:
+
+where James moved from the story of overcoming to one of a tragic flaw, c ésaire portrayed a heroic sacrifice for the future of h aiti
+
+t oussaint’s agency resisted but also reinforced; it was just as much an overcoming as it was a taking over. 
+
+c ésaire’s depiction is similar to the heroic account found in James, with an important difference that had implications for his view of departmentalization: where James moved from the story of overcoming to one of a tragic flaw, c ésaire portrayed a heroic sacrifice for the future of h aiti.
+
+b loncourt and l öwy, 97 (césaire in haiti)
+
+From Césaire's lectures on literature:
+C'est donc avec Corneille que la tragédie française prend son caractère essentiel de tragèdie á action, par opposition á la tragèdie grecque qui est pathétique et lyrique sans action.
+
+h e had been given gangs, he turned them into an army. h e had been left a peasant revolt, he brought about a r evolution; a population, he transformed it into a people. a  colony, he created a state; better still, a nation
+
+citing Nietzsche: “ a  public of spectators, as known to us, was unknown to the Greeks. i n their theatres the terraced structure of the spectators’ space rising in concentric arcs enabled every one, in the strictest sense, to overlook  the entire world of culture around him, and in surfeited contemplation to imagine himself a chorist”
+
+citing Césaire's Touré:
+“ a bstraction is the mother of all scleroses,” c ésaire continued, “of the spirit as of the heart”
+
+Misc:
+
+Anagnorisis comes in the beginning like in Racine.
+
+Césaire in Miami:
+
+Where was it leading us? i t was leading us to ourselves[,]  .  .  .  but the essential point is that with us had begun a process of rehabilitation of our values by ourselves, a deepening of our past by ourselves, a re-rooting of ourselves in a history, a geography, and in a culture, the whole translated not by an archaic [ archaïsant ] attachment to the past, but by a reactivation of the past with a view to its own surpassing [ dépassement ]. 
+
+Césaire's Toussaint:
+b rilliant intuition. The idea of a French c ommonwealth starts here. l ouverture made only one mistake: to be ahead of his time, and by a good century and a half
+
+h e had been given gangs, he turned them into an army. h e had been left a peasant revolt, he brought about a r evolution; a population, he transformed it into a people. a  colony, he created a state; better still, a nation
+
+accents:
+grave &#768;
+acute &#769;
+circumflex &#770;
+umlaut &#776;
+
+Citations:
+
+pages: 
+69 - Quixote
+42 - Marcus Rainsford’s An historical account of the black empire of Hayti
+43 - Augustin Cochin’s L’Abolition de l’esclavage
+
+
+___ Check for hyphen in station and arbre
+___ Fix accents
+___ mais le fils de la Terre
+___ Saint Domingue
+___ R I D E A U
+___ type="special"
+
+yeux aux arbres de Judée baignés de crocus et
+
+    d’anémones.
+
+
+
 _x_ There's only one blue ink. [Nope. See 41 and 70.]
 _x_ The order seems wrong. [Fixed]
-___ Pencil clusters around the middle
-___ P1 is not in Césaire's hand
-___ Fix Nebula to align with new figure p
+_x_ Pencil clusters around the middle
+_x_ P1 is not in Césaire's hand
+_x_ Fix Nebula to align with new figure p
+
+[tl;dr: I make a bet that I can do genetic analysis on just one typescript, in this case, the first witness for Aimé Césaire's "Et les chiens se taisaient"; I introduce the text around Césaire's paradox of freedom and situation, because one shouldn't just do scholarly work of the 10 year variety because of a bet; I dive into the genesis of the text by framing its composition between 1941 and 1943 based on archival and textual evidence; a thorough codicology of the salient material features of the text follows; I reverse-engineer the pagination schemes of the witness, and combine it with the evidence gathered in the codicology to divide the genesis into nine stages of composition, pretty visualization and all.]
+
+[The chapter is ready for review. I invite willing readers to refine me by fire. To leave your critique, review, corrections, commentary you can use the [hypothes.is layer](https://via.hypothes.is/http://record.elotroalex.com/chapters/01-nebula/) or send me a line by email at colibri dot alex &#9671; gmail.]
+
+In classical textual scholarship they are quilting points that bridge conjecture to emendation, in the digital avatar, they are sites of. 
+
+and the exception in turn proves that the transformation rules of a textual scholar find their bases in the *κατʼ αἴσθησιν* of Posidonius (via Quintillius).
+
+In most of these cases, the rules take on the role of an editor in search of patterns to normalize and render, but in one case the rule addresses a unique occurrence, an exception. On `P2.9` (8), at the top, the characters "Crép" are overtyped with the letter x to make way for a parentheses. The whole didascalia is eventually erase. Because I'm reducing additions and deletions and normalizing some features, a monstruous decision in some quarters, I wanted to remove the double deletion. Instead of quickly editing the text at the tail end of the algorithmic transformation, I created a rule to deal with just this one case. Staying true to form, rather than simply finding and replacing the sequence "Crép", I made the rule in such a way that imagines the exception from a bibliographic point of view:
+
+~~~         
+<xsl:template match="tei:del[@rend='overprint']">
+  <xsl:choose>
+    <xsl:when test="@seq='1'"><span class="delete"><xsl:value-of select="normalize-space(text())"/></span>&#160;</xsl:when>
+    <xsl:otherwise/>
+  </xsl:choose>
+</xsl:template>
+~~~
+
+This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose[^b16] from the empirical exception, *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustand*, human-machine labor relations, the role of the humanities, etc... but I digress. The immediate point of the exercise is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce the speculative stage.
+
+[^b16]: I point here, not without a grin, to Peter Suber's game [Nomic](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set), where the game includes rules for changing rules in medias res.
+
+and following-sibling::*[1][starts-with(., '(')]
+
+if you go there and stand in the place where it was, it will happen again
+
+In most of these cases, the rules take on the role of an editor in search of patterns to normalize and render, but in one case the rule addresses a unique occurrence, an exception. On `P2.9` (8), at the top, the characters "Crép" are overtyped with the letter x to make way for a parentheses. The whole didascalia is eventually erased. As a general rule, I've omitted all minor overtypes, but I wanted to keep this one because it calls attention to the vascillation in this stage direction: from none, to one, to none again on the previous page. Instead of quickly editing the text at the tail end of the algorithmic transformation, as a sane person would, I created a rule to make the edit. And staying true to form, rather than a simple find and replace for the sequence "Crép", I chose a rule that understands the exception from a bibliographic point of view:
+
+~~~         
+<xsl:template match="tei:del[@rend='overprint']">
+  <xsl:choose>
+    <xsl:when test="substring(text(),1,3) = substring(following-sibling::*[1]/text(),2,3) and text()[not(starts-with(., '('))] and following-sibling::*[1][starts-with(., '(')]">
+...
+~~~
+
+The rule basically says: find all the cases that have been overtyped, then for each one check to see if the following segment begins with the same three letters, except with a parentheses; if so, include and style this segment as a deletion. In short, my own rationale for making the choice. This exceptional rule is a strange being with only one job—useless to a service provider, but not to the scholar, deriving its nomic purpose from the empirical exception[^b16], *κατʼ αἴσθησιν*, and as such fertilizing the ground for questions of algorithmic ethics, *Ausnahmezustanden*, human-machine labor relations, etc. The immediate point of the exercise, though, is to reduce all decisions to algorithms, to show how those algorithms can latch on to (encoded) bibliographic cues and to produce a purposeful speculative stage.
+
+---
+Errol Hill
+onary tradition in black drama,” a “tradition of writing and producing plays that deal directly with black libera- tion.”7 This revolutionary tradition dates at least as far back as the Haitian Rev
+
+Marcus Garvey
+gston, Jamaica, in August 1930: The Coronation of an African King, Roaming Jamaicans, and Slavery—from Hut to Mansion, which “de- scribed the horrors of slavery and the slave traﬃc, the agitation for freedom, emancipation, and progress thereafter.”31 James was also aware that others
+
+Lamartine
+https://archive.org/stream/toussaintlouvert00lamauoft#page/n43/mode/2up
+
+Waxman
+Black Napoleon
+
+Glissant
+Monsieur Toussaint 
+
+Cahier:
+
+Ce qui est à moi aussi: une petite cellule dans le Jura,
+une petite cellule, la neige la double de barreaux blancs
+la neige est un geôlier blanc qui monte la garde devant une prison
+Ce qui est à moi
+c’est un homme seul emprisonné de blanc
+c’est un homme seul qui défie les cris blancs de la mort blanche
+(TOUSSAINT, TOUSSAINT LOUVERTURE)
+c’est un homme seul qui fascine l’épervier blanc de la mort blanche 
+c’est un homme seul dans la mer inféconde de sable blanc
+c’est un moricaud vieux dressé contre les eaux du ciel
+La mort décrit un cercle brillant au-dessus de cet homme
+la mort étoile doucement au-dessus de sa tête
+la mort souffle dans la canne mûre de ses bras
+la mort galope dans la prison comme un cheval blanc
+la mort luit dans l’ombre comme des yeux de chat
+la mort hoquète comme l’eau sous les Cayes
+la mort est un oiseau blessé
+la mort décroît
+la mort vacille
+la mort est un patyura ombrageux
+la mort expire dans une blanche mare de silence.  
+
+George Dibdin Pitt
+was performed at the Britannia Theatre in London’s East End in 1846. Though only Act I survives, Pitt’s play has been described by Hazel Waters 
+
+O'Neill 
+The Emperor Jones
+
+Langston Hughes
+Emperor of Haiti
+
+Walcott
+Haitian Trilogy
+
+---
+
+I consulted the sacred dice. I say a royal being lives in you, dormant on a narrow mattress.
+
+---
+
+Here is a schematic view of the plot of Act 2 and 3 in "the scaffold" divided by episodes:
+
+I. Act 2 (Saint Domingue)
+
+a. A parade of officials and clergy praise Toussaint. The latter responds with disdain and turns the crowds against the hypocritical elites (42-46).
+b. A group of white passersby complain about being ruled by a black general (48-50).
+c. Toussaint expresses his dissatisfaction to CRR, who try to reassure him of his accomplishments (51-53).
+d. White armies debark, leading to a new stage of the revolution: After a failed meeting with ‘Parliamentarians’, a new confrontation begins between the black armies and what is implied to be the armies of Napoleon (58, 60-61).
+e. Toussaint’s troupes are forced to retreat to the bush to engage in guerilla warfare (62-63).
+f. Over a scorched land, Toussaint sings of doubt while CRR sings the devastation (64-66).
+g. The *Acte* ends with an encounter between Toussaint and a set of underground and celestial voices prophesying Toussaint’s imprisonment and death (67-68).
+
+II. Act 3 (France)
+
+a. (In prison) Toussaint encounters his jailers (74-75).
+b. Toussaint resists the offers of the messenger of the consul (78-80).
+c. Toussaint confronts his son, who has been educated in France and tries to convince his father to compromise with his captors (85-88). 
+d. Toussaint is tortured and dies at the hands of his jailers (96-101). 
+
+As the reader can see, when we bring these episodes together with those  of "Revolution rising" and `P2`, we have a coherent story. With the exception of the order of the segments in Act 1, we also have the general structure of the final version of the typescript. What additions come after "the scaffold" are mostly local. Césaire will reframe Act 2 several times, and the general tenor of the drama changes as the CRR plays an increasingly central role next to Toussaint, but the overall edifice remains the same.
+
+The theme of temptation that will characterize all of the published versions of the drama is already dominant at this stage. The major difference between the typescript and the published versions is that temptation does not only present itself to Toussaint, but to the crowds as well. 
+
+/*.above {
+  bottom: 1em;
+  position: relative;
+  right: 1em;
+}*/
+
+/*.blue-ink {
+  color: #288828;
+}
+
+.light-pencil {
+  color: #AA6832;
+}*/
+
+/*.accent {
+  font-size: 1em; 
+  position: relative;
+  right: .1em;  
+}*/
+
+/*.superimposed {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+}*/
+
+/*.above-partial {
+    display: inline-block;
+    position: relative;
+    font-size: 1em; 
+    bottom: .3em;
+}
+
+.write-over {
+    width: 100%;
+    position: absolute;
+    overflow: hidden;
+}*/
+
+/* Diplomatic */
+
+/*.diplomatic {
+  font-family: "Courier New", monospace;
+  font-size: 16px;
+}
+
+.diplomatic ul {
+  list-style: none;
+  list-style-type: none;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}*/
+
+/*.delete-diplomatic {
+    text-decoration: line-through;
+    text-decoration-color: #AA6832;
+}*/
+
+/*  animation: blinker 1.7s cubic-bezier(.5, 0, 1, 1) infinite alternate;*/
+
+.didascalia {
+  font-style: italic;
+}
+
+[set up the frame of "revolution rising"s temptations]
+
+# Temptations
+
+1. Deputies to the general
+
+1er député.
+Notre seule présence ici suffit à montrer combien grand est notre désir de conciliation. 
+
+2. Deputies to the crowds
+
+1er député.
+Vos femmes sont lasses d’une vie incertaine et vagabonde.
+
+3. Voices to Toussaint
+
+Une voix tentatrice.
+Ma voix froisse des mots de soie,
+ma voix souffle en ombelles des panaches,
+
+4. Orator to the crowds
+
+Un orateur.
+Camarades, c’est pour vous dire que Toussaint est un ennemi du peuple et un emmerdeur. 
+
+-- Act 2 ---
+
+1. [possible missing page] Parlamentaries to Toussaint in later stages
+
+Parlementaire.
+Abrégeons, le temps presse : quelles sont vos intentions, général ?
+
+2. Toussaint seems to have convinced the crowds already
+
+Toussaint
+S’il est encore parmi vous quelques naïfs gonflés d’illusion, je leur dis que les blancs ne font plus mystère de leur dessein. 
+
+
+
+[Césaire and citations]
+
+An effort is currently underway, most notably under the initiative of professor Jean Jonassaint of Syracuse University, to try to reconstruct Césaire’s readings on the Haitian Revolution based on clues found in his œuvre. One of the most fascinating features of our typescript—especially the beginning segment of Act 2, which comes into play in "the scaffold"—is the presence of quotes (not always in quotation marks) from historical sources. These quotes are placed in the mouth of a series of random characters and—of course—no citation is given.
+
+Here are two citations I have been able to identify:
+
+> *2è orateur: Gloire à Toussaint Louverture, le Spartacus noir, le nègre prédit par Raynal pour venger les injures faites à sa race.* (42)
+
+This line comes at the beginning of the episode, after the first orator has praised Toussaint for delivering the land from the tyrannical English. Ironically, the line from the second orator comes from the British evangelist Marcus Rainsford's *An historical account of the black empire of Hayti* (1805). Here are Rainsford’s words: "General Laveaux called him 'the negro, the Spartacus, foretold by Raynal, whose destiny it was to avenge the wrongs committed on his race'" (247).
+
+[Get citation: Histoire philosophique et politique Des Etablissemens & du ..., Volume 4 By Guillaume Thomas François Raynal ]
+
+The next exact match comes in quotes:
+
+> Le grand Maitre de l'Université: Gloire et reconnaissance à Toussaint Louverture éducateur du peuple ! Libre à un Villaret-Joyeuse de fermer les écoles dans la Martinique voisine et de déclarer cyniquement : "L'ignorance est un lien nécessaire pour des hommes enchainés par la violence ou flétris par les préjugés".[^56] \(43)
+
+The quoted lines came originally from the *Capitaine-General* of Martinique and Saint-Lucie, Louis Thomas Villaret de Joyeuse, in a proposal to close down the schools under his jurisdiction. The original document was first published in 1861 in Augustin Cochin’s *L’Abolition de l’esclavage*. Other nineteenth-century books dealing with the question of slavery will reprint the lines, and I have not been able to determine whether Césaire copied it from Cochin or from later reprints of Villaret’s communiqué.[^57] The important point is that Césaire is using verbatim quotes from historical sources. This sort of ‘documentary’ approach was also one of the main innovations of Piscator for the theater, and reinforces some of the points we made earlier about Césaire’s use of avant-garde techniques. Although, as Attilio Favorini has demonstrated, the so-called documentary theater can be traced back to the Greeks, its modern incarnation in the work of Brecht and Piscator links it directly to questions of social justice, the role of crowds on stage, and other features more appropriate to Césaire’s drama.
+
+
+Toussaint Louverture and the Haitian Revolution were evoked as early as the 1939 version of the “Cahier d’un retour au pays natal”. Considering the importance of these two themes, their elision in the 1940’s should still give us pause. In 1960 Césaire will publish his biography of Toussaint, *La Révolution Française et le problème colonial*, which doubled as an analysis of the revolution, and which was an important contribution at the time. Soon thereafter, his first successful play, *La Tragedie du Roi Christophe*, resumes the story of the revolution where the narrative of the typescript ended. Though we have seen how Césaire began to distance his text from history, the possible why must wait for my next chapter.
+
+Although "the scaffold" already evinces a shift in emphasis from the historical narrative proper to the heroic and tragic subject, the text preserves history as a referent. Critics have remarked, and this can be readily verified, that Césaire was not very rigorous in his citations. Because he is oftentimes inaccurate, especially in his reconstruction of the events in our text, we are left wondering whether the problem lay with his sources or whether he was actively engaging in myth making.
