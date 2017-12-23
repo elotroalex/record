@@ -15,6 +15,10 @@
     text-decoration:underline;
 }
 
+.strike-through {
+  
+}
+
 strong {
   font-weight: normal;
   text-transform: uppercase;
