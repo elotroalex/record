@@ -69,22 +69,22 @@ The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the suppo
 {% include image.html
     img="fig-a.jpg"
     title="atemoya"
-    caption="figure a | atemoya" %}
+    caption="figure a \| atemoya" %}
 
 {% include image.html
     img="fig-b.jpg"
     title="batata"
-    caption="figure b | batata" %}
+    caption="figure b \| batata" %}
 
 {% include image.html
     img="fig-c.jpg"
     title="coco"
-    caption="figure c | coco" %}
+    caption="figure c \| coco" %}
 
 {% include image.html
     img="fig-d.jpg"
     title="durian"
-    caption="figure d | durian" %}
+    caption="figure d \| durian" %}
 
 
 The document seems to be, in large part, a copy of a missing original, and traces of carbon paper are visible to the naked eye in several pages. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. At times, the carbon residue outlines unreadable glyphs, line traces from a previous page on the roller. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process. None of the use patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of interchangeable carbon paper. In theory, we could use the patterns to isolate smaller bursts of writing, but I have not had occassion to do it.
@@ -92,12 +92,12 @@ The document seems to be, in large part, a copy of a missing original, and trace
 {% include image.html
     img="fig-e.jpg"
     title="black carbon paper"
-    caption="figure e | black carbon paper" %}
+    caption="figure e \| black carbon paper" %}
 
 {% include image.html
     img="fig-f.jpg"
     title="blue carbon paper"
-    caption="figure f | blue carbon paper" %}
+    caption="figure f \| blue carbon paper" %}
 
 
 Besides direct overwrites with the typewriter, the text was revised using a variety of instruments likely handheld by Césaire himself. And analysis of the handwriting—a slight forward slant, a tendency for flat diacritics, sharp connecting strokes, a peculiarly open *p*, etc.—confirms these revisions belong to the same hand that revised the ~1938 typescript of the *Cahier d'un retour natal* archived at the Bibliothèque de l'Assemblée nationale in Paris. 
@@ -111,32 +111,32 @@ Pencil markings come in three varieties, ranging from most common to most rare: 
 {% include image.html
     img="fig-g.jpg"
     title="blue ink"
-    caption="figure g | blue ink" %}
+    caption="figure g \| blue ink" %}
 
 {% include image.html
     img="fig-h.jpg"
     title="dark ink"
-    caption="figure h | dark ink" %}
+    caption="figure h \| dark ink" %}
 
 {% include image.html
     img="fig-i.jpg"
     title="red ink"
-    caption="figure i | red ink" %}
+    caption="figure i \| red ink" %}
 
 {% include image.html
     img="fig-j.jpg"
     title="dark pencil"
-    caption="figure j | dark pencil" %}
+    caption="figure j \| dark pencil" %}
 
 {% include image.html
     img="fig-k.jpg"
     title="light pencil"
-    caption="figure k | light pencil" %}
+    caption="figure k \| light pencil" %}
 
 {% include image.html
     img="fig-l.jpg"
     title="red pencil"
-    caption="figure l | red pencil" %}
+    caption="figure l \| red pencil" %}
 
 
 The witness has interesting features which push the boundaries of traditional codicology, and yet make fine additions to our catalogue. These range from the regular, to the highly peculiar. Some of the regular features are listed in [table c]({{site.baseurl}}/fragiles/table-c/). For example, some pages end half-way through, usually marked with a large X drawn across the empty bottom space of the page. I flag these in the table as `Half Pages`. These pages can sometimes give us clues about the insertion of a page in a previous sequence, and other times help us isolate blocks of innominate and itinerant text.
@@ -146,7 +146,7 @@ Starting on page 41, and intensifying after page 60 of the current pagination, t
 {% include image.html
     img="fig-m.png"
     title="slanted text"
-    caption="figure m | oh, well" %}
+    caption="figure m \| oh, well" %}
 
 The last of the regular features is the uneven practice of underlining the speakers, marked with an x under the heading `Underline`. This pattern is consistently used on the pages composed using `batata`, then dissappears for a while, only to intensify during the composition of the middle pages on `atemoya` paper. This quirk may indicate two typists, or simply two coherent periods of composition. Further evidence suggests the latter, but we cannot rule out the former. 
 
@@ -168,7 +168,7 @@ Most pages have more than one set of numbers on them. Three sets of numbers come
 {% include image.html
     img="fig-n.jpg"
     title="paginations p1, page and p9"
-    caption="figure n | left to right: P1, Page, P9" %}
+    caption="figure n \| left to right: P1, Page, P9" %}
 
 
 In order to best understand the process by which we arrived at the current pagination, we can reverse-engineer the pagination schemes. The results of the reconstruction are visualized in the shape of a table in *figure p* below, starting in chronological order from left to right. As in *table d*, the rows in *figure p* represent individual pages. Each of the matte, lime, lavender and clay-colored columns in *figure p* represents the state of the text in nine different stages of development, extending from left to right from the earliest stage `S1`, corresponding to the first pagination, `P1`, to the `Final` stage, corresponding to the main pagination, `Page`. A stage of development is not to be confused for a pagination, even though they coincide in many cases. In other cases, a set of pages does not receive a pagination scheme until later in the process, when a new order begins to emerge. Césaire's texts, as those who study his bibliography know, have a tendency to migrate within and without themselves without end.
@@ -182,7 +182,7 @@ My rationale for this reverse-engineering follows the results. To view the full 
     img="fig-p.png"
     full="fig-p-full.png"
     title="nine stages"
-    caption="figure p | nine stages (top)" %}
+    caption="figure p \| nine stages (top)" %}
 </div>
 
 The fact that both `P1` and `P2` cohere around separate and distinct paper support, and that their paginations stand unaccompanied by any other pagination until the text receives a global sequence in `S6` through the combination of `P6` and `P7`, makes it difficult for us to choose between them with empirical certainty for the title of earliest extant segment in the typescript. My analysis bends me in the direction of the 18 pages marked `P1` (23-40), all using `coco` paper.[^17] I indicate this choice in *figure p* as `S1`.

@@ -5,6 +5,14 @@ author: alex gil
 chapter: 4
 ---
 
+Fragment from chapter 3:
+
+In all manifestations of our phantom poem *Le Grand Midi,* including the collage of *Tombeau du soleil,* the fragment “Les Pur-sang” comes toward the beginning and the fragment “Le Grand midi,” towards the end. In *Tombeau du soleil* “Conquête de l’aube” follows “Le Grand midi” only inasmuch as there is an indication on the last page that the poem should be inserted at that point. In the published version of *Les Armes miraculeuses*, “Les Pur-sang” occupies a position towards the beginning, while “Le Grand midi” occupies a position towards the end. This preserves the scaffolding of the earlier project. In the next chapter we will learn to call this structure an expansion or a split. Here already we can see how the shuffling effect described above necessarily implies at least two expansions.
+
+The earlier collection *Colombes et menfenils* begins with a series of short poems and purportedly ends with the text of “Batouque.” The poems which begin *Colombes et menfenils* gravitate towards the first half, while “Batouque” almost ends the poems section in *Les Armes miraculeuses*. Only two short poems come after it in the collection, “La Femme et le couteau” and “Les Oubliettes de la mer et du déluge” (formerly “Simouns”). In the typescript of *Colombes et menfenils* “Simouns” precedes “Batouque” only inasmuch as there is an indication to include it on a page before the latter begins. In short, the general structure of the poems section in *Les Armes miraculeuses* echoes the general structure of *Colombes et menfenils*. Again, it is almost as if *Tombeau du soleil* and *Colombes et menfenils* were shuffled once before the intervening pre-publications were inserted into the deck (Figure 2.E).
+
+---
+
 ## high noon 
 
 *Les Armes miraculeuses* was a lucky accident. We should resist the urge to read it “organically,” in the spirit of the Romantics, or even prefigurally, *à la* Saint Augustine, and I don't just mean our attempts to reconcile *Et les chiens se taisaient* to the smaller poems in the collection.[^30] To be clear from the onset, Césaire worked on several editorial projects during the period 1941-1946, many of them invisible or unrecognizable unless we bracket bibliographic teleology, the idea that fragments only point towards a concrete whole. They are better thought of as organs without bodies. A difficult task, since we always find ourselves at the end of a series of reifications, making sense of the textual past hindered by a post-bibliographic moment.
