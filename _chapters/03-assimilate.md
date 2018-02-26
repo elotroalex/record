@@ -63,7 +63,7 @@ This sentiment is also shared by the two other main contributors of the journal,
 
 > Seuls, nous pouvons exprimer ce par quoi nous sommes uniques. Si nous ne voulons pas être seulement spectateurs de l'aventure humaine, si nous croyons qu'il faut payer de soi pour simplement participer à l'humanité véritable, si nous sommes persuadés qu'ici comprendre n'est rien et que c'est faire qui importe, nous savons quelle tâche nous incombe et quelle voie mène à sa réalisation.[^9] ("Naissance" 60)
 
-Because the goal is to provide an authentic voice, to address a perceived lack, the general tenor of the journal will remain pedagogical: over the years we will see the prevalence of introductory texts dedicated to an exploration of diverse subjects, including the flora and fauna of the region, regional art (or lack-thereof), regional history (including a basic introduction to the history of the slave trade), folk tales, and more *a propos,* a set of accessible works of literary theory meant to set the critical stage for the rather difficult poetry of Césaire. For this last purpose, several entries by René Ménil, Suzanne Césaire and a direct study by Aristide Maugée constitute the first set of historical readings of Césaire’s poetry.
+Because the goal is to provide an authentic voice[^n1], to address a perceived lack, the general tenor of the journal will remain pedagogical: over the years we will see the prevalence of introductory texts dedicated to an exploration of diverse subjects, including the flora and fauna of the region, regional art (or lack-thereof), regional history (including a basic introduction to the history of the slave trade), folk tales, and more *a propos,* a set of accessible works of literary theory meant to set the critical stage for the rather difficult poetry of Césaire. For this last purpose, several entries by René Ménil, Suzanne Césaire and a direct study by Aristide Maugée constitute the first set of historical readings of Césaire’s poetry.
 
 Not only does *Tropiques* feel the need to provide an authentic voice, that voice must serve as a way for Martinique, and by synecdoche the Caribbean, to enter the “human adventure” as an equal. Although the emphasis is on those inheritances and experiences which are particular to Caribbean *Man* and *Life* (African inheritance, slavery, colonialism, etc.), at no point do we hear a call for a separation from the whole of humanity along racial lines and/or a contestation of universal History as a valid category. This is a far cry from Eduoard Glissant’s critique of a History-cum-Totality that subordinates non-Western histories (141), or Walter Mignolo’s conception of “spatial confrontations between different concepts of history” (67). For the *Tropiques* group, History must simply be supplemented, perhaps revolutionized, but the idea that History has universal import and sway remains unquestioned. We must read Césaire’s defense against charges of racism lobbed at him in this light: “*Mais les faisant, mon cœur, préservez-moi de toute haine/ne faites point de moi cet homme de haine pour qui je/n'ai que haine*”[^10] ("Cahier" 23). This distinction becomes important when we consider Césaire’s choice in the *editio princeps* for history-as-residue over the typescript’s history-as-referent.
 
@@ -186,7 +186,10 @@ This date is as questionable to me as August 1945 for *Tombeau du soleil* and *C
 
 In the 1946 edition, the “Intermède” survives only in fragments. One fragment is made up of a combination of two smaller fragments from the first two oracles, the speech of *Les fétiches*, the short speeches of the second two oracles and the speech of *Des Voix*. These fragments appear in a different relative sequence between p.140 and p.148 of the 1946 text—a perfect reversal to be exact:
 
-[insert legogram figure s]
+{% include image.html
+    img="fig-s.png"
+    title="reversal"
+    caption="figure s \| reversal" %}
 
 "Intermède" holds an important structural position in its alleged position in the Saint-Dié typescript, and its rearranged blocks within the 1946 text. In the earlier text, the interlude divides *Acte I* from *Acte II*. Both of these acts are structural mirrors of each other: temptation → battle → assembly → folk. The interlude does not read like an *Intermezzo* to be inserted between acts of an *opera seria*, but rather like a reformulation of the action of *Acte I*. The act ends with the words "*Republique d'Haïti*" projected on the stage during the early phase of the revolution. "*Le coup est vache, Le cordon sanitaire vient d'étre débloqué*,"[^73] begins the Master of Ceremonies in the "Intermède," signaling to the audience, "*Messieurs \[et Mesdames\]*,"that an irrevocable event has taken place.
 
@@ -228,7 +231,10 @@ Read bibliographically: To achieve these emancipatory poetic ambitions, stage di
 
 As expected, the text published in *Tropiques* N°11 in May marks the public debut of the Osirian dismembering of *Et le chiens se taisaient.* "Poème" consists of the aggregation of three separate fragments found towards the beginning of the Saint-Dié typescript. Two of the fragments are typographically continuous, while the third is separated by a dotted line. The fragments come from speeches by Toussaint—though his name is elided in the "poem"—after the Reciters have announced that he will die, "*Hélas. Tu périras.*" He responds by accepting his death, "*Hé bien, je périrai. Mais nu. Intact*" (7). "Poème" begins where this line ends. Without the acceptance of death to frame it, the text now reads like a poetic manifesto. The central trope is nudity, as the naked "I" readies for an "assault" from the naked image. Cobbled up after the letter to Breton, the freedom from constraints called for by the fragment reinforces the missive to Breton.
 
-[insert legogram figure t]
+{% include image.html
+    img="fig-t.png"
+    title="poème 1"
+    caption="figure s \| 'Poème' legogram" %}
 
 Like "Intermède" above, this small text is called upon to serve several functions: a) advertisement; b) public reaffirmation to Breton; c) testing ground for the reorientation of the typescript; e) manifesto; d) poem inside a play, etc. Once the text has served its temporary purpose(s), it will de-fragment, and the fragments will return to their original position as part of a larger migration to the 1946 text (*figure t*). Moreover, a comparison of the relevant variations between the typescript, "Poème" and the 1946 edition, suggests that “Poème” was by-passed altogether in the making of the 1946 edition. This sliver of textual evidence suggests that the major reorganization had not begun in full force in May of 1944.
 
@@ -289,6 +295,8 @@ The maneuver, to join together while marking the original boundaries of blocks o
 [^8]: \[Dumb and fallow land. I’m talking about ours. And my ear reckons the chilling silence of Man in the Caribbean. Europe. Africa. Asia. I hear the cry of steel, the battle drums in the bush, the temple prayers among the Banyan trees. And I know it is Man who speaks. Hitherto and forever, and I listen. But here the monstrous atrophy of the voice, the secular decrepitude, the prodigious mutism. No city. No art. No poetry. No civilization, the true one, I mean that projection of Man onto the world; the modeling of the world by Man; the stamp of Man’s figure on the universe.\]
 
 [^9]: \[Only we can express that which makes us unique. If we strive to be more than mere spectators of the human adventure, if we believe that we must make a personal offering simply to participate in a true humanity, if we are convinced that it is not to comprehend, but to make what really matters, we know what is our task, and what way leads to its realization.\]
+
+[^n1]: A most provocative thesis of the performance of authenticity through the voice in Césaire's work can be found in the first two chapters of Noland, Carrie. *Voices of Négritude in Modernist Print." Columbia University Press. 2015
 
 [^10]: \[But in doing so, my heart, preserve me from all hate/do not turn me into the hateful man for whom/I have nothing but hate.\]
 
