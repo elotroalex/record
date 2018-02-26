@@ -26,8 +26,9 @@ When McKenzie famously declares in his Panizzi lectures, "any history of the boo
 
 In other words, we depart at the end of existing trajectories that—literally—have transformed these texts for decades, leading to our meanings today, conditioned now as much by our continued yearning for emancipation and the role that Césaire may play in that labor, as they are by the structural fragmentation of our current prestige economies, algorithmic readings, network effects, knowledge cartels, etc. The latter parts of this not-book will bring the narrative back to the present, full force. We do well, though, to bear this ouroboros in mind even as we delve into a thick description of the relevant textual condition during the war period. I do share this not-book with you as an HTML document and not a PDF file—consider that my constant reminder.
 
+---
 
-## The francophone "Culture of Reprint": Fragments of *Tropiques*
+## the francophone "culture of reprint": fragments of *Tropiques*
 
 <br>
 
