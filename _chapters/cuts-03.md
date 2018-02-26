@@ -1,4 +1,9 @@
+As Kora Véron argues convincingly in "Césaire at the Crossroads in Haiti"
 
+In addition to Breton, who maintained his network of surrealists from his apartment in New York, two other networks contributed to Césaire’s higher profile in the world of letters. 
+
+
+The most surprising news conveyed by Seyrig was that, according to Etiemble, André Gide wanted to publish a text by Césaire titled Toussaint Louverture in L’Arche. 
 
 1. 
 
@@ -86,3 +91,7 @@ The isomorphism is not coincidental, and goes to show we can collapse virtual an
     caption="figure w \| \"ô morts\"" %}
 
 In the same manner that the placeholder "Conqûete de l'aube" invokes a ghostly presence on the last page of *Tombeau du soleil*—as we will see in the next chapter—
+
+10. We must read Césaire’s defense against charges of racism lobbed at him in this light: “*Mais les faisant, mon cœur, préservez-moi de toute haine/ne faites point de moi cet homme de haine pour qui je/n'ai que haine*”[^10] ("Cahier" 23).
+
+[^10]: \[But in doing so, my heart, preserve me from all hate/do not turn me into the hateful man for whom/I have nothing but hate.\]
