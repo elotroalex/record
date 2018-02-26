@@ -442,3 +442,5 @@ In the next chapters we will study Césaire's migrant textuality prior to the fi
 [^67]: [That which belongs to me: some thousand morbidities that spin inside the island gourd; and that which belongs to me: the arched archipelago like the disquieted desire to negate yourself ... and the flanks secreting towards Europe the good liquor of a Gulf Stream, one of them the incandescence by which the Equator tightropes towards Africa.]; from Césaire, Aimé. “Cahier d’un retour au pays natal.” Volontés 20 (1939): 23–51. Print. 
 
 [^68]: bell hooks provides the primer here in, hooks, bell “Eating the Other: Desire and Resistance,” in Black Looks: Race and Representation (Boston: South End, 1992), 21–39.
+
+[^n3]: Noland, Carrie. *Voices of Négritude in Modernist Print." Columbia University Press. 2015 (72)
