@@ -43,13 +43,7 @@
     <meta property="og:image:height" content="200" />
     {% endif %}
    
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }}
-    {% endif %}
-  </title>
+  <title>{{ page.title }}</title>
 
   <!-- CSS links -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css"/>

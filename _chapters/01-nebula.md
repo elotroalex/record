@@ -288,4 +288,4 @@ Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into
 
 [^18]: We assume the existence at some point of `P2.1` and `P2.2`, but these have disappeared without a trace.
 
-[^c1]: Nebula is based partly on the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).]
+[^c1]: Nebula is based partly on the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).
