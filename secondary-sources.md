@@ -3,7 +3,9 @@ layout: page
 title: Secondary Sources
 ---
 
-The following enumerative bibliography builds on and refines the [Aimé Césaire Zotero Group](https://www.zotero.org/groups/232193/aime_cesaire?) bibliography. If you would like to contribute, please join the group and add your entry or entries, or contact me. The bibliography below is organized by year of publication.
+The following enumerative bibliography of critical commentary and scholarship on Aimé Césaire builds on and refines the [Aimé Césaire Zotero Group](https://www.zotero.org/groups/232193/aime_cesaire?) collective bibliography. This bibliography is the largest of its kind in existence today. If you would like to contribute, please join the group and add your entry or entries, or contact me. 
+
+The entries below are organized by year of publication.
 
 
 ---
