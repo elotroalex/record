@@ -49,3 +49,35 @@ version:             0.0.1
 exclude: [optional, vendor, 'README', 'RAKEFILE', 'Gemfile.lock', 'Gemfile']
 
 
+# Gems
+gems: ['jekyll/scholar']
+
+# Scholar
+scholar:
+  style: modern-language-association
+  locale: en
+
+  sort_by: author
+  order: ascending
+
+  group_by: year
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+  relative: "/ed/bibliography.html"
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+
+
