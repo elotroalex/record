@@ -3,7 +3,7 @@ layout: page
 title: Secondary Sources
 ---
 
-The following enumerative bibliography builds on and refines the [Aimé Césaire Zotero Group](https://www.zotero.org/groups/232193/aime_cesaire?). If you would like to contribute, please join the group and add your entry or entries, or contact me. The bibliography is organized by year of publication.
+The following enumerative bibliography builds on and refines the [Aimé Césaire Zotero Group](https://www.zotero.org/groups/232193/aime_cesaire?) bibliography. If you would like to contribute, please join the group and add your entry or entries, or contact me. The bibliography below is organized by year of publication.
 
 
 ---
