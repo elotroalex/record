@@ -60,8 +60,8 @@ scholar:
   sort_by: author
   order: ascending
 
-  group_by: year
-  group_order: ascending
+  group_by: none
+  group_order: none
 
   source: ./_bibliography
   bibliography: references.bib

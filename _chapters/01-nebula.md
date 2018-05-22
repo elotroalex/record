@@ -6,9 +6,9 @@ author: alex gil
 chapter: 1
 ---
 
-## opening gambit[^c1]
+## opening gambit
 
-All origin stories imply another origin: the origin of the tale. The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works.[^b5] The debate hinged on the choice between a genetic[^fn0] or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
+All origin stories imply another origin: the origin of the tale. The setting was a small, chic office in the Place de la Sorbonne, belonging at the time to the Agence universitaire de la Francophonie. The year was 2008, and a small team of editors had gathered to plan an ambitious new edition of Aimé Césaire's works.[^fn0] The debate hinged on the choice between a genetic or a critical approach. Only a handful of those in the room were familiar with the traditions of textual scholarship that gave meaning to that distinction. Among them was Pierre-Marc de Biasi, who among other accomplishments, was already known as a virtuoso of la *critique génétique* for his work on Flaubert. He was hesitant. 
 
 "You just can't do good genetic critique without enough scraps of paper" he offered, suspicious of the 20th century, distracted from the history of colonial and anti-colonial archives—and I quote from memory, so he probably didn't say that. "Yes you can!" I retorted, speaking out of turn and breaking ranks. "If you pay close attention to the material cues in a typescript, you can do it." He wasn't convinced, so we made a bet: 5 euros. Below is my first batch of receipts... 
 
@@ -64,7 +64,7 @@ The main set of clues about the order of composition of the Saint-Dié typescrip
 
 Except for the actual text, all the relevant material evidence is detailed and organized in a series of codicological tables below.[^fn15] All of the rows in the tables, except for the headers, represent a page. These are organized from top to bottom in the order in which they are found today in Saint-Dié des Vosges—what we could call for brevity's sake, *the Saint-Dié witness*. This order also corresponds to the pagination scheme labeled `Page`. 
 
-The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the support materials used for the typescript. I recognize a total of five—or four depending on how you look at it—different types of paper in the 108 loose sheets of the Saint-Dié witness. I distinguish these under the heading `Paper` as `atemoya`, `atemoya+`, `batata`, `coco` and `durian`. The most common type is `atemoya`, thin, of a yellowing white hue (21.6 x 28 cm). Those pages marked `atemoya+` have sheets of the same material as `atemoya`, except they are a few milimeters larger lengthwise. `batata` and `coco` belong to two self-contained segments in Act 1. batata is thin and pink (21.6 x 27.8 cm). The twenty leaves made of this paper are only found towards the beginning of the play as it stands now. `coco` follows `batata` in the current pagination, and is thin and white with a light blue tint (21 x 27 cm). Last, but not least, `durian` seems to have been introduced at a late stage of composition, and mostly appears in revisions made to Act 2. This paper is thick white and also yellowing, at times with rough-hewn edges, indicating the leaves came from a larger sheet. (22.4 x 28 and 21.6 x 28 cm).
+The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the support materials used for the typescript. I recognize a total of five different types of paper—four if you ignore size—in the 108 loose sheets of the Saint-Dié witness. I distinguish these under the heading `Paper` as `atemoya`, `atemoya+`, `batata`, `coco` and `durian`. The most common type is `atemoya`, thin, of a yellowing white hue (21.6 x 28 cm). Those pages marked `atemoya+` have sheets of the same material as `atemoya`, except they are a few milimeters larger lengthwise. `batata` and `coco` belong to two self-contained segments in Act 1. batata is thin and pink (21.6 x 27.8 cm). The twenty leaves made of this paper are only found towards the beginning of the play as it stands now. `coco` follows `batata` in the current pagination, and is thin and white with a light blue tint (21 x 27 cm). Last, but not least, `durian` seems to have been introduced at a late stage of composition, and mostly appears in revisions made to Act 2. This paper is thick white and also yellowing, at times with rough-hewn edges, indicating the leaves came from a larger sheet. (22.4 x 28 and 21.6 x 28 cm).
 
 {% include image.html
     img="fig-a.jpg"
@@ -87,7 +87,7 @@ The first table ([table a]({{site.baseurl}}/fragiles/table-a/)), lists the suppo
     caption="figure d \| durian" %}
 
 
-The document seems to be, in large part, a copy of a missing original, and traces of carbon paper are visible to the naked eye in several pages. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. At times, the carbon residue outlines unreadable glyphs, line traces from a previous page on the roller. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process. None of the use patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of interchangeable carbon paper. In theory, we could use the patterns to isolate smaller bursts of writing, but I have not had occassion to do it.
+The document seems to be, in large part, a copy of a missing original, and traces of carbon paper are visible to the naked eye in several pages. At least two kinds of carbon paper were used: blue and black. The traces of carbon paper residue in the typescript vary in intensity: at some points the paper is very dirty, at others very clean. At times, the carbon residue outlines unreadable glyphs, line traces from a previous page on the roller. Some pages are marked `orig`, for original, because we can't perceive any carbon residue on them—or at least not without more scientific rigor. These pages mostly place towards the end, and indicate a late stage of the process. None of the use patterns align with other patterns we find in the pagination schemes, neither with the type of paper, nor with the type of revision instrument, which leads us to conclude that Césaire had a consistent supply of two types of interchangeable carbon paper. In theory, we could use the patterns to isolate smaller bursts of writing, but I have not had occassion to do it.
 
 {% include image.html
     img="fig-e.jpg"
@@ -100,9 +100,9 @@ The document seems to be, in large part, a copy of a missing original, and trace
     caption="figure f \| blue carbon paper" %}
 
 
-Besides direct overwrites with the typewriter, the text was revised using a variety of instruments likely handheld by Césaire himself. And analysis of the handwriting—a slight forward slant, a tendency for flat diacritics, sharp connecting strokes, a peculiarly open *p*, etc.—confirms these revisions belong to the same hand that revised the ~1938 typescript of the *Cahier d'un retour natal* archived at the Bibliothèque de l'Assemblée nationale in Paris. 
+Besides direct overwrites with the typewriter, the text was revised using a variety of instruments likely handheld by Césaire himself. And analysis of the handwriting—a slight forward slant, a tendency for flat diacritics, sharp connecting strokes, a peculiarly open *p*, etc.—confirms these revisions belong to the same hand that revised the ~1938 typescript of the *Cahier d'un retour natal* archived at the Bibliothèque de l'Assemblée Nationale in Paris. 
 
-The different types of handwriting instruments used in the *the Saint-Dié witness* are catalogued in [table b]({{site.baseurl}}/fragiles/table-b/) by the pages in which traces can be found. Blue ink markings, ranging in hue from light to dark, are by far the most common, and they are almost universally present in the typescript. The final pagination itself is almost exclusively written in blue ink. Unless we are allowed a "thermal desorption and gas chromatography-mass spectrometry" of the blue ink[^b8], we won't be able to determine whether we are indeed talking about two different types of ink, or whether the same ink became darker with age, or under certain atmospheric conditions. In any case, I distinguish between them aided solely by comparison between samples. These are indicated in *table b* as `blue ink` and `dark ink`. Revisions made with blue ink range from corrections to substantial additions.
+The different types of handwriting instruments used in the *the Saint-Dié witness* are catalogued in [table b]({{site.baseurl}}/fragiles/table-b/) by the pages in which traces can be found. Blue ink markings, ranging in hue from light to dark, are by far the most common, and they are almost universally present in the typescript. The final pagination itself is almost exclusively written in blue ink. Unless we are allowed a "thermal desorption and gas chromatography-mass spectrometry" of the blue ink (Bügler et al 982–988), we won't be able to determine whether we are indeed talking about two different types of ink, or whether the same ink became darker with age, or under certain atmospheric conditions. In any case, I distinguish between them aided solely by comparison between samples. These are indicated in *table b* as `blue ink` and `dark ink`. Revisions made with blue ink range from corrections to substantial additions.
 
 Distinguishable `red ink` markings can be found in a few scant pages belonging in the first two acts. The red ink plays an important role in erasing some of the historical traces from the typescript.
 
@@ -141,7 +141,7 @@ Pencil markings come in three varieties, ranging from most common to most rare: 
 
 The witness has interesting features which push the boundaries of traditional codicology, and yet make fine additions to our catalogue. These range from the regular, to the highly peculiar. Some of the regular features are listed in [table c]({{site.baseurl}}/fragiles/table-c/). For example, some pages end half-way through, usually marked with a large X drawn across the empty bottom space of the page. I flag these in the table as `Half Pages`. These pages can sometimes give us clues about the insertion of a page in a previous sequence, and other times help us isolate blocks of innominate and itinerant text.
 
-Starting on page 41, and intensifying after page 60 of the current pagination, the typist[^b2] tries to use as much of the real estate on the page as possible, sometimes schewing the line towards the end of the page, as the paper began to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition due to the American blockade? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
+Starting on page 41, and intensifying after page 60 of the current pagination, the typist[^fn16] tries to use as much of the real estate on the page as possible, sometimes schewing the line towards the end of the page, as the paper began to slip from the platen roller. Perhaps paper became scarcer during the later stages of composition due to the American blockade? Perhaps the household became more frugal? This marked difference in the use of paper is indicated in *table c* as `Max Use`.
 
 {% include image.html
     img="fig-m.png"
@@ -156,13 +156,13 @@ Some of these unique traces give us very useful clues about the order of composi
 
 Other traces suggest working methods. The verso of page 71, for example, is a reverse mirror image of the front of the page, suggesting the typist accidentally placed a second, black carbon paper facing the wrong way. This implies that at least 3 copies of that page were attempted using the sandwich method: the missing original, (with blue carbon paper behind), our First Copy (with the flipped black carbon paper behind), and a missing third. 
 
-Some traces, alas, remain nothing more than a tease to would-be genetic critics, like the words "*notions de base*" in all caps and underlined, in the back of page 75.[^b4] 
+Some traces, alas, remain nothing more than a tease to would-be genetic critics, like the words "*notions de base*" in all caps and underlined, in the back of page 75. 
 
 ## stack and shuffle
 
 We are now ready to retreive the last key: pagination. In total, we can count ten different pagination schemes spread throughout the typescript. The pagination schemes are catalogued in [table d]({{site.baseurl}}/fragiles/table-d/). The schemes are differentiated from each other by the writing tool used and their position at the top of the pages, and though they imply an order of composition, this is not always the case. 
 
-Most pages have more than one set of numbers on them. Three sets of numbers come from a hand other than Césaire's: the cataloguer's numeration, the first pagination, labeled `P1`, and a set of typewritten pagination on several pages, `P3`. The last numeration added by Césaire determines the actual order of the pages as we find them today (`Page` in *tables a-d*)[^14]. This numeration will provide our canonical reference for this work, often in parentheses.[^15] The page sequence established by `Page` is reinforced by the added pagination of a Saint-Dié des Vosges librarian, which I assume to be Albert Ronsin, who received the witness from Claire Goll, after Yvan's death[^b3]. I'd divide the rest of the numbering into two periods, early and late. The late paginations `P6-P8` begin when `P6` introduces a continuous numeration that encompasses and organizes most of the text as we find it now, going from `P6.1` to `P6.103`. The early ones `P1-P5` mark a period of reorientation and experiment, where whole sections will change their place in the order or be heavily revised. The different pagination numbers also provide us with the principal criteria for re-organizing the text into smaller blocks to help us orient our genetic analysis of the text.
+Most pages have more than one set of numbers on them. Three sets of numbers come from a hand other than Césaire's: the cataloguer's numeration, the first pagination, labeled `P1`, and a set of typewritten pagination on several pages, `P3`. The last numeration added by Césaire determines the actual order of the pages as we find them today (`Page` in *tables a-d*)[^fn17]. This numeration will provide our canonical reference for this work, often in parentheses.[^fn18] The page sequence established by `Page` is reinforced by the added pagination of a Saint-Dié des Vosges librarian, which I assume to be Albert Ronsin, who received the witness from Claire Goll, after Yvan's death. I'd divide the rest of the numbering into two periods, early and late. The late paginations `P6-P8` begin when `P6` introduces a continuous numeration that encompasses and organizes most of the text as we find it now, going from `P6.1` to `P6.103`. The early ones `P1-P5` mark a period of reorientation and experiment, where whole sections will change their place in the order or be heavily revised. The different pagination numbers also provide us with the principal criteria for re-organizing the text into smaller blocks to help us orient our genetic analysis of the text.
 
 
 {% include image.html
@@ -175,7 +175,7 @@ In order to best understand the process by which we arrived at the current pagin
 
 The page numbers belonging to each stage are written immediately to the left of the colored columns. To signal pages where we can tell a pagination is offered at a later stage of development, we use a backward slash, "\\". The numbers in gray correspond to either missing pages or page numbers marked in an earlier pagination scheme and implied in the later stage. Missing pages are devoid of color, and are indicated by dashed borders. A pagition scheme is written at the top-most cell where that pagination occurs for the first time on a given stage. Places where the text suffers a split are marked by dotted lines at the cut and splice. A few cells are marked with additional texture to help you locate their destination on a later stage. Long curly brackets in the far left contain the final act divisions. As opposed to *table d*, the order of the pages from top to bottom is , rather than rational, in the sense that the vertical alignment is determined by design choices meant to help you appreciate the transposition in Act 1, the shifting elements around a structural core in Act 2 and the intercalated doubling of Act 3. 
 
-My rationale for this reverse-engineering follows the results. To view the full version click on the cropped image below.[^b7] 
+My rationale for this reverse-engineering follows the results. To view the full version click on the cropped image below.[^fn19] 
 
 <div id="figure-p">
 {% include image.html
@@ -185,7 +185,7 @@ My rationale for this reverse-engineering follows the results. To view the full 
     caption="figure p \| nine stages (top)" %}
 </div>
 
-The fact that both `P1` and `P2` cohere around separate and distinct paper support, and that their paginations stand unaccompanied by any other pagination until the text receives a global sequence in `S6` through the combination of `P6` and `P7`, makes it difficult for us to choose between them with empirical certainty for the title of earliest extant segment in the typescript. My analysis bends me in the direction of the 18 pages marked `P1` (23-40), all using `coco` paper.[^17] I indicate this choice in *figure p* as `S1`.
+The fact that both `P1` and `P2` cohere around separate and distinct paper support, and that their paginations stand unaccompanied by any other pagination until the text receives a global sequence in `S6` through the combination of `P6` and `P7`, makes it difficult for us to choose between them with empirical certainty for the title of earliest extant segment in the typescript. My analysis bends me in the direction of the 18 pages marked `P1` (23-40), all using `coco` paper.[^fn20] I indicate this choice in *figure p* as `S1`.
 
 Let me illustrate the way the graphic works using this example: Under the label `S1`, the matte-colored cells represent only a total of 18 pages, the pages of `P1`, starting with page `P1.1`. Pages `P1.3` and `P1.4` have gray numbers next to an empty space surrounded by dashed lines, indicating in this case that they're missing, but implied. Since I estimate that these 18/20 pages were the first to be written, all other cells in this column are empty below the colored cells. Because `P1.1`, by definition has the number 1 written on it at the top, and because I want to emphasize the drastic forward shift of these pages at a later stage of composition, I placed the column right at the top, in the starting position of our left-to-right reading order. 
 
@@ -197,7 +197,7 @@ If I'm correct, all the pages with `P1` (23-40) shifted down in the overall stru
 
 One possible response to this line of reasoning is that he wrote both in tandem, undecided about their relationship to each other. This perhaps would explain the use of different paper stacks. Another possible response is that `P1` was written as an alternative beginning to `P2`. After all, both retain their low numbers until `P6`. Yet another is that `P1` was meant to be the beginning of a putative Act 2. The problem with these hypotheses is that the elements of the story and the verse tense that were revised within `P2`, mentioned above, do not make much sense outside of the shift. A much simpler explanation is that `P2` was written after `P1`, and received its pagination in the next stage, `S3`. Furthermore, as we shall see in the next chapter when we take a closer look at the text of `P2`, after its historical references and the tense fall prey to the mighty pencil, `P2` surrenders the *clavis aurea* for the typescript and then some.
 
-We can neither prove with absolute empirical certainty that the `P2` pages were composed before any of the next segments before `P6`, but the order of composition in *figure p* remains likely. Present in Act 1 only, the numbers of `P2` were written in pencil on the top-left corner, going sequentially and uninterrupted from 3 to 23 (2-22).[^18] Just as in `P1`, and as I said above, the pages of `P2` correspond to one unique type of paper. In this case, the unapologetic pink `batata`. The next pagination in the series, `P3`, provides further reason to believe that `P2` should come second in the series. In indicate this in *figure p* as `S2`. The numbers of `P3` were typewritten on the top-left corner of the page. This pagination can be found exclusively in segments belonging to Act 2 and Act 3. If `P2` was written after `P3`, I don't see why it wouldn't have followed suit and marked its pagination in type as well. It seems probable that the pages of `P2` were written as those of `P1`, before the structure started congealing, leaving the pagination blank during the typing, and adding it later in pencil, after the edifice started to take shape.
+We can neither prove with absolute empirical certainty that the `P2` pages were composed before any of the next segments before `P6`, but the order of composition in *figure p* remains likely. Present in Act 1 only, the numbers of `P2` were written in pencil on the top-left corner, going sequentially and uninterrupted from 3 to 23 (2-22).[^fn21] Just as in `P1`, and as I said above, the pages of `P2` correspond to one unique type of paper. In this case, the unapologetic pink `batata`. The next pagination in the series, `P3`, provides further reason to believe that `P2` should come second in the series. In indicate this in *figure p* as `S2`. The numbers of `P3` were typewritten on the top-left corner of the page. This pagination can be found exclusively in segments belonging to Act 2 and Act 3. If `P2` was written after `P3`, I don't see why it wouldn't have followed suit and marked its pagination in type as well. It seems probable that the pages of `P2` were written as those of `P1`, before the structure started congealing, leaving the pagination blank during the typing, and adding it later in pencil, after the edifice started to take shape.
 
 `P3`, the typewritten pagination, will eventually be replaced by `P4` and `P5`, with page numbers now written on the top-right corner. Since we can be fairly certain all other paginations inhabiting the same pages as `P3` are posterior to it, we can be confident that `P5` and `P4`, which overlap for the most part with `P3`, mark close, subsequent stages of development in the structure of the text, giving us `S3` to `S5`. Top-right pagination for `P2` would have aligned it more with this middle period. The case being the opposite, the top-left pagination groups it with the earlier stages. Since `P3` was also marked in the top-left corner, albeit with type, the empty corners of`P1` and `P2` could be filled in on the same spot as the type. 
 
@@ -225,11 +225,44 @@ Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into
 
 ---
 
+## works cited
+
+<br/>
+
+<ol class="bibliography">
+	<li>Beloux, François. “Un Poète Politique : Aimé Césaire.” <i>Magazine littéraire</i> 34 (1969): 27–32. Print.</li>
+	<li>Breton, André. “Un Grand Poète Noir.” <i>Hemisphères</i> 2-3 (1943): 5–11. Print.</li>
+	<li>---. <i>Martinique Charmeuse Des Serpents : Avec Textes Et Illustrations de André Masson</i>. Paris: Ed. du Sagittaire, 1948. Print.</li>
+	<li>Bügler, Jürgen H., Hans Buchner, and Anton Dallmayer. “Age Determination of Ballpoint Pen Ink by Thermal Desorption and Gas Chromatography-Mass Spectrometry.” <i>Journal of Forensic Sciences</i> 53.4 (2008): 982–988. Web.</li>
+	<li>Césaire, Aimé. “Le Message De Charles Péguy.” <i>L’Action socialiste (Organe officiel de la Fédération socialiste de la Martinique)</i> 53 (1939): 2. Print.</li>
+	<li>---. “Charles Péguy.” <i>Tropiques</i> 1 (1941): 39–40. Print.</li>
+	<li>---. Letter to André Breton. 16 Nov. 1943. Breton papers. Bibliothèque littéraire Jacques Doucet, Paris, France. Manuscript.</li>
+	<li>---. Letter to André Breton. 22 Sept. 1943. Breton papers. Bibliothèque littéraire Jacques Doucet, Paris, France. Manuscript.</li>
+	<li>---. <i>...Et Les Chiens Se Taisaient</i>. 1943. Fonds Yvan Goll. Saint-Dié des Vosges, France. Manuscript.</li>
+	<li>---. Letter to André Breton. 17 Jan. 1944. Breton papers. Bibliothèque littéraire Jacques Doucet, Paris, France. Manuscript.</li>
+	<li>---. “Poésie Et Connaissance.” <i>Tropiques</i> 12 (1945): 157–170. Print.</li>
+	<li>---. <i>Poésie, Théâtre, Essais Et Discours</i>. Ed. by Albert-James Arnold. Paris: CNRS, 2014. Print. Planète Libre.</li>
+	<li>Césaire, Suzanne. “Léo Frobenius Et Le Problème De La Civilisation.” <i>Tropiques</i> 1 (1941): 27–32. Print.</li>
+	<li>Gil, Alex. “Bridging the Middle Passage: The Textual (R)Evolution of Césaire’s Cahier d’Un Retour Au Pays Natal.” <i>Canadian Review of Comparative Literature/Revue Canadienne de Littérature Comparée</i> 38.1 (2011): n. pag. Web.</li>
+	<li>Glissant, Édouard. Interview with Celia Britton. “Souvenirs Des Années 40 à La Martinique.” <i>L’Esprit Créateur</i> 47.1 (2007): 96–104. Web.</li>
+	<li>Herzberg, Julia P. “Wifredo Lam: The Development of a Style and a World View.” <i>Wifredo Lam and His Contemporaries</i>. Ed. by Maria R. Balderrama. New York: The Studio Museum in Harlem, 1993. Print.</li>
+	<li>Jennings, Eric T. <i>Vichy in the Tropics: Petain’s National Revolution in Madagascar, Guadeloupe, and Indochina, 1940-44</i>. Stanford University Press, 2004. Print.</li>
+	<li>---. <i>Escape from Vichy: the Refugee Exodus to the French Caribbean</i>. Cambridge, Massachusetts ; London, England: Harvard University Press, 2018. Print.</li>
+	<li>Malela, Buata B. <i>Aimé Césaire, Le «Fil Et La Trame», Critique Et Figuration De La Colonialité Du Pouvoir.</i> Paris: Anibwé, 2009. Web.</li>
+	<li>Ngal, Georges Mbwil a Mpaang. <i>Aimé Césaire, Un Homme à La Recherche d’Une Patrie</i>. 1st ed. Dakar: Les nouvelles éditions africaines, 1975. Print.</li>
+	<li>Péguy, Charles. <i>Charles Péguy. Oeuvres Poétiques Complètes</i>. Ed. by Julie Sabiani, Marcel Péguy, and Pierre Péguy. Paris: Gallimard, 1941. Web. Bibliothèque De La Pléiade.</li>
+	<li>Ronsin, Albert. “Yvan Goll Et André Breton.” <i>Yvan Goll (1891-1950) : Situations De l’Écrivain</i>. Ed. by Michel Grunewald and Jean Marie Valentin. Bern; New York: Peter Lang, 1994. Print. Contacts: Série II, Gallo-Germanica.</li>
+	<li>Scott, David. <i>Conscripts of Modernity: the Tragedy of Colonial Enlightenment</i>. Durham: Duke University Press, 2004. Print.</li>
+</ol>
+
+
+---
+
 ## notes
 
 <br/>
 
-[^fn0]: 'Genetic' here and throughout refers to the study of the production process of a given work—social or authorial. The term is borrowed from the French school of *la critique génétique*.
+[^fn0]: Now in print as *Poésie, théâtre, essais et discours*. The volume includes my own diplomatic edition of the typescript of "...et les chiens se taisaient". Most of the analysis in this chapter appeared first in that volume and on the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180). 
 
 [^fn1]: \[But this first work, I never envisioned it "staged"; I wrote it above all as a poem. However, this text is of the utmost importance to me because it is a work that is both free and well situated in its environment—the Caribbean. It is a bit like the nebula where all the other future worlds that constitute my other works come from.\] My translations unless otherwise indicated.
 
@@ -259,14 +292,39 @@ Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into
 
 [^fn14]: This statement remains true in so far as we have not yet recovered his thesis on Black Southern writers in the United States, and can only speculate how much effort he put into it. Not much would be my guess. 
 
-[^fn15]: If you would like to verify my results or reconstruct my observations, here's the [the complete set of codicological tables as comma separated values]({{site.baseurl}}/data/codicology-st-die-witness.csv), and the [source data in lossy compression]({{site.baseurl}}/data/sdw-data/).
+[^fn15]: If you would like to verify my results or reconstruct my observations, here's [the complete set of codicological tables as comma separated values]({{site.baseurl}}/data/codicology-st-die-witness.csv), and the [source data in lossy compression]({{site.baseurl}}/data/sdw-data/).
 
-[^14]: As we will see shortly, `Page` inherits most of `P8` until page 55. What I am calling `Page` is a combination of page numbers from `P6`, a few pages of `P7` and `P8`, and page numbers written at the last stage of pagination. In Table A, in the column named `Page`, the page numbers which are inherited are written in gray in order to distinguish them from those written at the time when the text received its final organization.
+[^fn16]: I have not been able to establish the identity of the typist, despite inquiries to more senior scholars who knew the poet, or analysis of the typos. After [Bruce Holsinger](https://twitter.com/bruceholsinger) trended the hashtag [#thanksfortyping](http://www.npr.org/2017/03/30/521931310/-thanksfortyping-spotlights-unnamed-women-in-literary-acknowledgements) on Twitter, though, the lingering suspicion that Suzanne Césaire is our mysterious typist has flared up. I put $5 on it. 
 
-[^15]: Other numbering systems will be indicated by `pagination.page`. Sometimes the `Page` number will follow in parenthesis when appropriate, or to disambiguate paginations by act. Ex. `P6.55` (56) is the same as 'the page with the number 55 in the number set labeled `P6`, and the page with the number 56 in the set labeled `Page`.'
+[^fn17]: As we will see shortly, `Page` inherits most of `P8` until page 55. What I am calling `Page` is a combination of page numbers from `P6`, a few pages of `P7` and `P8`, and page numbers written at the last stage of pagination. In Table A, in the column named `Page`, the page numbers which are inherited are written in gray in order to distinguish them from those written at the time when the text received its final organization.
 
-[^17]: As I indicated before, the numbers in parentheses represent the `Page` pagination. In this case, these pages were originally numbered 1, 2…20. That would be the `P1` numbers. In the final ordering they became 23, 24…40. These would be the `Page` numbers.
+[^fn18]: Other numbering systems will be indicated as `pagination.page`. Sometimes the `Page` number will follow in parenthesis when appropriate, or to disambiguate paginations by act. Ex. `P6.55` (56) is the same as 'the page with the number 55 in the number set labeled `P6`, with the number 56 in the set labeled `Page`.'
 
-[^18]: We assume the existence at some point of `P2.1` and `P2.2`, but these have disappeared without a trace.
+[^fn19]: Instead of presenting the full visualization here, I cropped the original to reduce load sizes and to help you get back to the text quicker, in case you want to skip it altogether. Design decisions like these are part of a certain minimalist bent in my work.
 
-[^c1]: Nebula is based partly on the first chapter of [my dissertation](https://academiccommons.columbia.edu/catalog/ac:161180).
+[^fn20]: As I indicated before, the numbers in parentheses represent the `Page` pagination. In this case, these pages were originally numbered 1, 2…20. That would be the `P1` numbers. In the final ordering they became 23, 24…40. These would be the `Page` numbers.
+
+[^fn21]: We assume the existence at some point of `P2.1` and `P2.2`, but these have disappeared without a trace.
+
+
+[^b5]: 
+
+
+
+---
+
+
+
+[^b9]: Page 41 leans two ways. On the one hand the page is clearly marked as the beginning of Act 3 before a correction makes it the beginning of Act 2. The page also flows into `P3.2` through a simple bibliographic accident: Page 41 ends with the speaker "La Recitante", but no speech, close to the bottom of the page, having run out of space; `P3.2` begins with a speech close to the top of the page, but no speaker. One objection to this bibliographic evidence, would be the speech itself, which places in the mouth of the Recitress the idea that Toussaint's punishment was part of "*une justice suprème*," a supreme justice. An attentive reading of the ethical ambivalence of CRR dismisses this quibble. A possibility is that the page was indeed written posterior to `P3` as a replacement for the original `P3.1` and the speaker without a speech at the bottom of the page was done to accomodate the speech on the next page.<br>Much stronger is the bibliographical evidence pulling page 41 in the other direction. The page is written on `durian` paper, with the page number 41 written with `dark ink`, doubly grouping the page with `P8`, which follow it immediately as `P8.41'-41'''`. One thing is clear, the page was written before the `P6.49` which replaces it as the introduction to Act 3.
+
+
+
+
+
+
+[^a4]: Césaire describes the work this way in an interview with Claude Stevens, "Pour un théâtre d'inspiration africaine," *La Vie africaine*. 59 (juin 1965): 40-41. This generic definition has since then been accepted by critics.
+
+
+
+
+
