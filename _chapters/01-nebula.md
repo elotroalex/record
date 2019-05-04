@@ -215,11 +215,7 @@ Complicating us further, the `P8.41'-41'''` set includes characters not present 
 
 I end up placing `P8` in `S8` after all because of one basic inference: `P6.42` was written during `S5` as the beginning of Act 2, and takes on the number 42 at the top of the page as part of the `P6` sequence, and it does so with the same stroke of the pen that erases the words "Acte II" from the header. That means that at this point, page 41 already had its number and current title, "Acte II." Since P8 is nothing other than a three-page insert between these two, that gives us some reason to suspect they were written at a later stage. In the end we can be flexible ourselves and consider these late stages to be part of the same final push to get the pages in order and declare the drama done.
 
-Finally, the `Page` pagination adopts most of the numbering of `P6`, with some from `P7` and `P8`. The process continuously shifts the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41'` to the end of Act 2 tilts the sequence up a bit, and is the only major change of this stage. The final sequence in `Page` is how the witness is ordered in a folder at the Fonds Claire et Yvan Goll near the German border today.
-
-...
-
-Hi Pierre-Marc, I'll buy you a whiskey with your own money next time we run into each other. If you're still not convinced you should part with your money based on these opening moves, please continue to the next chapter.
+Finally, the `Page` pagination adopts most of the numbering of `P6`, with some from `P7` and `P8`. The process continuously shifts the overall numeration down to accommodate all extra pages added after `P6`, right up until the last moment, when the transposition of `P8.41-41'` to the end of Act 2 tilts the sequence up a bit, and is the only major change of this stage. The final sequence in `Page` is how the witness is ordered today in a folder belonging to the Fonds Claire et Yvan Goll at the Saint Dié des Vosges bibliothèque, near the German border.
 
 <br/>
 
