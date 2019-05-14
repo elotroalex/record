@@ -7,7 +7,7 @@ editor: alex gil
 ---
 
 The following text is a diplomatic interpretation of the final authorial stage of the 
-Saint-Dié witness (~1943). Deletions are marked in *crossed-out red*{:.delete}, and additions 
+Saint-Dié witness (\~1943). Deletions are marked in *crossed-out red*{:.delete}, and additions 
 in *green*{:.add}. Instant revisions with the typewriter are ommitted. Additions surrounded by |pipes| indicate they were
 written on the margins of the page. The rest of the additions are simply placed next to the deletions, even
 though most of the substantial ones were made above the line. While a hand-sculpted web layout could 
@@ -32,7 +32,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 1 ](/data/sdw-data/P001.jpg){: target='_blank'}
+[ 1 ](/data/sdw-data/P001.jpg){: target='\_blank'}
 
 
 - {:.centered} ACTE I
@@ -75,7 +75,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 2 ](/data/sdw-data/P002.jpg){: target='_blank'}
+[ 2 ](/data/sdw-data/P002.jpg){: target='\_blank'}
 
 
 
@@ -108,7 +108,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 3 ](/data/sdw-data/P003.jpg){: target='_blank'}
+[ 3 ](/data/sdw-data/P003.jpg){: target='\_blank'}
 
 
 
@@ -138,7 +138,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 4 ](/data/sdw-data/P004.jpg){: target='_blank'}
+[ 4 ](/data/sdw-data/P004.jpg){: target='\_blank'}
 
 
 
@@ -178,7 +178,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 5 ](/data/sdw-data/P005.jpg){: target='_blank'}
+[ 5 ](/data/sdw-data/P005.jpg){: target='\_blank'}
 
 
 
@@ -215,7 +215,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 6 ](/data/sdw-data/P006.jpg){: target='_blank'}
+[ 6 ](/data/sdw-data/P006.jpg){: target='\_blank'}
 
 
 
@@ -254,7 +254,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 7 ](/data/sdw-data/P007.jpg){: target='_blank'}
+[ 7 ](/data/sdw-data/P007.jpg){: target='\_blank'}
 
 
 
@@ -304,7 +304,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 8 ](/data/sdw-data/P008.jpg){: target='_blank'}
+[ 8 ](/data/sdw-data/P008.jpg){: target='\_blank'}
 
 
 
@@ -345,7 +345,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 9 ](/data/sdw-data/P009.jpg){: target='_blank'}
+[ 9 ](/data/sdw-data/P009.jpg){: target='\_blank'}
 
 
 
@@ -368,7 +368,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 10 ](/data/sdw-data/P010.jpg){: target='_blank'}
+[ 10 ](/data/sdw-data/P010.jpg){: target='\_blank'}
 
 
 
@@ -405,7 +405,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 11 ](/data/sdw-data/P011.jpg){: target='_blank'}
+[ 11 ](/data/sdw-data/P011.jpg){: target='\_blank'}
 
 
 
@@ -451,7 +451,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 12 ](/data/sdw-data/P012.jpg){: target='_blank'}
+[ 12 ](/data/sdw-data/P012.jpg){: target='\_blank'}
 
 
 
@@ -489,7 +489,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 13 ](/data/sdw-data/P013.jpg){: target='_blank'}
+[ 13 ](/data/sdw-data/P013.jpg){: target='\_blank'}
 
 
 
@@ -548,7 +548,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 14 ](/data/sdw-data/P014.jpg){: target='_blank'}
+[ 14 ](/data/sdw-data/P014.jpg){: target='\_blank'}
 
 
 - {:.speaker} Toussaint  (d’une voix tonnante)
@@ -595,7 +595,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 15 ](/data/sdw-data/P015.jpg){: target='_blank'}
+[ 15 ](/data/sdw-data/P015.jpg){: target='\_blank'}
 
 
 
@@ -613,7 +613,7 @@ bears only a remote relationship to the original.
 <hr>
 
 
-[ 16 ](/data/sdw-data/P016.jpg){: target='_blank'}
+[ 16 ](/data/sdw-data/P016.jpg){: target='\_blank'}
 
 
 
@@ -645,7 +645,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 17 ](/data/sdw-data/P017.jpg){: target='_blank'}
+[ 17 ](/data/sdw-data/P017.jpg){: target='\_blank'}
 
 
 
@@ -696,7 +696,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 18 ](/data/sdw-data/P018.jpg){: target='_blank'}
+[ 18 ](/data/sdw-data/P018.jpg){: target='\_blank'}
 
 
 
@@ -757,7 +757,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 19 ](/data/sdw-data/P019.jpg){: target='_blank'}
+[ 19 ](/data/sdw-data/P019.jpg){: target='\_blank'}
 
 
 
@@ -815,7 +815,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 20 ](/data/sdw-data/P020.jpg){: target='_blank'}
+[ 20 ](/data/sdw-data/P020.jpg){: target='\_blank'}
 
 
 
@@ -856,7 +856,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 21 ](/data/sdw-data/P021.jpg){: target='_blank'}
+[ 21 ](/data/sdw-data/P021.jpg){: target='\_blank'}
 
 
 
@@ -899,7 +899,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 22 ](/data/sdw-data/P022.jpg){: target='_blank'}
+[ 22 ](/data/sdw-data/P022.jpg){: target='\_blank'}
 
 
 
@@ -918,7 +918,7 @@ A ce moment <span class="delete">la populace nègre envahit</span><span class="a
 <hr>
 
 
-[ 23 ](/data/sdw-data/P023.jpg){: target='_blank'}
+[ 23 ](/data/sdw-data/P023.jpg){: target='\_blank'}
 
 
 
@@ -974,7 +974,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 24 ](/data/sdw-data/P024.jpg){: target='_blank'}
+[ 24 ](/data/sdw-data/P024.jpg){: target='\_blank'}
 
 
 
@@ -1011,7 +1011,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 25 ](/data/sdw-data/P025.jpg){: target='_blank'}
+[ 25 ](/data/sdw-data/P025.jpg){: target='\_blank'}
 
 
 - {:.speaker} Toussaint <span class="delete"> (l'arrêtant.)</span>
@@ -1045,7 +1045,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 26 ](/data/sdw-data/P026.jpg){: target='_blank'}
+[ 26 ](/data/sdw-data/P026.jpg){: target='\_blank'}
 
 
 
@@ -1096,7 +1096,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 27 ](/data/sdw-data/P027.jpg){: target='_blank'}
+[ 27 ](/data/sdw-data/P027.jpg){: target='\_blank'}
 
 
 
@@ -1141,7 +1141,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 28 ](/data/sdw-data/P028.jpg){: target='_blank'}
+[ 28 ](/data/sdw-data/P028.jpg){: target='\_blank'}
 
 
 
@@ -1175,7 +1175,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 29 ](/data/sdw-data/P029.jpg){: target='_blank'}
+[ 29 ](/data/sdw-data/P029.jpg){: target='\_blank'}
 
 
 
@@ -1226,7 +1226,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 30 ](/data/sdw-data/P030.jpg){: target='_blank'}
+[ 30 ](/data/sdw-data/P030.jpg){: target='\_blank'}
 
 
 
@@ -1252,7 +1252,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 31 ](/data/sdw-data/P031.jpg){: target='_blank'}
+[ 31 ](/data/sdw-data/P031.jpg){: target='\_blank'}
 
 
 
@@ -1312,7 +1312,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 32 ](/data/sdw-data/P032.jpg){: target='_blank'}
+[ 32 ](/data/sdw-data/P032.jpg){: target='\_blank'}
 
 
 
@@ -1361,7 +1361,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 33 ](/data/sdw-data/P033.jpg){: target='_blank'}
+[ 33 ](/data/sdw-data/P033.jpg){: target='\_blank'}
 
 
 
@@ -1405,7 +1405,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 34 ](/data/sdw-data/P034.jpg){: target='_blank'}
+[ 34 ](/data/sdw-data/P034.jpg){: target='\_blank'}
 
 
 
@@ -1452,7 +1452,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 35 ](/data/sdw-data/P035.jpg){: target='_blank'}
+[ 35 ](/data/sdw-data/P035.jpg){: target='\_blank'}
 
 
 
@@ -1493,7 +1493,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 36 ](/data/sdw-data/P036.jpg){: target='_blank'}
+[ 36 ](/data/sdw-data/P036.jpg){: target='\_blank'}
 
 
 
@@ -1527,7 +1527,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 37 ](/data/sdw-data/P037.jpg){: target='_blank'}
+[ 37 ](/data/sdw-data/P037.jpg){: target='\_blank'}
 
 
 
@@ -1576,7 +1576,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 38 ](/data/sdw-data/P038.jpg){: target='_blank'}
+[ 38 ](/data/sdw-data/P038.jpg){: target='\_blank'}
 
 
 
@@ -1627,7 +1627,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 39 ](/data/sdw-data/P039.jpg){: target='_blank'}
+[ 39 ](/data/sdw-data/P039.jpg){: target='\_blank'}
 
 
 - {:.speaker} La récitante  (dolente)
@@ -1670,7 +1670,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 40 ](/data/sdw-data/P040.jpg){: target='_blank'}
+[ 40 ](/data/sdw-data/P040.jpg){: target='\_blank'}
 
 
 
@@ -1693,7 +1693,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 41 ](/data/sdw-data/P041.jpg){: target='_blank'}
+[ 41 ](/data/sdw-data/P041.jpg){: target='\_blank'}
 
 
 - {:.centered} <span class="delete">Acte III.</span><span class="add  ">Acte II</span>
@@ -1741,7 +1741,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 42 ](/data/sdw-data/P042.jpg){: target='_blank'}
+[ 42 ](/data/sdw-data/P042.jpg){: target='\_blank'}
 
 
 - {:.centered} <span class="delete">ACTE II</span>
@@ -1793,7 +1793,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 43 ](/data/sdw-data/P043.jpg){: target='_blank'}
+[ 43 ](/data/sdw-data/P043.jpg){: target='\_blank'}
 
 
 
@@ -1845,7 +1845,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 44 ](/data/sdw-data/P044.jpg){: target='_blank'}
+[ 44 ](/data/sdw-data/P044.jpg){: target='\_blank'}
 
 
 - {:.speaker} Chantres  braillant.
@@ -1898,7 +1898,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 45 ](/data/sdw-data/P045.jpg){: target='_blank'}
+[ 45 ](/data/sdw-data/P045.jpg){: target='\_blank'}
 
 
 
@@ -1961,7 +1961,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 46 ](/data/sdw-data/P046.jpg){: target='_blank'}
+[ 46 ](/data/sdw-data/P046.jpg){: target='\_blank'}
 
 - est-ce pour vous voir que les Pyramides
 - se sont
@@ -2007,7 +2007,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 47 ](/data/sdw-data/P047.jpg){: target='_blank'}
+[ 47 ](/data/sdw-data/P047.jpg){: target='\_blank'}
 
 
 
@@ -2061,7 +2061,7 @@ A Saint-Domingue devant une riche maison coloniale style 18e<br>siècle, des jeu
 <hr>
 
 
-[ 48-49 ](/data/sdw-data/P048-49.jpg){: target='_blank'}
+[ 48-49 ](/data/sdw-data/P048-49.jpg){: target='\_blank'}
 
 
 - {:.centered} <span class="delete">ACTE II</span>
@@ -2112,7 +2112,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 50 ](/data/sdw-data/P050.jpg){: target='_blank'}
+[ 50 ](/data/sdw-data/P050.jpg){: target='\_blank'}
 
 
 
@@ -2149,7 +2149,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 51 ](/data/sdw-data/P051.jpg){: target='_blank'}
+[ 51 ](/data/sdw-data/P051.jpg){: target='\_blank'}
 
 
 
@@ -2196,7 +2196,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 52 ](/data/sdw-data/P052.jpg){: target='_blank'}
+[ 52 ](/data/sdw-data/P052.jpg){: target='\_blank'}
 
 - nénuphars.
 - {:.indent-2} <span class="add margin">&nbsp;|&nbsp;<span class="delete">on</span>&nbsp;|&nbsp;</span><span class="delete">J'ai muselé </span><span class="add #r_i above">On muselerait </span>la mer en écoutant peiner les maraichers vers la croupe
@@ -2238,7 +2238,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 53 ](/data/sdw-data/P053.jpg){: target='_blank'}
+[ 53 ](/data/sdw-data/P053.jpg){: target='\_blank'}
 
 - Les hippopotames soufflent leurs mauvais rêves
 - les Rhinocéros chargent dans le vent trop vite grandi
@@ -2274,7 +2274,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 54 ](/data/sdw-data/P054.jpg){: target='_blank'}
+[ 54 ](/data/sdw-data/P054.jpg){: target='\_blank'}
 
 
 
@@ -2336,7 +2336,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 55 ](/data/sdw-data/P055.jpg){: target='_blank'}
+[ 55 ](/data/sdw-data/P055.jpg){: target='\_blank'}
 
 
 
@@ -2384,7 +2384,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 56 ](/data/sdw-data/P056.jpg){: target='_blank'}
+[ 56 ](/data/sdw-data/P056.jpg){: target='\_blank'}
 
 
 
@@ -2432,7 +2432,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 57 ](/data/sdw-data/P057.jpg){: target='_blank'}
+[ 57 ](/data/sdw-data/P057.jpg){: target='\_blank'}
 
 
 
@@ -2483,7 +2483,7 @@ Une rue du Cap.
 <hr>
 
 
-[ 58 ](/data/sdw-data/P058.jpg){: target='_blank'}
+[ 58 ](/data/sdw-data/P058.jpg){: target='\_blank'}
 
 
 
@@ -2530,7 +2530,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 59 ](/data/sdw-data/P059.jpg){: target='_blank'}
+[ 59 ](/data/sdw-data/P059.jpg){: target='\_blank'}
 
 
 
@@ -2554,7 +2554,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 60 ](/data/sdw-data/P060.jpg){: target='_blank'}
+[ 60 ](/data/sdw-data/P060.jpg){: target='\_blank'}
 
 
 
@@ -2611,7 +2611,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 61 ](/data/sdw-data/P061.jpg){: target='_blank'}
+[ 61 ](/data/sdw-data/P061.jpg){: target='\_blank'}
 
 
 
@@ -2680,7 +2680,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 62 ](/data/sdw-data/P062.jpg){: target='_blank'}
+[ 62 ](/data/sdw-data/P062.jpg){: target='\_blank'}
 
 - toutes mes idées transformées en brûlots
 - toutes mes pensées en feu grégeois
@@ -2737,7 +2737,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 63 ](/data/sdw-data/P063.jpg){: target='_blank'}
+[ 63 ](/data/sdw-data/P063.jpg){: target='\_blank'}
 
 - mais ils avancent...
 - les yeux crevés ? les mains coupées comme un <span class="delete">maroon?</span><span class="add #r_i above">marron?</span>
@@ -2792,7 +2792,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 64 ](/data/sdw-data/P064.jpg){: target='_blank'}
+[ 64 ](/data/sdw-data/P064.jpg){: target='\_blank'}
 
 - et bientôt les jararacas prirent position au haut du paysage
 - Alors la route s'étonna d'étranges désastres
@@ -2832,7 +2832,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 65 ](/data/sdw-data/P065.jpg){: target='_blank'}
+[ 65 ](/data/sdw-data/P065.jpg){: target='\_blank'}
 
 - Rois mages
 - Yeux protégés par 3 rangs de paupières <span class="delete">ganflées</span><span class="add #r_i above">gauffrées</span>
@@ -2874,7 +2874,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 66 ](/data/sdw-data/P066.jpg){: target='_blank'}
+[ 66 ](/data/sdw-data/P066.jpg){: target='\_blank'}
 
 - {:.prose} d'un grand troupeau et j'enfonce à mijambes dans les hautes herbes du sang.<br>pauvres dieux faces débonnaires , bras trop longs<span class="add #u_m inline">,</span> chassés d'un paradis de<br>rhum - paumes cendreuses visitées de chauves souris et de meutes somnambules-<br>la décomposition cadévérique allume toutes ses bougies de vers et d'herbes
 - Montez fusées, éclairez le désastre...
@@ -2919,7 +2919,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 67 ](/data/sdw-data/P067.jpg){: target='_blank'}
+[ 67 ](/data/sdw-data/P067.jpg){: target='\_blank'}
 
 - très haut défi
 - de l'oeil fermenté des <span class="delete">nafrages</span><span class="add blue-ink above">naufrages</span>.
@@ -2975,7 +2975,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 68 ](/data/sdw-data/P068.jpg){: target='_blank'}
+[ 68 ](/data/sdw-data/P068.jpg){: target='\_blank'}
 
 - blocs d'injustice monstrueusement agencés
 - villes radieuses
@@ -3020,7 +3020,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 69 ](/data/sdw-data/P069.jpg){: target='_blank'}
+[ 69 ](/data/sdw-data/P069.jpg){: target='\_blank'}
 
 
 
@@ -3090,7 +3090,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 70 ](/data/sdw-data/P070.jpg){: target='_blank'}
+[ 70 ](/data/sdw-data/P070.jpg){: target='\_blank'}
 
 
 
@@ -3165,7 +3165,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 71 ](/data/sdw-data/P071.jpg){: target='_blank'}
+[ 71 ](/data/sdw-data/P071.jpg){: target='\_blank'}
 
 
 
@@ -3242,7 +3242,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 72 ](/data/sdw-data/P072.jpg){: target='_blank'}
+[ 72 ](/data/sdw-data/P072.jpg){: target='\_blank'}
 
 
 
@@ -3312,7 +3312,7 @@ A ce moment des tams-tams éclatent frénétiques, couvrent les voix.
 <hr>
 
 
-[ 73 ](/data/sdw-data/P073.jpg){: target='_blank'}
+[ 73 ](/data/sdw-data/P073.jpg){: target='\_blank'}
 
 
 - {:.centered} Acte III
@@ -3360,7 +3360,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 74 ](/data/sdw-data/P074.jpg){: target='_blank'}
+[ 74 ](/data/sdw-data/P074.jpg){: target='\_blank'}
 
 - {:.prose .prose-indent} Hé bien, je dis qu'il est une justice suprème<span class="delete">,</span><span class="add blue-ink above"> et</span> c'est elle qui refait au<br>jourd'hui du général Tou<span class="add  above">s</span>saint Louverture, le vieux Toussaint, l'esclave Tous<br>saint, triste chose oubliée aux latrines de l'histoire, un nègre pouilleux,<br>un nègre dégringolé...
 - {:.prose .prose-indent} Toussaint, Toussaint, la race du Cham ne secouera pas la malédiction des<br>jours sanglotés.
@@ -3418,7 +3418,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 75 ](/data/sdw-data/P075.jpg){: target='_blank'}
+[ 75 ](/data/sdw-data/P075.jpg){: target='\_blank'}
 
 
 
@@ -3475,7 +3475,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 76 ](/data/sdw-data/P076.jpg){: target='_blank'}
+[ 76 ](/data/sdw-data/P076.jpg){: target='\_blank'}
 
 
 
@@ -3518,7 +3518,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 77 ](/data/sdw-data/P077.jpg){: target='_blank'}
+[ 77 ](/data/sdw-data/P077.jpg){: target='\_blank'}
 
 - mon corps&nbsp;&nbsp;mon corps
 - brancard je ne jetterai pas le blessé aux chiens de l'aubépine
@@ -3528,7 +3528,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 78 ](/data/sdw-data/P078.jpg){: target='_blank'}
+[ 78 ](/data/sdw-data/P078.jpg){: target='\_blank'}
 
 
 
@@ -3585,7 +3585,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 79 ](/data/sdw-data/P079.jpg){: target='_blank'}
+[ 79 ](/data/sdw-data/P079.jpg){: target='\_blank'}
 
 
 
@@ -3635,7 +3635,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 80 ](/data/sdw-data/P080.jpg){: target='_blank'}
+[ 80 ](/data/sdw-data/P080.jpg){: target='\_blank'}
 
 
 
@@ -3712,7 +3712,7 @@ En France. Une prison dans le Jura.
 <hr>
 
 
-[ 81 ](/data/sdw-data/P081.jpg){: target='_blank'}
+[ 81 ](/data/sdw-data/P081.jpg){: target='\_blank'}
 
 
 
@@ -3758,7 +3758,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 82 ](/data/sdw-data/P082.jpg){: target='_blank'}
+[ 82 ](/data/sdw-data/P082.jpg){: target='\_blank'}
 
 
 
@@ -3812,7 +3812,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 83 ](/data/sdw-data/P083.jpg){: target='_blank'}
+[ 83 ](/data/sdw-data/P083.jpg){: target='\_blank'}
 
 
 
@@ -3869,7 +3869,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 84 ](/data/sdw-data/P084.jpg){: target='_blank'}
+[ 84 ](/data/sdw-data/P084.jpg){: target='\_blank'}
 
 - et leur bruit et leur harmonie et leur mesure
 - ce qu'il a fallu de ma nervosité
@@ -3915,7 +3915,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 85 ](/data/sdw-data/P085.jpg){: target='_blank'}
+[ 85 ](/data/sdw-data/P085.jpg){: target='\_blank'}
 
 - <span class="delete">ses</span> du père moribond.
 - Mon fils, à toi mes trésors, à toi mes bandes
@@ -3953,7 +3953,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 86 ](/data/sdw-data/P086.jpg){: target='_blank'}
+[ 86 ](/data/sdw-data/P086.jpg){: target='\_blank'}
 
 - {:.prose} - et cet homme <span class="delete">spécualit</span><span class="add light-pencil above">spéculait</span> sur le berceau de mon fils- un berceau de garde-<br>chiourme-
 - {:.prose} et je ne dis rien, mais une colère me saisissait et une envie d'étrangler<br>cet homme, et une résolution était prises dans mon coeur.<span class="add light-pencil inline">..</span>
@@ -3983,7 +3983,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 87 ](/data/sdw-data/P087.jpg){: target='_blank'}
+[ 87 ](/data/sdw-data/P087.jpg){: target='\_blank'}
 
 
 
@@ -4028,7 +4028,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 88 ](/data/sdw-data/P088.jpg){: target='_blank'}
+[ 88 ](/data/sdw-data/P088.jpg){: target='\_blank'}
 
 - {:.prose} faites d'oreilles coupées qui glissent sur le couchant. Va-t-en, fils, je suis<br>seul et la mer est une manille à mon pied de forçat.
 
@@ -4069,7 +4069,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 89 ](/data/sdw-data/P089.jpg){: target='_blank'}
+[ 89 ](/data/sdw-data/P089.jpg){: target='\_blank'}
 
 
 
@@ -4101,7 +4101,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 90 ](/data/sdw-data/P090.jpg){: target='_blank'}
+[ 90 ](/data/sdw-data/P090.jpg){: target='\_blank'}
 
 - {:.prose} tion, non la station, le retrait qui est le contraire du progrès, l'être <span class="delete">p</span><br>le plus existant, celui qui se pose en s'opposant, l'être le plus nécessaire, le<br><span class="delete">contraree</span><span class="add blue-ink above">contraire</span> de l'expansion de la propension de la contagion, croc-en jambe, croc-<br>en jambe
 - celui qui à un certain moment rend caduc caduc, caduc
@@ -4151,7 +4151,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 91 ](/data/sdw-data/P091.jpg){: target='_blank'}
+[ 91 ](/data/sdw-data/P091.jpg){: target='\_blank'}
 
 
 
@@ -4204,7 +4204,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 92 ](/data/sdw-data/P092.jpg){: target='_blank'}
+[ 92 ](/data/sdw-data/P092.jpg){: target='\_blank'}
 
 
 
@@ -4258,7 +4258,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 93 ](/data/sdw-data/P093.jpg){: target='_blank'}
+[ 93 ](/data/sdw-data/P093.jpg){: target='\_blank'}
 
 - au secours! au secours! au meurtre!
 - ils ont tué le soleil! il n'y a plus de soleil! il ne reste plus que les taureaux
@@ -4294,7 +4294,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 94 ](/data/sdw-data/P094.jpg){: target='_blank'}
+[ 94 ](/data/sdw-data/P094.jpg){: target='\_blank'}
 
 - Comme un agouti. Comme une mangouste.
 - Qui a fait cela<span class="add  ">?</span> Vous me demandez qui a fait cela!
@@ -4350,7 +4350,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 95 ](/data/sdw-data/P095.jpg){: target='_blank'}
+[ 95 ](/data/sdw-data/P095.jpg){: target='\_blank'}
 
 
 
@@ -4387,7 +4387,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 96 ](/data/sdw-data/P096.jpg){: target='_blank'}
+[ 96 ](/data/sdw-data/P096.jpg){: target='\_blank'}
 
 
 
@@ -4459,7 +4459,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 97 ](/data/sdw-data/P097.jpg){: target='_blank'}
+[ 97 ](/data/sdw-data/P097.jpg){: target='\_blank'}
 
 
 
@@ -4510,7 +4510,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 98 ](/data/sdw-data/P098.jpg){: target='_blank'}
+[ 98 ](/data/sdw-data/P098.jpg){: target='\_blank'}
 
 
 
@@ -4574,7 +4574,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 99 ](/data/sdw-data/P099.jpg){: target='_blank'}
+[ 99 ](/data/sdw-data/P099.jpg){: target='\_blank'}
 
 
 
@@ -4602,7 +4602,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 100 ](/data/sdw-data/P100.jpg){: target='_blank'}
+[ 100 ](/data/sdw-data/P100.jpg){: target='\_blank'}
 
 - bres à pain, de sucreries, de bagasse harcelée de moucherons....
 - Terre ma mère j'ai compris votre langage de cape et d'épée
@@ -4651,7 +4651,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 101 ](/data/sdw-data/P101.jpg){: target='_blank'}
+[ 101 ](/data/sdw-data/P101.jpg){: target='\_blank'}
 
 
 
@@ -4715,7 +4715,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 102 ](/data/sdw-data/P102.jpg){: target='_blank'}
+[ 102 ](/data/sdw-data/P102.jpg){: target='\_blank'}
 
 
 
@@ -4767,7 +4767,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 103 ](/data/sdw-data/P103.jpg){: target='_blank'}
+[ 103 ](/data/sdw-data/P103.jpg){: target='\_blank'}
 
 - le meilleur est en vous et non hors de vous
 - lâchez ces armes,
@@ -4820,7 +4820,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 104 ](/data/sdw-data/P104.jpg){: target='_blank'}
+[ 104 ](/data/sdw-data/P104.jpg){: target='\_blank'}
 
 - mais aux salles aussi belles que le mensonge qui n'est pas autre chose que
 - l'amour du voyage
@@ -4861,7 +4861,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 105 ](/data/sdw-data/P105.jpg){: target='_blank'}
+[ 105 ](/data/sdw-data/P105.jpg){: target='\_blank'}
 
 - aux mains de champs de charpie et de fonio
 - douce
@@ -4889,7 +4889,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 106 ](/data/sdw-data/P106.jpg){: target='_blank'}
+[ 106 ](/data/sdw-data/P106.jpg){: target='\_blank'}
 
 
 
@@ -4948,7 +4948,7 @@ Entrent des prètres.
 <hr>
 
 
-[ 107 ](/data/sdw-data/P107.jpg){: target='_blank'}
+[ 107 ](/data/sdw-data/P107.jpg){: target='\_blank'}
 
 
 

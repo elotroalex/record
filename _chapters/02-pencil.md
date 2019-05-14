@@ -377,7 +377,7 @@ In the next chapters we will study Césaire's migrant textuality prior to the fi
 
 [^35]: The song is mockingly reprized on page `P1.15` (35) by the vengeful crowds of slaves.
 
-[^36]: To listen to the song and learn more about its history, you can visit the excellent digital archive [Du Temps des cerises aux Feuilles mortes](http://bit.ly/hhmApD). To simply read the lyrics, follow [this link](https://genius.com/Mayol-a-la-martinique-lyrics).
+[^36]: To listen to the song and learn more about its history, you can visit the excellent digital archive [Du Temps des cerises aux Feuilles mortes](http://www.dutempsdescerisesauxfeuillesmortes.net/fiches_bio/mayol/repertoire/rep_mayol_a.htm#martinique). To simply read the lyrics, follow [this link](https://genius.com/Mayol-a-la-martinique-lyrics).
 
 [^37]: \[As she speaks, all of it is drawn on the screen\]
 

@@ -240,6 +240,7 @@ Finally, the `Page` pagination adopts most of the numbering of `P6`, with some f
 	<li>---. <i>Poésie, Théâtre, Essais Et Discours</i>. Ed. by Albert-James Arnold. Paris: CNRS, 2014. Print. Planète Libre.</li>
 	<li>Césaire, Suzanne. “Léo Frobenius Et Le Problème De La Civilisation.” <i>Tropiques</i> 1 (1941): 27–32. Print.</li>
 	<li>Gil, Alex. “Bridging the Middle Passage: The Textual (R)Evolution of Césaire’s Cahier d’Un Retour Au Pays Natal.” <i>Canadian Review of Comparative Literature/Revue Canadienne de Littérature Comparée</i> 38.1 (2011): n. pag. Web.</li>
+	<li>---. “La découverte d’un tapuscrit d’Et les chiens se taisaient.” <i>Aimé Césaire à l’œuvre: Actes du colloque international</i>, sous la direction de Marc Cheymol et Philippe Ollé-Laprune. Paris: Editions des archives contemporaines, 2010.</li>
 	<li>Glissant, Édouard. Interview with Celia Britton. “Souvenirs Des Années 40 à La Martinique.” <i>L’Esprit Créateur</i> 47.1 (2007): 96–104. Web.</li>
 	<li>Herzberg, Julia P. “Wifredo Lam: The Development of a Style and a World View.” <i>Wifredo Lam and His Contemporaries</i>. Ed. by Maria R. Balderrama. New York: The Studio Museum in Harlem, 1993. Print.</li>
 	<li>Jennings, Eric T. <i>Vichy in the Tropics: Petain’s National Revolution in Madagascar, Guadeloupe, and Indochina, 1940-44</i>. Stanford University Press, 2004. Print.</li>
