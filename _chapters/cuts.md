@@ -1,0 +1,116 @@
+As Kora Véron argues convincingly in "Césaire at the Crossroads in Haiti"
+
+In addition to Breton, who maintained his network of surrealists from his apartment in New York, two other networks contributed to Césaire’s higher profile in the world of letters. 
+
+
+The most surprising news conveyed by Seyrig was that, according to Etiemble, André Gide wanted to publish a text by Césaire titled Toussaint Louverture in L’Arche. 
+
+1. 
+
+A close study of the textual evidence and Césaire’s editorial adventures during the war period moves us away from questions of an essential Césaire—questions that are strictly speaking futile—to more pertinent ones about translation, migration and assimilation to particular editorial and textual environments—driven not by the impulse to resolve the question of affiliation, but to understand the conditions that made it possible for Césaire to become fragmented in the first place. 
+
+Even if I persist—probably with you—in the decades' old call for a decentralization of the "author function" in bibliography and literary history, we still must strive to understand how the name of the author has functioned historically, then and now, to organize, after the fact, a diffuse mass of discursive (read textual) events. If that diffuse mass of texts, always in a state of  re-organization, constitutes the ground out of which the author function sprouts, by extension, other organizational principles, and with them other functions become possible to accompany the praise of our household gods. 
+
+Of the possible organizational principles we could muster, I am interested here in the bibliographic function and the various naming schemes for textual segments that have helped us historically to organize textual events: the paragraph, the page, the poem, the book, etc.[^2] Furthermore, this interest comes from the overall purpose of this not-book: to outline a theory of the scholarly record by following the historical traces of one small set of texts. 
+
+
+Once we consider that the names of texts accompany the names of authors across different, and semi-overlapping geographies and temporalities, we are not too far from realizing that authors and texts function differently according to their environments. The symbolic constellations radiating from the notions of assimilation and counter-assimilation are apt to describe these processes.
+
+2. The study of the textual situation, of the variations and textual blocks that decompose and recompose *Les Armes miraculeuses,* including the first published fragments of *Et les chiens se taisaient*, provides us then with an excellent laboratory to test the idea that textual migration or transposition across different environments is invariably accompanied by a process of *adaptation,* both Darwinian by simple analogy to the *ludo magister* played between species and environments, text and context, and as an explosion of the literary variety, usually reserved for generic shifts and trans-mediatic phenomena.
+
+3. To follow D.F. McKenzie's call to collapse "the border between bibliography and textual criticism on the one hand and literary criticism and literary history on the other" (23), and to take to heart the notion that text is at heart a mediated phenomenon , forces us in a sense to work at the interstices of many disciplines, and privilege by default the relational over the ontological. My notion of assimilation, McKenzian in essence, blurs the boundaries between assimilation understood as a textual phenomenon (e.g. shifts in genre, shifts in meaning attendant to transpositions, etc.) and assimilation understood as a historical phenomenon (e.g. shifts in readings attendant to different production loci). Adaptation unbound becomes the quintessential form of textual relation, tracing the paths as we explore the textual condition, without necessarily forcing a choice between the will to taxonomy and attention to material reality, and/or between a-temporal and geo-temporal relationships.
+
+As I've been suggesting thus far, I recognize two broad environments where adaptation takes place under similar topological conditions: *Textual* and *editorial*. By *textual environment,* I mean simply the aggregate of addressable and embodied textual units (i.e a poem in a journal, a stanza in a poem, a line in a stanza, etc.). Potentially, all real texts can be remediated to become part of a larger text *ad infinitum.* In other words, texts are not only contained by material boundaries (i.e. binding, pages, screens, etc.), they can also be contained by other texts. This rather obvious observation has several peculiar implications if the concept of adaptation is to remain useful at all. In brief, it is in the nature of text to be both species and environment, depending on how we address it.
+
+In later chapters, we will explore textual environments, the problem of addressability and the fundamental auto-poetic practice of transposition in more detail. Furthermore, I will expand on the distinction between environment and text—the scroll and the lego, as I call them—with the understanding that the one can always become the other. In the meantime, we can work with the provisional notion that a semantically coherent textual sequence is to be considered *a block of text* or *lego* when we find two different states of that sequence with different bordering texts, or *contexts*. Therefore, when we say that a given block *adapts* to a new textual environment, we mean it informs and is informed by its new context. These same blocks, sometimes carrying an identity, sometimes anonymous, adapt also to editorial environments.
+
+By *editorial environment* I mean three things: first, the set of pressures born from the different publishing houses, peers and potential audiences; second, the material constraints of the medium; and third, the exigencies of genre-specific editorial projects.[^4] In our particular case, the text of the typescript is not only transformed to appeal to a new audience, it moves farther away from a potential local stage to become an integral part of a Gallimard collection of poems, *Les Armes miraculeuses:* different audiences, different genres, different material circumstances.[^5]
+
+As I suggested above, at the most fundamental level, both of these environments, editorial and textual, entail adaptation. A textual sequence, for example, can adapt to a new venue or a new genre as much as it can adapt to another textual sequence. But the kinship goes beyond simple isomorphism: the one is not a metaphor for the other, nor is the fact that they provoke graphable topologies enough. Inasmuch as texts do not exist outside of material reality, and inasmuch as that material reality is determined by particular editorial considerations and projects, the two are bound together procedurally. Instead of claiming direct causal links between one and the other, though—a very difficult case to make either way—I argue that the editorial and the textual participate in a mutual process where both perpetually feed each other. Along these lines, in this chapter I explore the hypothesis that the manipulation of textual fragments that characterizes Césaire’s authorial practice from 1941 to 1946 is informed in several important ways by the particular dynamics of a set of francophone editorial environments of the World War II period and vice-versa.
+
+---
+
+Partly in order to further refine my use of the notion, partly in order to distance myself from these approaches, I feel the need to address other disciplinary uses of the notion of adaptation briefly before returning to the study of the Césaire materials.[^6] The history of adaptationist approaches, taking their cue from biology and exclusively devoted to literature, can be dated back at least as far as Darwin’s contemporary, Hippolyte Taine. Many variations on the theme have surfaced since, none truly achieving academic prominence until recently. Two contemporary schools of literary thought have made Darwin relevant again within the Humanities.
+
+The first of these schools, "Literary Darwinism," exemplified by the work of Carroll, Cooke, Easterling, et al., argues for a causation model that aims to link literary production to cognitive processes understood under the frame of the materialist and evolutionary theory of mind (Carroll). Not only does this form of thinking inherit, without resolving, all the problems of the intentionalist school, albeit from a “scientific” point of view, it ultimately fails to explain the meaningful relationships that texts have with each other and the editorial circumstances of their production. Although motive or intention plays a role in any artistic endeavor, any theory of literature would be incomplete without an understanding of the networks—human, material and textual—that shape and give meaning to it. In this regard, the insights of Action-Network Theory—Callon, Latour, et al—, which assigns agency to nonhumans and humans alike, can be an appropriate corrective for the yearnings to limit the study of literature to biological imperatives (Latour). Although I don’t resort to ANT directly in this study, the reader will notice some overlap between our conceptual apparatuses.
+
+The second of these schools, and perhaps the most influential today, we could call somewhat loosely the "distant-reading" school, exemplified by the work of Franco Moretti, the Stanford Working Group, the Genre Evolution Project and others. The well-known aims of this school, to distance analysis from the individual text and vet large collections using a medley of statistical approaches and visual rhetoric, share the use of biological and environmental categories as analogies. Although we have much to learn from these "macro-economic" approaches, as Matt Jockers recently re-baptized them (Jockers), the current models on offer pose several problems, all deserving critical attention beyond the scope of the present work. I will limit my critique to a few observations.
+
+Perhaps the most famous example of the type of work carried under the banner of distant-reading is Moretti's study of literary devices in detective novels coupled with data about the literary market, in which he argues that the genre developed to favor certain devices that were rewarded with purchases by the reading public (72-76). Moretti’s use of the Darwinian model of adaptation foregrounds the notion of the survival of the fittest. This is the first point of departure from my model, in which texts do not adapt to new environments in order to survive. Instead, I make the more radical claim that texts adapt by default. Put differently, no text (or literary device) ever *survives* a re-contextualization intact, and vice-versa, no context remains intact.
+
+Because texts are actualized in topological spaces, they can be exactly located in fields where all adjacent points to it are immutable. In other words, a copy of *Et les armes miraculeuses* radiates a series of adjacent points, some pointing to the textual fragments from which it is assembled, some to the specific geographical coordinates of its appearance, some to the other copies, some to the particular readings which it engendered, and so on and so forth. Whether any given adaptation is a “success” or a “failure” is just one vector among many to be considered.
+
+More importantly, the main problem with the Moretti approach is the disregard for the determining role that materiality plays in the production of meaning, literary devices included. Paradoxically, at the moment when the distant-readers turn their lenses on large bibliographies to draw their conclusions, bibliographic difference is lodged into an artificial *ceteris paribus,* as texts are divested of their rich contexts purely as linguistic phenomena. Although I explore a purely string-based approach in my next chapter, I keep coming back to the material reality of the documents at hand. Studies completely divorced from materiality will not do when we hold as a self-evident truth that all text is embodied.
+
+Paradoxically, as attention is reoriented towards literary markets and Culture writ-large in the Moretti approach, the complex interactions between author, editors and audience are flattened to sustain the fiction of a discrete totality.[^7] Should we not prefer then the working notion of open environments writ-small, in which commerce plays one role among many, such as ideology, material constraints, accidents of history, etc.? More important still, as we will see shortly in the case of Césaire’s editorial vagabondage, markets and cultures don’t take kindly to borders.
+
+I don't mean to say that the study of literary markets, lemmas, devices and genre is useless. I would neither dismiss quantitative methodologies or visual rhetoric. Quite the contrary, what I do propose is to actively oscillate at all distances from literature, close and distant, broadly and focused, anchors aweigh on bibliographic reality. Let us call this tempered opportunism, *oscillatory materialism*. The present work hopes to demonstrate by example that we can be all the more rigorous, and our explanations all the more vital, when we stop limiting ourselves to fixed-distance models. [Cite Underwood] Meanwhile, the one and the many that is literature remains our subject of conversation.
+
+3. More specifically, I propose here that we understand textual transformation as a material process [cite Hayles] determined by the assimilation of addressable texts to different *editorial* and *textual* environments, and in turn, the counter-assimilation of those environments to those texts, rather than as a shift in what we would call a coherent poetics born out of the author's purported artistic integrity or journey of self-discovery. In later chapters this simple methodological gesture—the accounting of assimilations and counter-assimilations—will yield some strange results when we bring our full attention to our current hybrid environments—electronic and print—where Césaire and others must now face our mechanical readings and the historical transition from editorial to infrastructural contexts.
+
+4. {% include image.html
+    img="fig-r.jpg"
+    full="fig-r-full.jpg"
+    title="shuffled once"
+    caption="figure r \| shuffled once" %}
+
+In this visualization, *Colombes* is represented by the small column in orange; *Tombeau* by the small column in purple. The 3 longer columns offer different representations of *Les Armes miraculeuses*. From left to right: the first showing only the poems from *Colombes,* the second those from *Tombeau*, and finally, both combined." [The static graphs in this mid-stage draft are not satisfying to me and will be replaced by interactive D3 representations soon]. 
+
+The isomorphism is not coincidental, and goes to show we can collapse virtual and real bibliographic and codicological taxonomies to the more encompassing abstract concept of the block of text or *lego*, as I call it, and that studies of composition, transmission and transposition share certain characteristics easily visualized in *legograms*.
+
+5. {% include image.html
+    img="fig-s.jpg"
+    title="reversal"
+    caption="figure s \| reversal" %}
+
+6. A legogram distinguishes actual texts from hypotheses, blocks born out of comparisons, placeholders, texts mentioned in letters, only through the use of levels of transparency. Otherwise, they are all equivalent nodes in textual fields.
+
+7. {% include image.html
+    img="fig-t.jpg"
+    title="poème 1"
+    caption="figure s \| 'Poème' legogram" %}
+
+[^4]: 
+	In this sense, we benefit from Jonathan Culler's recent revitalization and reevaluation, in his article "Lyric, History, and Genre," of Ralph Cohen's relational and historicist theory of genre. For Culler, the stakes are to be found at the intersection of purely theoretical (which Cohen rejects) and purely historicist approaches. Culler's solution to the impassé is to acknowledge the indispensible role of both in a trans-temporal praxis:
+
+	> If one avoids the temptation to separate generic categories into the theoretical and the empirical but insists that genres are always historical yet based on some sort of theoretical rationale, they are more defensible as critical categories, essential to the understanding both of literature as a social institution and of the individual works that take on meaning through their relations to generic categories. (881)
+
+	While Cohen already located meaning as the precipitate of actual texts in relation to classes of text and texts in relation to human actors, Culler recuperates "logical" (read ideal) notions of genre as part of the environment in which those relations are played out. Inasmuch as those "logical" notions of genre also inform bibliographic reality (titles, indeces, page layout, etc.) and vice versa, texts can be said to adapt under generic pressures. We should also note in passing that the reinsertion of the critic as an inseparable component of the "observed" textual field shares the spirit of McKenzie's intervention.
+
+[^5]: We should note that adaptation to new geographies implies adaptation to the literary histories that inform them. When we approach textual fields through the dimension of transcultural phenomena, literary movements, etc. we should bear in mind that transculturality itself belongs to particular environments. For example, to say that Césaire is engaging with this or that tradition, means anything only if we add ...in New York, ...in Martinique, ...in 1941 or ...1946, ...in a petite revue, etc. In other words, *adaptation* encompasses literary histories and transculturality, not the other way around. The latter two are particular, the former universal.
+
+[^6]: Though not directly relevant to the discussion above, we cannot discuss other disciplinary uses of the word adaptation without at least a footnote in honor of Adaptation Studies, itself at the interstices of several disciplines. Although they use the word adaptation solely to refer to the remediation of literature into film, their concerns overlap with ours in interesting ways. For many years beholden to the question of fidelity to literary sources, Adaptation Studies has made a move in recent years to a more diverse set of questions that approach it to recent textual scholarship. One only need to look at the list of disciplinary questions that Thomas Leicht outlines for us in the inaugural issue of the new Oxford journal, *Adaptation*, to glean the fertile ground for future collaborations: "Does the film depart from its literary source because of new cultural or historical contexts it addresses?" "What implications do characteristic features frequently found in adaptations carry for more general theories of intertextuality?""How do concepts commonly treated by adaptation theorists as universal change when they cross national and cultural borders?"(63-77).
+
+[^7]: As we will see in Chapter 4, this totality is only but a phase of the many possible phases of textuality.
+
+---
+
+{% include image.html
+    img="fig-w.png"
+    title="ô morts"
+    caption="figure w \| \"ô morts\"" %}
+
+In the same manner that the placeholder "Conqûete de l'aube" invokes a ghostly presence on the last page of *Tombeau du soleil*—as we will see in the next chapter—
+
+10. We must read Césaire’s defense against charges of racism lobbed at him in this light: “*Mais les faisant, mon cœur, préservez-moi de toute haine/ne faites point de moi cet homme de haine pour qui je/n'ai que haine*”[^10] ("Cahier" 23).
+
+[^10]: \[But in doing so, my heart, preserve me from all hate/do not turn me into the hateful man for whom/I have nothing but hate.\]
+
+
+## From Restoring chapter
+
+In culture work, we have recently taken to GitHub and git for sanity checks and as a hedge against collective loss—first as software, next as text, all distributed. Provided that Github, or a forward migration of the git repository survives, anyone interested in reconstructing the stages of my own deviations would have a much easier time than we can ever hope for Césaire or any number of writers. As I write these paragraphs on a plain text editor, every now and then, when I can name the changes I've made, I switch to the command line and `git add`, `commit` and `push` to Github, where the new version becomes accessible to the online reading public, or at least that segment that feels comfortable navigating the platform and has moderate bandwidth. Let me do so now that I've made some revisions I can name, and I quote:
+
+~~~
+$ git add .
+$ git commit -m "edited paragraphs on version lust"
+$ git push origin master
+~~~
+
+If you ever want to revisit the work at this stage, you can always visit or revert to commit number <a href="https://github.com/elotroalex/project-x/commit/3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f" style="overflow-wrap: break-word; word-wrap: break-word;">3c2b9f0b4f8092eb3e3f62ef5fa58ab71206031f</a>.[^b2] The size of that checksum hash—a unique name for a unique state of the text—makes me feel no less insignificant than a big data bang or a lotus flower visible from the sky, and yet I persist in these granular versions with the same dignity as Marquez' *coronel* and his rooster. 
+
+One lie, of course, is that you can see all past versions of this work on Github. Not all changes I make to this text make it to Github. Every time I add or delete characters in my text editor, git recognizes these changes as modifications, but it won't record them to the data store unless I first indicate at what point and which files or changes I want to "stage" and subsequently commit to the repository. The `add` command is there to stage these files or changes in a vestibule, the git "index". In the case above, the dot after the `add` command tells git to stage all modifications in my working directory, but I could've chosen to stage only selected files, or even parts of that file using the `--patch` command. This strange middle ground between a modification and the record of that modification sets apart git from a typescript and other versioning systems, and makes it all the more seductive because it gives an extra layer of control over what versions we make available to the repository.
+
+The git stage—or staging area—marks the opposite pole of our most important performance stages along the lines of a *stare decisis*. While the former marks the timid decision of one writer to present chosen variations to the machine, the latter presents before us a set of certain collective commitments that bless it with Significance. This spectrum is echoed in the roots of the word. By the time the medieval inheritors of Latin go from the vulgar *staticum*, a place to stand, a sojourn, to Middle French *estage*, the stage comes to have both modern meanings relevant to us: a dwelling in a series and a platform for a performance, never shedding the slip between each other—*estar, no ser.* 
+
+---

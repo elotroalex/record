@@ -1,8 +1,8 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Aimé Césaire and the Broken Record.
-tagline:             'by Alex Gil'
+title:               Aimé Césaire and the Broken Record
+tagline:             'by Alex Gil.'
 description:         'Aimé Césaire and the Broken Record'
 url:                 'http://record.elotroalex.com'
 baseurl:             ''
@@ -66,7 +66,7 @@ scholar:
   source: ./_bibliography
   bibliography: references.bib
   bibliography_template: "{{reference}}"
-  relative: "/ed/bibliography.html"
+  relative: "/bibliography/"
 
   replace_strings: true
   join_strings:    true
