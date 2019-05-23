@@ -2411,7 +2411,7 @@ are ignored, except for clarification of characters and diacritics. For a more d
 - {:.indent-2} Toussaint Louverture.
 
 
-- {:.speaker} 2e chuchochement.
+- {:.speaker} 2e chuchotement.
 
 - {:.indent-2} Toussaint Louverture.
 
