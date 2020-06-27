@@ -232,7 +232,7 @@ Parce que les jardins timbrés inopportuns de ma physionomie inédite : saint-s
 
 ## 4
 
-[Parce que mon beau pays aux hautes rives de sésame où fume de noirceurs adolescentes la flèche de mon sang de bons sentiments \| grand midi] --- s’était, armoire, ouvert en pleine extase de machines hydrauliques, de larmes chaudes, de témoins irrécusables et de marchés grossis par les crues d’automne.
+[Parce que mon beau pays aux hautes rives de sésame où fume de noirceurs adolescentes la flèche de mon sang de bons sentiments] --- s’était, armoire, ouvert en pleine extase de machines hydrauliques, de larmes chaudes, de témoins irrécusables et de marchés grossis par les crues d’automne.
 
 
 
